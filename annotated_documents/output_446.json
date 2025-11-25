@@ -1,0 +1,51 @@
+{
+  "document_id": "document_446",
+  "sentences": [
+    "सुटली एकदाची.",
+    "कदंब पठारावर गेरा डेव्हलपर्सच्या उच्चभ्रू वसाहतीत पहिली ते दहावी ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "कदंब",
+      "sentence": 1,
+      "start": 14,
+      "end": 18,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "पठारावर",
+      "sentence": 1,
+      "start": 19,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "गेरा",
+      "sentence": 1,
+      "start": 27,
+      "end": 30,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "वसाहतीत",
+      "sentence": 1,
+      "start": 49,
+      "end": 56,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      3
+    ]
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "document_id": "document_454",
+  "sentences": [
+    "प्रभू म्हणाले, निसर्गाने सुंदर असे पेय आपल्याला दिले आहे ते म्हणजे पाणी होय.",
+    "मोबाईल वापरताना घ्या या गोष्टींची काळजी",
+    "त्यांनी ते तापमान बदल करण्यासाठी प्रतिरोधक वापरण्यास सोपा आर्थिकदृष्ट्या आहेत.",
+    "मात्र शाम आणि मानिल हे दोघे जण आतमध्ये अडकले.",
+    "गडकरी हे बोलण्यापूर्वी संघाचे ज्येष्ठ नेते मा."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "प्रभू",
+      "sentence": 0,
+      "start": 0,
+      "end": 3,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "निसर्गाने",
+      "sentence": 0,
+      "start": 10,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "आपल्याला",
+      "sentence": 0,
+      "start": 32,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "ते",
+      "sentence": 0,
+      "start": 55,
+      "end": 56,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "पाणी",
+      "sentence": 0,
+      "start": 68,
+      "end": 71,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "मोबाईल",
+      "sentence": 1,
+      "start": 77,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "गोष्टींची",
+      "sentence": 1,
+      "start": 100,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "त्यांनी",
+      "sentence": 2,
+      "start": 117,
+      "end": 122,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "ते",
+      "sentence": 2,
+      "start": 124,
+      "end": 125,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "तापमान",
+      "sentence": 2,
+      "start": 127,
+      "end": 131,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "प्रतिरोधक",
+      "sentence": 2,
+      "start": 145,
+      "end": 151,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "दोघे",
+      "sentence": 3,
+      "start": 218,
+      "end": 221,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "गडकरी",
+      "sentence": 4,
+      "start": 251,
+      "end": 255,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "संघाचे",
+      "sentence": 4,
+      "start": 266,
+      "end": 270,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "नेते",
+      "sentence": 4,
+      "start": 277,
+      "end": 279,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      2,
+      4,
+      5
+    ],
+    [
+      12,
+      13,
+      14
+    ],
+    [
+      9,
+      11
+    ]
+  ]
+}

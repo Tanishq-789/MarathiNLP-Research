@@ -1,0 +1,131 @@
+{
+  "document_id": "document_424",
+  "sentences": [
+    "गोवा सरकारी संकेतस्थळावर अधिकृत विभाग निर्देशिकेत चुकीची माहिती",
+    "मिसेस रॉबिन्सन यांनी मटकन बसूनच घेतले.",
+    "नेफरटिटि आणि Akhenaten मजबूत-निग्रही वृत्तीचा आणि अभिमान दरम्यान माजी संबंध राहिला नव्हता.",
+    "असं म्हणत उदयन राजे यांनी सरकारला ला प्रश्न विचारला आहे.",
+    "इंडियन सुपर लीग आपल्या दुसर्‍या सीझनसाठी सज्ज आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "विभाग",
+      "sentence": 0,
+      "start": 30,
+      "end": 34,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "निर्देशिकेत",
+      "sentence": 0,
+      "start": 36,
+      "end": 45,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "माहिती",
+      "sentence": 0,
+      "start": 53,
+      "end": 57,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "रॉबिन्सन",
+      "sentence": 1,
+      "start": 65,
+      "end": 72,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "यांनी",
+      "sentence": 1,
+      "start": 74,
+      "end": 77,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "वृत्तीचा",
+      "sentence": 2,
+      "start": 118,
+      "end": 124,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "अभिमान",
+      "sentence": 2,
+      "start": 130,
+      "end": 135,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "संबंध",
+      "sentence": 2,
+      "start": 148,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "उदयन",
+      "sentence": 3,
+      "start": 179,
+      "end": 183,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "राजे",
+      "sentence": 3,
+      "start": 185,
+      "end": 188,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "यांनी",
+      "sentence": 3,
+      "start": 190,
+      "end": 193,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "सरकारला",
+      "sentence": 3,
+      "start": 195,
+      "end": 201,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "प्रश्न",
+      "sentence": 3,
+      "start": 206,
+      "end": 210,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "आपल्या",
+      "sentence": 4,
+      "start": 239,
+      "end": 244,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      5,
+      6,
+      7
+    ]
+  ]
+}

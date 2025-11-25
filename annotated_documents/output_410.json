@@ -1,0 +1,207 @@
+{
+  "document_id": "document_410",
+  "sentences": [
+    "रांजणगावात सावित्रीबाई फुले यांना अभिवादन",
+    "एकदा तर नवरात्रीचा स्वयंपाक करत होती.",
+    "अवघ्या तीन वर्षांच्या चिमुरडीनं बनवलाय नॅशनल रेकॉर्ड!",
+    "अपघातात गाडीचा चक्काचूर झाला आहे.",
+    "आपण एक ओळखपत्र असणे आवश्यक आहे, अशी शिफारस केली.",
+    "नातेसंबंध आणि लग्न मिशेल",
+    "त्यामुळे पोलिसांना नेमक्या कोणत्या बाजूला बंदोबस्त लावावा, अशी पंचाईत पडली.",
+    "१०) अनिल देशमुख",
+    "विधानपरिषद सभापती प्रा."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "रांजणगावात",
+      "sentence": 0,
+      "start": 0,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "सावित्रीबाई",
+      "sentence": 0,
+      "start": 11,
+      "end": 20,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "फुले",
+      "sentence": 0,
+      "start": 22,
+      "end": 25,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "यांना",
+      "sentence": 0,
+      "start": 27,
+      "end": 30,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "अभिवादन",
+      "sentence": 0,
+      "start": 32,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "स्वयंपाक",
+      "sentence": 1,
+      "start": 54,
+      "end": 60,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "चिमुरडीनं",
+      "sentence": 2,
+      "start": 84,
+      "end": 91,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "रेकॉर्ड",
+      "sentence": 2,
+      "start": 107,
+      "end": 112,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "अपघातात",
+      "sentence": 3,
+      "start": 126,
+      "end": 133,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "गाडीचा",
+      "sentence": 3,
+      "start": 135,
+      "end": 140,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "आपण",
+      "sentence": 4,
+      "start": 159,
+      "end": 162,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "ओळखपत्र",
+      "sentence": 4,
+      "start": 164,
+      "end": 171,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "शिफारस",
+      "sentence": 4,
+      "start": 189,
+      "end": 195,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "नातेसंबंध",
+      "sentence": 5,
+      "start": 209,
+      "end": 217,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "लग्न",
+      "sentence": 5,
+      "start": 223,
+      "end": 226,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "पोलिसांना",
+      "sentence": 6,
+      "start": 241,
+      "end": 248,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "बाजूला",
+      "sentence": 6,
+      "start": 257,
+      "end": 262,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "बंदोबस्त",
+      "sentence": 6,
+      "start": 263,
+      "end": 270,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "पंचाईत",
+      "sentence": 6,
+      "start": 276,
+      "end": 281,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "देशमुख",
+      "sentence": 7,
+      "start": 319,
+      "end": 325,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "विधानपरिषद",
+      "sentence": 8,
+      "start": 326,
+      "end": 336,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "सभापती",
+      "sentence": 8,
+      "start": 338,
+      "end": 343,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "प्रा",
+      "sentence": 8,
+      "start": 345,
+      "end": 347,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      1,
+      2,
+      3
+    ]
+  ]
+}

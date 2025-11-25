@@ -1,0 +1,100 @@
+{
+  "document_id": "document_447",
+  "sentences": [
+    "पंढरीतील गुंड-सावकारांच्या मुसक्या आवळण्यास सुरवात",
+    "तसेच कोहली हा विरोधी संघांच्या प्रशिक्षकांसाठी डोकेदुखी आहे, असे चॅपल यांना वाटते.",
+    "शेतात विजेसाठी अर्ज करूनही कृषिपंपाला आवश्यक वीज मिळत नाही म्हणून."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "गुंड-सावकारांच्या",
+      "sentence": 0,
+      "start": 11,
+      "end": 25,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "मुसक्या",
+      "sentence": 0,
+      "start": 26,
+      "end": 31,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "कोहली",
+      "sentence": 1,
+      "start": 53,
+      "end": 57,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "प्रशिक्षकांसाठी",
+      "sentence": 1,
+      "start": 77,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "डोकेदुखी",
+      "sentence": 1,
+      "start": 89,
+      "end": 96,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "यांना",
+      "sentence": 1,
+      "start": 113,
+      "end": 117,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "शेतात",
+      "sentence": 2,
+      "start": 118,
+      "end": 123,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "विजेसाठी",
+      "sentence": 2,
+      "start": 124,
+      "end": 130,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "अर्ज",
+      "sentence": 2,
+      "start": 131,
+      "end": 134,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "कृषिपंपाला",
+      "sentence": 2,
+      "start": 142,
+      "end": 150,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      4
+    ],
+    [
+      8,
+      9
+    ]
+  ]
+}

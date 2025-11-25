@@ -1,0 +1,278 @@
+{
+  "document_id": "document_401",
+  "sentences": [
+    "’ अशा प्रकारच्या कमेंट्स नेटिझन्स या फोटोवर करत आहेत.",
+    "फ्लेक्स बंदीचा भंग करणार्‍या तिघांवर कराडात गुन्हा दाखल",
+    "पडवीत बसून चा घेतला आणि गणपती घाटाकडे जाणारा रस्ता पकडला.",
+    "अजून अडीच किमि जायचे होते आणि भिमाशंकरचा आडवा पर्वत एक करंगळी उंचावून ( पदरगडाचे टोक) बोलवत होता.",
+    "अगदी घाटाच्या चढाला लागलो तेव्हा घड्याळाचे काटे साडेनऊ दाखवत होते.",
+    "नेहमी दहा मिनिटांत शेअर रिक्षा सुटण्याचा अनुभव घेतला होता तरी यावेळी चाकाच्या गाडीची परीक्षा नापास झालो.",
+    "वाढते ऊन पाहून आता पायगाडीचीही परीक्षा अवघड आहे हे लक्षात येण्यास वेळ लागला नाही.",
+    "मोदींकडून नागरिकांची दिशाभूल – आनंद शर्मा",
+    "मात्र वर्ष 2000 मध्ये ग्रॅज्युएशन सुरू असताना प्रीतीचे लग्न झाले."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "कमेंट्स",
+      "sentence": 0,
+      "start": 17,
+      "end": 23,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "नेटिझन्स",
+      "sentence": 0,
+      "start": 25,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "फोटो",
+      "sentence": 0,
+      "start": 37,
+      "end": 40,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "फ्लेक्स",
+      "sentence": 1,
+      "start": 48,
+      "end": 52,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "बंदी",
+      "sentence": 1,
+      "start": 54,
+      "end": 56,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "तिघां",
+      "sentence": 1,
+      "start": 71,
+      "end": 75,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "कराडा",
+      "sentence": 1,
+      "start": 78,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "गुन्हा",
+      "sentence": 1,
+      "start": 85,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "गणपती",
+      "sentence": 2,
+      "start": 123,
+      "end": 128,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "रस्ता",
+      "sentence": 2,
+      "start": 140,
+      "end": 143,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "पर्वत",
+      "sentence": 3,
+      "start": 197,
+      "end": 200,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "करंगळी",
+      "sentence": 3,
+      "start": 205,
+      "end": 210,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "पदरगड",
+      "sentence": 3,
+      "start": 220,
+      "end": 225,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "घड्याळ",
+      "sentence": 4,
+      "start": 266,
+      "end": 271,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "काटे",
+      "sentence": 4,
+      "start": 273,
+      "end": 276,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "मिनिट",
+      "sentence": 5,
+      "start": 294,
+      "end": 297,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "शेअर",
+      "sentence": 5,
+      "start": 301,
+      "end": 304,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "रिक्षा",
+      "sentence": 5,
+      "start": 305,
+      "end": 308,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "अनुभव",
+      "sentence": 5,
+      "start": 317,
+      "end": 321,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "गाडी",
+      "sentence": 5,
+      "start": 347,
+      "end": 349,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "परीक्षा",
+      "sentence": 5,
+      "start": 352,
+      "end": 356,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "पायगाडी",
+      "sentence": 6,
+      "start": 384,
+      "end": 390,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "परीक्षा",
+      "sentence": 6,
+      "start": 393,
+      "end": 397,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "मोदी",
+      "sentence": 7,
+      "start": 426,
+      "end": 429,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "नागरिक",
+      "sentence": 7,
+      "start": 435,
+      "end": 439,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "दिशाभूल",
+      "sentence": 7,
+      "start": 442,
+      "end": 448,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "आनंद",
+      "sentence": 7,
+      "start": 452,
+      "end": 456,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "शर्मा",
+      "sentence": 7,
+      "start": 458,
+      "end": 461,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "वर्ष",
+      "sentence": 8,
+      "start": 467,
+      "end": 469,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "ग्रॅज्युएशन",
+      "sentence": 8,
+      "start": 479,
+      "end": 487,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "प्रीती",
+      "sentence": 8,
+      "start": 499,
+      "end": 502,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "लग्न",
+      "sentence": 8,
+      "start": 505,
+      "end": 507,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      12,
+      20
+    ]
+  ]
+}

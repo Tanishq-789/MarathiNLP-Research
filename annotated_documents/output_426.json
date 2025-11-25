@@ -1,0 +1,198 @@
+{
+  "document_id": "document_426",
+  "sentences": [
+    "भारत : टीम इंडियासाठी हे वर्ष खास ठरले आहे.",
+    "वार्षिक व्याज दर वर्षाचे 365 दिवस भागाकार आणि पैसे काढण्याची रक्कम, रोख रक्कम काढणे एक एक वेळ फी समावेश गुणाकार: तो दराने शुल्क आकारले.",
+    "मुंबई - राष्ट्रवादीचे ज्येष्ठ नेते छगन भुजबळ यांच्या प्रकृतीत सुधारणा होत आहे.",
+    "आणखी काही तपासण्या व चाचण्या सुरू असल्याने त्यांना रुग्णालयात ठेवण्यात आल्याचे कळते.",
+    "भुजबळ यांच्यावर जे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "भारत",
+      "sentence": 0,
+      "start": 0,
+      "end": 4,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "इंडिया",
+      "sentence": 0,
+      "start": 11,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "वर्ष",
+      "sentence": 0,
+      "start": 24,
+      "end": 27,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "व्याज",
+      "sentence": 1,
+      "start": 35,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "वर्षा",
+      "sentence": 1,
+      "start": 44,
+      "end": 48,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "दिवस",
+      "sentence": 1,
+      "start": 53,
+      "end": 57,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "भागाकार",
+      "sentence": 1,
+      "start": 59,
+      "end": 65,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "पैसे",
+      "sentence": 1,
+      "start": 71,
+      "end": 74,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "रक्कम",
+      "sentence": 1,
+      "start": 83,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "रक्कम",
+      "sentence": 1,
+      "start": 95,
+      "end": 99,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "गुणाकार",
+      "sentence": 1,
+      "start": 121,
+      "end": 127,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "तो",
+      "sentence": 1,
+      "start": 129,
+      "end": 130,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "शुल्क",
+      "sentence": 1,
+      "start": 139,
+      "end": 142,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "मुंबई",
+      "sentence": 2,
+      "start": 145,
+      "end": 149,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "राष्ट्रवादी",
+      "sentence": 2,
+      "start": 152,
+      "end": 160,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "नेते",
+      "sentence": 2,
+      "start": 167,
+      "end": 170,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "भुजबळ",
+      "sentence": 2,
+      "start": 177,
+      "end": 182,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "प्रकृती",
+      "sentence": 2,
+      "start": 189,
+      "end": 194,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "तपासण्या",
+      "sentence": 3,
+      "start": 210,
+      "end": 216,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "त्यांना",
+      "sentence": 3,
+      "start": 239,
+      "end": 243,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "रुग्णालया",
+      "sentence": 3,
+      "start": 245,
+      "end": 252,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "भुजबळ",
+      "sentence": 4,
+      "start": 270,
+      "end": 275,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      3
+    ]
+  ]
+}

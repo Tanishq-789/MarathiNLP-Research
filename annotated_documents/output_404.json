@@ -1,0 +1,283 @@
+{
+  "document_id": "document_404",
+  "sentences": [
+    "वसुंधरा राजे यांचे देवीला साकडे.",
+    "वेब स्क्रॅपिंगसाठी PHP सर्वोत्तम भाषा आहे.",
+    "Python आणि C ++ प्रमाणेच, विविध वेबसाइट्सवरील कार्ये शेड्युलिंग करताना आणि सामग्री स्क्रॅप करताना PHP समस्या निर्माण करत नाही.",
+    "हे अष्टपैलूसारखे आहे आणि इंटरनेटवरील बहुतेक वेब क्रॉलिंग आणि डेटा काढण्याचे प्रकल्प हाताळते.",
+    "आयात करा.",
+    "io आणि किमोनो लॅब हे दोन शक्तिशाली डेटा स्क्रॅपिंग टूल्स PHP वर आधारित आहेत.",
+    "त्यांच्याकडे महान वैशिष्ट्ये आहेत आणि मोठ्या संख्येने वेब पेजेस एक किंवा दोन तासांत परिच्छेद करू शकतात.",
+    "दुर्दैवाने, सुंदर सूप आणि स्कॅपी (जे पायथनवर आधारित आहेत) PHP- आधारित डेटा निष्कर्षण साधने.",
+    "पुणे पुणे पोलिसांनी अटक केलेल्या शहरी नक्षलवाद्यांविरोधात जमा केलेल्या पुराव्यांवरून त्यांचा नक्षलवाद्यांशी असलेला संबंध आणि त्यांनी रचलेला कट याबाबत अतिरिक्त पोलीस महासंचालक."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "वसुंधरा",
+      "sentence": 0,
+      "start": 0,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "राजे",
+      "sentence": 0,
+      "start": 8,
+      "end": 11,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "देवीला",
+      "sentence": 0,
+      "start": 19,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "साकडे",
+      "sentence": 0,
+      "start": 26,
+      "end": 30,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "भाषा",
+      "sentence": 1,
+      "start": 55,
+      "end": 59,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "कार्ये",
+      "sentence": 2,
+      "start": 105,
+      "end": 109,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "सामग्री",
+      "sentence": 2,
+      "start": 130,
+      "end": 136,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "समस्या",
+      "sentence": 2,
+      "start": 152,
+      "end": 157,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "क्रॉलिंग",
+      "sentence": 3,
+      "start": 225,
+      "end": 232,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "डेटा",
+      "sentence": 3,
+      "start": 237,
+      "end": 241,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "प्रकल्प",
+      "sentence": 3,
+      "start": 247,
+      "end": 252,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "आयात",
+      "sentence": 4,
+      "start": 280,
+      "end": 284,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "टूल्स",
+      "sentence": 5,
+      "start": 330,
+      "end": 334,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "त्यांच्याकडे",
+      "sentence": 6,
+      "start": 370,
+      "end": 379,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "वैशिष्ट्ये",
+      "sentence": 6,
+      "start": 386,
+      "end": 393,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "संख्येने",
+      "sentence": 6,
+      "start": 408,
+      "end": 414,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "पेजेस",
+      "sentence": 6,
+      "start": 419,
+      "end": 424,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "पायथनवर",
+      "sentence": 7,
+      "start": 502,
+      "end": 510,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "डेटा",
+      "sentence": 7,
+      "start": 527,
+      "end": 531,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "निष्कर्षण",
+      "sentence": 7,
+      "start": 532,
+      "end": 540,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "साधने",
+      "sentence": 7,
+      "start": 541,
+      "end": 546,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "पोलिसांनी",
+      "sentence": 8,
+      "start": 585,
+      "end": 593,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "नक्षलवाद्यांविरोधात",
+      "sentence": 8,
+      "start": 601,
+      "end": 618,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "पुराव्यांवरून",
+      "sentence": 8,
+      "start": 620,
+      "end": 632,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "त्यांचा",
+      "sentence": 8,
+      "start": 633,
+      "end": 639,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "नक्षलवाद्यांशी",
+      "sentence": 8,
+      "start": 640,
+      "end": 653,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "संबंध",
+      "sentence": 8,
+      "start": 654,
+      "end": 660,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "त्यांनी",
+      "sentence": 8,
+      "start": 664,
+      "end": 670,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "कट",
+      "sentence": 8,
+      "start": 672,
+      "end": 674,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "पोलीस",
+      "sentence": 8,
+      "start": 691,
+      "end": 696,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "महासंचालक",
+      "sentence": 8,
+      "start": 697,
+      "end": 706,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ],
+    [
+      4,
+      10,
+      12,
+      24
+    ],
+    [
+      19,
+      20,
+      21,
+      22,
+      25
+    ]
+  ]
+}

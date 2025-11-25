@@ -1,0 +1,80 @@
+{
+  "document_id": "document_457",
+  "sentences": [
+    "गेल्या वर्षात ३-४ जुनी प्रत-अधिकारमुक्त पुस्तके मी संगणकावर-भ्रमणध्वनीवर वाचलेली आहेत.",
+    "परंतु ४-६ पुस्तके कागदी छपाईची वाचलेली आहेत.",
+    "हल्लाबोल यात्रेचा चौथा टप्पा पश्चिम महाराष्ट्रात सुरु असून “राष्ट्रवादीची सभा."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "पुस्तके",
+      "sentence": 0,
+      "start": 36,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "मी",
+      "sentence": 0,
+      "start": 43,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "संगणकावर",
+      "sentence": 0,
+      "start": 45,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "भ्रमणध्वनीवर",
+      "sentence": 0,
+      "start": 54,
+      "end": 65,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "पुस्तके",
+      "sentence": 1,
+      "start": 87,
+      "end": 93,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "हल्लाबोल",
+      "sentence": 2,
+      "start": 116,
+      "end": 123,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "टप्पा",
+      "sentence": 2,
+      "start": 138,
+      "end": 142,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "महाराष्ट्रात",
+      "sentence": 2,
+      "start": 149,
+      "end": 159,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      5,
+      6
+    ]
+  ]
+}

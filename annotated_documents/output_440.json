@@ -1,0 +1,215 @@
+{
+  "document_id": "document_440",
+  "sentences": [
+    "नुसती लिस्ट पाहूनच छाती दडपली.",
+    "नवी दिल्ली : दिवंगत अभिनेते विनोद खन्ना यांना भारतीय चित्रपटसृष्टीमध्ये मानाचा समजला जाणारा दादासाहेब फाळके पुरस्कार मरणोपरांत जाहीर झाला आहे.",
+    "65 व्या राष्ट्रीय चित्रपट पुरस्कारांची घोषणा आज झाली.",
+    "त्यावेळी विनोद खन्ना यांच्या नावाची घोषणा करण्यात आली.",
+    "आमच्या सेवानिवृत्तीच्या काळात एकदा क्रिकेटपटू सचिन तेंडुलकर यांच्याशी गप्पा मारण्याचा आम्हाला योग आला.",
+    "एखाद्या शब्दाचा अर्थ हवाय?"
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "लिस्ट",
+      "sentence": 0,
+      "start": 7,
+      "end": 10,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "छाती",
+      "sentence": 0,
+      "start": 21,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "दिल्ली",
+      "sentence": 1,
+      "start": 34,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "अभिनेते",
+      "sentence": 1,
+      "start": 48,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "विनोद",
+      "sentence": 1,
+      "start": 54,
+      "end": 58,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "खन्ना",
+      "sentence": 1,
+      "start": 59,
+      "end": 63,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "त्यांना",
+      "sentence": 1,
+      "start": 65,
+      "end": 68,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "चित्रपटसृष्टीमध्ये",
+      "sentence": 1,
+      "start": 76,
+      "end": 89,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "पुरस्कार",
+      "sentence": 1,
+      "start": 113,
+      "end": 119,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "पुरस्कारांची",
+      "sentence": 2,
+      "start": 176,
+      "end": 185,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "घोषणा",
+      "sentence": 2,
+      "start": 187,
+      "end": 192,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "विनोद",
+      "sentence": 3,
+      "start": 211,
+      "end": 215,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "खन्ना",
+      "sentence": 3,
+      "start": 216,
+      "end": 220,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "नावाची",
+      "sentence": 3,
+      "start": 225,
+      "end": 229,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "घोषणा",
+      "sentence": 3,
+      "start": 231,
+      "end": 236,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "आमच्या",
+      "sentence": 4,
+      "start": 258,
+      "end": 263,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "काळात",
+      "sentence": 4,
+      "start": 279,
+      "end": 283,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "सचिन",
+      "sentence": 4,
+      "start": 299,
+      "end": 303,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "तेंडुलकर",
+      "sentence": 4,
+      "start": 304,
+      "end": 312,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "गप्पा",
+      "sentence": 4,
+      "start": 321,
+      "end": 324,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "आम्हाला",
+      "sentence": 4,
+      "start": 335,
+      "end": 339,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "शब्दाचा",
+      "sentence": 5,
+      "start": 354,
+      "end": 359,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "अर्थ",
+      "sentence": 5,
+      "start": 361,
+      "end": 363,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      4,
+      5,
+      6,
+      12,
+      13
+    ],
+    [
+      10,
+      15
+    ],
+    [
+      20,
+      21,
+      22
+    ]
+  ]
+}

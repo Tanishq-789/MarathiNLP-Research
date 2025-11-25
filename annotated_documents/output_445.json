@@ -1,0 +1,203 @@
+{
+  "document_id": "document_445",
+  "sentences": [
+    "सुहास नटावदकर हेसुद्धा अपक्ष उमेदवार म्हणून नंदुरबार लोकसभा मतदारसंघातून रिंगणात आहेत.",
+    "पण, बीसीसीआयनं पाकला जशासतसे उत्तर दिले आहे.",
+    "बी, महान आहेस तू!",
+    "नाशिक विभागात उपायुक्तांकडे दोन प्रभार",
+    "येथे स्काडा प्रणालीही कार्यान्वित करण्यात येणार आहे.",
+    "एल अँड टी इन्फोटेकला 282 कोटी नफा",
+    "बागुलबुवा, चौरस मध्यभागी सेट केले आहे आघाडी नृत्य सुमारे सर्व भाकरी आणि पॅनकेक्स स्वत: उपचार.",
+    "जेएनयूमध्ये झालेल्या हिंसाचारानंतर देशभरात आंदोलनं सुरू आहेत.",
+    "सुधा आजी वारल्याची बातमी कळली."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "बीसीसीआय",
+      "sentence": 1,
+      "start": 90,
+      "end": 97,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "तू",
+      "sentence": 2,
+      "start": 148,
+      "end": 150,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "नाशिक",
+      "sentence": 3,
+      "start": 151,
+      "end": 157,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "विभाग",
+      "sentence": 3,
+      "start": 157,
+      "end": 162,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "उपायुक्त",
+      "sentence": 3,
+      "start": 166,
+      "end": 173,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "प्रभार",
+      "sentence": 3,
+      "start": 183,
+      "end": 188,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "स्काडा",
+      "sentence": 4,
+      "start": 195,
+      "end": 200,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "प्रणाली",
+      "sentence": 4,
+      "start": 201,
+      "end": 207,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "इन्फोटेक",
+      "sentence": 5,
+      "start": 251,
+      "end": 259,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "कोटी",
+      "sentence": 5,
+      "start": 265,
+      "end": 270,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "बागुलबुवा",
+      "sentence": 6,
+      "start": 277,
+      "end": 286,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "चौरस",
+      "sentence": 6,
+      "start": 288,
+      "end": 293,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "नृत्य",
+      "sentence": 6,
+      "start": 318,
+      "end": 323,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "भाकरी",
+      "sentence": 6,
+      "start": 337,
+      "end": 342,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "पॅनकेक्स",
+      "sentence": 6,
+      "start": 346,
+      "end": 354,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "स्वतः",
+      "sentence": 6,
+      "start": 354,
+      "end": 359,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "जेएनयू",
+      "sentence": 7,
+      "start": 373,
+      "end": 378,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "हिंसाचार",
+      "sentence": 7,
+      "start": 386,
+      "end": 394,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "देशभर",
+      "sentence": 7,
+      "start": 400,
+      "end": 406,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "आंदोलन",
+      "sentence": 7,
+      "start": 409,
+      "end": 415,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "बातमी",
+      "sentence": 8,
+      "start": 451,
+      "end": 457,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      12,
+      13
+    ]
+  ]
+}

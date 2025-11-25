@@ -1,0 +1,198 @@
+{
+  "document_id": "document_423",
+  "sentences": [
+    "किसान सन्मान निधीतून शेतकऱ्यांना बी-बियाणे, खते किंवा अन्य गरजांसाठी खर्च करता येईल.",
+    "प्रेम हि देण्याची गोष्ट आहे त्यागाच्या सर्वोच्च पातळीला त्या परमोच्च बिन्दुलाच प्रेम म्हणता येईल ज्यामध्ये दुसऱ्याचे सुख शोधण्याची भावना सहजरीत्या मनामध्ये यते.",
+    "प्रसाद कुलकर्णी म्हणतात",
+    "मात्र, अनेक मंडळांनी सायंकाळनंतर मूर्ती मिरवणुकीसाठी मंडपातून बाहेर काढल्या.",
+    "पण, त्यापुढे आणखी मजल गाठण्यासाठी त्यांना कोणत्याही परिस्थितीत सुदैवाचीच गरज ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "निधी",
+      "sentence": 0,
+      "start": 12,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "शेतकरी",
+      "sentence": 0,
+      "start": 20,
+      "end": 30,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "बी-बियाणे",
+      "sentence": 0,
+      "start": 31,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "गरजा",
+      "sentence": 0,
+      "start": 54,
+      "end": 62,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "प्रेम",
+      "sentence": 1,
+      "start": 76,
+      "end": 80,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "गोष्ट",
+      "sentence": 1,
+      "start": 90,
+      "end": 94,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "त्याग",
+      "sentence": 1,
+      "start": 100,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "पातळी",
+      "sentence": 1,
+      "start": 115,
+      "end": 121,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "बिन्दु",
+      "sentence": 1,
+      "start": 132,
+      "end": 139,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "प्रेम",
+      "sentence": 1,
+      "start": 140,
+      "end": 144,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "भावना",
+      "sentence": 1,
+      "start": 185,
+      "end": 190,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "प्रसाद",
+      "sentence": 2,
+      "start": 213,
+      "end": 218,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "कुलकर्णी",
+      "sentence": 2,
+      "start": 219,
+      "end": 226,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "मंडळ",
+      "sentence": 3,
+      "start": 239,
+      "end": 246,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "सायंकाळ",
+      "sentence": 3,
+      "start": 247,
+      "end": 257,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "मूर्ती",
+      "sentence": 3,
+      "start": 258,
+      "end": 262,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "मिरवणूक",
+      "sentence": 3,
+      "start": 263,
+      "end": 274,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "मंडप",
+      "sentence": 3,
+      "start": 275,
+      "end": 282,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "त्या",
+      "sentence": 4,
+      "start": 295,
+      "end": 301,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "त्या",
+      "sentence": 4,
+      "start": 323,
+      "end": 328,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "परिस्थिती",
+      "sentence": 4,
+      "start": 339,
+      "end": 347,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "सुदैव",
+      "sentence": 4,
+      "start": 348,
+      "end": 356,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      5,
+      10
+    ],
+    [
+      16,
+      17
+    ]
+  ]
+}

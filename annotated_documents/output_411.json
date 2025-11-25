@@ -1,0 +1,218 @@
+{
+  "document_id": "document_411",
+  "sentences": [
+    "फरांदे यांना भाजपने अहमदनगर लोकसभा मतदारसंघातून निवडणुकीच्या रिंगणात उतरवले.",
+    "आदित्य ठाकरेंना नुकसानाची माहिती देताना शेतकऱ्यांच्या  डोळ्यात पाणी आले.",
+    "गेला चुकीच्या वेळी एक व्यक्ती भलतीकडे.",
+    "मीडिया सेंटरच्या बाजूलाच असलेल्या कॉमेंट्री बॉक्समधून ६ वाजून ५५ मिनिटांनी जोरदार आवाज झाला.",
+    "यावर चर्चा करण्यासाठी बँक अधिकाऱयांची शनिवारी तहसिलदार कार्यालयात तहसिलदार राजेश चव्हाण यांच्या अध्यक्षतेखाली बैठक पार पडली."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "यांना",
+      "sentence": 0,
+      "start": 7,
+      "end": 11,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "मतदारसंघातून",
+      "sentence": 0,
+      "start": 35,
+      "end": 47,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "रिंगणात",
+      "sentence": 0,
+      "start": 60,
+      "end": 66,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "आदित्य",
+      "sentence": 1,
+      "start": 68,
+      "end": 74,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "ठाकरेंना",
+      "sentence": 1,
+      "start": 75,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "नुकसानाची",
+      "sentence": 1,
+      "start": 83,
+      "end": 91,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "माहिती",
+      "sentence": 1,
+      "start": 92,
+      "end": 97,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "डोळ्यात",
+      "sentence": 1,
+      "start": 116,
+      "end": 122,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "पाणी",
+      "sentence": 1,
+      "start": 123,
+      "end": 127,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "व्यक्ती",
+      "sentence": 2,
+      "start": 148,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "मीडिया",
+      "sentence": 3,
+      "start": 158,
+      "end": 163,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "बाजूलाच",
+      "sentence": 3,
+      "start": 172,
+      "end": 179,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "कॉमेंट्री",
+      "sentence": 3,
+      "start": 188,
+      "end": 196,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "बॉक्समधून",
+      "sentence": 3,
+      "start": 197,
+      "end": 205,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "मिनिटांनी",
+      "sentence": 3,
+      "start": 215,
+      "end": 222,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "आवाज",
+      "sentence": 3,
+      "start": 230,
+      "end": 234,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "चर्चा",
+      "sentence": 4,
+      "start": 243,
+      "end": 247,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "अधिकाऱयांची",
+      "sentence": 4,
+      "start": 261,
+      "end": 270,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "तहसिलदार",
+      "sentence": 4,
+      "start": 278,
+      "end": 286,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "कार्यालयात",
+      "sentence": 4,
+      "start": 287,
+      "end": 295,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "तहसिलदार",
+      "sentence": 4,
+      "start": 296,
+      "end": 304,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "राजेश",
+      "sentence": 4,
+      "start": 305,
+      "end": 310,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "चव्हाण",
+      "sentence": 4,
+      "start": 311,
+      "end": 316,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "अध्यक्षतेखाली",
+      "sentence": 4,
+      "start": 323,
+      "end": 333,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "बैठक",
+      "sentence": 4,
+      "start": 334,
+      "end": 338,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ]
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "document_id": "document_433",
+  "sentences": [
+    "सातारा : नवलेवाडीतील प्रकार : कुठलेही बटन दाबले तरी मत कमळाला !",
+    "आगाऊ - या आर्थिक किंवा  साहित्य मालमत्ता,  भविष्यात पैसे विरुद्ध दिले जाते.",
+    "यानंतरच या दोन्ही पक्षात सेटलमेंट झाली.",
+    "राहुल यांनी शनिवारी नवनियुक्त पदाधिका-यांची बैठक घेतली.",
+    "'उरु अदार लव' सिनेमातील त्या गाण्यात दाखवण्यात आलेला सीन हा इस्लाम विरोधी असल्याचं म्हटलं आहे.",
+    "लक्ष्मीवल्लभ तया जवळी ॥",
+    "भाषावाद, प्रांतवाद, जातीवाद आणि राजकीय गटवाद यांपासून अलिप्त होऊन मी केवळ हिंदू आहे, हेच प्राधान्य ठेवून कार्य करण्याचा निर्धार !",
+    "मुंबई - आरोपी, पक्षकारांना वेळेत न्यायालयाचे समन्स न मिळाल्यामुळे",
+    "मानवंदना देण्यासाठी गुगलने खास डुडल",
+    "युटय़ूबवर व्हीडिओ व्हायरल :",
+    "स्ट्रीट गुन्हा, भ्रष्टाचार जोरदार विकसित आहे, वारंवार अपहरण आणि स्थानिक bandits दरम्यान शुटआउट.",
+    "या भरपूर झाडी असलेल्या वस्तीत."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "सातारा",
+      "sentence": 0,
+      "start": 0,
+      "end": 5,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "प्रकार",
+      "sentence": 0,
+      "start": 21,
+      "end": 25,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "कमळाला",
+      "sentence": 0,
+      "start": 59,
+      "end": 64,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मालमत्ता",
+      "sentence": 1,
+      "start": 100,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "पैसे",
+      "sentence": 1,
+      "start": 120,
+      "end": 123,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "पक्षात",
+      "sentence": 2,
+      "start": 171,
+      "end": 175,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "सेटलमेंट",
+      "sentence": 2,
+      "start": 177,
+      "end": 184,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "पदाधिका-यांची",
+      "sentence": 3,
+      "start": 220,
+      "end": 231,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "बैठक",
+      "sentence": 3,
+      "start": 233,
+      "end": 237,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "गाण्यात",
+      "sentence": 4,
+      "start": 283,
+      "end": 288,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "इस्लाम",
+      "sentence": 4,
+      "start": 315,
+      "end": 320,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "लक्ष्मीवल्लभ",
+      "sentence": 5,
+      "start": 352,
+      "end": 362,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "भाषावाद",
+      "sentence": 6,
+      "start": 376,
+      "end": 382,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "प्रांतवाद",
+      "sentence": 6,
+      "start": 385,
+      "end": 391,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "जातीवाद",
+      "sentence": 6,
+      "start": 394,
+      "end": 400,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "गटवाद",
+      "sentence": 6,
+      "start": 412,
+      "end": 417,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "मी",
+      "sentence": 6,
+      "start": 437,
+      "end": 438,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "हिंदू",
+      "sentence": 6,
+      "start": 444,
+      "end": 447,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "प्राधान्य",
+      "sentence": 6,
+      "start": 457,
+      "end": 463,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "कार्य",
+      "sentence": 6,
+      "start": 469,
+      "end": 472,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "निर्धार",
+      "sentence": 6,
+      "start": 481,
+      "end": 485,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "मुंबई",
+      "sentence": 7,
+      "start": 507,
+      "end": 511,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "आरोपी",
+      "sentence": 7,
+      "start": 515,
+      "end": 519,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "पक्षकारांना",
+      "sentence": 7,
+      "start": 522,
+      "end": 529,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "वेळेत",
+      "sentence": 7,
+      "start": 531,
+      "end": 535,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "न्यायालयाचे",
+      "sentence": 7,
+      "start": 537,
+      "end": 545,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "मानवंदना",
+      "sentence": 8,
+      "start": 574,
+      "end": 581,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "गुगलने",
+      "sentence": 8,
+      "start": 591,
+      "end": 596,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "डुडल",
+      "sentence": 8,
+      "start": 601,
+      "end": 605,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "युटय़ूबवर",
+      "sentence": 9,
+      "start": 610,
+      "end": 617,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "व्हीडिओ",
+      "sentence": 9,
+      "start": 619,
+      "end": 624,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "स्ट्रीट",
+      "sentence": 10,
+      "start": 636,
+      "end": 640,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "गुन्हा",
+      "sentence": 10,
+      "start": 642,
+      "end": 646,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "भ्रष्टाचार",
+      "sentence": 10,
+      "start": 648,
+      "end": 655,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "अपहरण",
+      "sentence": 10,
+      "start": 679,
+      "end": 683,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "bandits",
+      "sentence": 10,
+      "start": 695,
+      "end": 701,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "शुटआउट",
+      "sentence": 10,
+      "start": 709,
+      "end": 715,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "झाडी",
+      "sentence": 11,
+      "start": 753,
+      "end": 756,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "वस्तीत",
+      "sentence": 11,
+      "start": 767,
+      "end": 771,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      17,
+      18
+    ]
+  ]
+}

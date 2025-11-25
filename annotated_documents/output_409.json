@@ -1,0 +1,234 @@
+{
+  "document_id": "document_409",
+  "sentences": [
+    "30 जून 2017 च्या आत परतफेड झाली असती तर केंद्र व राज्य शासनाच्या 6 टक्के व्याज परताव्याची रक्कम संबंधित शेतकर्‍यांना मिळाली असती.",
+    "पण कर्ज थकबाकीत गेल्याने 6 टक्के व्याज परताव्याचा प्रश्‍नच उरत नाही.",
+    "उलट थकित कर्जाची व्याज आकारणी दि. 30 जून 2017 पासून 6 टक्क्यांऐवजी 10.50 टक्के होणार आहे.",
+    "शिवाय 2 टक्के दंडव्याज आकारणी होते.",
+    "महत्त्वाचे म्हणजे पीक कर्ज थकीत राहिल्याने सन 2018 च्या खरीप हंगामास कर्जासाठी अपात्र ठरले आहेत.",
+    "नागपूर येथील अधिवेशनात २ लाखांपर्यंतचे कर्ज असणाऱ्या शेतकऱ्यांना आम्ही कर्जमुक्त करण्याचे आश्वासन दिले होते."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "परतफेड",
+      "sentence": 0,
+      "start": 16,
+      "end": 22,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "केंद्र",
+      "sentence": 0,
+      "start": 45,
+      "end": 49,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "राज्य",
+      "sentence": 0,
+      "start": 53,
+      "end": 56,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "शासनाच्या",
+      "sentence": 0,
+      "start": 58,
+      "end": 65,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "व्याज",
+      "sentence": 0,
+      "start": 73,
+      "end": 76,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "परताव्याची",
+      "sentence": 0,
+      "start": 77,
+      "end": 85,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "रक्कम",
+      "sentence": 0,
+      "start": 87,
+      "end": 91,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "शेतकर्‍यांना",
+      "sentence": 0,
+      "start": 106,
+      "end": 115,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "कर्ज",
+      "sentence": 1,
+      "start": 154,
+      "end": 157,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "थकबाकीत",
+      "sentence": 1,
+      "start": 159,
+      "end": 165,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "व्याज",
+      "sentence": 1,
+      "start": 181,
+      "end": 184,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "कर्जाची",
+      "sentence": 2,
+      "start": 232,
+      "end": 237,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "व्याज",
+      "sentence": 2,
+      "start": 239,
+      "end": 242,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "आकारणी",
+      "sentence": 2,
+      "start": 244,
+      "end": 249,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "दंडव्याज",
+      "sentence": 3,
+      "start": 348,
+      "end": 354,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "आकारणी",
+      "sentence": 3,
+      "start": 356,
+      "end": 361,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "कर्ज",
+      "sentence": 4,
+      "start": 392,
+      "end": 395,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "हंगामास",
+      "sentence": 4,
+      "start": 427,
+      "end": 432,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "कर्जासाठी",
+      "sentence": 4,
+      "start": 434,
+      "end": 440,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "अधिवेशनात",
+      "sentence": 5,
+      "start": 20214,
+      "end": 20221,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "कर्ज",
+      "sentence": 5,
+      "start": 20234,
+      "end": 20237,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "शेतकऱ्यांना",
+      "sentence": 5,
+      "start": 20246,
+      "end": 20253,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "आम्ही",
+      "sentence": 5,
+      "start": 20255,
+      "end": 20259,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "कर्जमुक्त",
+      "sentence": 5,
+      "start": 20260,
+      "end": 20266,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "आश्वासन",
+      "sentence": 5,
+      "start": 20276,
+      "end": 20282,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      8,
+      13,
+      19,
+      21
+    ],
+    [
+      4,
+      10
+    ],
+    [
+      5,
+      11
+    ],
+    [
+      1,
+      2,
+      3
+    ]
+  ]
+}

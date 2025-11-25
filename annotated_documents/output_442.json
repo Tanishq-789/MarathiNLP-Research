@@ -1,0 +1,120 @@
+{
+  "document_id": "document_442",
+  "sentences": [
+    "सकाळी सकाळी हाथात पडणारी नेटवर्क स्क्रीन बातम्या.",
+    "मी एका सुशिक्षित ब्राह्मण शिक्षकाच्या पोटी जन्म घेतला हे केवढे मोठे भाग्य असे मला वाटले,",
+    "पण डोक्यात कोठे तरी जे समोर बघतोय ती परिस्थिती कशी बदलेल याचा विचार सुरू झाला आणि ठिणगी पडली!"
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "हाथात",
+      "sentence": 0,
+      "start": 14,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "नेटवर्क",
+      "sentence": 0,
+      "start": 28,
+      "end": 34,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "स्क्रीन",
+      "sentence": 0,
+      "start": 35,
+      "end": 40,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "बातम्या",
+      "sentence": 0,
+      "start": 41,
+      "end": 46,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "मी",
+      "sentence": 1,
+      "start": 48,
+      "end": 49,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "शिक्षकाच्या",
+      "sentence": 1,
+      "start": 73,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "जन्म",
+      "sentence": 1,
+      "start": 89,
+      "end": 92,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "भाग्य",
+      "sentence": 1,
+      "start": 110,
+      "end": 114,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "मला",
+      "sentence": 1,
+      "start": 120,
+      "end": 123,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "डोक्यात",
+      "sentence": 2,
+      "start": 129,
+      "end": 134,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "परिस्थिती",
+      "sentence": 2,
+      "start": 155,
+      "end": 160,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "विचार",
+      "sentence": 2,
+      "start": 176,
+      "end": 180,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "ठिणगी",
+      "sentence": 2,
+      "start": 194,
+      "end": 199,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      4,
+      10
+    ]
+  ]
+}

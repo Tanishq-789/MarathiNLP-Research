@@ -1,0 +1,403 @@
+{
+  "document_id": "document_420",
+  "sentences": [
+    "महाराष्ट्राच्या पेट्रोलचोरीत चीनची घुसखोरी",
+    "सीमाशुल्क आणि धार्मिक विधी आपल्या समाजात आज गेलो आहे की बहुतेक वेळा, तुलनेने निरुपद्रवी असतात आणि सर्वात सामान्य परंपरा, इतर तीव्रता कमी, मानवी जीवन एक विशेष क्रूरता आणि जास्त जोखीम सुप्रसिद्ध.",
+    "आईला वाचनाची आवड.",
+    "या चित्रपटासाठी 300 करोड रुपयांचे बजेट ठरण्यात आले होते.",
+    "या कामांना मंजुरी मिळावी, यासाठी  आ.",
+    "पत्रलेखकाने ‘आप’च्या विजयाचा ‘दिवाळखोरीचा विजय’ असा उल्लेख करून सर्व मोफत देणे आणि विजय मिळवणे याचा थेट संबंध जोडून दाखवण्याचा प्रयत्न केला आहे.",
+    "या प्राक्तन आणि मासेमारी टाळण्यासाठी करू नका.",
+    "त्या पार्श्वभूमीवर त्यांनी हे वक्तव्य केले आहे.",
+    "फू जागेतील म्युझियम आहे.",
+    "यावेळी पश्चिम कमांडचे प्रमुख व्हॉईस ॲडमिरल अजित कुमार यांच्यासह नौदलाचे वरिष्ठ अधिकारी यावेळी उपस्थित होते.",
+    "पण तिचं भावविश्व पुन्हा उभं राहील.",
+    "मुंबई: अमित शाह यांनी शरद पवारांवर केलेल्या टीकेला पवारांच्या नातवाने प्रत्युत्तर दिले आहे.",
+    "पुन्हा कुठे ना कुठे, कधी ना कधी भेटूच."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "महाराष्ट्र",
+      "sentence": 0,
+      "start": 0,
+      "end": 10,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "पेट्रोलचोरी",
+      "sentence": 0,
+      "start": 12,
+      "end": 22,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "घुसखोरी",
+      "sentence": 0,
+      "start": 31,
+      "end": 37,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "सीमाशुल्क",
+      "sentence": 1,
+      "start": 39,
+      "end": 46,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "विधी",
+      "sentence": 1,
+      "start": 57,
+      "end": 60,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "आपण",
+      "sentence": 1,
+      "start": 62,
+      "end": 67,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "समाज",
+      "sentence": 1,
+      "start": 68,
+      "end": 73,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "परंपरा",
+      "sentence": 1,
+      "start": 146,
+      "end": 151,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "तीव्रता",
+      "sentence": 1,
+      "start": 159,
+      "end": 164,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "जीवन",
+      "sentence": 1,
+      "start": 173,
+      "end": 176,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "क्रूरता",
+      "sentence": 1,
+      "start": 186,
+      "end": 191,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "जोखीम",
+      "sentence": 1,
+      "start": 200,
+      "end": 205,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "वाचन",
+      "sentence": 2,
+      "start": 252,
+      "end": 258,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "चित्रपट",
+      "sentence": 3,
+      "start": 270,
+      "end": 279,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "करोड",
+      "sentence": 3,
+      "start": 284,
+      "end": 288,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "रुपया",
+      "sentence": 3,
+      "start": 290,
+      "end": 296,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "बजेट",
+      "sentence": 3,
+      "start": 297,
+      "end": 301,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "मंजुरी",
+      "sentence": 4,
+      "start": 335,
+      "end": 340,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "पत्रलेखक",
+      "sentence": 5,
+      "start": 364,
+      "end": 373,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "दिवाळखोरी",
+      "sentence": 5,
+      "start": 393,
+      "end": 402,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "उल्लेख",
+      "sentence": 5,
+      "start": 414,
+      "end": 419,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "संबंध",
+      "sentence": 5,
+      "start": 456,
+      "end": 461,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "प्रयत्न",
+      "sentence": 5,
+      "start": 478,
+      "end": 483,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "प्राक्तन",
+      "sentence": 6,
+      "start": 490,
+      "end": 496,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "मासेमारी",
+      "sentence": 6,
+      "start": 501,
+      "end": 507,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "पार्श्वभूमी",
+      "sentence": 7,
+      "start": 531,
+      "end": 541,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "ते",
+      "sentence": 7,
+      "start": 542,
+      "end": 546,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "वक्तव्य",
+      "sentence": 7,
+      "start": 551,
+      "end": 556,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "जागा",
+      "sentence": 8,
+      "start": 572,
+      "end": 577,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "म्युझियम",
+      "sentence": 8,
+      "start": 579,
+      "end": 586,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "पश्चिम",
+      "sentence": 9,
+      "start": 598,
+      "end": 603,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "कमांड",
+      "sentence": 9,
+      "start": 604,
+      "end": 609,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "अजित",
+      "sentence": 9,
+      "start": 631,
+      "end": 634,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "कुमार",
+      "sentence": 9,
+      "start": 636,
+      "end": 639,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "ते",
+      "sentence": 9,
+      "start": 641,
+      "end": 648,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "नौदल",
+      "sentence": 9,
+      "start": 654,
+      "end": 659,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "अधिकारी",
+      "sentence": 9,
+      "start": 667,
+      "end": 672,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "ती",
+      "sentence": 10,
+      "start": 721,
+      "end": 723,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "भावविश्व",
+      "sentence": 10,
+      "start": 727,
+      "end": 734,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "मुंबई",
+      "sentence": 11,
+      "start": 750,
+      "end": 755,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "अमित",
+      "sentence": 11,
+      "start": 757,
+      "end": 760,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "ते",
+      "sentence": 11,
+      "start": 766,
+      "end": 769,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "पवार",
+      "sentence": 11,
+      "start": 776,
+      "end": 782,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "टीका",
+      "sentence": 11,
+      "start": 790,
+      "end": 794,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "पवार",
+      "sentence": 11,
+      "start": 796,
+      "end": 803,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "नातवंड",
+      "sentence": 11,
+      "start": 804,
+      "end": 810,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "प्रत्युत्तर",
+      "sentence": 11,
+      "start": 813,
+      "end": 819,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      27,
+      29,
+      33
+    ]
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "document_id": "document_438",
+  "sentences": [
+    "नारळ नंदनवन.",
+    "विषय : मुंबई क्षेत्राचा सुधारीत विकास आराखडा व विकास नियत्रंण नियमावली २०३४ यातील परळ, भोईवाडा विभागातील तरतूदीविषयी सुचना.",
+    "इतर संघ वर्ण नऊशे तुकडे परिसरात वापरले जाते तेव्हा एक मजबूत मंदी नाही."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "नारळ",
+      "sentence": 0,
+      "start": 0,
+      "end": 3,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "नंदनवन",
+      "sentence": 0,
+      "start": 5,
+      "end": 11,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "विषय",
+      "sentence": 1,
+      "start": 13,
+      "end": 16,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मुंबई",
+      "sentence": 1,
+      "start": 20,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "आराखडा",
+      "sentence": 1,
+      "start": 38,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "नियमावली",
+      "sentence": 1,
+      "start": 54,
+      "end": 60,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "भोईवाडा",
+      "sentence": 1,
+      "start": 75,
+      "end": 80,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "विभाग",
+      "sentence": 1,
+      "start": 81,
+      "end": 84,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "तरतूद",
+      "sentence": 1,
+      "start": 90,
+      "end": 93,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "सुचना",
+      "sentence": 1,
+      "start": 99,
+      "end": 102,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "वर्ण",
+      "sentence": 2,
+      "start": 109,
+      "end": 111,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "तुकडे",
+      "sentence": 2,
+      "start": 117,
+      "end": 120,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "परिसर",
+      "sentence": 2,
+      "start": 122,
+      "end": 125,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "मंदी",
+      "sentence": 2,
+      "start": 143,
+      "end": 145,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

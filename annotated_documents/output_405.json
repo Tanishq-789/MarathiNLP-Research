@@ -1,0 +1,382 @@
+{
+  "document_id": "document_405",
+  "sentences": [
+    "ऊसतोड कामगार, मुकादम व वाहतूकदार संपावर राष्ट्रवादी काँग्रेसतर्फे आश्रीन राऊत यांनी महापौरपदासाठी तर उमहापौरपदासाठी आरती गायकवाड यांनी आपले उमेदवारी अर्ज दाखल केले आहेत.",
+    "मीठ आणि मसाल्यांच्या जोडण्यासाठी विसरू नका.",
+    "इतर लोकप्रिय घड्याळ ब्रँड Bvlgari उत्पादन प्रत्येक तपशील योग्य आहे जे उत्कृष्ट तरतरीत रचना आहेत, आणि यंत्रणा काळजीपूर्वक आणि अतिशय व्यावसायिक नियंत्रण, अविश्वसनीय सुस्पष्टता काम धन्यवाद.",
+    "वृंदा करात यांनी केंद्रातील भाजप सरकारवर घाणाघाती टीका केली आहे.",
+    "केरळने ही शर्यत तीन मिनिटे २४.४५ सेकंदात जिंंकली.",
+    "त्यामुळे चौकशी अधिकारी, न्यायाधीश या दोन्ही भूमिका परस्पर विसंगत आणि लबाडीच्या आहेत, हेच स्पष्ट झालेले आहे.",
+    "उत्तर प्रदेशातील फतेहपूर मतदार संघातून साध्वी निरंजन ज्योती या निवडून आल्या असून, मोदी सरकारमध्ये त्या राज्यमंत्री आहेत.",
+    "परिणामी हे कर्मचारी अडचणीत असून कामावर काढले जाईल या भितीतून ते काहीच बोलता चूप राहून काम करीत आहेत.",
+    "सुरेश चौगुले -अध्यक्ष, फाउंड्री असोसिएशन",
+    "तसेच वीस-पाच रॉकेट आणि गस्त नौका डझनभर किनार्यावरील ऑपरेशन सहभागी होऊ शकता."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "कामगार",
+      "sentence": 0,
+      "start": 7,
+      "end": 13,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "मुकादम",
+      "sentence": 0,
+      "start": 16,
+      "end": 22,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "वाहतूकदार",
+      "sentence": 0,
+      "start": 25,
+      "end": 33,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "काँग्रेस",
+      "sentence": 0,
+      "start": 48,
+      "end": 54,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "राऊत",
+      "sentence": 0,
+      "start": 65,
+      "end": 69,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "महापौरपदासाठी",
+      "sentence": 0,
+      "start": 75,
+      "end": 85,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "उमहापौरपदासाठी",
+      "sentence": 0,
+      "start": 89,
+      "end": 102,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "गायकवाड",
+      "sentence": 0,
+      "start": 108,
+      "end": 115,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "आपले",
+      "sentence": 0,
+      "start": 121,
+      "end": 126,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "अर्ज",
+      "sentence": 0,
+      "start": 132,
+      "end": 135,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "घड्याळ",
+      "sentence": 2,
+      "start": 192,
+      "end": 197,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "ब्रँड",
+      "sentence": 2,
+      "start": 198,
+      "end": 202,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "उत्पादन",
+      "sentence": 2,
+      "start": 211,
+      "end": 216,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "तपशील",
+      "sentence": 2,
+      "start": 224,
+      "end": 229,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "रचना",
+      "sentence": 2,
+      "start": 249,
+      "end": 253,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "यंत्रणा",
+      "sentence": 2,
+      "start": 264,
+      "end": 269,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "नियंत्रण",
+      "sentence": 2,
+      "start": 300,
+      "end": 305,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "सुस्पष्टता",
+      "sentence": 2,
+      "start": 320,
+      "end": 327,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "भाजप",
+      "sentence": 3,
+      "start": 457,
+      "end": 461,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "सरकारवर",
+      "sentence": 3,
+      "start": 462,
+      "end": 467,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "टीका",
+      "sentence": 3,
+      "start": 477,
+      "end": 480,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "केरळने",
+      "sentence": 4,
+      "start": 485,
+      "end": 489,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "शर्यत",
+      "sentence": 4,
+      "start": 494,
+      "end": 498,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "मिनिटे",
+      "sentence": 4,
+      "start": 505,
+      "end": 510,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "सेकंदात",
+      "sentence": 4,
+      "start": 519,
+      "end": 524,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "अधिकारी",
+      "sentence": 5,
+      "start": 544,
+      "end": 550,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "न्यायाधीश",
+      "sentence": 5,
+      "start": 553,
+      "end": 560,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "भूमिका",
+      "sentence": 5,
+      "start": 569,
+      "end": 574,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "प्रदेशातील",
+      "sentence": 6,
+      "start": 626,
+      "end": 631,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "फतेहपूर",
+      "sentence": 6,
+      "start": 633,
+      "end": 639,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "संघातून",
+      "sentence": 6,
+      "start": 646,
+      "end": 650,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "मोदी",
+      "sentence": 6,
+      "start": 683,
+      "end": 687,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "सरकारमध्ये",
+      "sentence": 6,
+      "start": 688,
+      "end": 693,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "त्या",
+      "sentence": 6,
+      "start": 697,
+      "end": 699,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "राज्यमंत्री",
+      "sentence": 6,
+      "start": 700,
+      "end": 707,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "कर्मचारी",
+      "sentence": 7,
+      "start": 730,
+      "end": 736,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "अडचणीत",
+      "sentence": 7,
+      "start": 740,
+      "end": 745,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "कामावर",
+      "sentence": 7,
+      "start": 752,
+      "end": 755,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "भितीतून",
+      "sentence": 7,
+      "start": 770,
+      "end": 775,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "ते",
+      "sentence": 7,
+      "start": 776,
+      "end": 778,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "चौगुले",
+      "sentence": 8,
+      "start": 811,
+      "end": 817,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "असोसिएशन",
+      "sentence": 8,
+      "start": 834,
+      "end": 842,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "रॉकेट",
+      "sentence": 9,
+      "start": 855,
+      "end": 860,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "नौका",
+      "sentence": 9,
+      "start": 867,
+      "end": 871,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      24,
+      25,
+      39,
+      40
+    ],
+    [
+      38,
+      41,
+      42
+    ]
+  ]
+}
