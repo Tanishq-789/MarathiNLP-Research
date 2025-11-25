@@ -23,8 +23,8 @@ This dataset provides **high-quality human annotations** to enable more accurate
 
 The repository includes:
 
-- `processed_documents//` — Raw Marathi text documents  
-- `annotated_documents//` — Gold-standard coreference annotations in JSON+CoNLL format  
+- `processed_documents/` — Raw Marathi text documents  
+- `annotated_documents/` — Gold-standard coreference annotations in JSON+CoNLL format  
 - `schema.md` — Annotation guidelines and tag definitions  
 
 ---
