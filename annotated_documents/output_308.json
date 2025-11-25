@@ -1,0 +1,359 @@
+{
+  "document_id": "document_308",
+  "sentences": [
+    "बंड्या आपल्यालाही विचार करता येतो याची चुणुक दाखवायला गेला आणि ये रे बैला करून बसला.",
+    "भारतातील 28 वी जागतिक वारसा वास्तू यादीत भारतातील 28 वी म्हणून स्थान मिळवलेल्या 'जंतर मंतर'ची निर्मिती यांनी केली ?",
+    "‘सीएए’मध्ये मुस्लिमांचा समावेश का नाही?",
+    "यावेळी शरीफ आपल्या वकिलांसह न्यायालयात हजर होते.",
+    "ते सर्व आता सरकारच्या विचाराधीन असून त्यांना लाभ देण्याचा निर्णय मंत्रिमंडळाने घेतला आहे.",
+    "या चित्रपटासाठी त्यांनी होकार दिल्याचेही म्हटले गेले होते.",
+    "नाटय़प्रयोगात खलनायक किती अत्याचार करू शकतो, हे दाखवताना एखाद्या कलाकाराला प्रेक्षकांच्या देखत चाबकाने फोडून काढतात तेव्हा प्रेक्षकांचे रक्त उसळून जाते.",
+    "तो किमान दोन आठवडे अगोदर रकमेचा उपयोग करण्यासाठी पाहिली पाहिजे, आणि पालन उपचार संपूर्ण वेळ संपूर्ण आवश्यक आहे.",
+    "त्यानंतर भारतीय जनता युवा मार्चाच्या अध्यक्षपदावरुन सीमा हिरे आणि शहाणे यांच्यात वाद झाला."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "बंड्या",
+      "sentence": 0,
+      "start": 0,
+      "end": 5,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "आपल्यालाही",
+      "sentence": 0,
+      "start": 6,
+      "end": 15,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "विचार",
+      "sentence": 0,
+      "start": 16,
+      "end": 21,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "चुणुक",
+      "sentence": 0,
+      "start": 36,
+      "end": 41,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "बैला",
+      "sentence": 0,
+      "start": 64,
+      "end": 68,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "वारसा",
+      "sentence": 1,
+      "start": 89,
+      "end": 93,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "वास्तू",
+      "sentence": 1,
+      "start": 95,
+      "end": 99,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "यादीत",
+      "sentence": 1,
+      "start": 101,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "स्थान",
+      "sentence": 1,
+      "start": 128,
+      "end": 132,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "जंतर",
+      "sentence": 1,
+      "start": 142,
+      "end": 154,
+      "confidence": 0.5
+    },
+    {
+      "id": 10,
+      "text": "निर्मिती",
+      "sentence": 1,
+      "start": 156,
+      "end": 161,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "यांनी",
+      "sentence": 1,
+      "start": 163,
+      "end": 167,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "मुस्लिमांचा",
+      "sentence": 2,
+      "start": 181,
+      "end": 189,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "शरीफ",
+      "sentence": 3,
+      "start": 203,
+      "end": 208,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "आपल्या",
+      "sentence": 3,
+      "start": 209,
+      "end": 214,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "वकिलांसह",
+      "sentence": 3,
+      "start": 215,
+      "end": 222,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "ते",
+      "sentence": 4,
+      "start": 237,
+      "end": 239,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "त्यांना",
+      "sentence": 4,
+      "start": 274,
+      "end": 279,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "लाभ",
+      "sentence": 4,
+      "start": 280,
+      "end": 283,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "निर्णय",
+      "sentence": 4,
+      "start": 290,
+      "end": 295,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "मंत्रिमंडळाने",
+      "sentence": 4,
+      "start": 296,
+      "end": 306,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "चित्रपटासाठी",
+      "sentence": 5,
+      "start": 311,
+      "end": 320,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "त्यांनी",
+      "sentence": 5,
+      "start": 321,
+      "end": 325,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "होकार",
+      "sentence": 5,
+      "start": 326,
+      "end": 330,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "नाटय़प्रयोगात",
+      "sentence": 6,
+      "start": 344,
+      "end": 353,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "खलनायक",
+      "sentence": 6,
+      "start": 354,
+      "end": 360,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "अत्याचार",
+      "sentence": 6,
+      "start": 365,
+      "end": 371,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "कलाकाराला",
+      "sentence": 6,
+      "start": 388,
+      "end": 396,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "देखत",
+      "sentence": 6,
+      "start": 407,
+      "end": 411,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "चाबकाने",
+      "sentence": 6,
+      "start": 412,
+      "end": 418,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "प्रेक्षकांचे",
+      "sentence": 6,
+      "start": 442,
+      "end": 450,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "रक्त",
+      "sentence": 6,
+      "start": 451,
+      "end": 454,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "तो",
+      "sentence": 7,
+      "start": 469,
+      "end": 471,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "आठवडे",
+      "sentence": 7,
+      "start": 478,
+      "end": 483,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "उपयोग",
+      "sentence": 7,
+      "start": 497,
+      "end": 502,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "पालन",
+      "sentence": 7,
+      "start": 523,
+      "end": 527,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "उपचार",
+      "sentence": 7,
+      "start": 528,
+      "end": 532,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "जनता",
+      "sentence": 8,
+      "start": 558,
+      "end": 562,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "अध्यक्षपदावरुन",
+      "sentence": 8,
+      "start": 575,
+      "end": 585,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "सीमा",
+      "sentence": 8,
+      "start": 586,
+      "end": 590,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "हिरे",
+      "sentence": 8,
+      "start": 591,
+      "end": 594,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      15,
+      16
+    ],
+    [
+      19,
+      20,
+      23
+    ],
+    [
+      34,
+      37
+    ]
+  ]
+}

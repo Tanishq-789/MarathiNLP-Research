@@ -1,0 +1,147 @@
+{
+  "document_id": "document_379",
+  "sentences": [
+    "‘सारथी’ प्रकरणाची चौकशी होणार; किशोरराजे निंबाळकरांकडे अतिरिक्त भार",
+    "नाणेफेक जिंकून प्रथम फलंदाजीचा मुंबईचा निर्णय चुकीचा ठरला.",
+    "जाती गार्डनर स्नॅप",
+    "त्यावेळी तो दहावीत होता.",
+    "प्रत्येक कॅब चालकाचा दिवसाला तीन हजार रुपये धंदा झाला तरच त्यांना परवडणार आहे.",
+    "केरळमध्ये रा."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "सारथी",
+      "sentence": 0,
+      "start": 0,
+      "end": 6,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "प्रकरणाची",
+      "sentence": 0,
+      "start": 8,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "चौकशी",
+      "sentence": 0,
+      "start": 19,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "किशोरराजे",
+      "sentence": 0,
+      "start": 33,
+      "end": 41,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "निंबाळकरांकडे",
+      "sentence": 0,
+      "start": 42,
+      "end": 54,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "नाणेफेक",
+      "sentence": 1,
+      "start": 75,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "फलंदाजीचा",
+      "sentence": 1,
+      "start": 91,
+      "end": 100,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "निर्णय",
+      "sentence": 1,
+      "start": 108,
+      "end": 113,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "जाती",
+      "sentence": 2,
+      "start": 136,
+      "end": 140,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "गार्डनर",
+      "sentence": 2,
+      "start": 141,
+      "end": 147,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "स्नॅप",
+      "sentence": 2,
+      "start": 148,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "तो",
+      "sentence": 3,
+      "start": 162,
+      "end": 163,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "चालकाचा",
+      "sentence": 4,
+      "start": 187,
+      "end": 194,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "रुपये",
+      "sentence": 4,
+      "start": 211,
+      "end": 215,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "धंदा",
+      "sentence": 4,
+      "start": 216,
+      "end": 220,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "त्यांना",
+      "sentence": 4,
+      "start": 237,
+      "end": 242,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      4
+    ]
+  ]
+}

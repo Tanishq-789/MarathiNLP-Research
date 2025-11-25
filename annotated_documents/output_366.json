@@ -1,0 +1,60 @@
+{
+  "document_id": "document_366",
+  "sentences": [
+    "डीज होऊ शकतील!> >>>> अगदी.",
+    "ह्यावर लिहि काहीतरी.",
+    "आमदार हसन मुश्रीफ यांनी याची दखल घेवून या रस्त्यासाठी ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "ह्यावर",
+      "sentence": 1,
+      "start": 27,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "आमदार",
+      "sentence": 2,
+      "start": 47,
+      "end": 52,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "मुश्रीफ",
+      "sentence": 2,
+      "start": 57,
+      "end": 63,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "याची",
+      "sentence": 2,
+      "start": 70,
+      "end": 74,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "रस्त्यासाठी",
+      "sentence": 2,
+      "start": 88,
+      "end": 97,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ],
+    [
+      3,
+      4
+    ]
+  ]
+}

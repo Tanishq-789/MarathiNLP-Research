@@ -1,0 +1,42 @@
+{
+  "document_id": "document_347",
+  "sentences": [
+    "बर्लिनच्या संग्रहालयातून २६ कोटीच्या नाण्याची चोरी",
+    "या कारवाईत 282.."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "संग्रहालयातून",
+      "sentence": 0,
+      "start": 10,
+      "end": 21,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "नाण्याची",
+      "sentence": 0,
+      "start": 30,
+      "end": 37,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "चोरी",
+      "sentence": 0,
+      "start": 38,
+      "end": 41,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "कारवाईत",
+      "sentence": 1,
+      "start": 45,
+      "end": 51,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

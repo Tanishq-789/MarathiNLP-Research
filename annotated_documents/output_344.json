@@ -1,0 +1,365 @@
+{
+  "document_id": "document_344",
+  "sentences": [
+    "ना जाणून घ्यायचे होते म्हणूनच ते ना.",
+    "ब्रिटनच्या काईल एडमंडने पाच तासांच्या झुंजार लढतीत 11 व्या मानांकित द.",
+    "या स्पर्धेत १६ टीम सहभागी होणार आहेत.",
+    "परदेशात हॅलोवन पासून सुरू होणारे उत्सवाचे सेलिब्रेशन नाताळ पर्यंत सुरू राहते.",
+    "फर्ग्युसन रस्त्यावर, तुळशीबाग, कॅम्प, फॅशन स्ट्रीटमधील बाजारपेठांत कमी किमतीत त्या उपलब्ध आहेत.",
+    "पिण्याच्या पाण्याचा आणि सिचंनाचा प्रश्नही त्यांनी मान्य केला असून त्यासाठी लवकरच उच्चस्तरीय बैठक घेऊन हा प्रश्न मार्गी लावण्याचे आश्वासन दिले आहे.",
+    "देशपातळीवरील सुमारे ६०० प्रतिनिधींच्या उपस्थितीत गोवा राज्याचे सहकार, कला व सांस्कृतिक कार्यमंत्री ना.",
+    "1536 प्रवाह प्रोसेसर;",
+    "मात्र यांच्यावर कारवाई केली जात नाही, असंही ते म्हणाले.",
+    "येथे, इंजिन बंद त्याच्या पुढील काम झालेली कोंडी होऊ शकते म्हणून, एक पूर्ण स्टॉप करणे आवश्यक आहे.",
+    "रोज रात्री झोपण्यापूर्वी एक ग्लास दूध प्यायला विसरू नका.",
+    "ते आंघोळ करण्यासाठी अनुमती आहे फक्त जेथे उथळ, अन्यथा त्यांना नंतर स्विम चे भू."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "ते",
+      "sentence": 0,
+      "start": 25,
+      "end": 27,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "ब्रिटन",
+      "sentence": 1,
+      "start": 31,
+      "end": 36,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "एडमंड",
+      "sentence": 1,
+      "start": 44,
+      "end": 48,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "स्पर्धा",
+      "sentence": 2,
+      "start": 91,
+      "end": 95,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "परदेश",
+      "sentence": 3,
+      "start": 116,
+      "end": 120,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "हॅलोवन",
+      "sentence": 3,
+      "start": 123,
+      "end": 128,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "उत्सव",
+      "sentence": 3,
+      "start": 139,
+      "end": 142,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "सेलिब्रेशन",
+      "sentence": 3,
+      "start": 145,
+      "end": 151,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "नाताळ",
+      "sentence": 3,
+      "start": 152,
+      "end": 156,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "फर्ग्युसन",
+      "sentence": 4,
+      "start": 168,
+      "end": 175,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "रस्ता",
+      "sentence": 4,
+      "start": 176,
+      "end": 180,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "तुळशीबाग",
+      "sentence": 4,
+      "start": 184,
+      "end": 190,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "कॅम्प",
+      "sentence": 4,
+      "start": 192,
+      "end": 195,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "स्ट्रीट",
+      "sentence": 4,
+      "start": 202,
+      "end": 206,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "बाजारपेठा",
+      "sentence": 4,
+      "start": 211,
+      "end": 217,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "किंमत",
+      "sentence": 4,
+      "start": 223,
+      "end": 226,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "त्या",
+      "sentence": 4,
+      "start": 230,
+      "end": 232,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "पाणी",
+      "sentence": 5,
+      "start": 246,
+      "end": 249,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "सिंचन",
+      "sentence": 5,
+      "start": 257,
+      "end": 261,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "प्रश्न",
+      "sentence": 5,
+      "start": 264,
+      "end": 267,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "त्यांनी",
+      "sentence": 5,
+      "start": 270,
+      "end": 274,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "बैठक",
+      "sentence": 5,
+      "start": 299,
+      "end": 302,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "प्रश्न",
+      "sentence": 5,
+      "start": 309,
+      "end": 312,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "आश्वासन",
+      "sentence": 5,
+      "start": 325,
+      "end": 330,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "देशपातळी",
+      "sentence": 6,
+      "start": 337,
+      "end": 345,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "उपस्थिती",
+      "sentence": 6,
+      "start": 368,
+      "end": 373,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "राज्य",
+      "sentence": 6,
+      "start": 380,
+      "end": 383,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "सहकार",
+      "sentence": 6,
+      "start": 386,
+      "end": 390,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "कार्यमंत्री",
+      "sentence": 6,
+      "start": 404,
+      "end": 410,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "प्रवाह",
+      "sentence": 7,
+      "start": 419,
+      "end": 423,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "प्रोसेसर",
+      "sentence": 7,
+      "start": 424,
+      "end": 429,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "ते",
+      "sentence": 8,
+      "start": 461,
+      "end": 463,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "इंजिन",
+      "sentence": 9,
+      "start": 468,
+      "end": 472,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "त्याच्या",
+      "sentence": 9,
+      "start": 479,
+      "end": 483,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "कोंडी",
+      "sentence": 9,
+      "start": 496,
+      "end": 499,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "ग्लास",
+      "sentence": 10,
+      "start": 538,
+      "end": 541,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "ते",
+      "sentence": 11,
+      "start": 557,
+      "end": 559,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "आंघोळ",
+      "sentence": 11,
+      "start": 560,
+      "end": 564,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "अनुमती",
+      "sentence": 11,
+      "start": 572,
+      "end": 575,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "त्यांना",
+      "sentence": 11,
+      "start": 598,
+      "end": 601,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "स्विम",
+      "sentence": 11,
+      "start": 606,
+      "end": 609,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1,
+      2,
+      26,
+      37,
+      38
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      25,
+      28
+    ]
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "document_id": "document_334",
+  "sentences": [
+    "असा झाला भंडाफोड",
+    "याचाच एक भाग म्हणून जम्मू, काश्‍मीर आणि लडाखमधील तरुणांसाठी लष्कर आणि निम लष्करी दलात 50,000 जागांची भरती करण्याचा प्रस्ताव सरकारच्या विचाराधीन आहे.",
+    "या सगळया खटाटोपात गांधी-नेहरूंचा धडा काढला म्हणून कोणी हळवे होऊ नये.",
+    "तुझ्या पाण्याने तीळसुद्धा भिजत नाही.",
+    "पण आपण काय भिन्न कोनातून परिस्थिती पाहतो तर?",
+    "कार्प पकडू वेळ नाही आहे\"",
+    "धोकादायक भूगर्भीय घटना आणि प्रक्रिया",
+    "प्रत्येक व्यक्ती त्यांच्या जवळची, मायेची असे.",
+    "म्हणजेच केसांची निर्मिती करणाऱ्या पेशींवर त्यांचा विपरित परिणाम होतो.",
+    "‘आमच्याकडे स्पष्ट बहुमत नाही.",
+    "सिंचन योजनांच्या निधीमध्ये अजित पवारांनी काय दिवे लावले?",
+    "\"तुमची ईश्वरी शक्ती."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "भंडाफोड",
+      "sentence": 0,
+      "start": 9,
+      "end": 16,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "जम्मू",
+      "sentence": 1,
+      "start": 39,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "काश्‍मीर",
+      "sentence": 1,
+      "start": 45,
+      "end": 51,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "तरुणांसाठी",
+      "sentence": 1,
+      "start": 65,
+      "end": 74,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "लष्कर",
+      "sentence": 1,
+      "start": 75,
+      "end": 80,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "दलात",
+      "sentence": 1,
+      "start": 96,
+      "end": 99,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "जागांची",
+      "sentence": 1,
+      "start": 108,
+      "end": 114,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "भरती",
+      "sentence": 1,
+      "start": 115,
+      "end": 119,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "प्रस्ताव",
+      "sentence": 1,
+      "start": 129,
+      "end": 134,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "खटाटोपात",
+      "sentence": 2,
+      "start": 161,
+      "end": 168,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "गांधी-नेहरूंचा",
+      "sentence": 2,
+      "start": 169,
+      "end": 180,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "कोणी",
+      "sentence": 2,
+      "start": 196,
+      "end": 199,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "पाण्याने",
+      "sentence": 3,
+      "start": 211,
+      "end": 216,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "आपण",
+      "sentence": 4,
+      "start": 235,
+      "end": 238,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "कोनातून",
+      "sentence": 4,
+      "start": 247,
+      "end": 252,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "परिस्थिती",
+      "sentence": 4,
+      "start": 253,
+      "end": 259,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "कार्प",
+      "sentence": 5,
+      "start": 269,
+      "end": 272,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "घटना",
+      "sentence": 6,
+      "start": 299,
+      "end": 303,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "प्रक्रिया",
+      "sentence": 6,
+      "start": 308,
+      "end": 313,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "व्यक्ती",
+      "sentence": 7,
+      "start": 320,
+      "end": 324,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "त्यांच्या",
+      "sentence": 7,
+      "start": 325,
+      "end": 330,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "मायेची",
+      "sentence": 7,
+      "start": 341,
+      "end": 346,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "केसांची",
+      "sentence": 8,
+      "start": 359,
+      "end": 364,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "निर्मिती",
+      "sentence": 8,
+      "start": 365,
+      "end": 370,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "पेशींवर",
+      "sentence": 8,
+      "start": 380,
+      "end": 385,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "त्यांचा",
+      "sentence": 8,
+      "start": 386,
+      "end": 391,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "परिणाम",
+      "sentence": 8,
+      "start": 399,
+      "end": 404,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "आमच्याकडे",
+      "sentence": 9,
+      "start": 412,
+      "end": 419,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "बहुमत",
+      "sentence": 9,
+      "start": 426,
+      "end": 430,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "निधीमध्ये",
+      "sentence": 10,
+      "start": 447,
+      "end": 453,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "अजित",
+      "sentence": 10,
+      "start": 454,
+      "end": 458,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "पवारांनी",
+      "sentence": 10,
+      "start": 459,
+      "end": 465,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "दिवे",
+      "sentence": 10,
+      "start": 470,
+      "end": 473,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "तुमची",
+      "sentence": 11,
+      "start": 477,
+      "end": 482,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "शक्ती",
+      "sentence": 11,
+      "start": 489,
+      "end": 492,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ],
+    [
+      11,
+      13
+    ],
+    [
+      28,
+      29
+    ],
+    [
+      33,
+      34
+    ]
+  ]
+}

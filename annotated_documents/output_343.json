@@ -1,0 +1,39 @@
+{
+  "document_id": "document_343",
+  "sentences": [
+    "सुसाइड नोटमधून समोर आले धक्कादायक खुलासे",
+    "त्यावर पोटे चिडले."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "खुलासे",
+      "sentence": 0,
+      "start": 32,
+      "end": 36,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "त्या",
+      "sentence": 1,
+      "start": 38,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "पोटे",
+      "sentence": 1,
+      "start": 43,
+      "end": 46,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      1,
+      2
+    ]
+  ]
+}

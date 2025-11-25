@@ -1,0 +1,17 @@
+{
+  "document_id": "document_335",
+  "sentences": [
+    "आमची."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "आमची",
+      "sentence": 0,
+      "start": 0,
+      "end": 5,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

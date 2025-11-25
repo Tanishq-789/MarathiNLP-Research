@@ -1,0 +1,339 @@
+{
+  "document_id": "document_348",
+  "sentences": [
+    "डिसेंबर 16, 2019",
+    "पण कसे सडपातळ माणूस का?",
+    "त्यानंतरही मराठवाड्यात मुलींचया आत्महत्या झाल्या आहेत.",
+    "आधीच महागाई, त्यातच साहित्य आणि वाहतुकीचा खर्च वाढल्याने दुकानदारही ग्राहकांना दुपटीपेक्षा जास्त दर आकारत आहेत.",
+    "म्हणजे मोदी-शाह गटाकडे त्यांचा रोख आहे का या प्रश्नावर मात्र, \"ते मला माहीत नाही.",
+    "यानंतर मान्यवरांच्या हस्ते पत्रकारिता पुरस्कारांचे वितरण झाले.",
+    "हिंदुस्थानने पाकिस्तानवर एअर स्ट्राईक केल्यानंतर पाकड्यांचा चांगलाच तिळपापड झाला आहे.",
+    "सोनिया गांधी आणि शरद पवार यांची बैठक झाल्यानंतर मंगळवारी पुन्हा काँग्रेस आणि राष्ट्रवादीचे नेते पुढच्या भूमिकेबाबत चर्चा करणार आहेत.",
+    "योगी आदित्यनाथ नमाज पडणार का ?",
+    "व्याजाचा दर आणि शिल्लक कालावधीच्या अनुरुप कोणती कर्जे लवकरात लवकर फेडायची आहेत व कोणती दीर्घ कालावधीची आहेत याची क्रमवार मांडणी करा."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "माणूस",
+      "sentence": 1,
+      "start": 36,
+      "end": 41,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "मराठवाड्यात",
+      "sentence": 2,
+      "start": 56,
+      "end": 67,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "आत्महत्या",
+      "sentence": 2,
+      "start": 77,
+      "end": 85,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "महागाई",
+      "sentence": 3,
+      "start": 106,
+      "end": 112,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "साहित्य",
+      "sentence": 3,
+      "start": 122,
+      "end": 128,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "खर्च",
+      "sentence": 3,
+      "start": 143,
+      "end": 147,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "दुकानदारही",
+      "sentence": 3,
+      "start": 158,
+      "end": 168,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "ग्राहकांना",
+      "sentence": 3,
+      "start": 169,
+      "end": 178,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "मोदी",
+      "sentence": 4,
+      "start": 225,
+      "end": 229,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "गटाकडे",
+      "sentence": 4,
+      "start": 234,
+      "end": 240,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "त्यांचा",
+      "sentence": 4,
+      "start": 241,
+      "end": 247,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "प्रश्नावर",
+      "sentence": 4,
+      "start": 259,
+      "end": 267,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "ते",
+      "sentence": 4,
+      "start": 277,
+      "end": 279,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "मला",
+      "sentence": 4,
+      "start": 280,
+      "end": 283,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "हस्ते",
+      "sentence": 5,
+      "start": 313,
+      "end": 318,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "पत्रकारिता",
+      "sentence": 5,
+      "start": 319,
+      "end": 328,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "पुरस्कारांचे",
+      "sentence": 5,
+      "start": 329,
+      "end": 340,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "वितरण",
+      "sentence": 5,
+      "start": 341,
+      "end": 346,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "हिंदुस्थानने",
+      "sentence": 6,
+      "start": 363,
+      "end": 374,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "पाकिस्तानवर",
+      "sentence": 6,
+      "start": 375,
+      "end": 385,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "स्ट्राईक",
+      "sentence": 6,
+      "start": 390,
+      "end": 396,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "तिळपापड",
+      "sentence": 6,
+      "start": 424,
+      "end": 432,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "सोनिया",
+      "sentence": 7,
+      "start": 449,
+      "end": 454,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "गांधी",
+      "sentence": 7,
+      "start": 455,
+      "end": 460,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "पवार",
+      "sentence": 7,
+      "start": 469,
+      "end": 473,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "यांची",
+      "sentence": 7,
+      "start": 474,
+      "end": 479,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "बैठक",
+      "sentence": 7,
+      "start": 480,
+      "end": 484,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "काँग्रेस",
+      "sentence": 7,
+      "start": 512,
+      "end": 519,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "राष्ट्रवादीचे",
+      "sentence": 7,
+      "start": 524,
+      "end": 534,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "नेते",
+      "sentence": 7,
+      "start": 535,
+      "end": 539,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "भूमिकेबाबत",
+      "sentence": 7,
+      "start": 547,
+      "end": 556,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "योगी",
+      "sentence": 8,
+      "start": 573,
+      "end": 577,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "आदित्यनाथ",
+      "sentence": 8,
+      "start": 578,
+      "end": 587,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "नमाज",
+      "sentence": 8,
+      "start": 588,
+      "end": 592,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "व्याजाचा",
+      "sentence": 9,
+      "start": 604,
+      "end": 612,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "कर्जे",
+      "sentence": 9,
+      "start": 643,
+      "end": 647,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "कालावधीची",
+      "sentence": 9,
+      "start": 672,
+      "end": 681,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "मांडणी",
+      "sentence": 9,
+      "start": 692,
+      "end": 698,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      11,
+      12,
+      14
+    ],
+    [
+      25,
+      27
+    ],
+    [
+      29,
+      30,
+      31,
+      32,
+      33
+    ]
+  ]
+}

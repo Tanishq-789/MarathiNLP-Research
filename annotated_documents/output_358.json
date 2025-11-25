@@ -1,0 +1,116 @@
+{
+  "document_id": "document_358",
+  "sentences": [
+    "संसार म्हटला की नेहमी \"भांड्याला भांडंच\" लागण्याचा काळ मागे सरला आहे - तेव्हा त्यावर बंदी.",
+    "फार तर दाव्यावर प्रतिदावा होणारच यावर मांडवली होऊ शकेल",
+    "अमेरिका असे कधीही होऊ देणार नाही पण आता आपण जगाची चौकिदारी करणे बंद करावे या मताचे राष्ट्रपती आले असल्यामुळे परिस्थिती अजूनही गुंतागुंतीची झालेली आहे.",
+    "या १५ वर्षांच्या काळात."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "संसार",
+      "sentence": 0,
+      "start": 0,
+      "end": 6,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "त्यावर",
+      "sentence": 0,
+      "start": 58,
+      "end": 63,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "बंदी",
+      "sentence": 0,
+      "start": 64,
+      "end": 67,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "दाव्यावर",
+      "sentence": 1,
+      "start": 78,
+      "end": 84,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "प्रतिदावा",
+      "sentence": 1,
+      "start": 85,
+      "end": 91,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "मांडवली",
+      "sentence": 1,
+      "start": 104,
+      "end": 109,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "अमेरिका",
+      "sentence": 2,
+      "start": 120,
+      "end": 125,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "आपण",
+      "sentence": 2,
+      "start": 150,
+      "end": 153,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "जगाची",
+      "sentence": 2,
+      "start": 154,
+      "end": 158,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "चौकिदारी",
+      "sentence": 2,
+      "start": 160,
+      "end": 166,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "राष्ट्रपती",
+      "sentence": 2,
+      "start": 192,
+      "end": 197,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "परिस्थिती",
+      "sentence": 2,
+      "start": 208,
+      "end": 214,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "काळात",
+      "sentence": 3,
+      "start": 235,
+      "end": 239,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

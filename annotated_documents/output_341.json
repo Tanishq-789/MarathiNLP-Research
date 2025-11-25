@@ -1,0 +1,213 @@
+{
+  "document_id": "document_341",
+  "sentences": [
+    "पिकविमा कंपनीचा अजब खेळ, शेतकर्‍यांना तलाठी कार्यालयाबाहेर घालावा लागतोय वेळ",
+    "यांत्रिक दोन-गती हस्तांतरण बॉक्स.",
+    "तिसर्‍या दिवसाच्या सत्रात राष्ट्रीय कबड्डीपटू व प्रशिक्षक तारक राउळ आणि गणेश रेवणे यांनी खेळाडूंना शुभेच्छा दिल्या.",
+    "अगदी वसंत ऋतू मध्ये पेरणी carrots च्या कालावधी, प्रासंगिक विक्रेत्यांकडून बियाणे खरेदी, आपण पीक न करता स्वत: ला शोधू शकता.",
+    "नियमित चारकोल मास्कचा वापरही अतिशय फायद्याचा ठरतो."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "पिकविमा",
+      "sentence": 0,
+      "start": 0,
+      "end": 6,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "कंपनीचा",
+      "sentence": 0,
+      "start": 7,
+      "end": 13,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "शेतकर्‍यांना",
+      "sentence": 0,
+      "start": 25,
+      "end": 35,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "कार्यालयाबाहेर",
+      "sentence": 0,
+      "start": 42,
+      "end": 54,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "हस्तांतरण",
+      "sentence": 1,
+      "start": 79,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "बॉक्स",
+      "sentence": 1,
+      "start": 89,
+      "end": 93,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "दिवसाच्या",
+      "sentence": 2,
+      "start": 101,
+      "end": 108,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "सत्रात",
+      "sentence": 2,
+      "start": 109,
+      "end": 114,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "कबड्डीपटू",
+      "sentence": 2,
+      "start": 124,
+      "end": 131,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "प्रशिक्षक",
+      "sentence": 2,
+      "start": 134,
+      "end": 141,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "तारक",
+      "sentence": 2,
+      "start": 142,
+      "end": 146,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "राउळ",
+      "sentence": 2,
+      "start": 147,
+      "end": 150,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "गणेश",
+      "sentence": 2,
+      "start": 154,
+      "end": 158,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "खेळाडूंना",
+      "sentence": 2,
+      "start": 169,
+      "end": 176,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "शुभेच्छा",
+      "sentence": 2,
+      "start": 177,
+      "end": 184,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "वसंत",
+      "sentence": 3,
+      "start": 190,
+      "end": 194,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "पेरणी",
+      "sentence": 3,
+      "start": 205,
+      "end": 210,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "carrots",
+      "sentence": 3,
+      "start": 211,
+      "end": 218,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "कालावधी",
+      "sentence": 3,
+      "start": 222,
+      "end": 228,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "विक्रेत्यांकडून",
+      "sentence": 3,
+      "start": 238,
+      "end": 249,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "बियाणे",
+      "sentence": 3,
+      "start": 250,
+      "end": 255,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "खरेदी",
+      "sentence": 3,
+      "start": 256,
+      "end": 261,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "आपण",
+      "sentence": 3,
+      "start": 263,
+      "end": 267,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "स्वत",
+      "sentence": 3,
+      "start": 280,
+      "end": 284,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "वापरही",
+      "sentence": 4,
+      "start": 305,
+      "end": 311,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

@@ -1,0 +1,623 @@
+{
+  "document_id": "document_393",
+  "sentences": [
+    "खोत, सागर कोंडेकर, सुभाष चौगुले, कृष्णात चेंडके, महेश कंगळे, राजू उपाध्ये, रमेश मालगावे, रमेश पाटील, अभय खोत, दीपक माळगी, मधुकर पाटील, दिलीप पाटील, संताजी नलवडे, प्रा.",
+    "येथे, खरंच, प्रत्येकजण आपण त्याला आवडणारे काहीतरी शोधू शकता.",
+    "ममता बॅनर्जी यांची हिंदु संघटनांना चेतावणी, ‘शस्त्रपूजनाचा कार्यक्रम करून बंगालची शांतता भंग करू नका !",
+    "या रडाराच्या माध्यमातून चीनने डासांविरूद्ध युद्ध छेडले आहे.",
+    "कारण तुम्हालाच वाटत होते की पंतने चौथ्या क्रमांकावर खेळावे.",
+    "आणि जेथे ही संस्था आहे?",
+    "आपल्यावर झालेल्या अन्याया विरोधात विरोधी पक्ष सक्षम पणे काम करत आहे.",
+    "सातारा पालिका आणि वाहतूक शाखेने पोवईनाक्यावरील सभापती निवास ते नेताजी सुभाषचंद्र बोस चौक हा मार्ग ‘नो पार्किंग झोन’ म्हणून घोषित केला आहे.",
+    "उद्योजकांच्या पैशातूनच मोदींच्या भाषणाचे प्रसारण : भूमी अधिग्रहण कायदा लागू करणार",
+    "पंतप्रधान मोदी अयोध्येला निघाले आहेत, म्हणूनच हा प्रश्‍न !",
+    "त्यानंतर आयएलएफएसला मोठे नुकसान झाले होते.",
+    "शिरुर लोकसभा मतदारसंघ आघाडीमध्ये राष्ट्रवादीच्या वाट्याला आला आहे.",
+    "का, दोघेही सारखेच देशद्रोही ?",
+    "ठाणे: शिवसेना पक्ष प्रमुख श्री उद्धवजी ठाकरे आणि यांच्या हस्ते ‘वैद्यकीय मदत मार्गदर्शक’ ग्रंथाचे येथील गडकरी रंगायतन येथे झालेल्या कार्यक्रमात."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "सागर",
+      "sentence": 0,
+      "start": 5,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "चौगुले",
+      "sentence": 0,
+      "start": 26,
+      "end": 31,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "कृष्णात",
+      "sentence": 0,
+      "start": 34,
+      "end": 40,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "चेंडके",
+      "sentence": 0,
+      "start": 42,
+      "end": 47,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "उपाध्ये",
+      "sentence": 0,
+      "start": 68,
+      "end": 73,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "मालगावे",
+      "sentence": 0,
+      "start": 82,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "पाटील",
+      "sentence": 0,
+      "start": 96,
+      "end": 100,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "माळगी",
+      "sentence": 0,
+      "start": 120,
+      "end": 124,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "मधुकर",
+      "sentence": 0,
+      "start": 127,
+      "end": 132,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "पाटील",
+      "sentence": 0,
+      "start": 134,
+      "end": 138,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "पाटील",
+      "sentence": 0,
+      "start": 147,
+      "end": 151,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "संताजी",
+      "sentence": 0,
+      "start": 154,
+      "end": 159,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "नलवडे",
+      "sentence": 0,
+      "start": 161,
+      "end": 166,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "प्रा",
+      "sentence": 0,
+      "start": 169,
+      "end": 171,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "आपण",
+      "sentence": 1,
+      "start": 194,
+      "end": 197,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "त्याला",
+      "sentence": 1,
+      "start": 199,
+      "end": 202,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "ममता",
+      "sentence": 2,
+      "start": 234,
+      "end": 238,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "बॅनर्जी",
+      "sentence": 2,
+      "start": 240,
+      "end": 246,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "हिंदु",
+      "sentence": 2,
+      "start": 255,
+      "end": 259,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "संघटनांना",
+      "sentence": 2,
+      "start": 261,
+      "end": 268,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "चेतावणी",
+      "sentence": 2,
+      "start": 270,
+      "end": 276,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "शस्त्रपूजनाचा",
+      "sentence": 2,
+      "start": 282,
+      "end": 293,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "कार्यक्रम",
+      "sentence": 2,
+      "start": 295,
+      "end": 301,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "बंगालची",
+      "sentence": 2,
+      "start": 309,
+      "end": 315,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "शांतता",
+      "sentence": 2,
+      "start": 317,
+      "end": 322,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "रडाराच्या",
+      "sentence": 3,
+      "start": 342,
+      "end": 350,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "माध्यमातून",
+      "sentence": 3,
+      "start": 352,
+      "end": 359,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "चीनने",
+      "sentence": 3,
+      "start": 361,
+      "end": 365,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "डासांविरूद्ध",
+      "sentence": 3,
+      "start": 367,
+      "end": 376,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "युद्ध",
+      "sentence": 3,
+      "start": 377,
+      "end": 380,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "पंतने",
+      "sentence": 4,
+      "start": 426,
+      "end": 430,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "संस्था",
+      "sentence": 5,
+      "start": 475,
+      "end": 479,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "अन्याया",
+      "sentence": 6,
+      "start": 503,
+      "end": 508,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "पक्ष",
+      "sentence": 6,
+      "start": 525,
+      "end": 527,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "सातारा",
+      "sentence": 7,
+      "start": 558,
+      "end": 563,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "वाहतूक",
+      "sentence": 7,
+      "start": 576,
+      "end": 581,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "शाखेने",
+      "sentence": 7,
+      "start": 583,
+      "end": 587,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "सभापती",
+      "sentence": 7,
+      "start": 603,
+      "end": 608,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "निवास",
+      "sentence": 7,
+      "start": 610,
+      "end": 614,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "नेताजी",
+      "sentence": 7,
+      "start": 618,
+      "end": 623,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "सुभाषचंद्र",
+      "sentence": 7,
+      "start": 625,
+      "end": 633,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "मार्ग",
+      "sentence": 7,
+      "start": 648,
+      "end": 651,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "उद्योजकांच्या",
+      "sentence": 8,
+      "start": 718,
+      "end": 728,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "पैशातूनच",
+      "sentence": 8,
+      "start": 730,
+      "end": 736,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "भाषणाचे",
+      "sentence": 8,
+      "start": 746,
+      "end": 751,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "प्रसारण",
+      "sentence": 8,
+      "start": 753,
+      "end": 758,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "भूमी",
+      "sentence": 8,
+      "start": 762,
+      "end": 765,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "अधिग्रहण",
+      "sentence": 8,
+      "start": 767,
+      "end": 774,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "कायदा",
+      "sentence": 8,
+      "start": 776,
+      "end": 780,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "पंतप्रधान",
+      "sentence": 9,
+      "start": 798,
+      "end": 805,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "मोदी",
+      "sentence": 9,
+      "start": 807,
+      "end": 810,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "अयोध्येला",
+      "sentence": 9,
+      "start": 812,
+      "end": 818,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "प्रश्‍न",
+      "sentence": 9,
+      "start": 841,
+      "end": 845,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "आयएलएफएसला",
+      "sentence": 10,
+      "start": 867,
+      "end": 876,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "नुकसान",
+      "sentence": 10,
+      "start": 884,
+      "end": 889,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "मतदारसंघ",
+      "sentence": 11,
+      "start": 916,
+      "end": 922,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "आघाडीमध्ये",
+      "sentence": 11,
+      "start": 924,
+      "end": 931,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "राष्ट्रवादीच्या",
+      "sentence": 11,
+      "start": 933,
+      "end": 943,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "दोघेही",
+      "sentence": 12,
+      "start": 975,
+      "end": 980,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "देशद्रोही",
+      "sentence": 12,
+      "start": 989,
+      "end": 996,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "शिवसेना",
+      "sentence": 13,
+      "start": 1007,
+      "end": 1012,
+      "confidence": 1.0
+    },
+    {
+      "id": 61,
+      "text": "पक्ष",
+      "sentence": 13,
+      "start": 1014,
+      "end": 1016,
+      "confidence": 1.0
+    },
+    {
+      "id": 62,
+      "text": "श्री",
+      "sentence": 13,
+      "start": 1024,
+      "end": 1026,
+      "confidence": 1.0
+    },
+    {
+      "id": 63,
+      "text": "उद्धवजी",
+      "sentence": 13,
+      "start": 1028,
+      "end": 1034,
+      "confidence": 1.0
+    },
+    {
+      "id": 64,
+      "text": "ठाकरे",
+      "sentence": 13,
+      "start": 1036,
+      "end": 1040,
+      "confidence": 1.0
+    },
+    {
+      "id": 65,
+      "text": "हस्ते",
+      "sentence": 13,
+      "start": 1052,
+      "end": 1055,
+      "confidence": 1.0
+    },
+    {
+      "id": 66,
+      "text": "मार्गदर्शक",
+      "sentence": 13,
+      "start": 1072,
+      "end": 1079,
+      "confidence": 1.0
+    },
+    {
+      "id": 67,
+      "text": "ग्रंथाचे",
+      "sentence": 13,
+      "start": 1082,
+      "end": 1087,
+      "confidence": 1.0
+    },
+    {
+      "id": 68,
+      "text": "गडकरी",
+      "sentence": 13,
+      "start": 1095,
+      "end": 1099,
+      "confidence": 1.0
+    },
+    {
+      "id": 69,
+      "text": "रंगायतन",
+      "sentence": 13,
+      "start": 1101,
+      "end": 1106,
+      "confidence": 1.0
+    },
+    {
+      "id": 70,
+      "text": "कार्यक्रमात",
+      "sentence": 13,
+      "start": 1124,
+      "end": 1131,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      26,
+      27,
+      28,
+      44,
+      48
+    ],
+    [
+      30,
+      31
+    ],
+    [
+      35,
+      36
+    ],
+    [
+      51,
+      52
+    ],
+    [
+      53,
+      54
+    ],
+    [
+      55,
+      56
+    ],
+    [
+      60,
+      61,
+      62
+    ]
+  ]
+}

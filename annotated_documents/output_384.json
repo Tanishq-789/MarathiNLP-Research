@@ -1,0 +1,169 @@
+{
+  "document_id": "document_384",
+  "sentences": [
+    "चे माजी अध्यक्ष मनोहर भदाणे यांच्या मार्गदर्शनाखाली तसेच भाजपा युवा मोर्चा जिल्हाध्यक्ष राम भदाणे यांच्या संकल्पनेतून मोफत पशुवैद्यकीय आरोग्य शिबिराचे आयोजन करण्यात आले होते.",
+    "जळगाव) आमदार, जिल्हा बॅंकेचे संचालक अनिल पाटील यांनी उपमुख्यमंत्री."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मनोहर",
+      "sentence": 0,
+      "start": 14,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "भदाणे",
+      "sentence": 0,
+      "start": 20,
+      "end": 25,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "मार्गदर्शनाखाली",
+      "sentence": 0,
+      "start": 33,
+      "end": 47,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "भाजपा",
+      "sentence": 0,
+      "start": 54,
+      "end": 59,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "मोर्चा",
+      "sentence": 0,
+      "start": 65,
+      "end": 70,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "जिल्हाध्यक्ष",
+      "sentence": 0,
+      "start": 71,
+      "end": 81,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "भदाणे",
+      "sentence": 0,
+      "start": 86,
+      "end": 91,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "संकल्पनेतून",
+      "sentence": 0,
+      "start": 99,
+      "end": 109,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "आरोग्य",
+      "sentence": 0,
+      "start": 127,
+      "end": 132,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "शिबिराचे",
+      "sentence": 0,
+      "start": 133,
+      "end": 140,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "आयोजन",
+      "sentence": 0,
+      "start": 141,
+      "end": 147,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "जळगाव",
+      "sentence": 1,
+      "start": 164,
+      "end": 169,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "आमदार",
+      "sentence": 1,
+      "start": 171,
+      "end": 176,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "जिल्हा",
+      "sentence": 1,
+      "start": 178,
+      "end": 183,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "बॅंकेचे",
+      "sentence": 1,
+      "start": 184,
+      "end": 190,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "संचालक",
+      "sentence": 1,
+      "start": 191,
+      "end": 197,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "पाटील",
+      "sentence": 1,
+      "start": 203,
+      "end": 208,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "उपमुख्यमंत्री",
+      "sentence": 1,
+      "start": 214,
+      "end": 223,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      6,
+      7,
+      8
+    ],
+    [
+      14,
+      17
+    ]
+  ]
+}

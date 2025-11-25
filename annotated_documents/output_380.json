@@ -1,0 +1,231 @@
+{
+  "document_id": "document_380",
+  "sentences": [
+    "संघाच्या स्वयंसेवकावर प्राणघातक आक्रमण",
+    "कारण तो गुजराती माणूस धंदा शिकेल आणि नवीन धंदा सुरु करेल अशी भीती त्यांना असते.",
+    "यावर्षीही पावसाने जोरदार सुरुवात केल्याने कर्जतच्या धबधब्याककडे पर्यटक धाव घेत आहेत.",
+    "पण कर्जमाफी केल्यानंतरच्या पाच वर्षात १६ हजार आत्महत्या झाल्यामुळे आता पुन्हा कर्जमाफी केल्यावर शेतकरी आत्महत्या करणार नाही याची हमी विरोधक देणार का असा प्रश्नच मुख्यमंत्र्यांनी विरोधकांना विचारला होता.",
+    "यात भ्रष्टाचार झालेला नाही असा निर्वाळा दिला आहे.",
+    "'अनेकांनी माझा धर्म बदलण्याचा प्रयत्न केला पण."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "संघाच्या",
+      "sentence": 0,
+      "start": 0,
+      "end": 6,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "स्वयंसेवकावर",
+      "sentence": 0,
+      "start": 8,
+      "end": 18,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "तो",
+      "sentence": 1,
+      "start": 29,
+      "end": 30,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "माणूस",
+      "sentence": 1,
+      "start": 39,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "धंदा",
+      "sentence": 1,
+      "start": 45,
+      "end": 48,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "धंदा",
+      "sentence": 1,
+      "start": 63,
+      "end": 66,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "त्यांना",
+      "sentence": 1,
+      "start": 78,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "पावसाने",
+      "sentence": 2,
+      "start": 93,
+      "end": 98,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "धबधब्याककडे",
+      "sentence": 2,
+      "start": 126,
+      "end": 136,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "पर्यटक",
+      "sentence": 2,
+      "start": 138,
+      "end": 143,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "कर्जमाफी",
+      "sentence": 3,
+      "start": 152,
+      "end": 158,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "आत्महत्या",
+      "sentence": 3,
+      "start": 185,
+      "end": 192,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "कर्जमाफी",
+      "sentence": 3,
+      "start": 213,
+      "end": 219,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "शेतकरी",
+      "sentence": 3,
+      "start": 229,
+      "end": 234,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "आत्महत्या",
+      "sentence": 3,
+      "start": 235,
+      "end": 242,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "विरोधक",
+      "sentence": 3,
+      "start": 254,
+      "end": 259,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "प्रश्नच",
+      "sentence": 3,
+      "start": 272,
+      "end": 277,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "मुख्यमंत्र्यांनी",
+      "sentence": 3,
+      "start": 279,
+      "end": 289,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "विरोधकांना",
+      "sentence": 3,
+      "start": 290,
+      "end": 298,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "भ्रष्टाचार",
+      "sentence": 4,
+      "start": 308,
+      "end": 315,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "निर्वाळा",
+      "sentence": 4,
+      "start": 326,
+      "end": 331,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "अनेकांनी",
+      "sentence": 5,
+      "start": 339,
+      "end": 345,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "माझा",
+      "sentence": 5,
+      "start": 347,
+      "end": 350,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "धर्म",
+      "sentence": 5,
+      "start": 351,
+      "end": 354,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "प्रयत्न",
+      "sentence": 5,
+      "start": 361,
+      "end": 365,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      2,
+      3
+    ],
+    [
+      11,
+      13
+    ],
+    [
+      12,
+      15
+    ],
+    [
+      17,
+      20
+    ]
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "document_id": "document_326",
+  "sentences": [
+    "जम्मू-काश्मीरच्या भुयाराला ‘श्यामाप्रसादां’चे नाव",
+    "तुझी माय नाय आली का अजून।",
+    "विधानसभाहिवाळीअधिवेशन२०१९",
+    "यामुळे आता हा उपक्रम आणखी सहा गावांत राबविण्यात येणार आहे.",
+    "हॉटेल मिलन ते हॉटेल मोनार्क (मरिआई कॉम्प्लेक्सच्या पाठीमागे) या जाणाऱया रोडवर हॉटेल महाराजाच्या पाठीमागे गेट ते हॉटेल गुलबहारच्या पाठीमागील गेटपर्यंत रोडच्या उजव्या बाजूस वाहने पार्क करावीत.",
+    "जॉनी गद्दार ज्याला सम्रपित केला आहे त्या जेम्स हॅडलि चेसचे कोणि फॅन नाहित का?",
+    "भारतासारख्या देशाला उज्ज्वल आणि समृद्ध धार्मिक पंरपरेचा वारसा लाभलेला आहे हा वारसा प्रत्येक भारतीयाने अनुभवण्यासारखा असून ही प्राचिन धार्मिक स्थळे भारतीय संस्कृतीचे प्रतिके आहेत त्याचा आपण अभिमान बाळगणे आपले आद्य कर्तव्य असल्याचे मत डेक्कन अभिमत विद्यापीठाचे अध्यक्ष, ज्येष्ठ पुरातत्वशास्त्रज्ञ आणि मूर्तीशास्त्राचे अभ्यासक डॉ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "जम्मू-काश्मीरच्या",
+      "sentence": 0,
+      "start": 0,
+      "end": 14,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "भुयाराला",
+      "sentence": 0,
+      "start": 16,
+      "end": 23,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "श्यामाप्रसादां",
+      "sentence": 0,
+      "start": 28,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "तुझी",
+      "sentence": 1,
+      "start": 45,
+      "end": 48,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "विधानसभाहिवाळीअधिवेशन२०१९",
+      "sentence": 2,
+      "start": 62,
+      "end": 85,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "उपक्रम",
+      "sentence": 3,
+      "start": 97,
+      "end": 101,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "गावांत",
+      "sentence": 3,
+      "start": 111,
+      "end": 115,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "हॉटेल",
+      "sentence": 4,
+      "start": 125,
+      "end": 129,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "मिलन",
+      "sentence": 4,
+      "start": 131,
+      "end": 134,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "हॉटेल",
+      "sentence": 4,
+      "start": 138,
+      "end": 142,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "मोनार्क",
+      "sentence": 4,
+      "start": 144,
+      "end": 149,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "मरिआई",
+      "sentence": 4,
+      "start": 152,
+      "end": 156,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "हॉटेल",
+      "sentence": 4,
+      "start": 185,
+      "end": 189,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "महाराजाच्या",
+      "sentence": 4,
+      "start": 191,
+      "end": 200,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "हॉटेल",
+      "sentence": 4,
+      "start": 215,
+      "end": 219,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "बाजूस",
+      "sentence": 4,
+      "start": 260,
+      "end": 264,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "वाहने",
+      "sentence": 4,
+      "start": 266,
+      "end": 270,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "जॉनी",
+      "sentence": 5,
+      "start": 277,
+      "end": 280,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "गद्दार",
+      "sentence": 5,
+      "start": 282,
+      "end": 286,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "ज्याला",
+      "sentence": 5,
+      "start": 288,
+      "end": 292,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "जेम्स",
+      "sentence": 5,
+      "start": 309,
+      "end": 313,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "चेसचे",
+      "sentence": 5,
+      "start": 321,
+      "end": 326,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "कोणि",
+      "sentence": 5,
+      "start": 328,
+      "end": 331,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "देशाला",
+      "sentence": 6,
+      "start": 355,
+      "end": 360,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "वारसा",
+      "sentence": 6,
+      "start": 385,
+      "end": 389,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "वारसा",
+      "sentence": 6,
+      "start": 409,
+      "end": 413,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "भारतीयाने",
+      "sentence": 6,
+      "start": 420,
+      "end": 427,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "स्थळे",
+      "sentence": 6,
+      "start": 454,
+      "end": 457,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "संस्कृतीचे",
+      "sentence": 6,
+      "start": 466,
+      "end": 472,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "प्रतिके",
+      "sentence": 6,
+      "start": 474,
+      "end": 478,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "त्याचा",
+      "sentence": 6,
+      "start": 485,
+      "end": 489,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "आपण",
+      "sentence": 6,
+      "start": 491,
+      "end": 494,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "अभिमान",
+      "sentence": 6,
+      "start": 496,
+      "end": 501,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "कर्तव्य",
+      "sentence": 6,
+      "start": 512,
+      "end": 517,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "डेक्कन",
+      "sentence": 6,
+      "start": 528,
+      "end": 533,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "अभिमत",
+      "sentence": 6,
+      "start": 535,
+      "end": 540,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "विद्यापीठाचे",
+      "sentence": 6,
+      "start": 542,
+      "end": 550,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "पुरातत्वशास्त्रज्ञ",
+      "sentence": 6,
+      "start": 566,
+      "end": 578,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "मूर्तीशास्त्राचे",
+      "sentence": 6,
+      "start": 582,
+      "end": 591,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "अभ्यासक",
+      "sentence": 6,
+      "start": 593,
+      "end": 598,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      7,
+      8
+    ],
+    [
+      16,
+      23
+    ],
+    [
+      19,
+      22
+    ],
+    [
+      26,
+      27,
+      28
+    ],
+    [
+      29,
+      30,
+      31
+    ],
+    [
+      34,
+      35
+    ],
+    [
+      37,
+      38,
+      39
+    ]
+  ]
+}

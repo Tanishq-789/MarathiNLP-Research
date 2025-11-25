@@ -1,0 +1,251 @@
+{
+  "document_id": "document_388",
+  "sentences": [
+    "चेरी ऑन टॉप : समस्त भारतवर्षाच्या इतिहासात यापेक्षा उच्च गाणं झालं नाही.",
+    "ऑनलाईन व्हिडीओ पाहण्याकडे भारतीयांचा वाढता कल",
+    "बाबासाहेब आंबेडकर युवा मंचची मचची :  गृहमंत्र्यांना निवेदन",
+    "त्यातलाच एक प्रकार म्हणजे फेदर इयररिंग्स.",
+    "‘सास बहु’ मंदिरांमध्ये विष्णूची ३२ फुट उंच आणि २२ फुट रुंद अशी भगवान विष्णूची सहस्रबाहू मूर्ती असल्याने या मंदिराला सहस्रबाहू मंदिर या नावाने ही ओळखले जाते.",
+    "आदर्श प्रचारक मिळणें कठीण ।",
+    "मिळाले तरी टिकणें कठीण ।",
+    "आमुच्यासाठी दुजा मार्ग कोण ।",
+    "ग्रामोन्नतीचा ?"
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "चेरी",
+      "sentence": 0,
+      "start": 0,
+      "end": 4,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "भारतवर्षाच्या",
+      "sentence": 0,
+      "start": 16,
+      "end": 28,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "इतिहासात",
+      "sentence": 0,
+      "start": 29,
+      "end": 37,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "यापेक्षा",
+      "sentence": 0,
+      "start": 38,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "गाणं",
+      "sentence": 0,
+      "start": 50,
+      "end": 54,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "व्हिडीओ",
+      "sentence": 1,
+      "start": 71,
+      "end": 77,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "भारतीयांचा",
+      "sentence": 1,
+      "start": 88,
+      "end": 97,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "बाबासाहेब",
+      "sentence": 2,
+      "start": 108,
+      "end": 115,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "आंबेडकर",
+      "sentence": 2,
+      "start": 116,
+      "end": 123,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मंचची",
+      "sentence": 2,
+      "start": 128,
+      "end": 134,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "मचची",
+      "sentence": 2,
+      "start": 135,
+      "end": 140,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "गृहमंत्र्यांना",
+      "sentence": 2,
+      "start": 147,
+      "end": 157,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "निवेदन",
+      "sentence": 2,
+      "start": 157,
+      "end": 163,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "प्रकार",
+      "sentence": 3,
+      "start": 170,
+      "end": 175,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "फेदर",
+      "sentence": 3,
+      "start": 178,
+      "end": 182,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "इयररिंग्स",
+      "sentence": 3,
+      "start": 183,
+      "end": 191,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "मंदिरांमध्ये",
+      "sentence": 4,
+      "start": 208,
+      "end": 218,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "विष्णूची",
+      "sentence": 4,
+      "start": 219,
+      "end": 226,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "विष्णूची",
+      "sentence": 4,
+      "start": 259,
+      "end": 266,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "सहस्रबाहू",
+      "sentence": 4,
+      "start": 267,
+      "end": 276,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "मूर्ती",
+      "sentence": 4,
+      "start": 277,
+      "end": 281,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "मंदिराला",
+      "sentence": 4,
+      "start": 290,
+      "end": 297,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "सहस्रबाहू",
+      "sentence": 4,
+      "start": 298,
+      "end": 307,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "मंदिर",
+      "sentence": 4,
+      "start": 308,
+      "end": 313,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "नावाने",
+      "sentence": 4,
+      "start": 317,
+      "end": 322,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "प्रचारक",
+      "sentence": 5,
+      "start": 344,
+      "end": 350,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "मार्ग",
+      "sentence": 7,
+      "start": 405,
+      "end": 409,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "कोण",
+      "sentence": 7,
+      "start": 411,
+      "end": 414,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      22,
+      25,
+      26
+    ],
+    [
+      15,
+      16
+    ]
+  ]
+}

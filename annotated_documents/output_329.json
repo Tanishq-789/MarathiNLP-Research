@@ -1,0 +1,325 @@
+{
+  "document_id": "document_329",
+  "sentences": [
+    "मुख्यमंत्री फडणवीस यांचा हुपरी नगरपालिकेच्यावतीने सत्कार",
+    "फुटबॉल - हे मार्शल आर्ट्स, पोहणे, कुंपण, आणि विशेषत: आकर्षित.",
+    "मी ती देण्यास नकार दिला म्हणून माझ्यावर ही कारवाई करण्यात आली.",
+    "व्हिटॅमिन पी, रक्तवाहिन्या वर सकारात्मक प्रभाव आहे त्यांची शक्ती वाढते आणि रक्तदाब कमी करता येतो.",
+    "आषाढीला आज पहिला आषाढ",
+    "या अर्थाने, तो एक सकारात्मक वैशिष्ट्य आहे.",
+    "केंद्रीय अर्थमंत्री अरुण जेटली यांनी २०१८ चा आर्थिक सर्वेक्षण अहवाल आज संसदेत सादर केला.",
+    "मुंबई, 13 जून : महावीरासन हे एक दंडस्थितीतील आसन आहे.",
+    "या पार्श्वभूमीवर जनतेच्या सुरक्षेची काळजी घेणारे पोलीसच सुरक्षित राहू शकत नसतील तर ते आपल्या लोकशाहीचे दुर्दैव म्हणावे लागेल."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मुख्यमंत्री",
+      "sentence": 0,
+      "start": 0,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "फडणवीस",
+      "sentence": 0,
+      "start": 10,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "नगरपालिकेच्यावतीने",
+      "sentence": 0,
+      "start": 28,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "सत्कार",
+      "sentence": 0,
+      "start": 45,
+      "end": 50,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "फुटबॉल",
+      "sentence": 1,
+      "start": 55,
+      "end": 61,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "आर्ट्स",
+      "sentence": 1,
+      "start": 74,
+      "end": 79,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "कुंपण",
+      "sentence": 1,
+      "start": 88,
+      "end": 92,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "मी",
+      "sentence": 2,
+      "start": 129,
+      "end": 131,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "ती",
+      "sentence": 2,
+      "start": 132,
+      "end": 134,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "नकार",
+      "sentence": 2,
+      "start": 139,
+      "end": 143,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "माझ्यावर",
+      "sentence": 2,
+      "start": 153,
+      "end": 160,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "व्हिटॅमिन",
+      "sentence": 3,
+      "start": 195,
+      "end": 202,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "रक्तवाहिन्या",
+      "sentence": 3,
+      "start": 207,
+      "end": 217,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "प्रभाव",
+      "sentence": 3,
+      "start": 227,
+      "end": 232,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "त्यांची",
+      "sentence": 3,
+      "start": 237,
+      "end": 242,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "शक्ती",
+      "sentence": 3,
+      "start": 243,
+      "end": 248,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "रक्तदाब",
+      "sentence": 3,
+      "start": 258,
+      "end": 264,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "आषाढीला",
+      "sentence": 4,
+      "start": 299,
+      "end": 306,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "आषाढ",
+      "sentence": 4,
+      "start": 317,
+      "end": 322,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "अर्थाने",
+      "sentence": 5,
+      "start": 327,
+      "end": 332,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "तो",
+      "sentence": 5,
+      "start": 335,
+      "end": 337,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "वैशिष्ट्य",
+      "sentence": 5,
+      "start": 347,
+      "end": 353,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "अर्थमंत्री",
+      "sentence": 6,
+      "start": 372,
+      "end": 379,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "अरुण",
+      "sentence": 6,
+      "start": 380,
+      "end": 384,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "त्यांनी",
+      "sentence": 6,
+      "start": 391,
+      "end": 396,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "अहवाल",
+      "sentence": 6,
+      "start": 426,
+      "end": 431,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "संसदेत",
+      "sentence": 6,
+      "start": 436,
+      "end": 442,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "मुंबई",
+      "sentence": 7,
+      "start": 462,
+      "end": 467,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "पार्श्वभूमीवर",
+      "sentence": 8,
+      "start": 530,
+      "end": 540,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "जनतेच्या",
+      "sentence": 8,
+      "start": 541,
+      "end": 548,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "सुरक्षेची",
+      "sentence": 8,
+      "start": 549,
+      "end": 556,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "काळजी",
+      "sentence": 8,
+      "start": 557,
+      "end": 562,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "ते",
+      "sentence": 8,
+      "start": 599,
+      "end": 601,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "आपल्या",
+      "sentence": 8,
+      "start": 602,
+      "end": 607,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "दुर्दैव",
+      "sentence": 8,
+      "start": 616,
+      "end": 622,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ],
+    [
+      10,
+      13
+    ],
+    [
+      15,
+      16
+    ],
+    [
+      17,
+      19
+    ],
+    [
+      22,
+      24,
+      26
+    ],
+    [
+      28,
+      29,
+      30,
+      31
+    ]
+  ]
+}

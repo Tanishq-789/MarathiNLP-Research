@@ -1,0 +1,179 @@
+{
+  "document_id": "document_342",
+  "sentences": [
+    "5,301 5,302 5,303 .",
+    "असा सवाल केला असता त्यावर आदित्य ठाकरे म्हणाले, \"आम्ही युतीत असलो तरी खरे फॅमिली फ्रेंड आहोत.",
+    "काँग्रेसकडून मुख्यमंत्रीपदासाठीच्या शर्यतीत दिगंबर कामत, लुईझीन फालेरो, रवी नाईक आणि प्रतापसिंह राणे होते.",
+    "यामुळेच हल्लीच्या माणसांमध्ये मानसिक ताणतणाव जास्त आढळतात.",
+    "रोहितचे हे आतापर्यंतच्या विश्वचषक स्पर्धेतील चौथे शतक ठरले."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "सवाल",
+      "sentence": 1,
+      "start": 25,
+      "end": 29,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "आदित्य",
+      "sentence": 1,
+      "start": 46,
+      "end": 52,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "ठाकरे",
+      "sentence": 1,
+      "start": 53,
+      "end": 58,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "आम्ही",
+      "sentence": 1,
+      "start": 71,
+      "end": 76,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "युतीत",
+      "sentence": 1,
+      "start": 77,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "फ्रेंड",
+      "sentence": 1,
+      "start": 98,
+      "end": 103,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "काँग्रेसकडून",
+      "sentence": 2,
+      "start": 119,
+      "end": 131,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "शर्यतीत",
+      "sentence": 2,
+      "start": 153,
+      "end": 160,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "दिगंबर",
+      "sentence": 2,
+      "start": 161,
+      "end": 168,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "कामत",
+      "sentence": 2,
+      "start": 170,
+      "end": 175,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "लुईझीन",
+      "sentence": 2,
+      "start": 177,
+      "end": 184,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "नाईक",
+      "sentence": 2,
+      "start": 199,
+      "end": 204,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "प्रतापसिंह",
+      "sentence": 2,
+      "start": 208,
+      "end": 217,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "राणे",
+      "sentence": 2,
+      "start": 219,
+      "end": 223,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "माणसांमध्ये",
+      "sentence": 3,
+      "start": 227,
+      "end": 237,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "ताणतणाव",
+      "sentence": 3,
+      "start": 245,
+      "end": 253,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "रोहितचे",
+      "sentence": 4,
+      "start": 274,
+      "end": 281,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "विश्वचषक",
+      "sentence": 4,
+      "start": 296,
+      "end": 304,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      11,
+      12
+    ],
+    [
+      13,
+      14
+    ],
+    [
+      15,
+      16
+    ]
+  ]
+}

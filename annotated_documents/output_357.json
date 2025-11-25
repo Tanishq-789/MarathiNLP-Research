@@ -1,0 +1,338 @@
+{
+  "document_id": "document_357",
+  "sentences": [
+    "पडाळकर, प्राचार्या लीलावती सरोदे, संगीता देवकर, स्वाती लोखंडे, विजय पाटील, अ‍ॅड.",
+    "नितीन विखे आदी उपस्थित होते.",
+    "नगर परिषदेने संपादित केलेली व यापूर्वीच मालकाने मोबदला घेतलेली ही जागा परस्पर विक्री झाल्याचा प्रकार उपनगराध्यक्ष निशिकांत भोजने यांनी काही दिवसांपूर्वी उघडकीस आणला आहे.",
+    "कौन्सिल ऑफ बोर्ड स्कूल एज्युकेशन इन इंडियाकडून (कॉब्से) प्राप्त झालेल्या कोअर अभ्यासक्रमानुसार अकरावी व बारावीच्या विषयांतील जादा घटकांची तपासणी करण्यात आली.",
+    "सरकारने विकासाच्या नावाखाली मुंबईच्या रस्त्यांवर अराजक निर्माण केले आहे.",
+    "त्यानिमित्ताने विशेष लेख.",
+    "लोणचे अशा लोणचे म्हणून, काही soups मध्ये जोडले जातात."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "पडाळकर",
+      "sentence": 0,
+      "start": 0,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "प्राचार्या",
+      "sentence": 0,
+      "start": 10,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "लीलावती",
+      "sentence": 0,
+      "start": 19,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "संगीता",
+      "sentence": 0,
+      "start": 35,
+      "end": 41,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "देवकर",
+      "sentence": 0,
+      "start": 43,
+      "end": 48,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "लोखंडे",
+      "sentence": 0,
+      "start": 58,
+      "end": 63,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "पाटील",
+      "sentence": 0,
+      "start": 72,
+      "end": 77,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "अ‍ॅड",
+      "sentence": 0,
+      "start": 79,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "नितीन",
+      "sentence": 1,
+      "start": 61,
+      "end": 66,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "विखे",
+      "sentence": 1,
+      "start": 68,
+      "end": 72,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "परिषदेने",
+      "sentence": 2,
+      "start": 92,
+      "end": 100,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "मालकाने",
+      "sentence": 2,
+      "start": 122,
+      "end": 129,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "मोबदला",
+      "sentence": 2,
+      "start": 130,
+      "end": 136,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "जागा",
+      "sentence": 2,
+      "start": 146,
+      "end": 150,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "विक्री",
+      "sentence": 2,
+      "start": 157,
+      "end": 162,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "प्रकार",
+      "sentence": 2,
+      "start": 172,
+      "end": 177,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "उपनगराध्यक्ष",
+      "sentence": 2,
+      "start": 178,
+      "end": 190,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "निशिकांत",
+      "sentence": 2,
+      "start": 191,
+      "end": 199,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "भोजने",
+      "sentence": 2,
+      "start": 200,
+      "end": 205,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "यांनी",
+      "sentence": 2,
+      "start": 206,
+      "end": 210,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "दिवसांपूर्वी",
+      "sentence": 2,
+      "start": 216,
+      "end": 225,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "कौन्सिल",
+      "sentence": 3,
+      "start": 260,
+      "end": 267,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "स्कूल",
+      "sentence": 3,
+      "start": 276,
+      "end": 280,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "एज्युकेशन",
+      "sentence": 3,
+      "start": 281,
+      "end": 289,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "इंडियाकडून",
+      "sentence": 3,
+      "start": 293,
+      "end": 302,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "कॉब्से",
+      "sentence": 3,
+      "start": 305,
+      "end": 310,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "अभ्यासक्रमानुसार",
+      "sentence": 3,
+      "start": 326,
+      "end": 340,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "बारावीच्या",
+      "sentence": 3,
+      "start": 350,
+      "end": 359,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "विषयांतील",
+      "sentence": 3,
+      "start": 359,
+      "end": 368,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "घटकांची",
+      "sentence": 3,
+      "start": 372,
+      "end": 379,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "तपासणी",
+      "sentence": 3,
+      "start": 380,
+      "end": 386,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "सरकारने",
+      "sentence": 4,
+      "start": 430,
+      "end": 437,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "विकासाच्या",
+      "sentence": 4,
+      "start": 438,
+      "end": 447,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "नावाखाली",
+      "sentence": 4,
+      "start": 448,
+      "end": 456,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "रस्त्यांवर",
+      "sentence": 4,
+      "start": 466,
+      "end": 475,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "अराजक",
+      "sentence": 4,
+      "start": 476,
+      "end": 481,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "लोणचे",
+      "sentence": 6,
+      "start": 526,
+      "end": 531,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "लोणचे",
+      "sentence": 6,
+      "start": 536,
+      "end": 541,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "soups",
+      "sentence": 6,
+      "start": 553,
+      "end": 558,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      20,
+      21,
+      22,
+      23
+    ],
+    [
+      25,
+      30
+    ]
+  ]
+}

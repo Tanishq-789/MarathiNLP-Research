@@ -1,0 +1,155 @@
+{
+  "document_id": "document_355",
+  "sentences": [
+    "जागते रहो.",
+    "तिला 2015 मध्ये अंतिम लढतीत हिंदुस्थानच्या सायना नेहवालकडून पराभव पत्करावा लागला होता.",
+    "दळवींची चौफेर सामाजिक जाणीव आणि त्याला असलेला पत्रकारितेचा हलकासा स्पर्श.",
+    "‘वाचक सेतू’ हा त्यातलाच एक प्रयोग म्हणता येईल.",
+    "महिनाभर मराठी भाषिकांमध्ये जागृती सुरू असून, सोमवारी महामेळाव्याला हजारोंच्या संख्येने उपस्थित राहावे, असे आवाहन म."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "तिला",
+      "sentence": 1,
+      "start": 12,
+      "end": 16,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "हिंदुस्थानच्या",
+      "sentence": 1,
+      "start": 38,
+      "end": 51,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "सायना",
+      "sentence": 1,
+      "start": 52,
+      "end": 57,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "नेहवालकडून",
+      "sentence": 1,
+      "start": 58,
+      "end": 69,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "दळवींची",
+      "sentence": 2,
+      "start": 90,
+      "end": 98,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "जाणीव",
+      "sentence": 2,
+      "start": 116,
+      "end": 121,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "त्याला",
+      "sentence": 2,
+      "start": 130,
+      "end": 135,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "पत्रकारितेचा",
+      "sentence": 2,
+      "start": 145,
+      "end": 157,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "स्पर्श",
+      "sentence": 2,
+      "start": 162,
+      "end": 167,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "सेतू",
+      "sentence": 3,
+      "start": 171,
+      "end": 175,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "प्रयोग",
+      "sentence": 3,
+      "start": 197,
+      "end": 202,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "भाषिकांमध्ये",
+      "sentence": 4,
+      "start": 231,
+      "end": 242,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "जागृती",
+      "sentence": 4,
+      "start": 243,
+      "end": 249,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "महामेळाव्याला",
+      "sentence": 4,
+      "start": 274,
+      "end": 286,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "संख्येने",
+      "sentence": 4,
+      "start": 297,
+      "end": 304,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "आवाहन",
+      "sentence": 4,
+      "start": 321,
+      "end": 327,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      2,
+      3
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      9,
+      11
+    ]
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "document_id": "document_323",
+  "sentences": [
+    "ट्रीपचे नियोजन करा",
+    "खरेदीदार वापर, उच्च कार्यक्षमता, सुलभ देखभाल सोपी आवर्जून दखल घेण्यासारखे, मॉडेल सकारात्मक प्रतिसाद.",
+    "तू आम्हाला टीव्हीवर रोजच दिसते पण तुला कथ्थक करताना पाहण्याची मज्जा काही वेगळीच होती अशी खंत तिला ओळखणारे तिच्यापुढे मांडतात.",
+    "सध्या सुरू असलेल्या विपुल अतिसार.",
+    "तर ३,२५५ विद्यार्थी अनुत्तीर्ण झाले.",
+    "या करारानुसार लोकांचा स्वतःचे सरकार स्वतः निवडण्याचा हक्क ही दोन्ही राष्ट्रे मान्य करत होती.",
+    "पण, या हॅट परिधान किंवा आपल्या नक्षीदार एक ऍक्सेसरीसाठी वापरून, लोक रशियन सैन्य मान परदेशातील मूर्तींत पाऊस पाडण्याचे नाही, आणि उपहास अधिकारी सेट फार महत्वाचे आहे.",
+    ">>> दिनेशदा, गोरा गांधी कडे ना?",
+    "साइटवर प्रश्नावली पूर्ण करताना आपल्या भेटीची तारीख दिली जाईल.",
+    "नुसता आयटम बघून काय उपयोग यार\"",
+    "लेफ्टनंटच्या कॅप्टिव्ह ओठ असलेल्या रेड आर्मीच्या सैनिकांच्या मानवी वागणुकीमुळे आम्हाला शोलोक्होची कथा, द्वेषाची विज्ञान समजते.",
+    "बेळगावात म."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "ट्रीप",
+      "sentence": 0,
+      "start": 0,
+      "end": 3,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "नियोजन",
+      "sentence": 0,
+      "start": 7,
+      "end": 13,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "खरेदीदार",
+      "sentence": 1,
+      "start": 17,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "वापर",
+      "sentence": 1,
+      "start": 25,
+      "end": 29,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "कार्यक्षमता",
+      "sentence": 1,
+      "start": 36,
+      "end": 45,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "मॉडेल",
+      "sentence": 1,
+      "start": 86,
+      "end": 91,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "प्रतिसाद",
+      "sentence": 1,
+      "start": 101,
+      "end": 108,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "तू",
+      "sentence": 2,
+      "start": 111,
+      "end": 112,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "आम्हाला",
+      "sentence": 2,
+      "start": 114,
+      "end": 120,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "टीव्ही",
+      "sentence": 2,
+      "start": 121,
+      "end": 124,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "तुला",
+      "sentence": 2,
+      "start": 137,
+      "end": 140,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "कथ्थक",
+      "sentence": 2,
+      "start": 141,
+      "end": 146,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "मज्जा",
+      "sentence": 2,
+      "start": 157,
+      "end": 161,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "तिला",
+      "sentence": 2,
+      "start": 181,
+      "end": 184,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "तिच्या",
+      "sentence": 2,
+      "start": 193,
+      "end": 197,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "अतिसार",
+      "sentence": 3,
+      "start": 216,
+      "end": 222,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "विद्यार्थी",
+      "sentence": 4,
+      "start": 233,
+      "end": 239,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "करार",
+      "sentence": 5,
+      "start": 247,
+      "end": 251,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "लोकांचा",
+      "sentence": 5,
+      "start": 256,
+      "end": 262,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "सरकार",
+      "sentence": 5,
+      "start": 269,
+      "end": 274,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "हक्क",
+      "sentence": 5,
+      "start": 283,
+      "end": 286,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "राष्ट्रे",
+      "sentence": 5,
+      "start": 295,
+      "end": 300,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "हॅट",
+      "sentence": 6,
+      "start": 310,
+      "end": 313,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "आपल्या",
+      "sentence": 6,
+      "start": 324,
+      "end": 329,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "ऍक्सेसरी",
+      "sentence": 6,
+      "start": 339,
+      "end": 345,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "सैन्य",
+      "sentence": 6,
+      "start": 366,
+      "end": 370,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "मूर्तीं",
+      "sentence": 6,
+      "start": 385,
+      "end": 390,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "पाऊस",
+      "sentence": 6,
+      "start": 391,
+      "end": 395,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "उपहास",
+      "sentence": 6,
+      "start": 409,
+      "end": 414,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "अधिकारी",
+      "sentence": 6,
+      "start": 415,
+      "end": 421,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "दिनेशदा",
+      "sentence": 7,
+      "start": 430,
+      "end": 436,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "गोरा",
+      "sentence": 7,
+      "start": 439,
+      "end": 442,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "गांधी",
+      "sentence": 7,
+      "start": 444,
+      "end": 448,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "साइट",
+      "sentence": 8,
+      "start": 452,
+      "end": 455,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "प्रश्नावली",
+      "sentence": 8,
+      "start": 458,
+      "end": 465,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "आपल्या",
+      "sentence": 8,
+      "start": 476,
+      "end": 481,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "तारीख",
+      "sentence": 8,
+      "start": 488,
+      "end": 492,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "आयटम",
+      "sentence": 9,
+      "start": 501,
+      "end": 505,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "उपयोग",
+      "sentence": 9,
+      "start": 512,
+      "end": 516,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "आर्मी",
+      "sentence": 10,
+      "start": 552,
+      "end": 556,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "सैनिक",
+      "sentence": 10,
+      "start": 561,
+      "end": 565,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "वागणूक",
+      "sentence": 10,
+      "start": 574,
+      "end": 579,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "आम्हाला",
+      "sentence": 10,
+      "start": 582,
+      "end": 588,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "द्वेष",
+      "sentence": 10,
+      "start": 605,
+      "end": 608,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "विज्ञान",
+      "sentence": 10,
+      "start": 611,
+      "end": 616,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "बेळगाव",
+      "sentence": 11,
+      "start": 619,
+      "end": 624,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      8,
+      11,
+      15,
+      17
+    ],
+    [
+      37,
+      38
+    ]
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "document_id": "document_394",
+  "sentences": [
+    "बारामती देशात अव्वल म्हणूनचं सर्वांना हवीहवीशी- सुप्रिया सुळे",
+    "तुमच्या एकट्याचे कार्य नेत्रदीपक किंवा समाजावर उपकार करणारे नाहीये.",
+    "तरीही एक सिग्नलवर किमान तीन वेळा थांबावे लागत आहे.",
+    "परंतु रिझर्व्ह बँकेने हस्तक्षेप केल्यानंतर दिवसअखेरीस त्यात सुधारणा होऊन रुपया 24 पैशांनी घसरुन 71.99 झाला.",
+    "एकाच वेळी हसवण्याची आणि रडवण्याची किमया करणा-या संजीवकुमारने सादर केलेला नायक ‘बर्फी’मध्ये चॅर्ली चॅप्लिनची चपळता आणि कारुण्य घेऊन अवतरतो.",
+    "तथाकथित अँकर भाडेकरी हायपरमार्केट \"एल्डोरॅडो\", फूड कोर्ट झोन \"मक पीक\", बेकरी \"पॉल बेकरी\", किरकोळ सुपरमार्केट \"मॉनेटका\", कॉस्मेटिक आणि सुगंधी द्रव्य \"एल एटोइल\" आहेत.",
+    "-5230, व्ही."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "देशात",
+      "sentence": 0,
+      "start": 8,
+      "end": 13,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "सर्वांना",
+      "sentence": 0,
+      "start": 24,
+      "end": 30,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "सुप्रिया",
+      "sentence": 0,
+      "start": 41,
+      "end": 48,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "सुळे",
+      "sentence": 0,
+      "start": 49,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "कार्य",
+      "sentence": 1,
+      "start": 69,
+      "end": 73,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "समाजावर",
+      "sentence": 1,
+      "start": 92,
+      "end": 99,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "उपकार",
+      "sentence": 1,
+      "start": 100,
+      "end": 105,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "सिग्नलवर",
+      "sentence": 2,
+      "start": 132,
+      "end": 140,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "वेळा",
+      "sentence": 2,
+      "start": 149,
+      "end": 153,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "रिझर्व्ह",
+      "sentence": 3,
+      "start": 179,
+      "end": 186,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "बँकेने",
+      "sentence": 3,
+      "start": 187,
+      "end": 192,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "सुधारणा",
+      "sentence": 3,
+      "start": 214,
+      "end": 220,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "रुपया",
+      "sentence": 3,
+      "start": 229,
+      "end": 233,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "पैशांनी",
+      "sentence": 3,
+      "start": 237,
+      "end": 243,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "किमया",
+      "sentence": 4,
+      "start": 278,
+      "end": 282,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "संजीवकुमारने",
+      "sentence": 4,
+      "start": 292,
+      "end": 303,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "नायक",
+      "sentence": 4,
+      "start": 314,
+      "end": 317,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "बर्फी’मध्ये",
+      "sentence": 4,
+      "start": 321,
+      "end": 329,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "चॅप्लिनची",
+      "sentence": 4,
+      "start": 338,
+      "end": 345,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "कारुण्य",
+      "sentence": 4,
+      "start": 355,
+      "end": 360,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "अँकर",
+      "sentence": 5,
+      "start": 395,
+      "end": 399,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "भाडेकरी",
+      "sentence": 5,
+      "start": 400,
+      "end": 406,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "हायपरमार्केट",
+      "sentence": 5,
+      "start": 407,
+      "end": 418,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "एल्डोरॅडो",
+      "sentence": 5,
+      "start": 421,
+      "end": 429,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "कोर्ट",
+      "sentence": 5,
+      "start": 437,
+      "end": 441,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "बेकरी",
+      "sentence": 5,
+      "start": 459,
+      "end": 463,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "बेकरी",
+      "sentence": 5,
+      "start": 471,
+      "end": 475,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "सुपरमार्केट",
+      "sentence": 5,
+      "start": 479,
+      "end": 490,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "मॉनेटका",
+      "sentence": 5,
+      "start": 493,
+      "end": 500,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "कॉस्मेटिक",
+      "sentence": 5,
+      "start": 503,
+      "end": 512,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "द्रव्य",
+      "sentence": 5,
+      "start": 523,
+      "end": 527,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      4,
+      5
+    ],
+    [
+      13,
+      15
+    ],
+    [
+      22,
+      23
+    ]
+  ]
+}

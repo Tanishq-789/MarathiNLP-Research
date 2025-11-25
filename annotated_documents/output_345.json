@@ -1,0 +1,423 @@
+{
+  "document_id": "document_345",
+  "sentences": [
+    "रूप आणि किनारा हात राहिले.",
+    "पण सगळ्यांचे हे मागणे पूर्ण होत नाही.",
+    "सत्यता मुख्य परीक्षा आणि फर दर्जाचे skins त्वचा तोपर्यंत तो आहे, आतील बाजूस पोहोचण्याचा प्रयत्न करेल.",
+    "निधी स्वतंत्र वापर दु: खी परिणाम ठरतो.",
+    "लालबागच्या राजाच्या पाद्यपूजासाठी आलेल्या काही भक्तांकडून लालबागच्या राजाच्या मंडपासभोवती रांगोळी काढण्यात आली होती.",
+    "अनेक सेल्फीप्रेमींना या रांगोळीसोबत सेल्फी घेण्याचा मोह आवरता आला नाही.",
+    "पत्रांक ४६३",
+    "अशा भिन्न 1280",
+    "माढ्यात मोदींची सभा, विजयसिंह मोहिते पाटीलही हाती कमळ घेणार?",
+    "कोल्हापूर : देवेंद्र फडणवीस हे फार काळ विरोधी पक्षनेते किंवा माजी मुख्यमंत्री राहणार नाहीत, असं भाकीत संघाचे सरकार्यवाहक भय्याजी जोशी यांनी केलं होतं.",
+    "याचे फरकाचे पुरावे आपल्याला प्राचीन ग्रंथांतून तसेच शिलालेखांतून सापडतात.",
+    "वगैरे ताजे अन्न द्या.",
+    "फ्रोजन/ रीहीटेड अन्न यामुळेही पोट दुखू शकते.",
+    "अर्धे कच्चे गडबडीत खात असेल तरीही त्रास होतो.",
+    "बदलेली जीवनशैली व सतत एका जागेवर बसून काम करण्याच्या सवयीमुळे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "किनारा",
+      "sentence": 0,
+      "start": 7,
+      "end": 12,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "सत्यता",
+      "sentence": 2,
+      "start": 53,
+      "end": 58,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "परीक्षा",
+      "sentence": 2,
+      "start": 65,
+      "end": 69,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "skins",
+      "sentence": 2,
+      "start": 85,
+      "end": 89,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "त्वचा",
+      "sentence": 2,
+      "start": 91,
+      "end": 94,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "तो",
+      "sentence": 2,
+      "start": 102,
+      "end": 103,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "बाजूस",
+      "sentence": 2,
+      "start": 116,
+      "end": 120,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "प्रयत्न",
+      "sentence": 2,
+      "start": 131,
+      "end": 135,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "निधी",
+      "sentence": 3,
+      "start": 140,
+      "end": 143,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "वापर",
+      "sentence": 3,
+      "start": 150,
+      "end": 153,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "परिणाम",
+      "sentence": 3,
+      "start": 160,
+      "end": 164,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "राजाच्या",
+      "sentence": 4,
+      "start": 168,
+      "end": 173,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "भक्तांकडून",
+      "sentence": 4,
+      "start": 192,
+      "end": 201,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "राजाच्या",
+      "sentence": 4,
+      "start": 210,
+      "end": 215,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "मंडपासभोवती",
+      "sentence": 4,
+      "start": 217,
+      "end": 228,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "रांगोळी",
+      "sentence": 4,
+      "start": 229,
+      "end": 234,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "सेल्फीप्रेमींना",
+      "sentence": 5,
+      "start": 252,
+      "end": 264,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "रांगोळीसोबत",
+      "sentence": 5,
+      "start": 269,
+      "end": 278,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "सेल्फी",
+      "sentence": 5,
+      "start": 279,
+      "end": 283,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "पत्रांक",
+      "sentence": 6,
+      "start": 305,
+      "end": 310,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "माढ्यात",
+      "sentence": 8,
+      "start": 329,
+      "end": 334,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "मोदींची",
+      "sentence": 8,
+      "start": 336,
+      "end": 342,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "विजयसिंह",
+      "sentence": 8,
+      "start": 349,
+      "end": 356,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "मोहिते",
+      "sentence": 8,
+      "start": 357,
+      "end": 362,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "पाटीलही",
+      "sentence": 8,
+      "start": 363,
+      "end": 369,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "कोल्हापूर",
+      "sentence": 9,
+      "start": 381,
+      "end": 388,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "देवेंद्र",
+      "sentence": 9,
+      "start": 392,
+      "end": 397,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "फडणवीस",
+      "sentence": 9,
+      "start": 399,
+      "end": 405,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "पक्षनेते",
+      "sentence": 9,
+      "start": 427,
+      "end": 432,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "मुख्यमंत्री",
+      "sentence": 9,
+      "start": 440,
+      "end": 447,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "भाकीत",
+      "sentence": 9,
+      "start": 455,
+      "end": 459,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "संघाचे",
+      "sentence": 9,
+      "start": 461,
+      "end": 466,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "सरकार्यवाहक",
+      "sentence": 9,
+      "start": 467,
+      "end": 476,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "भय्याजी",
+      "sentence": 9,
+      "start": 477,
+      "end": 482,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "जोशी",
+      "sentence": 9,
+      "start": 484,
+      "end": 487,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "यांनी",
+      "sentence": 9,
+      "start": 489,
+      "end": 492,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "याचे",
+      "sentence": 10,
+      "start": 499,
+      "end": 502,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "फरकाचे",
+      "sentence": 10,
+      "start": 504,
+      "end": 509,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "पुरावे",
+      "sentence": 10,
+      "start": 511,
+      "end": 515,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "आपल्याला",
+      "sentence": 10,
+      "start": 516,
+      "end": 522,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "ग्रंथांतून",
+      "sentence": 10,
+      "start": 532,
+      "end": 539,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "शिलालेखांतून",
+      "sentence": 10,
+      "start": 549,
+      "end": 558,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "अन्न",
+      "sentence": 11,
+      "start": 568,
+      "end": 570,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "अन्न",
+      "sentence": 12,
+      "start": 586,
+      "end": 588,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "त्रास",
+      "sentence": 13,
+      "start": 630,
+      "end": 633,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "जीवनशैली",
+      "sentence": 14,
+      "start": 646,
+      "end": 652,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "सवयीमुळे",
+      "sentence": 14,
+      "start": 684,
+      "end": 690,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      16,
+      18
+    ],
+    [
+      20,
+      22
+    ],
+    [
+      29,
+      30,
+      31
+    ],
+    [
+      35,
+      36,
+      37
+    ],
+    [
+      44,
+      45,
+      46
+    ]
+  ]
+}

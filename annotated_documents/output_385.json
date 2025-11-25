@@ -1,0 +1,372 @@
+{
+  "document_id": "document_385",
+  "sentences": [
+    "सोमवार, 13 जानेवारी 2020",
+    "यात त्याच्या 14 शतकांचा आणि 52 अर्धशतकांचा समावेश आहे.",
+    "मज्जातंतूची सूज व वेदना ठिकाणी स्वतः जोरदार सहज लक्षात वेदना प्रगट करण्यास सक्षम आहे जेथे मज्जातंतू, तसेच स्नायू कमकुवत आणि हळूहळू नष्ट होणे.",
+    "या याचिकेला वाढवण बंदर विरोधी संघर्ष समितीने दिलेली आव्हान याचिका,",
+    "विज्ञान हा एक मनोरंजक विषय आहे आणि आम्ही या चित्रपट महोत्सवाच्या माध्यमातून शिक्षणातील दरी कमी करण्याच्या दिशेने प्रयत्न करीत आहोत.",
+    "ही मंत्रालयातील कामाची पद्धत.",
+    "किनारपट्टीवरील मत्स्य व्यवसाय करणाऱया कोळी बांधवांसाठी विश्वबंधुत्वाचा संदेश आचरणात आणणारा सर्वात मोठा परिवार निर्माण करण्याचे सर्व श्रेय पांडुरंगशास्त्रीना जाते.",
+    "त्यामुळे त्यांच्याकडे संकुचित विचारधारेला थारा नसतो.",
+    "एक म्हणजे रुग्णालयाच्या खोलीचे भाडे आणि दुसरे खास रोगासाठी दायित्व.",
+    "चांगली संधी कापरासारखी उडून जाते.",
+    "आज गुढीपाडवा."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "त्याच्या",
+      "sentence": 1,
+      "start": 34,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "शतकांचा",
+      "sentence": 1,
+      "start": 45,
+      "end": 51,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "मज्जातंतूची",
+      "sentence": 2,
+      "start": 77,
+      "end": 85,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "वेदना",
+      "sentence": 2,
+      "start": 93,
+      "end": 96,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "ठिकाणी",
+      "sentence": 2,
+      "start": 98,
+      "end": 102,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "स्वतः",
+      "sentence": 2,
+      "start": 104,
+      "end": 107,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "वेदना",
+      "sentence": 2,
+      "start": 117,
+      "end": 120,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "मज्जातंतू",
+      "sentence": 2,
+      "start": 142,
+      "end": 150,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "स्नायू",
+      "sentence": 2,
+      "start": 159,
+      "end": 163,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "याचिकेला",
+      "sentence": 3,
+      "start": 282,
+      "end": 289,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "बंदर",
+      "sentence": 3,
+      "start": 296,
+      "end": 299,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "संघर्ष",
+      "sentence": 3,
+      "start": 306,
+      "end": 310,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "समितीने",
+      "sentence": 3,
+      "start": 312,
+      "end": 317,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "याचिका",
+      "sentence": 3,
+      "start": 329,
+      "end": 333,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "विज्ञान",
+      "sentence": 4,
+      "start": 337,
+      "end": 342,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "विषय",
+      "sentence": 4,
+      "start": 354,
+      "end": 357,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "आम्ही",
+      "sentence": 4,
+      "start": 368,
+      "end": 371,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "चित्रपट",
+      "sentence": 4,
+      "start": 376,
+      "end": 381,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "माध्यमातून",
+      "sentence": 4,
+      "start": 395,
+      "end": 403,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "शिक्षणातील",
+      "sentence": 4,
+      "start": 405,
+      "end": 413,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "दिशेने",
+      "sentence": 4,
+      "start": 426,
+      "end": 430,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "प्रयत्न",
+      "sentence": 4,
+      "start": 431,
+      "end": 436,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "मंत्रालयातील",
+      "sentence": 5,
+      "start": 446,
+      "end": 456,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "कामाची",
+      "sentence": 5,
+      "start": 458,
+      "end": 463,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "पद्धत",
+      "sentence": 5,
+      "start": 465,
+      "end": 469,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "व्यवसाय",
+      "sentence": 6,
+      "start": 484,
+      "end": 489,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "कोळी",
+      "sentence": 6,
+      "start": 497,
+      "end": 500,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "बांधवांसाठी",
+      "sentence": 6,
+      "start": 502,
+      "end": 511,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "संदेश",
+      "sentence": 6,
+      "start": 527,
+      "end": 531,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "परिवार",
+      "sentence": 6,
+      "start": 554,
+      "end": 559,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "श्रेय",
+      "sentence": 6,
+      "start": 577,
+      "end": 580,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "त्यांच्याकडे",
+      "sentence": 7,
+      "start": 606,
+      "end": 615,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "विचारधारेला",
+      "sentence": 7,
+      "start": 624,
+      "end": 633,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "थारा",
+      "sentence": 7,
+      "start": 635,
+      "end": 638,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "रुग्णालयाच्या",
+      "sentence": 8,
+      "start": 650,
+      "end": 661,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "खोलीचे",
+      "sentence": 8,
+      "start": 663,
+      "end": 668,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "भाडे",
+      "sentence": 8,
+      "start": 670,
+      "end": 673,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "रोगासाठी",
+      "sentence": 8,
+      "start": 688,
+      "end": 694,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "दायित्व",
+      "sentence": 8,
+      "start": 696,
+      "end": 701,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "संधी",
+      "sentence": 9,
+      "start": 711,
+      "end": 714,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "कापरासारखी",
+      "sentence": 9,
+      "start": 716,
+      "end": 725,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "गुढीपाडवा",
+      "sentence": 10,
+      "start": 736,
+      "end": 744,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      5,
+      11
+    ],
+    [
+      7,
+      10
+    ],
+    [
+      13,
+      17
+    ],
+    [
+      39,
+      40
+    ]
+  ]
+}

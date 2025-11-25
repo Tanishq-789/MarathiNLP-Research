@@ -1,0 +1,25 @@
+{
+  "document_id": "document_369",
+  "sentences": [
+    "ते ऐकल्यावर केशव बेशुद्ध पडला."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "ते",
+      "sentence": 0,
+      "start": 0,
+      "end": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "केशव",
+      "sentence": 0,
+      "start": 11,
+      "end": 14,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

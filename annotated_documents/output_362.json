@@ -1,0 +1,363 @@
+{
+  "document_id": "document_362",
+  "sentences": [
+    "इतिहास बघता विवाहसंस्थेचा उगम हा पुरुषकेंद्री व्यवस्थेतून झालेला दिसून येतो.",
+    "यावेळी पुलवामा घटनेत विरत्व प्राप्त झालेल्या जवानांना अभिवादन करण्यात आले.",
+    "मुंबई – बिग बॉस मराठीच्या घरामध्ये काल रंगला मर्डर मिस्ट्री हा टास्क.",
+    "त्यामुळे नेत्रदानाच्या प्रक्रियेत आर्थिक व्यवहाराचा संबंध येत नाही.",
+    "नकारात्मक परिणाम बद्दल थोडेसे",
+    "नवी दिल्ली – भाजीपाल्याचे कमी झालेले भाव आणि फळांच्या घसरलेल्या किमती यामुळे डिसेंबरमधील किरकोळ महागाईची आकडेवारी दिलासा देणारी ठरली आहे.",
+    "मॉस्को MTPL धोरण तपासणी जात आणि निदान वाहन कार्ड प्राप्त नंतर जारी केले आहेत.",
+    "ये शहर लेबनानच्या प्रमुख पर्यटन स्थळांपैकी एक आहे.",
+    "हे दोघेही कट्टर विरोधक आहेत.",
+    "भारताने शारजा जिंकला",
+    "प्रतिजैविक पदार्थ देखील विषमज्वर, गंभीर रोग, अनेक ओळख तोंडी गोळ्या घेणे.",
+    "मुंबई स्वच्छ आणि स्वस्त ऊर्जा म्हणून ओळख असलेल्या जलविद्युत ऊर्जेच्या निर्मितीसाठी राज्यात 50 मेगावॅटपेक्षा जास्त क्षमतेचा स्वतंत्र वीज प्रकल्प उभारण्यासाठी अनुकूल जागाच."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "इतिहास",
+      "sentence": 0,
+      "start": 0,
+      "end": 5,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "व्यवस्थेतून",
+      "sentence": 0,
+      "start": 42,
+      "end": 51,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "पुलवामा",
+      "sentence": 1,
+      "start": 75,
+      "end": 81,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "घटनेत",
+      "sentence": 1,
+      "start": 82,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "विरत्व",
+      "sentence": 1,
+      "start": 88,
+      "end": 93,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "जवानांना",
+      "sentence": 1,
+      "start": 105,
+      "end": 111,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "मुंबई",
+      "sentence": 2,
+      "start": 129,
+      "end": 133,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "मराठीच्या",
+      "sentence": 2,
+      "start": 144,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "घरामध्ये",
+      "sentence": 2,
+      "start": 153,
+      "end": 160,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मर्डर",
+      "sentence": 2,
+      "start": 170,
+      "end": 174,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "मिस्ट्री",
+      "sentence": 2,
+      "start": 175,
+      "end": 180,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "टास्क",
+      "sentence": 2,
+      "start": 184,
+      "end": 188,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "नेत्रदानाच्या",
+      "sentence": 3,
+      "start": 199,
+      "end": 208,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "प्रक्रियेत",
+      "sentence": 3,
+      "start": 209,
+      "end": 215,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "संबंध",
+      "sentence": 3,
+      "start": 231,
+      "end": 236,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "परिणाम",
+      "sentence": 4,
+      "start": 250,
+      "end": 255,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "दिल्ली",
+      "sentence": 5,
+      "start": 268,
+      "end": 273,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "भाजीपाल्याचे",
+      "sentence": 5,
+      "start": 276,
+      "end": 286,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "किमती",
+      "sentence": 5,
+      "start": 317,
+      "end": 321,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "महागाईची",
+      "sentence": 5,
+      "start": 346,
+      "end": 353,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "आकडेवारी",
+      "sentence": 5,
+      "start": 354,
+      "end": 361,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "मॉस्को",
+      "sentence": 6,
+      "start": 382,
+      "end": 386,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "धोरण",
+      "sentence": 6,
+      "start": 392,
+      "end": 396,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "तपासणी",
+      "sentence": 6,
+      "start": 397,
+      "end": 403,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "वाहन",
+      "sentence": 6,
+      "start": 413,
+      "end": 417,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "कार्ड",
+      "sentence": 6,
+      "start": 418,
+      "end": 422,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "स्थळांपैकी",
+      "sentence": 7,
+      "start": 463,
+      "end": 471,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "दोघेही",
+      "sentence": 8,
+      "start": 483,
+      "end": 488,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "विरोधक",
+      "sentence": 8,
+      "start": 494,
+      "end": 499,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "भारताने",
+      "sentence": 9,
+      "start": 509,
+      "end": 515,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "शारजा",
+      "sentence": 9,
+      "start": 516,
+      "end": 520,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "पदार्थ",
+      "sentence": 10,
+      "start": 533,
+      "end": 538,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "विषमज्वर",
+      "sentence": 10,
+      "start": 545,
+      "end": 552,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "गोळ्या",
+      "sentence": 10,
+      "start": 577,
+      "end": 581,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "मुंबई",
+      "sentence": 11,
+      "start": 589,
+      "end": 593,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "ऊर्जा",
+      "sentence": 11,
+      "start": 604,
+      "end": 607,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "ऊर्जेच्या",
+      "sentence": 11,
+      "start": 625,
+      "end": 631,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "निर्मितीसाठी",
+      "sentence": 11,
+      "start": 632,
+      "end": 641,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "राज्यात",
+      "sentence": 11,
+      "start": 642,
+      "end": 647,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "क्षमतेचा",
+      "sentence": 11,
+      "start": 668,
+      "end": 674,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "प्रकल्प",
+      "sentence": 11,
+      "start": 685,
+      "end": 689,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      2,
+      3
+    ],
+    [
+      15,
+      16,
+      17,
+      18
+    ],
+    [
+      38,
+      39
+    ]
+  ]
+}

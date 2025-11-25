@@ -1,0 +1,66 @@
+{
+  "document_id": "document_359",
+  "sentences": [
+    "धूम्रपानाच्या व्यसनातून मुक्त झालेल्या व्यक्तींमध्ये तीव्र नैराश्याचं प्रमाण ४.८८ टक्क्यांपासून ६.०४ टक्क्यांपर्यंत वाढलं.",
+    "मात्र यावेळी राज्य सरकारने घेतलेला निर्णय राज्यातील हजारो."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "व्यसनातून",
+      "sentence": 0,
+      "start": 10,
+      "end": 18,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "व्यक्तींमध्ये",
+      "sentence": 0,
+      "start": 33,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "प्रमाण",
+      "sentence": 0,
+      "start": 60,
+      "end": 64,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "टक्क्यांपासून",
+      "sentence": 0,
+      "start": 72,
+      "end": 83,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "राज्य",
+      "sentence": 1,
+      "start": 121,
+      "end": 124,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "सरकारने",
+      "sentence": 1,
+      "start": 125,
+      "end": 131,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "निर्णय",
+      "sentence": 1,
+      "start": 141,
+      "end": 145,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

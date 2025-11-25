@@ -1,0 +1,130 @@
+{
+  "document_id": "document_314",
+  "sentences": [
+    "लसीकरण परिचय तो एक नवीन निर्जंतुकीकरण सुई वापर करणे आवश्यक आहे.",
+    "त्यांचा ऑस्ट्रेलियाबरोबरचा परतीचा सामना सिडनी येथे पुढील […]",
+    "बिग बॉसच्या पहिल्याच आठवड्यात वैशाली आणि परागमध्ये खटके उडाले  होते.",
+    "मग गरम सूप, मंच्युरियनचा आस्वाद घ्यायचा.",
+    "त्याग हे ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "लसीकरण",
+      "sentence": 0,
+      "start": 0,
+      "end": 6,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "परिचय",
+      "sentence": 0,
+      "start": 9,
+      "end": 13,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "तो",
+      "sentence": 0,
+      "start": 16,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "निर्जंतुकीकरण",
+      "sentence": 0,
+      "start": 27,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "त्यांचा",
+      "sentence": 1,
+      "start": 49,
+      "end": 54,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "ऑस्ट्रेलिया",
+      "sentence": 1,
+      "start": 55,
+      "end": 64,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "सामना",
+      "sentence": 1,
+      "start": 74,
+      "end": 78,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "सिडनी",
+      "sentence": 1,
+      "start": 80,
+      "end": 84,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "आठवड्यात",
+      "sentence": 2,
+      "start": 119,
+      "end": 126,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "पराग",
+      "sentence": 2,
+      "start": 137,
+      "end": 141,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "खटके",
+      "sentence": 2,
+      "start": 146,
+      "end": 150,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "मंच्युरियन",
+      "sentence": 3,
+      "start": 177,
+      "end": 184,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "आस्वाद",
+      "sentence": 3,
+      "start": 188,
+      "end": 192,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "त्याग",
+      "sentence": 4,
+      "start": 206,
+      "end": 209,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      1,
+      2
+    ]
+  ]
+}

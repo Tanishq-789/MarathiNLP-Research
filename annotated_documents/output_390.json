@@ -1,0 +1,425 @@
+{
+  "document_id": "document_390",
+  "sentences": [
+    "बाबासाहेब आंबेडकर यांनी इंग्रजांना महार योद्ध्यांची शौर्यगाथा दाखवून महार रेजिमेंटची स्थापना करण्यास भाग पाडले.",
+    "वृत्तांत घरात बसूनही लिहिता येईल हो, पण तो गारठा आणि तो माहोल आणणार कुठून?",
+    "यावर मला काही बोलायचे आहे पण बोलणार नाही.",
+    "कामाच्या लवचिक वेळा वेतन आणि बोनसपेक्षा जास्त महत्त्वाच्या!",
+    "ज्यांनी तो भरलेला नाही त्यांच्यावर एक महिन्याच्या आत फौजदारी कारवाई करण्याची मुभा कायद्यात आहे, त्यामुळे अशी कारवाई न करता मुदत वाढवून द्यावी, अशी मागणी याचिकादाराच्या वतीने करण्यात आली.",
+    "पण आता पंतप्रधान नरेंद्र मोदी आणि मुख्यमंत्री उद्धव ठाकरेंची भेट झाल्यावर त्यांनी याला पाठिंबा दिला आहे.",
+    "अल्पवयीन मुलीने अंगावर रंग टाकू न दिल्याने तिघांनी तिच्यावर सामूहिक बलात्कार केल्याची घटना सोमवारी घडली.",
+    "यावेळी चित्रपट पाहण्यासाठी शिवसैनिकांनी व जनतेने एकच गर्दी केली होती.",
+    "तुर्की मांस एक चांगली चव आहे आणि एक आहारातील मानले जाते.",
+    "काय बोलत आहेत या?"
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "बाबासाहेब",
+      "sentence": 0,
+      "start": 0,
+      "end": 8,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "आंबेडकर",
+      "sentence": 0,
+      "start": 10,
+      "end": 16,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "त्यांनी",
+      "sentence": 0,
+      "start": 18,
+      "end": 23,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "इंग्रजांना",
+      "sentence": 0,
+      "start": 25,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "योद्ध्यांची",
+      "sentence": 0,
+      "start": 38,
+      "end": 46,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "शौर्यगाथा",
+      "sentence": 0,
+      "start": 48,
+      "end": 55,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "रेजिमेंटची",
+      "sentence": 0,
+      "start": 65,
+      "end": 73,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "वृत्तांत",
+      "sentence": 1,
+      "start": 97,
+      "end": 103,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "घरात",
+      "sentence": 1,
+      "start": 105,
+      "end": 109,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "तो",
+      "sentence": 1,
+      "start": 130,
+      "end": 131,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "गारठा",
+      "sentence": 1,
+      "start": 133,
+      "end": 137,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "तो",
+      "sentence": 1,
+      "start": 142,
+      "end": 143,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "माहोल",
+      "sentence": 1,
+      "start": 145,
+      "end": 149,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "मला",
+      "sentence": 2,
+      "start": 173,
+      "end": 175,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "कामाच्या",
+      "sentence": 3,
+      "start": 198,
+      "end": 204,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "वेळा",
+      "sentence": 3,
+      "start": 212,
+      "end": 215,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "वेतन",
+      "sentence": 3,
+      "start": 217,
+      "end": 220,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "ज्यांनी",
+      "sentence": 4,
+      "start": 239,
+      "end": 243,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "तो",
+      "sentence": 4,
+      "start": 245,
+      "end": 246,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "त्यांच्यावर",
+      "sentence": 4,
+      "start": 260,
+      "end": 267,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "महिन्याच्या",
+      "sentence": 4,
+      "start": 273,
+      "end": 280,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "फौजदारी",
+      "sentence": 4,
+      "start": 284,
+      "end": 290,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "मुभा",
+      "sentence": 4,
+      "start": 306,
+      "end": 309,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "कायद्यात",
+      "sentence": 4,
+      "start": 311,
+      "end": 316,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "मुदत",
+      "sentence": 4,
+      "start": 345,
+      "end": 348,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "मागणी",
+      "sentence": 4,
+      "start": 364,
+      "end": 368,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "याचिकादाराच्या",
+      "sentence": 4,
+      "start": 370,
+      "end": 380,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "वतीने",
+      "sentence": 4,
+      "start": 382,
+      "end": 385,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "पंतप्रधान",
+      "sentence": 5,
+      "start": 392,
+      "end": 398,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "नरेंद्र",
+      "sentence": 5,
+      "start": 400,
+      "end": 405,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "मोदी",
+      "sentence": 5,
+      "start": 407,
+      "end": 410,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "मुख्यमंत्री",
+      "sentence": 5,
+      "start": 415,
+      "end": 422,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "उद्धव",
+      "sentence": 5,
+      "start": 424,
+      "end": 428,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "ठाकरेंची",
+      "sentence": 5,
+      "start": 430,
+      "end": 436,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "त्यांनी",
+      "sentence": 5,
+      "start": 451,
+      "end": 456,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "याला",
+      "sentence": 5,
+      "start": 458,
+      "end": 461,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "मुलीने",
+      "sentence": 6,
+      "start": 476,
+      "end": 480,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "अंगावर",
+      "sentence": 6,
+      "start": 482,
+      "end": 487,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "तिघांनी",
+      "sentence": 6,
+      "start": 506,
+      "end": 511,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "तिच्यावर",
+      "sentence": 6,
+      "start": 513,
+      "end": 518,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "बलात्कार",
+      "sentence": 6,
+      "start": 527,
+      "end": 533,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "घटना",
+      "sentence": 6,
+      "start": 540,
+      "end": 543,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "चित्रपट",
+      "sentence": 7,
+      "start": 555,
+      "end": 560,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "शिवसैनिकांनी",
+      "sentence": 7,
+      "start": 569,
+      "end": 579,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "जनतेने",
+      "sentence": 7,
+      "start": 582,
+      "end": 586,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "गर्दी",
+      "sentence": 7,
+      "start": 593,
+      "end": 596,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "मांस",
+      "sentence": 8,
+      "start": 607,
+      "end": 610,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      11,
+      10
+    ],
+    [
+      13,
+      12
+    ],
+    [
+      24,
+      27
+    ],
+    [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      39
+    ],
+    [
+      41,
+      45
+    ]
+  ]
+}

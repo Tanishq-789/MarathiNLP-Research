@@ -1,0 +1,444 @@
+{
+  "document_id": "document_337",
+  "sentences": [
+    "नाशकात एसटीला अपघात, ४ जण जखमी",
+    "तर, आज आम्ही खाली पिढी पासून मधुर आणि विश्वास बसणार नाही इतका चवदार डिश कोणत्याही घटना शिजवलेले आहे कारण लक्ष केंद्र बाहेर वळते म्हणून पिढीला, गेली अनेक शतके झाली आहे की गोडया पाण्यातील एक मासा सुपर कृती तयार करत आहोत.",
+    "नागपूर: केंद्रीय रस्ते वाहतूक मंत्री नितीन गडकरींचा पराभव करण्यासाठी नागपूरमधून काँग्रेसचे एक दोन नाही तर तब्बल चार विरोधकांनी शड्डू ठोकला आहे.",
+    "पण बहुतांश घटनांमध्ये, कौशल्य एक सुप्रसिद्ध, Kaspersky अँटी-व्हायरस किंवा nod32 ही क्रिया दुर्भावनायुक्त सॉफ्टवेअर अवरोधित केले आहे की साधे कारण ते अद्यतनित नाही.",
+    "ही भूमिका अनिकेत पेवेकरने व्यवस्थित पार पाडली.",
+    "आपण वेगवेगळ्या जाती निवडू शकता जे निळ्या रंगांवरून नीला आणि निळा रंगात भिन्न असेल.",
+    "मालवण, दांडी, देवबाग किनारी गेल्या महिनाभरात पाच दुर्घटना घडल्या.",
+    "कट रचणे, फसवणूक करणे आणि पदाचा दुरूपयोग करणे यासाठी कोडा यांना दोषी ठरवण्यात आलं आहे.",
+    "आणि मजकुराबरोबर दिलेले फोटो त्या त्या गावांचे नसून प्रातिनिधिक आहेत.",
+    "मुलांसाठी आनंदाचं वातावरण पालक आणि शिक्षकांनी करायला हवं."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "नाशकात",
+      "sentence": 0,
+      "start": 0,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "एसटीला",
+      "sentence": 0,
+      "start": 7,
+      "end": 13,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "अपघात",
+      "sentence": 0,
+      "start": 14,
+      "end": 20,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "आम्ही",
+      "sentence": 1,
+      "start": 40,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "पिढी",
+      "sentence": 1,
+      "start": 50,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "विश्वास",
+      "sentence": 1,
+      "start": 68,
+      "end": 75,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "घटना",
+      "sentence": 1,
+      "start": 103,
+      "end": 107,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "लक्ष",
+      "sentence": 1,
+      "start": 122,
+      "end": 126,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "केंद्र",
+      "sentence": 1,
+      "start": 126,
+      "end": 131,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "पिढीला",
+      "sentence": 1,
+      "start": 147,
+      "end": 153,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "शतके",
+      "sentence": 1,
+      "start": 160,
+      "end": 165,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "मासा",
+      "sentence": 1,
+      "start": 188,
+      "end": 192,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "कृती",
+      "sentence": 1,
+      "start": 196,
+      "end": 200,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "मंत्री",
+      "sentence": 2,
+      "start": 240,
+      "end": 245,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "नितीन",
+      "sentence": 2,
+      "start": 246,
+      "end": 251,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "गडकरींचा",
+      "sentence": 2,
+      "start": 252,
+      "end": 260,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "पराभव",
+      "sentence": 2,
+      "start": 262,
+      "end": 267,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "नागपूरमधून",
+      "sentence": 2,
+      "start": 274,
+      "end": 284,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "काँग्रेसचे",
+      "sentence": 2,
+      "start": 285,
+      "end": 294,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "विरोधकांनी",
+      "sentence": 2,
+      "start": 305,
+      "end": 314,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "शड्डू",
+      "sentence": 2,
+      "start": 316,
+      "end": 321,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "घटनांमध्ये",
+      "sentence": 3,
+      "start": 339,
+      "end": 348,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "कौशल्य",
+      "sentence": 3,
+      "start": 351,
+      "end": 357,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "Kaspersky",
+      "sentence": 3,
+      "start": 369,
+      "end": 378,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "अँटी-व्हायरस",
+      "sentence": 3,
+      "start": 379,
+      "end": 391,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "क्रिया",
+      "sentence": 3,
+      "start": 404,
+      "end": 409,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "सॉफ्टवेअर",
+      "sentence": 3,
+      "start": 419,
+      "end": 427,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "कारण",
+      "sentence": 3,
+      "start": 449,
+      "end": 453,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "ते",
+      "sentence": 3,
+      "start": 455,
+      "end": 457,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "भूमिका",
+      "sentence": 4,
+      "start": 473,
+      "end": 479,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "अनिकेत",
+      "sentence": 4,
+      "start": 480,
+      "end": 486,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "पेवेकरने",
+      "sentence": 4,
+      "start": 487,
+      "end": 494,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "आपण",
+      "sentence": 5,
+      "start": 512,
+      "end": 516,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "जाती",
+      "sentence": 5,
+      "start": 523,
+      "end": 527,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "रंगांवरून",
+      "sentence": 5,
+      "start": 538,
+      "end": 547,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "रंगात",
+      "sentence": 5,
+      "start": 561,
+      "end": 566,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "दांडी",
+      "sentence": 6,
+      "start": 584,
+      "end": 589,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "देवबाग",
+      "sentence": 6,
+      "start": 591,
+      "end": 597,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "दुर्घटना",
+      "sentence": 6,
+      "start": 625,
+      "end": 632,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "कट",
+      "sentence": 7,
+      "start": 638,
+      "end": 641,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "फसवणूक",
+      "sentence": 7,
+      "start": 649,
+      "end": 655,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "पदाचा",
+      "sentence": 7,
+      "start": 665,
+      "end": 670,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "दुरूपयोग",
+      "sentence": 7,
+      "start": 671,
+      "end": 678,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "मजकुराबरोबर",
+      "sentence": 8,
+      "start": 715,
+      "end": 727,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "फोटो",
+      "sentence": 8,
+      "start": 735,
+      "end": 739,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "गावांचे",
+      "sentence": 8,
+      "start": 747,
+      "end": 753,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "मुलांसाठी",
+      "sentence": 9,
+      "start": 770,
+      "end": 779,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "वातावरण",
+      "sentence": 9,
+      "start": 786,
+      "end": 792,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "पालक",
+      "sentence": 9,
+      "start": 794,
+      "end": 798,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "शिक्षकांनी",
+      "sentence": 9,
+      "start": 802,
+      "end": 811,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      6,
+      12
+    ],
+    [
+      16,
+      21
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      27,
+      29,
+      33
+    ],
+    [
+      35,
+      36
+    ],
+    [
+      39,
+      42
+    ]
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "document_id": "document_340",
+  "sentences": [
+    "म्हणुन पक्का नगरी.",
+    "ऑस्ट्रेलियातील गोल्ड कोस्ट येथे ४ एप्रिल पासून सुरु झालेल्या राष्ट्रकुल स्पर्धाट पदक मिळविण्यासाठी मूळ भारतीय वंशाची आणि आता ऑस्ट्रेलिअन नागरिक झालेली रुपिंदरकौर आयुष्यातला मोठा निर्णय घेऊन कामाला लागली आहे.",
+    "हे सर्व जबाब पोलिसांनी या गुन्ह्यासंदर्भात नोंदवून घेतले आहेत.",
+    "राजश्री विनायकपंत सहस्त्रबुद्धे यांचे घरचीं पत्रें आलीं आहेत.",
+    "विनायक राऊत व आ.",
+    "जवानांना मारण्या ऐवजी भ्रष्टाचारी लोकांना गोळ्या घाला असे आवाहन."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "नगरी",
+      "sentence": 0,
+      "start": 9,
+      "end": 14,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "कोस्ट",
+      "sentence": 1,
+      "start": 24,
+      "end": 28,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "स्पर्धाट",
+      "sentence": 1,
+      "start": 65,
+      "end": 71,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "वंशाची",
+      "sentence": 1,
+      "start": 104,
+      "end": 109,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "नागरिक",
+      "sentence": 1,
+      "start": 127,
+      "end": 131,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "रुपिंदरकौर",
+      "sentence": 1,
+      "start": 137,
+      "end": 146,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "निर्णय",
+      "sentence": 1,
+      "start": 161,
+      "end": 165,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "जबाब",
+      "sentence": 2,
+      "start": 178,
+      "end": 181,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "पोलिसांनी",
+      "sentence": 2,
+      "start": 182,
+      "end": 189,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "गुन्ह्यासंदर्भात",
+      "sentence": 2,
+      "start": 193,
+      "end": 203,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "सहस्त्रबुद्धे",
+      "sentence": 3,
+      "start": 231,
+      "end": 238,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "पत्रें",
+      "sentence": 3,
+      "start": 250,
+      "end": 254,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "राऊत",
+      "sentence": 4,
+      "start": 275,
+      "end": 279,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "जवानांना",
+      "sentence": 5,
+      "start": 287,
+      "end": 293,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "लोकांना",
+      "sentence": 5,
+      "start": 307,
+      "end": 312,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "गोळ्या",
+      "sentence": 5,
+      "start": 313,
+      "end": 317,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "आवाहन",
+      "sentence": 5,
+      "start": 324,
+      "end": 328,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

@@ -1,0 +1,458 @@
+{
+  "document_id": "document_353",
+  "sentences": [
+    "– अ‍ॅसिडिटी झाल्यावर दूध-भात, दूध-चपाती किंवा दूध-भाकरी खावी.",
+    "नैऋत्य मान्सून वा-यांचा पुढील प्रवास सुरू झाला असला तरी केरळमध्ये येत्या ३ ते ४ दिवसांत वारे दाखल होण्याची शक्यता आहे.",
+    "आता आम्ही विज्ञानविषयक धर्म वृत्ती बद्दल चर्चा होईल.",
+    "तसेच, डिव्हाइस मालकी आवाज साफ करा कॅप्चर तंत्रज्ञान आवाज उच्च दर्जाचे प्रक्षेपित करण्याची लक्षणीय नुकसान आणि अतिरिक्त आवाज (प्रतिध्वनी, ग्राइंडर आणि इतर वाहक सिग्नल सामर्थ्य) न बढाई मारणे शकता.",
+    "सायन प्रतिक्षानगरमध्ये पाणी",
+    "रत्नागिरीला विमानतळ असले तरी, आजतागायत या विमानतळाचा फायदा रत्नागिरीकरांना झाला नाहीच, त्याचबरोबर पर्यटकांच्या दृष्टीने हे विमानतळ कार्यान्वित करण्याच्या दृष्टीने कोणतीही पावले उचलली गेली नाहीत.",
+    "अर्थात हा ठराव झाला 30 डिसेंबर 2016 रोजी आणि त्याची कार्यवाही सुरू झाली, ती सप्टेंबर 2017 मध्ये!",
+    "तटस्थ विक्रेता सर्व विक्री उत्पादने वैशिष्ट्ये जाणून घेण्यासाठी स्थितीत आणि भरणे साइटवर विशेषज्ञ विविध उद्योग आकर्षित करण्यासाठी नाही.",
+    "जयसिद्धेश्वर शिवाचार्य हे आपली खासदारकी वाचवण्यासाठी धडपड करताना दिसत आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "अ‍ॅसिडिटी",
+      "sentence": 0,
+      "start": 2,
+      "end": 10,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "चपाती",
+      "sentence": 0,
+      "start": 33,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "भाकरी",
+      "sentence": 0,
+      "start": 46,
+      "end": 51,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मान्सून",
+      "sentence": 1,
+      "start": 62,
+      "end": 68,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "वा-यांचा",
+      "sentence": 1,
+      "start": 69,
+      "end": 75,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "प्रवास",
+      "sentence": 1,
+      "start": 83,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "दिवसांत",
+      "sentence": 1,
+      "start": 124,
+      "end": 130,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "वारे",
+      "sentence": 1,
+      "start": 131,
+      "end": 134,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "शक्यता",
+      "sentence": 1,
+      "start": 147,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "आम्ही",
+      "sentence": 2,
+      "start": 157,
+      "end": 161,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "धर्म",
+      "sentence": 2,
+      "start": 172,
+      "end": 175,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "वृत्ती",
+      "sentence": 2,
+      "start": 176,
+      "end": 179,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "चर्चा",
+      "sentence": 2,
+      "start": 187,
+      "end": 190,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "डिव्हाइस",
+      "sentence": 3,
+      "start": 199,
+      "end": 205,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "मालकी",
+      "sentence": 3,
+      "start": 206,
+      "end": 210,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "आवाज",
+      "sentence": 3,
+      "start": 211,
+      "end": 215,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "तंत्रज्ञान",
+      "sentence": 3,
+      "start": 228,
+      "end": 234,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "आवाज",
+      "sentence": 3,
+      "start": 235,
+      "end": 239,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "नुकसान",
+      "sentence": 3,
+      "start": 269,
+      "end": 274,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "आवाज",
+      "sentence": 3,
+      "start": 284,
+      "end": 288,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "प्रतिध्वनी",
+      "sentence": 3,
+      "start": 290,
+      "end": 297,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "ग्राइंडर",
+      "sentence": 3,
+      "start": 299,
+      "end": 305,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "वाहक",
+      "sentence": 3,
+      "start": 315,
+      "end": 318,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "सिग्नल",
+      "sentence": 3,
+      "start": 319,
+      "end": 324,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "सामर्थ्य",
+      "sentence": 3,
+      "start": 325,
+      "end": 330,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "सायन",
+      "sentence": 4,
+      "start": 343,
+      "end": 346,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "प्रतिक्षानगरमध्ये",
+      "sentence": 4,
+      "start": 347,
+      "end": 359,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "पाणी",
+      "sentence": 4,
+      "start": 360,
+      "end": 363,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "रत्नागिरीला",
+      "sentence": 5,
+      "start": 366,
+      "end": 373,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "विमानतळ",
+      "sentence": 5,
+      "start": 374,
+      "end": 379,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "विमानतळाचा",
+      "sentence": 5,
+      "start": 394,
+      "end": 401,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "फायदा",
+      "sentence": 5,
+      "start": 402,
+      "end": 406,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "रत्नागिरीकरांना",
+      "sentence": 5,
+      "start": 407,
+      "end": 417,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "दृष्टीने",
+      "sentence": 5,
+      "start": 444,
+      "end": 448,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "विमानतळ",
+      "sentence": 5,
+      "start": 451,
+      "end": 456,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "दृष्टीने",
+      "sentence": 5,
+      "start": 472,
+      "end": 476,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "ठराव",
+      "sentence": 6,
+      "start": 496,
+      "end": 500,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "त्याची",
+      "sentence": 6,
+      "start": 520,
+      "end": 524,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "कार्यवाही",
+      "sentence": 6,
+      "start": 525,
+      "end": 531,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "ती",
+      "sentence": 6,
+      "start": 542,
+      "end": 543,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "सप्टेंबर",
+      "sentence": 6,
+      "start": 544,
+      "end": 550,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "विक्रेता",
+      "sentence": 7,
+      "start": 558,
+      "end": 563,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "विक्री",
+      "sentence": 7,
+      "start": 568,
+      "end": 571,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "उत्पादने",
+      "sentence": 7,
+      "start": 572,
+      "end": 577,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "वैशिष्ट्ये",
+      "sentence": 7,
+      "start": 578,
+      "end": 584,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "स्थितीत",
+      "sentence": 7,
+      "start": 598,
+      "end": 603,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "साइटवर",
+      "sentence": 7,
+      "start": 612,
+      "end": 618,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "विशेषज्ञ",
+      "sentence": 7,
+      "start": 619,
+      "end": 625,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "उद्योग",
+      "sentence": 7,
+      "start": 632,
+      "end": 636,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "जयसिद्धेश्वर",
+      "sentence": 8,
+      "start": 641,
+      "end": 651,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "शिवाचार्य",
+      "sentence": 8,
+      "start": 652,
+      "end": 657,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "खासदारकी",
+      "sentence": 8,
+      "start": 665,
+      "end": 671,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      6,
+      10
+    ],
+    [
+      18,
+      20,
+      22
+    ],
+    [
+      32,
+      33,
+      38,
+      39
+    ],
+    [
+      42,
+      43,
+      44
+    ],
+    [
+      45,
+      46
+    ]
+  ]
+}

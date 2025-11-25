@@ -1,0 +1,426 @@
+{
+  "document_id": "document_391",
+  "sentences": [
+    "आर यू ओके?",
+    "वापरकर्ता संवाद साधण्यासाठी सुरू पहिली गोष्ट, अर्ज आहे.",
+    "नेहरू ह्याचं निधन झालं.",
+    "त्यांनी आपल्या रामटेक महिमा या पुस्तकातही याचा उल्लेख केला आहे.",
+    "याविषयीची सगळी माहिती आपण कित्येक वेळा वेळोवेळी घेतली आहे.",
+    "कणकेच्या पट्ट्या वर भरणे वितरित करा, पाण्याची किनार ओलावणे आणि रोल तयार करा.",
+    "मात्र, आपल्याला काळा रंगच सर्वाधिक प्रिय असल्यामुळे पोस्टरवरील आपल्या चित्राला काळे फासल्याने बिलकुल वाईट वाटले नाही, असे कांचा इलय्या यांनी सांगितले.",
+    "“दोन्ही मंत्र संस्कृतमध्ये आहेत आणि फक्त संस्कृत वाचता येणारी एखादी कुमारीच त्याचे उच्चारण करू शकेल असा उपाय केला आहे.",
+    "महाराष्ट्रात महाविकासआघाडीचं सरकार आहे.",
+    "मोदींच्या दृष्टीने हा महत्वाचा प्राधान्यक्रम आहे.",
+    "खडक माळेगाव मधील दाट लोकवस्ती, मध्यम लोकवस्ती व कमी लोकवस्ती पुढील प्रमाणे.",
+    "परंतू २००९ रोजी कराड नगरपरिषदेने त्यावरील गोरक्षण आरक्षण उठवून त्यावर व्यावसायिक बांधकामाचे आरक्षण टाकले आहे.",
+    "मॉस्को डोमिनिकन रिपब्लीक हा दौरा ऑपरेटर, जे संस्था किरकोळ नेटवर्क माध्यमातून इतर शहरांमध्ये सेवा पुरवते.",
+    "शेरे, विभागीय वाहतूक अधीक्षक ए."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "वापरकर्ता",
+      "sentence": 1,
+      "start": 12,
+      "end": 20,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "गोष्ट",
+      "sentence": 1,
+      "start": 50,
+      "end": 54,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "अर्ज",
+      "sentence": 1,
+      "start": 57,
+      "end": 60,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "नेहरू",
+      "sentence": 2,
+      "start": 74,
+      "end": 78,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "त्यांनी",
+      "sentence": 3,
+      "start": 98,
+      "end": 104,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "आपल्या",
+      "sentence": 3,
+      "start": 105,
+      "end": 110,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "महिमा",
+      "sentence": 3,
+      "start": 119,
+      "end": 123,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "पुस्तकातही",
+      "sentence": 3,
+      "start": 127,
+      "end": 135,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "माहिती",
+      "sentence": 4,
+      "start": 179,
+      "end": 184,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "आपण",
+      "sentence": 4,
+      "start": 185,
+      "end": 188,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "पट्ट्या",
+      "sentence": 5,
+      "start": 236,
+      "end": 241,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "पाण्याची",
+      "sentence": 5,
+      "start": 260,
+      "end": 266,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "किनार",
+      "sentence": 5,
+      "start": 267,
+      "end": 271,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "आपल्याला",
+      "sentence": 6,
+      "start": 314,
+      "end": 320,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "रंगच",
+      "sentence": 6,
+      "start": 326,
+      "end": 329,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "आपल्या",
+      "sentence": 6,
+      "start": 369,
+      "end": 374,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "चित्राला",
+      "sentence": 6,
+      "start": 375,
+      "end": 381,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "त्यांनी",
+      "sentence": 6,
+      "start": 451,
+      "end": 456,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "मंत्र",
+      "sentence": 7,
+      "start": 474,
+      "end": 477,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "संस्कृतमध्ये",
+      "sentence": 7,
+      "start": 478,
+      "end": 488,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "संस्कृत",
+      "sentence": 7,
+      "start": 502,
+      "end": 508,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "त्याचे",
+      "sentence": 7,
+      "start": 537,
+      "end": 541,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "उच्चारण",
+      "sentence": 7,
+      "start": 542,
+      "end": 548,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "उपाय",
+      "sentence": 7,
+      "start": 565,
+      "end": 568,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "महाराष्ट्रात",
+      "sentence": 8,
+      "start": 579,
+      "end": 589,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "महाविकासआघाडीचं",
+      "sentence": 8,
+      "start": 590,
+      "end": 604,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "सरकार",
+      "sentence": 8,
+      "start": 605,
+      "end": 609,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "प्राधान्यक्रम",
+      "sentence": 9,
+      "start": 647,
+      "end": 657,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "माळेगाव",
+      "sentence": 10,
+      "start": 669,
+      "end": 675,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "लोकवस्ती",
+      "sentence": 10,
+      "start": 686,
+      "end": 692,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "लोकवस्ती",
+      "sentence": 10,
+      "start": 704,
+      "end": 710,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "लोकवस्ती",
+      "sentence": 10,
+      "start": 721,
+      "end": 727,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "त्यावरील",
+      "sentence": 11,
+      "start": 781,
+      "end": 787,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "गोरक्षण",
+      "sentence": 11,
+      "start": 788,
+      "end": 794,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "आरक्षण",
+      "sentence": 11,
+      "start": 795,
+      "end": 800,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "त्यावर",
+      "sentence": 11,
+      "start": 812,
+      "end": 816,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "बांधकामाचे",
+      "sentence": 11,
+      "start": 828,
+      "end": 835,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "आरक्षण",
+      "sentence": 11,
+      "start": 836,
+      "end": 841,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "रिपब्लीक",
+      "sentence": 12,
+      "start": 881,
+      "end": 888,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "दौरा",
+      "sentence": 12,
+      "start": 893,
+      "end": 896,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "ऑपरेटर",
+      "sentence": 12,
+      "start": 897,
+      "end": 902,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "संस्था",
+      "sentence": 12,
+      "start": 908,
+      "end": 912,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "नेटवर्क",
+      "sentence": 12,
+      "start": 923,
+      "end": 928,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "शहरांमध्ये",
+      "sentence": 12,
+      "start": 945,
+      "end": 953,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "सेवा",
+      "sentence": 12,
+      "start": 958,
+      "end": 961,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "शेरे",
+      "sentence": 13,
+      "start": 976,
+      "end": 979,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "अधीक्षक",
+      "sentence": 13,
+      "start": 994,
+      "end": 999,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      4,
+      5
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      18,
+      21,
+      23,
+      24
+    ],
+    [
+      25,
+      29
+    ],
+    [
+      26,
+      27
+    ],
+    [
+      43,
+      46
+    ]
+  ]
+}

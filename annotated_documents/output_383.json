@@ -1,0 +1,223 @@
+{
+  "document_id": "document_383",
+  "sentences": [
+    "दिल्लीतील वायू प्रदूषण पाकिस्तान आणि चीनमुळेच – भाजप नेते",
+    "यंदा संसदरत्न पुरस्कार मिळवणाऱ्या उत्तर महाराष्ट्रातील त्या एकमेव खासदार आहेत.",
+    "तथापि, खानदानी लोक तिच्या अवलंबून राहून संपुष्टात, ती शेतकरी स्थिती सुधारण्यासाठी घेऊ शकत नाही.",
+    "अखेर आज सलमानच्या चाहत्यांचं हे स्वप्न पूर्ण झालं आहे.",
+    "एमएमडीआर कायद्यात दुरूस्ती करून गोव्यातील खाणी सुरू करण्यास केंद्र सरकारने मदत करावी असा प्रस्ताव गोवा सरकारकडून आल्याची माहिती केंद्रीय खाणमंत्री नरेंद्रसिंग तोमर यांनी राज्यसभेत दिली.",
+    "पाटील प्रतिष्ठान मार्फत व जि."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "प्रदूषण",
+      "sentence": 0,
+      "start": 10,
+      "end": 15,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "पाकिस्तान",
+      "sentence": 0,
+      "start": 17,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "चीनमुळेच",
+      "sentence": 0,
+      "start": 26,
+      "end": 33,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "नेते",
+      "sentence": 0,
+      "start": 39,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "पुरस्कार",
+      "sentence": 1,
+      "start": 10,
+      "end": 16,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "त्या",
+      "sentence": 1,
+      "start": 43,
+      "end": 45,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "खासदार",
+      "sentence": 1,
+      "start": 53,
+      "end": 58,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "तिच्या",
+      "sentence": 2,
+      "start": 17,
+      "end": 21,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "ती",
+      "sentence": 2,
+      "start": 44,
+      "end": 45,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "शेतकरी",
+      "sentence": 2,
+      "start": 47,
+      "end": 52,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "स्थिती",
+      "sentence": 2,
+      "start": 53,
+      "end": 57,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "स्वप्न",
+      "sentence": 3,
+      "start": 29,
+      "end": 33,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "एमएमडीआर",
+      "sentence": 4,
+      "start": 0,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "कायद्यात",
+      "sentence": 4,
+      "start": 8,
+      "end": 14,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "खाणी",
+      "sentence": 4,
+      "start": 35,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "सरकारने",
+      "sentence": 4,
+      "start": 55,
+      "end": 61,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "प्रस्ताव",
+      "sentence": 4,
+      "start": 77,
+      "end": 83,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "सरकारकडून",
+      "sentence": 4,
+      "start": 87,
+      "end": 95,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "माहिती",
+      "sentence": 4,
+      "start": 103,
+      "end": 108,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "खाणमंत्री",
+      "sentence": 4,
+      "start": 117,
+      "end": 124,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "नरेंद्रसिंग",
+      "sentence": 4,
+      "start": 125,
+      "end": 134,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "तोमर",
+      "sentence": 4,
+      "start": 135,
+      "end": 139,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "राज्यसभेत",
+      "sentence": 4,
+      "start": 145,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "पाटील",
+      "sentence": 5,
+      "start": 0,
+      "end": 4,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "प्रतिष्ठान",
+      "sentence": 5,
+      "start": 5,
+      "end": 13,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      6,
+      7
+    ],
+    [
+      9,
+      10
+    ]
+  ]
+}

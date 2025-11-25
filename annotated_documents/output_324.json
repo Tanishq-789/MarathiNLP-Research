@@ -1,0 +1,295 @@
+{
+  "document_id": "document_324",
+  "sentences": [
+    "समितीतर्फे हुतात्मा चौकात गुरुवार, दि.",
+    "गोवर, कांजिण्या येऊन बऱ्या झाल्यानंतर आंघोळीच्या पाण्यामध्ये कडुनिंबाची पाने घालून स्नान करावे.",
+    "त्यामुळे आता शेतकऱ्यांना दिलासा मिळणार आहे.",
+    "गोष्टी अंध दिसेल कसे आव आणणे?",
+    "कोनाळकट्टा पोलिसांनी घटनास्थळाचा पंचनामा केला.",
+    "पुढे ते म्हणाले की, या चित्रपटात आदिवासी आणि राजघराण्यातील सुंदर अशी प्रेमकथा दाखवली आहे.",
+    "मारुती सुझुकी डिझायर",
+    "मागील काही वर्षात  मॅकडॉनल्ड्स या नामांकित ब्रँड सोबत देखील त्यांनी काम केलेले आहे.",
+    "तज्ञांच्या मते, अशक्तपणासाठी हा चांगला उपाय आहे.",
+    "छत्रपती शिवाजी महाराज यांचे वंशज आणि आता भाजपवासी झालेले छत्रपती."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "गोवर",
+      "sentence": 1,
+      "start": 38,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "कांजिण्या",
+      "sentence": 1,
+      "start": 44,
+      "end": 51,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "पाणी",
+      "sentence": 1,
+      "start": 76,
+      "end": 79,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "कडुनिंब",
+      "sentence": 1,
+      "start": 86,
+      "end": 92,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "पाने",
+      "sentence": 1,
+      "start": 94,
+      "end": 97,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "स्नान",
+      "sentence": 1,
+      "start": 104,
+      "end": 107,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "शेतकरी",
+      "sentence": 2,
+      "start": 149,
+      "end": 154,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "दिलासा",
+      "sentence": 2,
+      "start": 157,
+      "end": 162,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "गोष्टी",
+      "sentence": 3,
+      "start": 179,
+      "end": 184,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "कोनाळकट्टा",
+      "sentence": 4,
+      "start": 208,
+      "end": 217,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "पोलीस",
+      "sentence": 4,
+      "start": 218,
+      "end": 222,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "घटनास्थळ",
+      "sentence": 4,
+      "start": 229,
+      "end": 236,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "पंचनामा",
+      "sentence": 4,
+      "start": 239,
+      "end": 245,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "ते",
+      "sentence": 5,
+      "start": 255,
+      "end": 256,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "चित्रपट",
+      "sentence": 5,
+      "start": 268,
+      "end": 273,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "आदिवासी",
+      "sentence": 5,
+      "start": 277,
+      "end": 283,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "राजघराणे",
+      "sentence": 5,
+      "start": 287,
+      "end": 294,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "प्रेमकथा",
+      "sentence": 5,
+      "start": 303,
+      "end": 309,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "मारुती",
+      "sentence": 6,
+      "start": 313,
+      "end": 318,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "सुझुकी",
+      "sentence": 6,
+      "start": 320,
+      "end": 325,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "डिझायर",
+      "sentence": 6,
+      "start": 327,
+      "end": 332,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "वर्ष",
+      "sentence": 7,
+      "start": 343,
+      "end": 346,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "मॅकडॉनल्ड्स",
+      "sentence": 7,
+      "start": 352,
+      "end": 362,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "ब्रँड",
+      "sentence": 7,
+      "start": 369,
+      "end": 372,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "त्यांनी",
+      "sentence": 7,
+      "start": 382,
+      "end": 387,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "तज्ञ",
+      "sentence": 8,
+      "start": 395,
+      "end": 398,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "अशक्तपणा",
+      "sentence": 8,
+      "start": 409,
+      "end": 416,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "उपाय",
+      "sentence": 8,
+      "start": 428,
+      "end": 431,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "छत्रपती",
+      "sentence": 9,
+      "start": 436,
+      "end": 442,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "शिवाजी",
+      "sentence": 9,
+      "start": 444,
+      "end": 449,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "महाराज",
+      "sentence": 9,
+      "start": 451,
+      "end": 456,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "वंशज",
+      "sentence": 9,
+      "start": 462,
+      "end": 466,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "भाजपवासी",
+      "sentence": 9,
+      "start": 475,
+      "end": 482,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "छत्रपती",
+      "sentence": 9,
+      "start": 493,
+      "end": 499,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      18,
+      29
+    ]
+  ]
+}

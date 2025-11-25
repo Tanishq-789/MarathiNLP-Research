@@ -1,0 +1,122 @@
+{
+  "document_id": "document_339",
+  "sentences": [
+    "महादेवशास्त्री जोशी पुरस्कार संदीप केळकर यांना प्रदान करण्यात आला.",
+    "लोणचं लालभडक दिसायला हवं असेल तर खूपदा फोडणीत हळद घालणं टाळलं जातं.",
+    "बेकायदेशीर मंडपांविरोधात दाखल याचिकेच्या सुनावणी दरम्यान पालिकेने ही माहिती दिलीये.",
+    "गजानन  काळजी करु नका."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "महादेवशास्त्री",
+      "sentence": 0,
+      "start": 0,
+      "end": 14,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "जोशी",
+      "sentence": 0,
+      "start": 15,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "पुरस्कार",
+      "sentence": 0,
+      "start": 20,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "संदीप",
+      "sentence": 0,
+      "start": 27,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "केळकर",
+      "sentence": 0,
+      "start": 33,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "यांना",
+      "sentence": 0,
+      "start": 39,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "फोडणीत",
+      "sentence": 1,
+      "start": 78,
+      "end": 84,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "मंडपांविरोधात",
+      "sentence": 2,
+      "start": 146,
+      "end": 160,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "सुनावणी",
+      "sentence": 2,
+      "start": 175,
+      "end": 182,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "पालिकेने",
+      "sentence": 2,
+      "start": 190,
+      "end": 198,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "माहिती",
+      "sentence": 2,
+      "start": 202,
+      "end": 208,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "गजानन",
+      "sentence": 3,
+      "start": 206,
+      "end": 212,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "काळजी",
+      "sentence": 3,
+      "start": 214,
+      "end": 219,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      4,
+      5
+    ]
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "document_310",
+  "sentences": [
+    "विद्यार्थी ग्रेड साठी 5-8: \".",
+    "असोशी बाजूला प्रतिक्रिया येऊ, अपचन, पाचक कार्ये विकार.",
+    "धर्म वाचवायचा असेल तर तो प्रवाही बनवला पाहिजे ,कालानुरूप बदल घडलेच पाहिजेत .",
+    "आणि दोघे समाधानाने आपापल्या घरी जाण्यासाठी वळले………."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "विद्यार्थी",
+      "sentence": 0,
+      "start": 0,
+      "end": 8,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "ग्रेड",
+      "sentence": 0,
+      "start": 9,
+      "end": 13,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "प्रतिक्रिया",
+      "sentence": 1,
+      "start": 34,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "अपचन",
+      "sentence": 1,
+      "start": 48,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "कार्ये",
+      "sentence": 1,
+      "start": 59,
+      "end": 64,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "विकार",
+      "sentence": 1,
+      "start": 65,
+      "end": 70,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "धर्म",
+      "sentence": 2,
+      "start": 72,
+      "end": 76,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "तो",
+      "sentence": 2,
+      "start": 94,
+      "end": 96,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "दोघे",
+      "sentence": 3,
+      "start": 148,
+      "end": 152,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      7,
+      8
+    ]
+  ]
+}

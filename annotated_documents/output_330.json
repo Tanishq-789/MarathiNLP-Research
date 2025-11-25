@@ -1,0 +1,379 @@
+{
+  "document_id": "document_330",
+  "sentences": [
+    "केजरीवालांच्या ह्या घोषणेनंतर आरामात ४ दिवसांनी म्हणजे काल उपराज्यपालांनी ह्या घोषणेला संमती दिली आणि बातम्या अशा आल्या की \"उपराज्यपालांनी दिल्लीसरकारला MCD साठी रक्कम देण्याची आदेश दिले\"",
+    "पंतप्रधान नरेंद्र मोदी यांनी अकलूज येथील जाहीर सभेत मी…",
+    "अनेकदा कारण लक्षणे सारखेपणा क्वचित आढळणारा व काही बाबतीत क्षयासारखा असणारा रोग गोंधळ, क्षयरोग.",
+    "फक्त याच्या पूर्वी ब्रह्मदेव होता व त्याने मरीच्यादी सहा किंवा सात प्रजापती केवळ मनःसंकल्पाने उत्पन्न केले.",
+    "सैन्याने निवडणे लहान होता: एक बांधकाम पलटण आणि रेडिओ.",
+    "मिरजमधल्या ‘मिरज विद्यार्थी संघा’चे एक धडपडे कार्यकर्ते वसंतराव आगाशे पुलंचे वर्गमित्र होते.",
+    "कल्पकता, हिकमत आणि बुद्धिमत्ता - गुणवत्ता विविधता वर चाचणी मानवी रहस्ये मदतीने शतके, आहे.",
+    "यामध्ये क्लिनिककडेही दुर्लक्ष होऊ लागले."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "घोषणेनंतर",
+      "sentence": 0,
+      "start": 18,
+      "end": 28,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "दिवसांनी",
+      "sentence": 0,
+      "start": 36,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "उपराज्यपालांनी",
+      "sentence": 0,
+      "start": 58,
+      "end": 72,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "घोषणेला",
+      "sentence": 0,
+      "start": 77,
+      "end": 85,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "संमती",
+      "sentence": 0,
+      "start": 87,
+      "end": 93,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "बातम्या",
+      "sentence": 0,
+      "start": 100,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "उपराज्यपालांनी",
+      "sentence": 0,
+      "start": 117,
+      "end": 131,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "रक्कम",
+      "sentence": 0,
+      "start": 157,
+      "end": 162,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "पंतप्रधान",
+      "sentence": 1,
+      "start": 173,
+      "end": 182,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "नरेंद्र",
+      "sentence": 1,
+      "start": 183,
+      "end": 189,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "मोदी",
+      "sentence": 1,
+      "start": 191,
+      "end": 195,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "अकलूज",
+      "sentence": 1,
+      "start": 202,
+      "end": 207,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "सभेत",
+      "sentence": 1,
+      "start": 216,
+      "end": 220,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "मी",
+      "sentence": 1,
+      "start": 222,
+      "end": 224,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "लक्षणे",
+      "sentence": 2,
+      "start": 233,
+      "end": 239,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "बाबतीत",
+      "sentence": 2,
+      "start": 270,
+      "end": 276,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "गोंधळ",
+      "sentence": 2,
+      "start": 290,
+      "end": 296,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "क्षयरोग",
+      "sentence": 2,
+      "start": 298,
+      "end": 304,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "ब्रह्मदेव",
+      "sentence": 3,
+      "start": 322,
+      "end": 330,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "त्याने",
+      "sentence": 3,
+      "start": 338,
+      "end": 343,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "मरीच्यादी",
+      "sentence": 3,
+      "start": 345,
+      "end": 353,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "प्रजापती",
+      "sentence": 3,
+      "start": 366,
+      "end": 373,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "मनःसंकल्पाने",
+      "sentence": 3,
+      "start": 380,
+      "end": 391,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "सैन्याने",
+      "sentence": 4,
+      "start": 394,
+      "end": 401,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "रेडिओ",
+      "sentence": 4,
+      "start": 428,
+      "end": 433,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "मिरज",
+      "sentence": 5,
+      "start": 448,
+      "end": 452,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "विद्यार्थी",
+      "sentence": 5,
+      "start": 454,
+      "end": 462,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "संघा’चे",
+      "sentence": 5,
+      "start": 463,
+      "end": 470,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "कार्यकर्ते",
+      "sentence": 5,
+      "start": 475,
+      "end": 483,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "वसंतराव",
+      "sentence": 5,
+      "start": 485,
+      "end": 492,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "पुलंचे",
+      "sentence": 5,
+      "start": 501,
+      "end": 507,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "वर्गमित्र",
+      "sentence": 5,
+      "start": 509,
+      "end": 517,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "कल्पकता",
+      "sentence": 6,
+      "start": 520,
+      "end": 527,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "हिकमत",
+      "sentence": 6,
+      "start": 530,
+      "end": 535,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "बुद्धिमत्ता",
+      "sentence": 6,
+      "start": 540,
+      "end": 550,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "गुणवत्ता",
+      "sentence": 6,
+      "start": 553,
+      "end": 560,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "विविधता",
+      "sentence": 6,
+      "start": 562,
+      "end": 569,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "चाचणी",
+      "sentence": 6,
+      "start": 573,
+      "end": 578,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "रहस्ये",
+      "sentence": 6,
+      "start": 586,
+      "end": 591,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "शतके",
+      "sentence": 6,
+      "start": 601,
+      "end": 605,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "क्लिनिककडेही",
+      "sentence": 7,
+      "start": 619,
+      "end": 631,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "दुर्लक्ष",
+      "sentence": 7,
+      "start": 633,
+      "end": 639,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      1,
+      5
+    ],
+    [
+      4,
+      8
+    ],
+    [
+      13,
+      14,
+      15,
+      18
+    ],
+    [
+      27,
+      28
+    ],
+    [
+      35,
+      36
+    ],
+    [
+      40,
+      41
+    ]
+  ]
+}

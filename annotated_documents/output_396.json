@@ -1,0 +1,207 @@
+{
+  "document_id": "document_396",
+  "sentences": [
+    "ठरलं… २०१९च्या निवडणुका शिवसेना स्वबळावरच लढणार!",
+    "हे करण्यासाठी, गरम पायाभूत सुविधा सर्व घटक एक सर्वेक्षण अमलात आणणे आवश्यक आहे.",
+    "त्यामुळे येत्या हंगामात कोरडवाहू भागात किमान ठिबक सिंचनाशिवाय उसाची लागवड करण्यास मनाई करण्याची गरज आहे.",
+    "यावर्षीचे मुख्य आकर्षण म्हणजे सर्वोकृष्ट प्रायोगिक नाटकाला झी तर्पे 1 लाखाचे पारितोषिक देण्यात येणार आहे.",
+    "निवडणुकीचे काम असल्याचे कारण देऊन सर्वसामान्य नागरिकांच्या कामासह विकासकामाकडे मनपाच्या अधिकाऱयांनी कानाडोळा चालविला आहे.",
+    "अमिरकी नागरिकांनी अमेरिकेत उत्पादित झालेल्या उत्पादनांचीच खरेदी करावी, हा त्यांचा आग्रह.",
+    "\"राष्ट्रवादी युवक'ची."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "शिवसेना",
+      "sentence": 0,
+      "start": 18,
+      "end": 25,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "सुविधा",
+      "sentence": 1,
+      "start": 57,
+      "end": 62,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "सर्वेक्षण",
+      "sentence": 1,
+      "start": 74,
+      "end": 81,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "हंगामात",
+      "sentence": 2,
+      "start": 110,
+      "end": 117,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "भागात",
+      "sentence": 2,
+      "start": 126,
+      "end": 131,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "उसाची",
+      "sentence": 2,
+      "start": 152,
+      "end": 157,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "लागवड",
+      "sentence": 2,
+      "start": 158,
+      "end": 164,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "मनाई",
+      "sentence": 2,
+      "start": 170,
+      "end": 174,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "आकर्षण",
+      "sentence": 3,
+      "start": 217,
+      "end": 223,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "नातकाला",
+      "sentence": 3,
+      "start": 239,
+      "end": 245,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "लाखाचे",
+      "sentence": 3,
+      "start": 254,
+      "end": 260,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "पारितोषिक",
+      "sentence": 3,
+      "start": 261,
+      "end": 269,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "कारण",
+      "sentence": 4,
+      "start": 312,
+      "end": 316,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "कामासह",
+      "sentence": 4,
+      "start": 342,
+      "end": 348,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "विकासकामाकडे",
+      "sentence": 4,
+      "start": 349,
+      "end": 360,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "अधिकाऱयांनी",
+      "sentence": 4,
+      "start": 369,
+      "end": 378,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "कानाडोळा",
+      "sentence": 4,
+      "start": 379,
+      "end": 386,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "नागरिकांनी",
+      "sentence": 5,
+      "start": 408,
+      "end": 417,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "अमेरिकेत",
+      "sentence": 5,
+      "start": 418,
+      "end": 425,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "खरेदी",
+      "sentence": 5,
+      "start": 451,
+      "end": 456,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "त्यांचा",
+      "sentence": 5,
+      "start": 466,
+      "end": 472,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "आग्रह",
+      "sentence": 5,
+      "start": 473,
+      "end": 477,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "राष्ट्रवादी",
+      "sentence": 6,
+      "start": 474,
+      "end": 483,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "युवक",
+      "sentence": 6,
+      "start": 484,
+      "end": 487,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

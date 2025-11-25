@@ -1,0 +1,72 @@
+{
+  "document_id": "document_304",
+  "sentences": [
+    "ब्रँडेड मधे सर्विस मिळाण्यात वेळ जातो.",
+    "त्यावेळचा एक व्हिडिओ फोटोजर्नलिस्ट विरल भयानी यांनी शेअर केला आहे.",
+    "प्राचीन पर्शियन भाषा प्रथम स्रोत 1 हजार इ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "ब्रँडेड",
+      "sentence": 0,
+      "start": 0,
+      "end": 6,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "फोटोजर्नलिस्ट",
+      "sentence": 1,
+      "start": 49,
+      "end": 61,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "विरल",
+      "sentence": 1,
+      "start": 63,
+      "end": 66,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "यांनी",
+      "sentence": 1,
+      "start": 74,
+      "end": 77,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "पर्शियन",
+      "sentence": 2,
+      "start": 90,
+      "end": 95,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "भाषा",
+      "sentence": 2,
+      "start": 97,
+      "end": 100,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "स्रोत",
+      "sentence": 2,
+      "start": 107,
+      "end": 110,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      5,
+      6
+    ]
+  ]
+}

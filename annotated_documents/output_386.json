@@ -1,0 +1,72 @@
+{
+  "document_id": "document_386",
+  "sentences": [
+    "चैत्र शुद्ध प्रतिपदा.",
+    "फ़्रांसमध्ये आता महिला उघडपणे विचारू लागल्या आहेत का म्हणून आम्ही लहान वयाच्या पुरुषांशी डेटिंग करू नये, लग्न करू नये?",
+    "याचबरोबर दहशतवादाविरोधातला."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "चैत्र",
+      "sentence": 0,
+      "start": 0,
+      "end": 5,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "प्रतिपदा",
+      "sentence": 0,
+      "start": 11,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "फ़्रांसमध्ये",
+      "sentence": 1,
+      "start": 20,
+      "end": 29,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "महिला",
+      "sentence": 1,
+      "start": 31,
+      "end": 36,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "आम्ही",
+      "sentence": 1,
+      "start": 64,
+      "end": 69,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "पुरुषांशी",
+      "sentence": 1,
+      "start": 80,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "दहशतवादाविरोधातला",
+      "sentence": 2,
+      "start": 114,
+      "end": 132,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      4
+    ]
+  ]
+}

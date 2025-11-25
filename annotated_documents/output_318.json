@@ -1,0 +1,264 @@
+{
+  "document_id": "document_318",
+  "sentences": [
+    "यांनी हौद तरी बांधला का?",
+    "गाण्याची कोणतेही शिक्षण न घेतलेल्या या तरुणाचा आवाज सर्वाना मोहात पाडतो.",
+    "मुख्यमंत्र्यांनी राज्यसभेचे आश्वासन दिल्यामुळे मी राहुल शेवाळेंना साथ देणार : रामदास आठवले",
+    "कारण दहा वर्षांनी पुन्हा एकदा शरद पवार राष्ट्रवादी काँग्रेस पक्षाकडून संभाव्य उमेदवार असतील अशी चर्चा आहे.",
+    "तो म्हणाला की, एक अभिनेता म्हणून मी कोणतीही भूमिका घेणे योग्य नाही, कारण यामुळे चित्रपटावर आणि व्यवसायावर परिणाम होतो.",
+    "जर तुम्हालाही तुमच्या सुट्टीचा आनंद द्विगुणित करायचा असेल तर खाली दिलेल्या शहरांची नावेही तुमच्या यादीत समाविष्ट करा."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "यांनी",
+      "sentence": 0,
+      "start": 0,
+      "end": 3,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "शिक्षण",
+      "sentence": 1,
+      "start": 39,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "तरुणाचा",
+      "sentence": 1,
+      "start": 57,
+      "end": 60,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "आवाज",
+      "sentence": 1,
+      "start": 63,
+      "end": 66,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "सर्वाना",
+      "sentence": 1,
+      "start": 69,
+      "end": 72,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "मुख्यमंत्र्यांनी",
+      "sentence": 2,
+      "start": 87,
+      "end": 95,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "राज्यसभेचे",
+      "sentence": 2,
+      "start": 98,
+      "end": 104,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "आश्वासन",
+      "sentence": 2,
+      "start": 107,
+      "end": 112,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "मी",
+      "sentence": 2,
+      "start": 122,
+      "end": 123,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "शेवाळेंना",
+      "sentence": 2,
+      "start": 130,
+      "end": 133,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "रामदास",
+      "sentence": 2,
+      "start": 149,
+      "end": 153,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "वर्षांनी",
+      "sentence": 3,
+      "start": 172,
+      "end": 175,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "पवार",
+      "sentence": 3,
+      "start": 192,
+      "end": 194,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "राष्ट्रवादी",
+      "sentence": 3,
+      "start": 197,
+      "end": 201,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "काँग्रेस",
+      "sentence": 3,
+      "start": 204,
+      "end": 206,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "पक्षाकडून",
+      "sentence": 3,
+      "start": 209,
+      "end": 213,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "चर्चा",
+      "sentence": 3,
+      "start": 238,
+      "end": 240,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "तो",
+      "sentence": 4,
+      "start": 246,
+      "end": 247,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "अभिनेता",
+      "sentence": 4,
+      "start": 263,
+      "end": 266,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "मी",
+      "sentence": 4,
+      "start": 274,
+      "end": 275,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "भूमिका",
+      "sentence": 4,
+      "start": 283,
+      "end": 285,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "चित्रपटावर",
+      "sentence": 4,
+      "start": 312,
+      "end": 317,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "व्यवसायावर",
+      "sentence": 4,
+      "start": 324,
+      "end": 330,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "परिणाम",
+      "sentence": 4,
+      "start": 333,
+      "end": 336,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "सुट्टीचा",
+      "sentence": 5,
+      "start": 358,
+      "end": 361,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "आनंद",
+      "sentence": 5,
+      "start": 364,
+      "end": 366,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "शहरांची",
+      "sentence": 5,
+      "start": 400,
+      "end": 403,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "नावेही",
+      "sentence": 5,
+      "start": 406,
+      "end": 408,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "यादीत",
+      "sentence": 5,
+      "start": 416,
+      "end": 418,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      10,
+      11
+    ],
+    [
+      9,
+      13,
+      14
+    ],
+    [
+      16,
+      17
+    ],
+    [
+      23,
+      25
+    ]
+  ]
+}
