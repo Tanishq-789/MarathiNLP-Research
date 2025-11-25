@@ -1,0 +1,133 @@
+{
+  "document_id": "document_181",
+  "sentences": [
+    "हे फोटो तो कोणाला पाठवणार होता, हे अजूनही समजू शकलेले नाही.",
+    "अशा वनस्पती आरोग्यासाठी हानीकारक नाही, त्यामुळे ते चांगले घरात वापरले जाऊ शकते.",
+    "मगर रक्त ज्यायोगे या retily जखमा त्यांना लागू केले गेले असावे जे काही नाही दाह आणि शरीराचा भाग सडणारा, आहे एक नैसर्गिक प्रतिजैविक पदार्थ, समाविष्टीत आहे.",
+    "या नियमामुळं एका फटक्यात साडेतीनशे पत्रकार बाद झाले आहेत."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "फोटो",
+      "sentence": 0,
+      "start": 3,
+      "end": 6,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "तो",
+      "sentence": 0,
+      "start": 8,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "कोणाला",
+      "sentence": 0,
+      "start": 11,
+      "end": 16,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "वनस्पती",
+      "sentence": 1,
+      "start": 61,
+      "end": 66,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "आरोग्य",
+      "sentence": 1,
+      "start": 68,
+      "end": 73,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "ते",
+      "sentence": 1,
+      "start": 88,
+      "end": 89,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "रक्त",
+      "sentence": 2,
+      "start": 121,
+      "end": 123,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "जखमा",
+      "sentence": 2,
+      "start": 139,
+      "end": 143,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "त्यांना",
+      "sentence": 2,
+      "start": 145,
+      "end": 150,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "शरीर",
+      "sentence": 2,
+      "start": 187,
+      "end": 190,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "पदार्थ",
+      "sentence": 2,
+      "start": 218,
+      "end": 222,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "नियम",
+      "sentence": 3,
+      "start": 238,
+      "end": 241,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "फटका",
+      "sentence": 3,
+      "start": 249,
+      "end": 252,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "पत्रकार",
+      "sentence": 3,
+      "start": 261,
+      "end": 266,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      4,
+      6
+    ],
+    [
+      10,
+      11
+    ]
+  ]
+}

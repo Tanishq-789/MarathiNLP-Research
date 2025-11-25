@@ -1,0 +1,322 @@
+{
+  "document_id": "document_105",
+  "sentences": [
+    "मलकापूर पोलीस ठाण्यातच लाचखोर ठाणेदारासह दोघे एसीबीच्या जाळ्यात",
+    "लेकिन यह सुविधा दोपहिया, तीन पहिया, टैक्सी और टेम्पो जैसे हल्के वाहनों को ही मिलेगी, जबकि भारी वाहनों ट्रक और बसों के लिए टोल देना अनिवार्य होगा।",
+    "सरन : मालदीवसंदर्भात भारताच्या भूमिकेबाबत तुमचे मत काय आहे?",
+    "लहान श्रेणी उत्पादन पीक.",
+    "याचवेळी ही दुर्घटना झाली.",
+    "साहसाने, निर्भयतेने जगण्याची सवय तुमच्यातील आत्मविश्वास वाढवत असतो.",
+    "त्यापैकी हेमंत हा नुकताच कारागृहातून जामिनावर सुटला आहे तर नरेश याला आज न्यायालयात आणण्यात आले होते.",
+    "या देशात विद्यापीठांची एक फार मोठी निवड आहे, पण मुलाखत विद्यार्थी दावा करतात की राज्य संस्था खासगी लोकांपेक्षा \"ताकदवान\" असा क्रम असतो।",
+    "न्याय दो,."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मलकापूर",
+      "sentence": 0,
+      "start": 0,
+      "end": 8,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "पोलीस",
+      "sentence": 0,
+      "start": 9,
+      "end": 14,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "लाचखोर",
+      "sentence": 0,
+      "start": 23,
+      "end": 30,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "ठाणेदारासह",
+      "sentence": 0,
+      "start": 31,
+      "end": 40,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "दोघे",
+      "sentence": 0,
+      "start": 41,
+      "end": 45,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "जाळ्यात",
+      "sentence": 0,
+      "start": 54,
+      "end": 59,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "सुविधा",
+      "sentence": 1,
+      "start": 71,
+      "end": 76,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "दुपहिया",
+      "sentence": 1,
+      "start": 77,
+      "end": 84,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "पहिया",
+      "sentence": 1,
+      "start": 90,
+      "end": 95,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "टैक्सी",
+      "sentence": 1,
+      "start": 97,
+      "end": 102,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "टेम्पो",
+      "sentence": 1,
+      "start": 106,
+      "end": 111,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "ट्रक",
+      "sentence": 1,
+      "start": 149,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "मालदीवसंदर्भात",
+      "sentence": 2,
+      "start": 186,
+      "end": 198,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "भारताच्या",
+      "sentence": 2,
+      "start": 199,
+      "end": 206,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "भूमिकेबाबत",
+      "sentence": 2,
+      "start": 207,
+      "end": 215,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "तुमचे",
+      "sentence": 2,
+      "start": 216,
+      "end": 221,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "श्रेणी",
+      "sentence": 3,
+      "start": 238,
+      "end": 243,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "उत्पादन",
+      "sentence": 3,
+      "start": 244,
+      "end": 250,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "दुर्घटना",
+      "sentence": 4,
+      "start": 266,
+      "end": 273,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "साहसाने",
+      "sentence": 5,
+      "start": 275,
+      "end": 282,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "निर्भयतेने",
+      "sentence": 5,
+      "start": 284,
+      "end": 292,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "जगण्याची",
+      "sentence": 5,
+      "start": 293,
+      "end": 300,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "आत्मविश्वास",
+      "sentence": 5,
+      "start": 315,
+      "end": 323,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "त्यापैकी",
+      "sentence": 6,
+      "start": 327,
+      "end": 334,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "हेमंत",
+      "sentence": 6,
+      "start": 335,
+      "end": 340,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "कारागृहातून",
+      "sentence": 6,
+      "start": 350,
+      "end": 360,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "जामिनावर",
+      "sentence": 6,
+      "start": 361,
+      "end": 368,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "याला",
+      "sentence": 6,
+      "start": 386,
+      "end": 390,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "देशात",
+      "sentence": 7,
+      "start": 420,
+      "end": 425,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "विद्यापीठांची",
+      "sentence": 7,
+      "start": 426,
+      "end": 436,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "मुलाखत",
+      "sentence": 7,
+      "start": 458,
+      "end": 465,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "विद्यार्थी",
+      "sentence": 7,
+      "start": 466,
+      "end": 473,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "राज्य",
+      "sentence": 7,
+      "start": 484,
+      "end": 488,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "संस्था",
+      "sentence": 7,
+      "start": 489,
+      "end": 494,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "लोकांपेक्षा",
+      "sentence": 7,
+      "start": 500,
+      "end": 508,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "क्रम",
+      "sentence": 7,
+      "start": 520,
+      "end": 524,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "न्याय",
+      "sentence": 8,
+      "start": 544,
+      "end": 548,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      29,
+      30
+    ],
+    [
+      23,
+      35
+    ]
+  ]
+}

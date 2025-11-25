@@ -1,0 +1,458 @@
+{
+  "document_id": "document_107",
+  "sentences": [
+    "एप्रिल 18, 2017",
+    "या चाहत्याने पंतप्रधान नरेंद्र मोदी यांच्याविषयी आक्षेपार्ह टिप्पणी केल्याचा आरोप आहे.",
+    "व त्याने एकहाती विजय चेन्नईला मिळवून दिले",
+    "\" हा मुख्य धर्मोपदेशक आहे, हे त्यांच्या पूर्ण नकार आहे.",
+    "त्यास ईसामियां यांचें बोलणें दौलांसीं कीं “ हीं पत्रें खोटीं; याची तहकीक करावी.",
+    "त्यामुळे जपानची कंपनी खिळ्यांपासून रुळापर्यंत, खडीपासून सिमेंटपर्यंत सर्व तंत्रज्ञान त्यांच्याच देशातून आणणार आहे, असे उद्धव ठाकरे म्हणाले.",
+    "सanjay राऊतांनी साधला भाजपवर निशाणा",
+    "हे साधन गत्ता उत्पादन वापरले जाते.",
+    "त्यानुसार विमाधकर किंवा त्यांच्या वारसांना इन्शूरन्स क्लेमवर सुरू असलेल्या कार्यवाहीची सविस्तर माहिती पत्र, फोन, मोबाईल किंवा ई-मेलद्वारे देण्याच्या सुचना कंपन्यांना देण्यात आल्या आहेत.",
+    "राज ठाकरे – खाजगीकरण मोठ्याप्रमाणत होत आहे.",
+    "मेनूमध्ये \"आता कॉपी करा\" बटण निवडा.",
+    "त्यामुळे हा खूनाचा प्रकार भर दिवसा घडून देखील कुणाच्याच लक्षात आला नाही.",
+    "(यावर पहिल्या भागात उहापोह केला आहेच."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "एप्रिल",
+      "sentence": 0,
+      "start": 0,
+      "end": 5,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "चाहत्याने",
+      "sentence": 1,
+      "start": 17,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "पंतप्रधान",
+      "sentence": 1,
+      "start": 27,
+      "end": 34,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "नरेंद्र",
+      "sentence": 1,
+      "start": 35,
+      "end": 41,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "मोदी",
+      "sentence": 1,
+      "start": 42,
+      "end": 46,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "टिप्पणी",
+      "sentence": 1,
+      "start": 60,
+      "end": 66,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "आरोप",
+      "sentence": 1,
+      "start": 75,
+      "end": 79,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "त्याने",
+      "sentence": 2,
+      "start": 84,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "चेन्नईला",
+      "sentence": 2,
+      "start": 100,
+      "end": 107,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "धर्मोपदेशक",
+      "sentence": 3,
+      "start": 121,
+      "end": 130,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "त्यांच्या",
+      "sentence": 3,
+      "start": 139,
+      "end": 145,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "नकार",
+      "sentence": 3,
+      "start": 151,
+      "end": 155,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "ईसामियां",
+      "sentence": 4,
+      "start": 165,
+      "end": 172,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "पत्रें",
+      "sentence": 4,
+      "start": 200,
+      "end": 204,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "याची",
+      "sentence": 4,
+      "start": 211,
+      "end": 215,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "तहकीक",
+      "sentence": 4,
+      "start": 216,
+      "end": 221,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "कंपनी",
+      "sentence": 5,
+      "start": 236,
+      "end": 240,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "खिळ्यांपासून",
+      "sentence": 5,
+      "start": 241,
+      "end": 250,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "रुळापर्यंत",
+      "sentence": 5,
+      "start": 251,
+      "end": 259,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "खडीपासून",
+      "sentence": 5,
+      "start": 261,
+      "end": 269,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "सिमेंटपर्यंत",
+      "sentence": 5,
+      "start": 270,
+      "end": 279,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "तंत्रज्ञान",
+      "sentence": 5,
+      "start": 284,
+      "end": 291,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "देशातून",
+      "sentence": 5,
+      "start": 300,
+      "end": 306,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "उद्धव",
+      "sentence": 5,
+      "start": 320,
+      "end": 325,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "ठाकरे",
+      "sentence": 5,
+      "start": 326,
+      "end": 331,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "राऊतांनी",
+      "sentence": 6,
+      "start": 340,
+      "end": 347,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "भाजपवर",
+      "sentence": 6,
+      "start": 354,
+      "end": 360,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "निशाणा",
+      "sentence": 6,
+      "start": 361,
+      "end": 366,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "साधन",
+      "sentence": 7,
+      "start": 373,
+      "end": 377,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "गत्ता",
+      "sentence": 7,
+      "start": 378,
+      "end": 381,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "उत्पादन",
+      "sentence": 7,
+      "start": 382,
+      "end": 387,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "त्यांच्या",
+      "sentence": 8,
+      "start": 410,
+      "end": 416,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "वारसांना",
+      "sentence": 8,
+      "start": 417,
+      "end": 423,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "इन्शूरन्स",
+      "sentence": 8,
+      "start": 424,
+      "end": 431,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "क्लेमवर",
+      "sentence": 8,
+      "start": 432,
+      "end": 438,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "कार्यवाहीची",
+      "sentence": 8,
+      "start": 454,
+      "end": 461,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "माहिती",
+      "sentence": 8,
+      "start": 469,
+      "end": 474,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "पत्र",
+      "sentence": 8,
+      "start": 475,
+      "end": 478,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "मोबाईल",
+      "sentence": 8,
+      "start": 485,
+      "end": 491,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "ई-मेलद्वारे",
+      "sentence": 8,
+      "start": 495,
+      "end": 503,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "सुचना",
+      "sentence": 8,
+      "start": 513,
+      "end": 517,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "कंपन्यांना",
+      "sentence": 8,
+      "start": 518,
+      "end": 525,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "ठाकरे",
+      "sentence": 9,
+      "start": 545,
+      "end": 550,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "खाजगीकरण",
+      "sentence": 9,
+      "start": 553,
+      "end": 560,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "मेनूमध्ये",
+      "sentence": 10,
+      "start": 577,
+      "end": 583,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "कॉपी",
+      "sentence": 10,
+      "start": 590,
+      "end": 594,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "खूनाचा",
+      "sentence": 11,
+      "start": 616,
+      "end": 622,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "प्रकार",
+      "sentence": 11,
+      "start": 623,
+      "end": 627,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "कुणाच्याच",
+      "sentence": 11,
+      "start": 647,
+      "end": 654,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "भागात",
+      "sentence": 12,
+      "start": 674,
+      "end": 678,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      2,
+      8
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      11,
+      12
+    ],
+    [
+      20,
+      21
+    ],
+    [
+      23,
+      29
+    ],
+    [
+      31,
+      32
+    ],
+    [
+      33,
+      34
+    ],
+    [
+      37,
+      38
+    ],
+    [
+      41,
+      42
+    ]
+  ]
+}

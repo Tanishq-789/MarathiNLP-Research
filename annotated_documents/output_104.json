@@ -1,0 +1,218 @@
+{
+  "document_id": "document_104",
+  "sentences": [
+    "त्यानंतर प्रेमाबाबतची आणि सेक्स विषयी जी फुटकळ आकर्षण निर्माण होतात… ती अनुभवण्यासाठी पहा बीपी",
+    "उल्हासनगर ५ येथील कैलास कॉलनी परिसरात मुख्य चौकाजवळ गोविंद लालचंद मौर्य हे रहिवाशी राहतात.",
+    "केंद्र सरकारने आज प्रसिद्ध केलेल्या लिलाव पत्रानुसार, एअर इंडिया एक्स्प्रेसमधील १०० टक्के भाग भांडवल विकला जाणार आहे.",
+    "धोनी संघात असल्याचा कोहलीला खूप फायदा होईल.",
+    "अशा वेळी शेतकरी या वाणांच्या लागवडीपासून परावृत्त होतो.",
+    "त्याचा आरोग्यावर विपरित."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "सेक्स",
+      "sentence": 0,
+      "start": 23,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "आकर्षण",
+      "sentence": 0,
+      "start": 41,
+      "end": 46,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "ती",
+      "sentence": 0,
+      "start": 60,
+      "end": 61,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "बीपी",
+      "sentence": 0,
+      "start": 75,
+      "end": 77,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "गोविंद",
+      "sentence": 1,
+      "start": 126,
+      "end": 130,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "लालचंद",
+      "sentence": 1,
+      "start": 132,
+      "end": 137,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "मौर्य",
+      "sentence": 1,
+      "start": 139,
+      "end": 142,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "रहिवाशी",
+      "sentence": 1,
+      "start": 147,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "केंद्र",
+      "sentence": 2,
+      "start": 154,
+      "end": 157,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "सरकारने",
+      "sentence": 2,
+      "start": 158,
+      "end": 164,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "लिलाव",
+      "sentence": 2,
+      "start": 179,
+      "end": 183,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "पत्रानुसार",
+      "sentence": 2,
+      "start": 185,
+      "end": 191,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "इंडिया",
+      "sentence": 2,
+      "start": 198,
+      "end": 202,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "भांडवल",
+      "sentence": 2,
+      "start": 229,
+      "end": 234,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "धोनी",
+      "sentence": 3,
+      "start": 244,
+      "end": 247,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "संघात",
+      "sentence": 3,
+      "start": 249,
+      "end": 253,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "कोहलीला",
+      "sentence": 3,
+      "start": 263,
+      "end": 268,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "फायदा",
+      "sentence": 3,
+      "start": 275,
+      "end": 279,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "शेतकरी",
+      "sentence": 4,
+      "start": 289,
+      "end": 294,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "वाणांच्या",
+      "sentence": 4,
+      "start": 298,
+      "end": 304,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "लागवडीपासून",
+      "sentence": 4,
+      "start": 306,
+      "end": 315,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "त्याचा",
+      "sentence": 5,
+      "start": 333,
+      "end": 337,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "आरोग्यावर",
+      "sentence": 5,
+      "start": 339,
+      "end": 345,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      1,
+      2
+    ],
+    [
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      12
+    ],
+    [
+      15,
+      16,
+      17
+    ]
+  ]
+}

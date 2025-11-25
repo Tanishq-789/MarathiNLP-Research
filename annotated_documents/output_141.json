@@ -1,0 +1,404 @@
+{
+  "document_id": "document_141",
+  "sentences": [
+    "लोकसभा निवडणुकीच्या प्रचारादरम्यान राहुल गांधी संपूर्ण देशभर हवाई प्रवास करताना दिसत आहेत.",
+    "हे विद्यापीठ त्यांच्या वेबसाईटवर शेकडो फतवे प्रसिध्द करत असते.",
+    "हा चित्रपट 2018 मध्ये प्रेक्षकांसाठी प्रमुख आकर्षण ठरेल ते त्यातील उत्तम कलाकार व त्याला जोड देणाऱ्या उत्तम कथानकामुळे.",
+    "1 जानेवारी शिर्डीच्या साईबाबा संस्थानाने 1 जानेवारीपासून जेवणाचा दर 10 रुपये केला आहे.",
+    "कारण उर्वरित कारखान्यांकडील साखरेला मागणी नसताना विक्रीविना साखर कोटा शिल्लक राहात होता.",
+    "मराठी चित्रपटस़ृष्टीचा यंदाचा बिग बजेट चित्रपट ‘हृदयांतर’ हा या महोत्सवाचे विषेश आकर्षण ठरणार आहे.",
+    "सुविधा असूनही त्याचा उपयोग होत नसल्याने वाहनचालकांमध्येही संतापाचे वातावरण आहे.",
+    "म्हणून लवकरच पुरेशी किडे गोळा करण्यासाठी, सापळे, आम्ही त्यांना (सापळे) गोळा आणि बर्न!",
+    "26 जानेवारी 2018ला हा सिनेमा रिलीज होतोय.",
+    "शिवाय त्यांचं घरही धोकादायक झालेलं नव्हतं.",
+    "याची माहिती असूनही शालेय."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "गांधी",
+      "sentence": 0,
+      "start": 36,
+      "end": 41,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "देशभर",
+      "sentence": 0,
+      "start": 50,
+      "end": 56,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "विद्यापीठ",
+      "sentence": 1,
+      "start": 93,
+      "end": 100,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "त्यांच्या",
+      "sentence": 1,
+      "start": 101,
+      "end": 108,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "वेबसाईटवर",
+      "sentence": 1,
+      "start": 109,
+      "end": 118,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "फतवे",
+      "sentence": 1,
+      "start": 125,
+      "end": 129,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "चित्रपट",
+      "sentence": 2,
+      "start": 158,
+      "end": 164,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "प्रेक्षकांसाठी",
+      "sentence": 2,
+      "start": 175,
+      "end": 185,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "आकर्षण",
+      "sentence": 2,
+      "start": 192,
+      "end": 198,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "ते",
+      "sentence": 2,
+      "start": 205,
+      "end": 207,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "कलाकार",
+      "sentence": 2,
+      "start": 222,
+      "end": 227,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "त्याला",
+      "sentence": 2,
+      "start": 231,
+      "end": 235,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "कथानकामुळे",
+      "sentence": 2,
+      "start": 256,
+      "end": 265,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "जानेवारी",
+      "sentence": 3,
+      "start": 269,
+      "end": 276,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "शिर्डीच्या",
+      "sentence": 3,
+      "start": 277,
+      "end": 285,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "साईबाबा",
+      "sentence": 3,
+      "start": 286,
+      "end": 292,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "संस्थानाने",
+      "sentence": 3,
+      "start": 293,
+      "end": 301,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "रुपये",
+      "sentence": 3,
+      "start": 331,
+      "end": 335,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "कारखान्यांकडील",
+      "sentence": 4,
+      "start": 353,
+      "end": 365,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "साखरेला",
+      "sentence": 4,
+      "start": 366,
+      "end": 372,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "मागणी",
+      "sentence": 4,
+      "start": 373,
+      "end": 377,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "साखर",
+      "sentence": 4,
+      "start": 393,
+      "end": 397,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "कोटा",
+      "sentence": 4,
+      "start": 398,
+      "end": 402,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "चित्रपट",
+      "sentence": 5,
+      "start": 461,
+      "end": 467,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "हृदयांतर",
+      "sentence": 5,
+      "start": 470,
+      "end": 478,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "महोत्सवाचे",
+      "sentence": 5,
+      "start": 485,
+      "end": 493,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "आकर्षण",
+      "sentence": 5,
+      "start": 500,
+      "end": 506,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "सुविधा",
+      "sentence": 6,
+      "start": 519,
+      "end": 524,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "त्याचा",
+      "sentence": 6,
+      "start": 531,
+      "end": 536,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "उपयोग",
+      "sentence": 6,
+      "start": 537,
+      "end": 542,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "वाहनचालकांमध्येही",
+      "sentence": 6,
+      "start": 556,
+      "end": 570,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "संतापाचे",
+      "sentence": 6,
+      "start": 571,
+      "end": 578,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "वातावरण",
+      "sentence": 6,
+      "start": 579,
+      "end": 585,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "किडे",
+      "sentence": 7,
+      "start": 602,
+      "end": 606,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "सापळे",
+      "sentence": 7,
+      "start": 619,
+      "end": 624,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "आम्ही",
+      "sentence": 7,
+      "start": 627,
+      "end": 631,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "त्यांना",
+      "sentence": 7,
+      "start": 632,
+      "end": 637,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "सापळे",
+      "sentence": 7,
+      "start": 640,
+      "end": 645,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "जानेवारी",
+      "sentence": 8,
+      "start": 667,
+      "end": 674,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "सिनेमा",
+      "sentence": 8,
+      "start": 686,
+      "end": 691,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "त्यांचं",
+      "sentence": 9,
+      "start": 711,
+      "end": 716,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "घरही",
+      "sentence": 9,
+      "start": 717,
+      "end": 721,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "याची",
+      "sentence": 10,
+      "start": 746,
+      "end": 750,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "माहिती",
+      "sentence": 10,
+      "start": 751,
+      "end": 756,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ],
+    [
+      3,
+      4,
+      5
+    ],
+    [
+      8,
+      9,
+      12,
+      13,
+      15,
+      32,
+      33,
+      34
+    ],
+    [
+      18,
+      19,
+      20
+    ],
+    [
+      26,
+      29
+    ],
+    [
+      37,
+      38
+    ]
+  ]
+}

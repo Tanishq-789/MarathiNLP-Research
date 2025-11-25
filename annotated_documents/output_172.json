@@ -1,0 +1,158 @@
+{
+  "document_id": "document_172",
+  "sentences": [
+    "चा मुद्दा परत ऐरणीवर आला आहे.",
+    "आपला हाच शब्द त्यांनी पाळला आणि शेतकऱ्यांना धनादेशाच्या स्वरुपात मदत देऊ केली.",
+    "फुलकोबीच्या मधुर आणि सुगंधी सूप साय पाककला",
+    "मागील काही दिवसांपासून या परिसरात अनेक हाणामारी, धमकावणे अशा घटना घडल्या आहेत.",
+    "एबीपी माझा व्हॉट्सअॅप बुलेटिन | 26 जानेवारी 2020 | रविवार",
+    "या जागेत बस आगाराबरोबरच लवकरच आंतरराज्यीय बस टर्मिनल (आयएसबीटी) आणि मेट्रो."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मुद्दा",
+      "sentence": 0,
+      "start": 3,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "शब्द",
+      "sentence": 1,
+      "start": 42,
+      "end": 46,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "त्यांनी",
+      "sentence": 1,
+      "start": 48,
+      "end": 54,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "शेतकऱ्यांना",
+      "sentence": 1,
+      "start": 66,
+      "end": 75,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "पाककला",
+      "sentence": 2,
+      "start": 134,
+      "end": 140,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "दिवसांपासून",
+      "sentence": 3,
+      "start": 159,
+      "end": 170,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "हाणामारी",
+      "sentence": 3,
+      "start": 188,
+      "end": 196,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "घटना",
+      "sentence": 3,
+      "start": 212,
+      "end": 216,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "एबीपी",
+      "sentence": 4,
+      "start": 226,
+      "end": 229,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "माझा",
+      "sentence": 4,
+      "start": 231,
+      "end": 235,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "व्हॉट्सअॅप",
+      "sentence": 4,
+      "start": 237,
+      "end": 246,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "बुलेटिन",
+      "sentence": 4,
+      "start": 248,
+      "end": 254,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "जानेवारी",
+      "sentence": 4,
+      "start": 262,
+      "end": 269,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "रविवार",
+      "sentence": 4,
+      "start": 278,
+      "end": 283,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "जागेत",
+      "sentence": 5,
+      "start": 286,
+      "end": 291,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "टर्मिनल",
+      "sentence": 5,
+      "start": 322,
+      "end": 329,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "आयएसबीटी",
+      "sentence": 5,
+      "start": 332,
+      "end": 340,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "मेट्रो",
+      "sentence": 5,
+      "start": 345,
+      "end": 350,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

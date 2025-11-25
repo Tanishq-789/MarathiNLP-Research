@@ -1,0 +1,253 @@
+{
+  "document_id": "document_101",
+  "sentences": [
+    "शिवसेना पक्षप्रमुख उद्धव ठाकरेंच्या नेतृत्वात शिवसेनेनं शेतकऱ्यांना पीकविमा मिळावा म्हणून विमा कंपन्यांवर धडक मोर्चा काढला आहे.",
+    "याकरीता बी बियाणे, खते, औषधे यांची तजवीज शेतकर्‍यांकडून करण्यात येत आहे.",
+    "सगळ्या चित्रांचं श्रेय माझ्या मुलाचं, प्रत्युषचं.",
+    "ही चित्रकथा त्याच्याशिवाय पूर्ण झालीच नसती.",
+    "Thanks babi, love u bachha!",
+    "शिवाय या ताफ्यावर जर हल्ला झालाच तर हल्लेखोरांना तात्काळ गोळ्या घालण्याचे आदेश देण्यात आल्याची माहिती पुढे आली आहे.",
+    "हे विनंति."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "शिवसेना",
+      "sentence": 0,
+      "start": 0,
+      "end": 6,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "उद्धव",
+      "sentence": 0,
+      "start": 11,
+      "end": 15,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "ठाकरेंच्या",
+      "sentence": 0,
+      "start": 16,
+      "end": 25,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "नेतृत्वात",
+      "sentence": 0,
+      "start": 26,
+      "end": 34,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "शिवसेनेनं",
+      "sentence": 0,
+      "start": 35,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "शेतकऱ्यांना",
+      "sentence": 0,
+      "start": 44,
+      "end": 52,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "पीकविमा",
+      "sentence": 0,
+      "start": 53,
+      "end": 60,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "विमा",
+      "sentence": 0,
+      "start": 73,
+      "end": 76,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "कंपन्यांवर",
+      "sentence": 0,
+      "start": 77,
+      "end": 85,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मोर्चा",
+      "sentence": 0,
+      "start": 91,
+      "end": 95,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "बियाणे",
+      "sentence": 1,
+      "start": 109,
+      "end": 114,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "औषधे",
+      "sentence": 1,
+      "start": 122,
+      "end": 127,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "यांची",
+      "sentence": 1,
+      "start": 129,
+      "end": 133,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "तजवीज",
+      "sentence": 1,
+      "start": 135,
+      "end": 140,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "शेतकर्‍यांकडून",
+      "sentence": 1,
+      "start": 141,
+      "end": 151,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "श्रेय",
+      "sentence": 2,
+      "start": 169,
+      "end": 172,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "माझ्या",
+      "sentence": 2,
+      "start": 173,
+      "end": 178,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "मुलाचं",
+      "sentence": 2,
+      "start": 179,
+      "end": 184,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "चित्रकथा",
+      "sentence": 3,
+      "start": 197,
+      "end": 203,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "babi",
+      "sentence": 4,
+      "start": 221,
+      "end": 225,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "bachha",
+      "sentence": 4,
+      "start": 233,
+      "end": 239,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "ताफ्यावर",
+      "sentence": 5,
+      "start": 248,
+      "end": 254,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "हल्ला",
+      "sentence": 5,
+      "start": 259,
+      "end": 263,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "हल्लेखोरांना",
+      "sentence": 5,
+      "start": 272,
+      "end": 281,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "गोळ्या",
+      "sentence": 5,
+      "start": 288,
+      "end": 292,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "माहिती",
+      "sentence": 5,
+      "start": 319,
+      "end": 324,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "विनंति",
+      "sentence": 6,
+      "start": 336,
+      "end": 341,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      4
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      5,
+      17
+    ],
+    [
+      21,
+      22,
+      24
+    ],
+    [
+      25,
+      26
+    ]
+  ]
+}

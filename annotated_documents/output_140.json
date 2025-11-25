@@ -1,0 +1,326 @@
+{
+  "document_id": "document_140",
+  "sentences": [
+    "१००व्या नाट्यसंमेलनाच्या अध्यक्षपदी जब्बार पटेल यांची एकमताने निवड",
+    "सक्तीचे सेवा कर्मचारी मशीन जंगम भाग, फ्रेम फिक्सिंग गुणवत्ता, व्यासपीठ स्थान अचूकता आणि डेस्कटॉप जोड विश्वसनीयता तपासणे आवश्यक आहे.",
+    "सरकार तीन दिवसांत लोकांना कांदा स्वस्त दरात उपलब्ध करुन देण्यास अपयशी ठरल्यास महिला काँग्रेस रसत्यावर उतरून लोकांना स्वस्त दरात कांद्याची विक्री करणार असल्याचे त्यांनी सांगितले.",
+    "कव्हर वर scratches टाळण्यासाठी, फर्निचर पाय समान रीतीने दबाव वितरण की शक्य सुसज्ज करणे आवश्यक आहे.",
+    "परिचारक यांना दीड वर्ष निलंबित करण्यात आले होते.",
+    "मात्र आधी फार्म्युला नंतर सत्तास्थापना अशी भूमिका शिवसेनेने घेतली असून अडीच वर्ष मुख्यमंत्री पदाची मागणी  केली आहे.",
+    "Loading."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "जब्बार",
+      "sentence": 0,
+      "start": 30,
+      "end": 35,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "यांची",
+      "sentence": 0,
+      "start": 43,
+      "end": 47,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "कर्मचारी",
+      "sentence": 1,
+      "start": 72,
+      "end": 79,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मशीन",
+      "sentence": 1,
+      "start": 81,
+      "end": 86,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "फ्रेम",
+      "sentence": 1,
+      "start": 99,
+      "end": 103,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "गुणवत्ता",
+      "sentence": 1,
+      "start": 109,
+      "end": 116,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "व्यासपीठ",
+      "sentence": 1,
+      "start": 119,
+      "end": 126,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "स्थान",
+      "sentence": 1,
+      "start": 128,
+      "end": 132,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "अचूकता",
+      "sentence": 1,
+      "start": 134,
+      "end": 140,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "डेस्कटॉप",
+      "sentence": 1,
+      "start": 146,
+      "end": 153,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "विश्वसनीयता",
+      "sentence": 1,
+      "start": 160,
+      "end": 170,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "सरकार",
+      "sentence": 2,
+      "start": 237,
+      "end": 242,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "लोकांना",
+      "sentence": 2,
+      "start": 251,
+      "end": 256,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "कांदा",
+      "sentence": 2,
+      "start": 257,
+      "end": 261,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "महिला",
+      "sentence": 2,
+      "start": 298,
+      "end": 302,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "काँग्रेस",
+      "sentence": 2,
+      "start": 303,
+      "end": 309,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "रसत्यावर",
+      "sentence": 2,
+      "start": 310,
+      "end": 317,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "लोकांना",
+      "sentence": 2,
+      "start": 327,
+      "end": 332,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "कांद्याची",
+      "sentence": 2,
+      "start": 342,
+      "end": 350,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "विक्री",
+      "sentence": 2,
+      "start": 351,
+      "end": 355,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "त्यांनी",
+      "sentence": 2,
+      "start": 366,
+      "end": 371,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "scratches",
+      "sentence": 3,
+      "start": 424,
+      "end": 432,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "फर्निचर",
+      "sentence": 3,
+      "start": 445,
+      "end": 451,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "दबाब",
+      "sentence": 3,
+      "start": 465,
+      "end": 469,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "वितरण",
+      "sentence": 3,
+      "start": 470,
+      "end": 475,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "परिचारक",
+      "sentence": 4,
+      "start": 508,
+      "end": 514,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "यांना",
+      "sentence": 4,
+      "start": 516,
+      "end": 520,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "वर्ष",
+      "sentence": 4,
+      "start": 525,
+      "end": 528,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "फार्म्युला",
+      "sentence": 5,
+      "start": 567,
+      "end": 574,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "सत्तास्थापना",
+      "sentence": 5,
+      "start": 580,
+      "end": 589,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "भूमिका",
+      "sentence": 5,
+      "start": 595,
+      "end": 600,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "शिवसेनेने",
+      "sentence": 5,
+      "start": 601,
+      "end": 609,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "वर्ष",
+      "sentence": 5,
+      "start": 623,
+      "end": 626,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "मुख्यमंत्री",
+      "sentence": 5,
+      "start": 628,
+      "end": 636,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "पदाची",
+      "sentence": 5,
+      "start": 637,
+      "end": 642,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "मागणी",
+      "sentence": 5,
+      "start": 645,
+      "end": 649,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      2,
+      3,
+      4
+    ],
+    [
+      17,
+      22
+    ],
+    [
+      18,
+      23
+    ],
+    [
+      19,
+      20,
+      25
+    ],
+    [
+      32,
+      33
+    ]
+  ]
+}

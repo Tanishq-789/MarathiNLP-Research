@@ -1,0 +1,30 @@
+{
+  "document_id": "document_186",
+  "sentences": [
+    "अनुराधा गोडबोले, किशोर शेठ नावंधर, रमणलाल शहा सर, चं."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "गोडबोले",
+      "sentence": 0,
+      "start": 8,
+      "end": 15,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "किशोर",
+      "sentence": 0,
+      "start": 17,
+      "end": 23,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ]
+  ]
+}

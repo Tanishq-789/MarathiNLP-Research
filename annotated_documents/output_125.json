@@ -1,0 +1,710 @@
+{
+  "document_id": "document_125",
+  "sentences": [
+    "मला डोळे दाखवतेस.",
+    "अगदी खात्रीनं!",
+    "या बैठकीच्या प्रसारासाठी त्यांनी स्वतः वैशिष्ट्यपूर्ण पोस्ट बनवून परिचितांना पाठवल्या.",
+    "मंदिरातील पावित्र्य, प्रथा-परंपरा यांचे पालन होण्यासाठी आणि प्रशासनामुळे त्यात येणारे अडथळे दूर होण्यासाठी नियमित स्वरूपात विविध आंदोलने, कृती आणि निवेदन देण्याचे निश्‍चित झाले.",
+    "यामुळे स्थानिक नागरिक, प्रवासी, वाहतूकदार त्रस्त झाले आहेत.",
+    "वृषणात तयार होणारे लैंगिक वैशिष्ट्यांचे वाढ करणारे संप्रेरक प्रोपियोनेट मुळे माशांचा आणि \"Stanozolol\" (रेटिंग चांगला मार्ग घेणे खेळाडूंनी या माहितीची पुष्टी): 60 मिग्रॅ प्रतिदिन आठ आठवडे प्रत्येक इतर दिवशी वृषणात तयार होणारे लैंगिक वैशिष्ट्यांचे वाढ करणारे संप्रेरक ester इंजेक्शन ठेवले, आणि \"Stanozolol\" पेय 3 डोस या डोस वाटून.",
+    "कर चुकवणे जबाबदारी",
+    "हे हृदय हेलावणारे बोल आहेत जामखेड शहरातील जिल्हा परिषद शाळेतील चिमुकल्या विद्यार्थ्यांचे.",
+    "तसेच जेट एअरवेजच्या विमानात हे घुबड आढळून आल्यामुळे हा शुभ शकून असल्याचे मानून आम्ही कर्जाच्या डबघाईतून वर येऊ, अशी आशाही जेटच्या प्रवक्त्यांनी व्यक्त केली आहे.",
+    "अहमदनगर लाईव्ह24.कॉम :- राहुरी तालुक्‍यात राष्ट्रवादीच्या झालेल्या हल्लाबोल आंदोलनामुळे कार्यकर्त्यांना नवीन ऊर्जा तर मिळालीच; परंतु यानिमित्ताने लोकनियुक्‍त नगराध्यक्ष प्राजक्‍त तनपुरे यांचे आगामी विधानसभेच्या निवडणुकीचे रणशिंग फुंकले गेले.",
+    "असं करून सरकारला काहीही साध्य होणार नाही.",
+    "पाकड्यांचे खायचे-प्यायचे वांदे, पेट्रोल-डिझेलपेक्षा दूध महाग",
+    "या कायद्यात बदल्यांचे निकषही दिले आहेत.",
+    "शेवटचे कडवे (घेईल का .",
+    "एक केक करण्यासाठी कसे बेकिंग न चीज",
+    "मागील निवडणुकीनंतर शिवसेना- भाजपचा आलेख जिल्ह्यात वाढता राहिला आहे.",
+    "अर्थात थर्टी फर्स्टचे.",
+    "२००३ ते २००५ तिरोडा पंचायत समितीचे सभापती होते.",
+    "देशांतर्गत बाजारात, या युनिट सरासरी 7-8 हजार उपलब्ध आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मला",
+      "sentence": 0,
+      "start": 0,
+      "end": 3,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "डोळे",
+      "sentence": 0,
+      "start": 4,
+      "end": 8,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "बैठक",
+      "sentence": 2,
+      "start": 17,
+      "end": 21,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "प्रसार",
+      "sentence": 2,
+      "start": 26,
+      "end": 30,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "त्यांनी",
+      "sentence": 2,
+      "start": 37,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "स्वतः",
+      "sentence": 2,
+      "start": 44,
+      "end": 48,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "पोस्ट",
+      "sentence": 2,
+      "start": 62,
+      "end": 67,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "मंदिर",
+      "sentence": 3,
+      "start": 92,
+      "end": 97,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "पावित्र्य",
+      "sentence": 3,
+      "start": 102,
+      "end": 110,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "प्रथा",
+      "sentence": 3,
+      "start": 112,
+      "end": 116,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "पालन",
+      "sentence": 3,
+      "start": 129,
+      "end": 133,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "प्रशासन",
+      "sentence": 3,
+      "start": 149,
+      "end": 155,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "अडथळे",
+      "sentence": 3,
+      "start": 172,
+      "end": 177,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "स्वरूप",
+      "sentence": 3,
+      "start": 195,
+      "end": 200,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "आंदोलने",
+      "sentence": 3,
+      "start": 209,
+      "end": 216,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "कृती",
+      "sentence": 3,
+      "start": 218,
+      "end": 222,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "निवेदन",
+      "sentence": 3,
+      "start": 226,
+      "end": 232,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "नागरिक",
+      "sentence": 4,
+      "start": 258,
+      "end": 264,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "प्रवासी",
+      "sentence": 4,
+      "start": 266,
+      "end": 272,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "वाहतूकदार",
+      "sentence": 4,
+      "start": 274,
+      "end": 282,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "वृषण",
+      "sentence": 5,
+      "start": 289,
+      "end": 293,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "वैशिष्ट्य",
+      "sentence": 5,
+      "start": 309,
+      "end": 316,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "संप्रेरक",
+      "sentence": 5,
+      "start": 327,
+      "end": 334,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "प्रोपियोनेट",
+      "sentence": 5,
+      "start": 335,
+      "end": 345,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "मासा",
+      "sentence": 5,
+      "start": 351,
+      "end": 354,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "रेटिंग",
+      "sentence": 5,
+      "start": 376,
+      "end": 381,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "मार्ग",
+      "sentence": 5,
+      "start": 389,
+      "end": 393,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "खेळाडू",
+      "sentence": 5,
+      "start": 400,
+      "end": 405,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "माहिती",
+      "sentence": 5,
+      "start": 412,
+      "end": 417,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "पुष्टी",
+      "sentence": 5,
+      "start": 420,
+      "end": 425,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "मिग्रॅ",
+      "sentence": 5,
+      "start": 429,
+      "end": 433,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "आठवडे",
+      "sentence": 5,
+      "start": 444,
+      "end": 449,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "दिवस",
+      "sentence": 5,
+      "start": 462,
+      "end": 465,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "वृषण",
+      "sentence": 5,
+      "start": 467,
+      "end": 471,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "वैशिष्ट्य",
+      "sentence": 5,
+      "start": 487,
+      "end": 494,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "संप्रेरक",
+      "sentence": 5,
+      "start": 505,
+      "end": 512,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "इंजेक्शन",
+      "sentence": 5,
+      "start": 519,
+      "end": 526,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "जबाबदारी",
+      "sentence": 6,
+      "start": 576,
+      "end": 583,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "हृदय",
+      "sentence": 7,
+      "start": 588,
+      "end": 592,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "जिल्हा",
+      "sentence": 7,
+      "start": 624,
+      "end": 629,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "परिषद",
+      "sentence": 7,
+      "start": 630,
+      "end": 635,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "शाळा",
+      "sentence": 7,
+      "start": 636,
+      "end": 640,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "विद्यार्थी",
+      "sentence": 7,
+      "start": 651,
+      "end": 659,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "जेट",
+      "sentence": 8,
+      "start": 669,
+      "end": 672,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "एअरवेज",
+      "sentence": 8,
+      "start": 673,
+      "end": 679,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "विमान",
+      "sentence": 8,
+      "start": 683,
+      "end": 687,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "घुबड",
+      "sentence": 8,
+      "start": 693,
+      "end": 697,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "आम्ही",
+      "sentence": 8,
+      "start": 730,
+      "end": 735,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "कर्ज",
+      "sentence": 8,
+      "start": 736,
+      "end": 739,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "डबघाई",
+      "sentence": 8,
+      "start": 744,
+      "end": 749,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "जेट",
+      "sentence": 8,
+      "start": 768,
+      "end": 770,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "प्रवक्ता",
+      "sentence": 8,
+      "start": 774,
+      "end": 780,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "राष्ट्रवादी",
+      "sentence": 9,
+      "start": 832,
+      "end": 839,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "हल्लाबोल",
+      "sentence": 9,
+      "start": 849,
+      "end": 856,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "आंदोलन",
+      "sentence": 9,
+      "start": 857,
+      "end": 863,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "कार्यकर्ता",
+      "sentence": 9,
+      "start": 868,
+      "end": 875,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "ऊर्जा",
+      "sentence": 9,
+      "start": 886,
+      "end": 890,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "नगराध्यक्ष",
+      "sentence": 9,
+      "start": 925,
+      "end": 934,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "प्राजक्‍त",
+      "sentence": 9,
+      "start": 935,
+      "end": 941,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "तनपुरे",
+      "sentence": 9,
+      "start": 942,
+      "end": 948,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "रणशिंग",
+      "sentence": 9,
+      "start": 979,
+      "end": 985,
+      "confidence": 1.0
+    },
+    {
+      "id": 61,
+      "text": "सरकार",
+      "sentence": 10,
+      "start": 1003,
+      "end": 1007,
+      "confidence": 1.0
+    },
+    {
+      "id": 62,
+      "text": "पाकड्या",
+      "sentence": 11,
+      "start": 1023,
+      "end": 1029,
+      "confidence": 1.0
+    },
+    {
+      "id": 63,
+      "text": "वांदे",
+      "sentence": 11,
+      "start": 1043,
+      "end": 1047,
+      "confidence": 1.0
+    },
+    {
+      "id": 64,
+      "text": "पेट्रोल",
+      "sentence": 11,
+      "start": 1049,
+      "end": 1056,
+      "confidence": 1.0
+    },
+    {
+      "id": 65,
+      "text": "डिझेल",
+      "sentence": 11,
+      "start": 1057,
+      "end": 1062,
+      "confidence": 1.0
+    },
+    {
+      "id": 66,
+      "text": "कायदा",
+      "sentence": 12,
+      "start": 1076,
+      "end": 1080,
+      "confidence": 1.0
+    },
+    {
+      "id": 67,
+      "text": "बदली",
+      "sentence": 12,
+      "start": 1084,
+      "end": 1088,
+      "confidence": 1.0
+    },
+    {
+      "id": 68,
+      "text": "निकष",
+      "sentence": 12,
+      "start": 1093,
+      "end": 1097,
+      "confidence": 1.0
+    },
+    {
+      "id": 69,
+      "text": "बेकिंग",
+      "sentence": 14,
+      "start": 1142,
+      "end": 1148,
+      "confidence": 1.0
+    },
+    {
+      "id": 70,
+      "text": "शिवसेना",
+      "sentence": 15,
+      "start": 1174,
+      "end": 1180,
+      "confidence": 1.0
+    },
+    {
+      "id": 71,
+      "text": "भाजप",
+      "sentence": 15,
+      "start": 1182,
+      "end": 1186,
+      "confidence": 1.0
+    },
+    {
+      "id": 72,
+      "text": "जिल्हा",
+      "sentence": 15,
+      "start": 1195,
+      "end": 1200,
+      "confidence": 1.0
+    },
+    {
+      "id": 73,
+      "text": "फर्स्ट",
+      "sentence": 16,
+      "start": 1211,
+      "end": 1216,
+      "confidence": 1.0
+    },
+    {
+      "id": 74,
+      "text": "पंचायत",
+      "sentence": 17,
+      "start": 1236,
+      "end": 1242,
+      "confidence": 1.0
+    },
+    {
+      "id": 75,
+      "text": "सभापती",
+      "sentence": 17,
+      "start": 1250,
+      "end": 1256,
+      "confidence": 1.0
+    },
+    {
+      "id": 76,
+      "text": "बाजार",
+      "sentence": 18,
+      "start": 1267,
+      "end": 1271,
+      "confidence": 1.0
+    },
+    {
+      "id": 77,
+      "text": "युनिट",
+      "sentence": 18,
+      "start": 1278,
+      "end": 1283,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      4,
+      5
+    ],
+    [
+      11,
+      13
+    ],
+    [
+      16,
+      17,
+      18,
+      19
+    ],
+    [
+      23,
+      37
+    ],
+    [
+      24,
+      38
+    ],
+    [
+      25,
+      39
+    ],
+    [
+      28,
+      42
+    ],
+    [
+      44,
+      45
+    ],
+    [
+      48,
+      50
+    ],
+    [
+      57,
+      68
+    ],
+    [
+      60,
+      61
+    ],
+    [
+      62,
+      63
+    ],
+    [
+      64,
+      69
+    ],
+    [
+      75,
+      76
+    ]
+  ]
+}

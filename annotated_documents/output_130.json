@@ -1,0 +1,419 @@
+{
+  "document_id": "document_130",
+  "sentences": [
+    "शुक्रवार, 13 सप्टेंबर 2019",
+    "मात्र त्यानंतर तिच्या आणि आलियाच्या नात्यात फार फरक पडला नाही.",
+    "काही काळानंतर तिच्या पतीचे HIV या आजाराने मृत्यू झाला.",
+    "पण काही मोजके चित्रपट वगळले तर आजच्या चित्रपट गीतांतूनही मेलडीही हरवली आहे, असं वाटतं.",
+    "आंतरजातिय/वंशिय विवाहाचे खालील फायदे होऊ शकतात.",
+    "त्यांच्यावर दबाव बुमराह आणि भुवनेश्वरकुमारने वाढवला.",
+    "यावरून पहिला खटका उडाला.",
+    "मी अतिउत्साहात दोन्ही रोपं चुकीच्या मोसमात लावली.",
+    "इथे उन्हाळ्यात मिरची नीट वाढत नाही.",
+    "शेकडो फुलं देऊन गेली पण एकही फळ नाही.",
+    "या सेप्टेंबरला पुन्हा प्रयत्न करणार आहे.",
+    "कलम 19 (1) (b) : हत्याराशिवाय कोणत्याही ठिकाणी शांततापूर्वक जमा होण्याचा अधिकार आहे.",
+    "भर मध्यरात्री हा खून करण्यात आला.",
+    "काळा टेट्रा कोण मिळवू शकता?",
+    "कोणी बनवला हा सर्वात छोटा फोन?",
+    "भरधाव वेगाने जात असलेल्या मालवाहू ट्रकवरील चालकाचे नियंत्रण सुटल्याने सदर ट्रक रस्त्यालगत असलेल्या पानटपरीस धडकल्याने पानटपरी जमीनदोस्त झाली.",
+    "मात्र, जगाचा निरोप घेण्याअगोदर त्याने गुप्तपणे साठवलेल्या करोडो रूपयांची माहिती देऊन जातो.",
+    "त्यामुळे मासे टिकवून ठेवण्यासाठी फायबरचे बॉक्स (कंटेनर) उपलब्ध करून देण्याचा."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "तिच्या",
+      "sentence": 1,
+      "start": 14,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "आलियाच्या",
+      "sentence": 1,
+      "start": 25,
+      "end": 33,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "नात्यात",
+      "sentence": 1,
+      "start": 34,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "काळानंतर",
+      "sentence": 2,
+      "start": 61,
+      "end": 68,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "तिच्या",
+      "sentence": 2,
+      "start": 70,
+      "end": 75,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "पतीचे",
+      "sentence": 2,
+      "start": 76,
+      "end": 80,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "आजाराने",
+      "sentence": 2,
+      "start": 88,
+      "end": 94,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "मृत्यू",
+      "sentence": 2,
+      "start": 95,
+      "end": 99,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "चित्रपट",
+      "sentence": 3,
+      "start": 115,
+      "end": 120,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "चित्रपट",
+      "sentence": 3,
+      "start": 135,
+      "end": 140,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "गीतांतूनही",
+      "sentence": 3,
+      "start": 141,
+      "end": 149,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "मेलडीही",
+      "sentence": 3,
+      "start": 150,
+      "end": 156,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "विवाहाचे",
+      "sentence": 4,
+      "start": 178,
+      "end": 184,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "फायदे",
+      "sentence": 4,
+      "start": 192,
+      "end": 196,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "त्यांच्यावर",
+      "sentence": 5,
+      "start": 209,
+      "end": 217,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "दबाव",
+      "sentence": 5,
+      "start": 218,
+      "end": 222,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "बुमराह",
+      "sentence": 5,
+      "start": 223,
+      "end": 228,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "भुवनेश्वरकुमारने",
+      "sentence": 5,
+      "start": 234,
+      "end": 246,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "खटका",
+      "sentence": 6,
+      "start": 260,
+      "end": 264,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "मी",
+      "sentence": 7,
+      "start": 273,
+      "end": 274,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "अतिउत्साहात",
+      "sentence": 7,
+      "start": 275,
+      "end": 284,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "रोपं",
+      "sentence": 7,
+      "start": 291,
+      "end": 294,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "मोसमात",
+      "sentence": 7,
+      "start": 301,
+      "end": 306,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "उन्हाळ्यात",
+      "sentence": 8,
+      "start": 316,
+      "end": 323,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "मिरची",
+      "sentence": 8,
+      "start": 324,
+      "end": 328,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "फुलं",
+      "sentence": 9,
+      "start": 338,
+      "end": 341,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "सेप्टेंबरला",
+      "sentence": 10,
+      "start": 367,
+      "end": 375,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "प्रयत्न",
+      "sentence": 10,
+      "start": 381,
+      "end": 385,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "हत्याराशिवाय",
+      "sentence": 11,
+      "start": 416,
+      "end": 426,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "ठिकाणी",
+      "sentence": 11,
+      "start": 437,
+      "end": 442,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "अधिकार",
+      "sentence": 11,
+      "start": 462,
+      "end": 467,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "मध्यरात्री",
+      "sentence": 12,
+      "start": 475,
+      "end": 482,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "टेट्रा",
+      "sentence": 13,
+      "start": 499,
+      "end": 503,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "कोण",
+      "sentence": 13,
+      "start": 504,
+      "end": 506,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "कोणी",
+      "sentence": 14,
+      "start": 518,
+      "end": 521,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "वेगाने",
+      "sentence": 15,
+      "start": 546,
+      "end": 550,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "चालकाचे",
+      "sentence": 15,
+      "start": 573,
+      "end": 578,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "नियंत्रण",
+      "sentence": 15,
+      "start": 579,
+      "end": 584,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "ट्रक",
+      "sentence": 15,
+      "start": 596,
+      "end": 599,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "पानटपरी",
+      "sentence": 15,
+      "start": 634,
+      "end": 640,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "निरोप",
+      "sentence": 16,
+      "start": 655,
+      "end": 659,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "त्याने",
+      "sentence": 16,
+      "start": 670,
+      "end": 674,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "रूपयांची",
+      "sentence": 16,
+      "start": 693,
+      "end": 700,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "माहिती",
+      "sentence": 16,
+      "start": 701,
+      "end": 705,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "मासे",
+      "sentence": 17,
+      "start": 719,
+      "end": 722,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "फायबरचे",
+      "sentence": 17,
+      "start": 736,
+      "end": 742,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "बॉक्स",
+      "sentence": 17,
+      "start": 743,
+      "end": 747,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "कंटेनर",
+      "sentence": 17,
+      "start": 749,
+      "end": 754,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      5
+    ],
+    [
+      42,
+      45
+    ]
+  ]
+}

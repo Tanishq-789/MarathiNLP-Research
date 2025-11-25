@@ -1,0 +1,246 @@
+{
+  "document_id": "document_115",
+  "sentences": [
+    "नासाच्या शास्त्रज्ञांनी चंद्रावर गोठलेलं पाणी आढळल्याच्या माहितीला दुजोरा दिला आहे.",
+    "त्यामुळे जिल्हाधिकारी तथा जिल्हा निवडणूक अधिकारी एस.",
+    "झियाउल्ला यांनी पुन्हा एकदा क्राईम बॉर्डर मिटींग  घेण्याचे आदेश जिल्हा पोलिस प्रशासनाला दिले आहेत.",
+    "सुरवातीला त्याने आढेवेढे घेतले, पन नंतर तो तयार झाला.",
+    "तसेच याचिकाकर्त्यांना अशी मागणी करण्याचा अधिकार नाही.",
+    "कार हिवाळा आगमन, खरंच, म्हणून, आणि त्याच्या मालकासह, गडद दिवस सुरू: बर्फ, बर्फापासून तयार केलेले काच, फ्रोझन दरवाजा लॉक आणि ट्रंक, primerzshie ब्रेक चेंडू ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "नासा",
+      "sentence": 0,
+      "start": 0,
+      "end": 3,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "शास्त्रज्ञांनी",
+      "sentence": 0,
+      "start": 6,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "चंद्रावर",
+      "sentence": 0,
+      "start": 19,
+      "end": 25,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "पाणी",
+      "sentence": 0,
+      "start": 32,
+      "end": 35,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "माहितीला",
+      "sentence": 0,
+      "start": 46,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "जिल्हाधिकारी",
+      "sentence": 1,
+      "start": 58,
+      "end": 68,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "अधिकारी",
+      "sentence": 1,
+      "start": 81,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "झियाउल्ला",
+      "sentence": 2,
+      "start": 93,
+      "end": 101,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "यांनी",
+      "sentence": 2,
+      "start": 103,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मिटींग",
+      "sentence": 2,
+      "start": 124,
+      "end": 129,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "प्रशासनाला",
+      "sentence": 2,
+      "start": 153,
+      "end": 162,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "त्याने",
+      "sentence": 3,
+      "start": 170,
+      "end": 173,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "तो",
+      "sentence": 3,
+      "start": 191,
+      "end": 192,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "याचिकाकर्त्यांना",
+      "sentence": 4,
+      "start": 203,
+      "end": 216,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "मागणी",
+      "sentence": 4,
+      "start": 222,
+      "end": 226,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "अधिकार",
+      "sentence": 4,
+      "start": 235,
+      "end": 240,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "हिवाळा",
+      "sentence": 5,
+      "start": 250,
+      "end": 255,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "आगमन",
+      "sentence": 5,
+      "start": 257,
+      "end": 261,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "त्याच्या",
+      "sentence": 5,
+      "start": 279,
+      "end": 284,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "मालक",
+      "sentence": 5,
+      "start": 286,
+      "end": 289,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "दिवस",
+      "sentence": 5,
+      "start": 297,
+      "end": 300,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "बर्फ",
+      "sentence": 5,
+      "start": 308,
+      "end": 310,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "बर्फ",
+      "sentence": 5,
+      "start": 313,
+      "end": 315,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "दरवाजा",
+      "sentence": 5,
+      "start": 340,
+      "end": 345,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "ट्रंक",
+      "sentence": 5,
+      "start": 356,
+      "end": 359,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "ब्रेक",
+      "sentence": 5,
+      "start": 371,
+      "end": 374,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "चेंडू",
+      "sentence": 5,
+      "start": 376,
+      "end": 379,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    [
+      13,
+      14
+    ],
+    [
+      18,
+      21
+    ]
+  ]
+}

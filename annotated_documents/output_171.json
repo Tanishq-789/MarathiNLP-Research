@@ -1,0 +1,71 @@
+{
+  "document_id": "document_171",
+  "sentences": [
+    "असा उपरोधिक सूरही तिने आळवला.",
+    "मुंबई उच्च न्यायालयाने गेल्या हंगामातील शेतकर्‍यांच्या ऊस बिलांचे 221 कोटी रुपये थकविणार्‍या 29 सहकारी आणि खासगी साखर कारखान्यांना गाळप परवाने नाकारल्याने एफ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "सूरही",
+      "sentence": 0,
+      "start": 14,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "तिने",
+      "sentence": 0,
+      "start": 20,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "मुंबई",
+      "sentence": 1,
+      "start": 27,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "न्यायालयाने",
+      "sentence": 1,
+      "start": 37,
+      "end": 48,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "बिलांचे",
+      "sentence": 1,
+      "start": 75,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "रुपये",
+      "sentence": 1,
+      "start": 90,
+      "end": 95,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "कारखान्यांना",
+      "sentence": 1,
+      "start": 127,
+      "end": 139,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      2,
+      3
+    ]
+  ]
+}

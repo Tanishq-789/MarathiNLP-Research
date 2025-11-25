@@ -1,0 +1,1119 @@
+{
+  "document_id": "document_126",
+  "sentences": [
+    "हे उपकरणे ऐवजी मोठी रक्कम आहे, म्हणून ती अचूकपणे हे मॉडेल उद्देशून पाहिजे की कार्ये निश्चित करणे इष्ट आहे.",
+    "पण या दोघींपेक्षा व्यक्तिशः मला एलिनॉरच जास्त आवडते.",
+    "सेन्स अँड सेन्सिबलिटी ही कादंबरी एलिनॉर आणि तिची बहीण मरियनची कहाणी सांगते.",
+    "विधानसभेच्या 5 मतदान केंद्रावर होणार ‘व्हीव्हीपॅट’-‘ईव्हीएम’ पावत्यांची मोजणी  : सर्वोच्च न्यायालयाचा आदेश",
+    "मुंबई -  महाविकास आघाडी सरकारच्या मंत्रिमंडळाचा विस्तार होऊन खातेवाटप झाल्यानंतर आता या सरकारमधील तंत्रशिक्षण मंत्री असलेले उदय सामंत त्यांच्या पदवीवरून अडचणीत आले आहेत.",
+    "खास हा व्रॅप खाण्यासाठी या कॅफेमध्ये गर्दी होते.",
+    "मात्र, पोलिसांचा आक्रमक पवित्रा पाहताच दगडफेक करणारे समाजकंटक पळून जाऊ लागले.",
+    "अलाहाबाद, हरिद्वार, उज्जैन आणि नाशिक येथे विशिष्ट कालखंडात कुंभमेळय़ाचे आयोजन केले जाते.",
+    "ते व्यावसायिक उपक्रम वापरले जातात.",
+    "गोपनीय माहिती संरक्षण सुनिश्चित करण्यासाठी एक महत्त्वाची भूमिका, एंटरप्राइज येथे सरकार intrabuilding परिचय योग्य परिस्थिती निर्माण संचालित युनिट मालकीची आहे.",
+    "आयुष्यात काहीतरी मिळवण्यासाठी रॅपर्सने प्रयत्न करायला हवेत यासाठी रणवीरने नेहमीच प्रयत्न केले असल्याचं अल्ताफने सांगितलं.",
+    "आज पिंपळगाव बसवंतच्या कृषीपंढरीत अन्‌ खुद्द शरद पवार बाजार समितीच्या आवारात मोदी यांची सभा झाली.",
+    "भाजपच्यावतीने सोमवारी काढण्यात आलेल्या परिवर्तन यात्रेमुळे शहापूर परिसरात दुपारपासूनच नागरिकांना रहदारी कोंडीचा सामना करावा लागला.",
+    "अतिशयोक्ती सांगू नका.",
+    "विदेशी मद्याचा 18 लाखांचा साठा जप्त",
+    "तर आपल्या राज्यातील विद्यार्थ्यांच्या पाठी सरकार खंबीरपणे उभे राहील आणि कोणाचेही नुकसान होणार नाही, यासाठी आपण न्यायालयात भक्कम बाजू मांडू, अशी ग्वाही मुख्यमंत्री देवेंद्र फडणवीस यांनी दिली होती.",
+    "बेलीने सांगितले की, तिला लवकरात लवकर स्वत:चे कौमार्यभंग करायचे आहे.",
+    "पण, त्यासाठी पोषक वातावरण आजही तयार होत नसल्याचे दिसून येत आहे.",
+    "निर्माता त्याच वर्गात अधिक वर्तमान मॉडेल देण्यास सक्षम आहे, तरी.",
+    "चालकाचे व्हिलवरील नियंत्रणसुटून झालेल्या या अपघात एसटीची अक्षरशा खाली डोके वर पाय अशी स्थिती झाली.",
+    "शैक्षणिक कर्ज घेण्यासाठी विद्यार्थी भारतीय नागरिक आणि त्याचे कमीत कमी १० ते १२ वीपर्यंत शिक्षण झालेले असावे.",
+    "ही याचिका सुप्रीम कोर्टाने फेटाळून लावली आहे.",
+    "कचरा निर्मुलनासाठी पालिका  प्रशासनाकडून ठोस अश्या उपाययोजना होताना दिसत नाहीत.",
+    "खरतर व्हान गॉग ला चर्च चा मुख्य धर्मोपदेशक बनायचे होते.",
+    "माझ्या नावे अनेक फेक फेसबुक अकाऊंट आहेत.",
+    "त्यावेळी प्रकल्पाला विरोधही झाला व गांधीजींनी टाटांना या प्रकल्पाविरोधात भावनिक आवाहन केले.",
+    "हदगाव तालुक्यातील वडगाव."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "उपकरणे",
+      "sentence": 0,
+      "start": 3,
+      "end": 8,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "रक्कम",
+      "sentence": 0,
+      "start": 19,
+      "end": 23,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "ती",
+      "sentence": 0,
+      "start": 37,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मॉडेल",
+      "sentence": 0,
+      "start": 59,
+      "end": 63,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "कार्ये",
+      "sentence": 0,
+      "start": 95,
+      "end": 98,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "दोघी",
+      "sentence": 1,
+      "start": 124,
+      "end": 128,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "मला",
+      "sentence": 1,
+      "start": 143,
+      "end": 145,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "एलिनॉर",
+      "sentence": 1,
+      "start": 147,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "कादंबरी",
+      "sentence": 2,
+      "start": 205,
+      "end": 210,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "एलिनॉर",
+      "sentence": 2,
+      "start": 211,
+      "end": 216,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "बहीण",
+      "sentence": 2,
+      "start": 227,
+      "end": 231,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "मरियन",
+      "sentence": 2,
+      "start": 233,
+      "end": 238,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "कहाणी",
+      "sentence": 2,
+      "start": 242,
+      "end": 246,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "मतदान",
+      "sentence": 3,
+      "start": 272,
+      "end": 276,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "केंद्रे",
+      "sentence": 3,
+      "start": 277,
+      "end": 282,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "व्हीव्हीपॅट",
+      "sentence": 3,
+      "start": 290,
+      "end": 299,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "ईव्हीएम",
+      "sentence": 3,
+      "start": 303,
+      "end": 308,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "पावत्या",
+      "sentence": 3,
+      "start": 311,
+      "end": 316,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "मोजणी",
+      "sentence": 3,
+      "start": 320,
+      "end": 324,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "न्यायालय",
+      "sentence": 3,
+      "start": 364,
+      "end": 369,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "मुंबई",
+      "sentence": 4,
+      "start": 386,
+      "end": 390,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "आघाडी",
+      "sentence": 4,
+      "start": 408,
+      "end": 412,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "सरकार",
+      "sentence": 4,
+      "start": 413,
+      "end": 417,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "मंत्रिमंडळ",
+      "sentence": 4,
+      "start": 422,
+      "end": 428,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "विस्तार",
+      "sentence": 4,
+      "start": 433,
+      "end": 437,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "खातेवाटप",
+      "sentence": 4,
+      "start": 442,
+      "end": 449,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "सरकार",
+      "sentence": 4,
+      "start": 473,
+      "end": 477,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "मंत्री",
+      "sentence": 4,
+      "start": 490,
+      "end": 493,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "सामंत",
+      "sentence": 4,
+      "start": 506,
+      "end": 509,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "त्यांच्या",
+      "sentence": 4,
+      "start": 511,
+      "end": 516,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "पदवी",
+      "sentence": 4,
+      "start": 522,
+      "end": 525,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "अडचणी",
+      "sentence": 4,
+      "start": 531,
+      "end": 535,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "व्रॅप",
+      "sentence": 5,
+      "start": 604,
+      "end": 607,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "कॅफे",
+      "sentence": 5,
+      "start": 622,
+      "end": 625,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "गर्दी",
+      "sentence": 5,
+      "start": 632,
+      "end": 635,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "पोलिस",
+      "sentence": 6,
+      "start": 652,
+      "end": 655,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "पवित्रा",
+      "sentence": 6,
+      "start": 664,
+      "end": 668,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "दगडफेक",
+      "sentence": 6,
+      "start": 680,
+      "end": 685,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "समाजकंटक",
+      "sentence": 6,
+      "start": 694,
+      "end": 700,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "अलाहाबाद",
+      "sentence": 7,
+      "start": 732,
+      "end": 738,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "हरिद्वार",
+      "sentence": 7,
+      "start": 741,
+      "end": 746,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "उज्जैन",
+      "sentence": 7,
+      "start": 749,
+      "end": 753,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "नाशिक",
+      "sentence": 7,
+      "start": 758,
+      "end": 762,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "कालखंड",
+      "sentence": 7,
+      "start": 779,
+      "end": 784,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "कुंभमेळा",
+      "sentence": 7,
+      "start": 788,
+      "end": 794,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "आयोजन",
+      "sentence": 7,
+      "start": 798,
+      "end": 802,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "ते",
+      "sentence": 8,
+      "start": 836,
+      "end": 837,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "उपक्रम",
+      "sentence": 8,
+      "start": 848,
+      "end": 851,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "माहिती",
+      "sentence": 9,
+      "start": 871,
+      "end": 874,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "संरक्षण",
+      "sentence": 9,
+      "start": 875,
+      "end": 879,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "भूमिका",
+      "sentence": 9,
+      "start": 908,
+      "end": 911,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "एंटरप्राइज",
+      "sentence": 9,
+      "start": 916,
+      "end": 925,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "सरकार",
+      "sentence": 9,
+      "start": 930,
+      "end": 934,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "परिचय",
+      "sentence": 9,
+      "start": 954,
+      "end": 958,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "परिस्थिती",
+      "sentence": 9,
+      "start": 967,
+      "end": 972,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "युनिट",
+      "sentence": 9,
+      "start": 993,
+      "end": 996,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "आयुष्य",
+      "sentence": 10,
+      "start": 1018,
+      "end": 1022,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "रॅपर्स",
+      "sentence": 10,
+      "start": 1039,
+      "end": 1044,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "प्रयत्न",
+      "sentence": 10,
+      "start": 1047,
+      "end": 1051,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "रणवीर",
+      "sentence": 10,
+      "start": 1073,
+      "end": 1077,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "प्रयत्न",
+      "sentence": 10,
+      "start": 1092,
+      "end": 1096,
+      "confidence": 1.0
+    },
+    {
+      "id": 61,
+      "text": "अल्ताफ",
+      "sentence": 10,
+      "start": 1133,
+      "end": 1137,
+      "confidence": 1.0
+    },
+    {
+      "id": 62,
+      "text": "कृषीपंढरी",
+      "sentence": 11,
+      "start": 1171,
+      "end": 1178,
+      "confidence": 1.0
+    },
+    {
+      "id": 63,
+      "text": "पवार",
+      "sentence": 11,
+      "start": 1189,
+      "end": 1193,
+      "confidence": 1.0
+    },
+    {
+      "id": 64,
+      "text": "बाजार",
+      "sentence": 11,
+      "start": 1195,
+      "end": 1198,
+      "confidence": 1.0
+    },
+    {
+      "id": 65,
+      "text": "आवार",
+      "sentence": 11,
+      "start": 1207,
+      "end": 1210,
+      "confidence": 1.0
+    },
+    {
+      "id": 66,
+      "text": "मोदी",
+      "sentence": 11,
+      "start": 1215,
+      "end": 1218,
+      "confidence": 1.0
+    },
+    {
+      "id": 67,
+      "text": "भाजप",
+      "sentence": 12,
+      "start": 1263,
+      "end": 1266,
+      "confidence": 1.0
+    },
+    {
+      "id": 68,
+      "text": "परिवर्तन",
+      "sentence": 12,
+      "start": 1289,
+      "end": 1294,
+      "confidence": 1.0
+    },
+    {
+      "id": 69,
+      "text": "यात्रा",
+      "sentence": 12,
+      "start": 1296,
+      "end": 1299,
+      "confidence": 1.0
+    },
+    {
+      "id": 70,
+      "text": "शहापूर",
+      "sentence": 12,
+      "start": 1303,
+      "end": 1308,
+      "confidence": 1.0
+    },
+    {
+      "id": 71,
+      "text": "परिसर",
+      "sentence": 12,
+      "start": 1313,
+      "end": 1316,
+      "confidence": 1.0
+    },
+    {
+      "id": 72,
+      "text": "दुपार",
+      "sentence": 12,
+      "start": 1326,
+      "end": 1329,
+      "confidence": 1.0
+    },
+    {
+      "id": 73,
+      "text": "नागरिक",
+      "sentence": 12,
+      "start": 1339,
+      "end": 1344,
+      "confidence": 1.0
+    },
+    {
+      "id": 74,
+      "text": "रहदारी",
+      "sentence": 12,
+      "start": 1348,
+      "end": 1352,
+      "confidence": 1.0
+    },
+    {
+      "id": 75,
+      "text": "कोंडी",
+      "sentence": 12,
+      "start": 1354,
+      "end": 1357,
+      "confidence": 1.0
+    },
+    {
+      "id": 76,
+      "text": "सामना",
+      "sentence": 12,
+      "start": 1362,
+      "end": 1365,
+      "confidence": 1.0
+    },
+    {
+      "id": 77,
+      "text": "अतिशयोक्ती",
+      "sentence": 13,
+      "start": 1406,
+      "end": 1412,
+      "confidence": 1.0
+    },
+    {
+      "id": 78,
+      "text": "मद्य",
+      "sentence": 14,
+      "start": 1431,
+      "end": 1433,
+      "confidence": 1.0
+    },
+    {
+      "id": 79,
+      "text": "साठा",
+      "sentence": 14,
+      "start": 1450,
+      "end": 1453,
+      "confidence": 1.0
+    },
+    {
+      "id": 80,
+      "text": "आपल्या",
+      "sentence": 15,
+      "start": 1461,
+      "end": 1464,
+      "confidence": 1.0
+    },
+    {
+      "id": 81,
+      "text": "राज्य",
+      "sentence": 15,
+      "start": 1469,
+      "end": 1471,
+      "confidence": 1.0
+    },
+    {
+      "id": 82,
+      "text": "विद्यार्थी",
+      "sentence": 15,
+      "start": 1481,
+      "end": 1486,
+      "confidence": 1.0
+    },
+    {
+      "id": 83,
+      "text": "सरकार",
+      "sentence": 15,
+      "start": 1496,
+      "end": 1500,
+      "confidence": 1.0
+    },
+    {
+      "id": 84,
+      "text": "कोणी",
+      "sentence": 15,
+      "start": 1526,
+      "end": 1529,
+      "confidence": 1.0
+    },
+    {
+      "id": 85,
+      "text": "नुकसान",
+      "sentence": 15,
+      "start": 1533,
+      "end": 1536,
+      "confidence": 1.0
+    },
+    {
+      "id": 86,
+      "text": "आपण",
+      "sentence": 15,
+      "start": 1566,
+      "end": 1569,
+      "confidence": 1.0
+    },
+    {
+      "id": 87,
+      "text": "न्यायालय",
+      "sentence": 15,
+      "start": 1573,
+      "end": 1578,
+      "confidence": 1.0
+    },
+    {
+      "id": 88,
+      "text": "बाजू",
+      "sentence": 15,
+      "start": 1585,
+      "end": 1587,
+      "confidence": 1.0
+    },
+    {
+      "id": 89,
+      "text": "ग्वाही",
+      "sentence": 15,
+      "start": 1599,
+      "end": 1602,
+      "confidence": 1.0
+    },
+    {
+      "id": 90,
+      "text": "मुख्यमंत्री",
+      "sentence": 15,
+      "start": 1607,
+      "end": 1612,
+      "confidence": 1.0
+    },
+    {
+      "id": 91,
+      "text": "देवेंद्र",
+      "sentence": 15,
+      "start": 1613,
+      "end": 1617,
+      "confidence": 1.0
+    },
+    {
+      "id": 92,
+      "text": "फडणवीस",
+      "sentence": 15,
+      "start": 1619,
+      "end": 1624,
+      "confidence": 1.0
+    },
+    {
+      "id": 93,
+      "text": "तिला",
+      "sentence": 16,
+      "start": 1716,
+      "end": 1718,
+      "confidence": 1.0
+    },
+    {
+      "id": 94,
+      "text": "स्वत",
+      "sentence": 16,
+      "start": 1730,
+      "end": 1733,
+      "confidence": 1.0
+    },
+    {
+      "id": 95,
+      "text": "कौमार्यभंग",
+      "sentence": 16,
+      "start": 1739,
+      "end": 1746,
+      "confidence": 1.0
+    },
+    {
+      "id": 96,
+      "text": "वातावरण",
+      "sentence": 17,
+      "start": 1782,
+      "end": 1786,
+      "confidence": 1.0
+    },
+    {
+      "id": 97,
+      "text": "निर्माता",
+      "sentence": 18,
+      "start": 1831,
+      "end": 1835,
+      "confidence": 1.0
+    },
+    {
+      "id": 98,
+      "text": "वर्ग",
+      "sentence": 18,
+      "start": 1845,
+      "end": 1847,
+      "confidence": 1.0
+    },
+    {
+      "id": 99,
+      "text": "मॉडेल",
+      "sentence": 18,
+      "start": 1860,
+      "end": 1864,
+      "confidence": 1.0
+    },
+    {
+      "id": 100,
+      "text": "चालक",
+      "sentence": 19,
+      "start": 1898,
+      "end": 1901,
+      "confidence": 1.0
+    },
+    {
+      "id": 101,
+      "text": "नियंत्रण",
+      "sentence": 19,
+      "start": 1914,
+      "end": 1918,
+      "confidence": 1.0
+    },
+    {
+      "id": 102,
+      "text": "अपघात",
+      "sentence": 19,
+      "start": 1930,
+      "end": 1933,
+      "confidence": 1.0
+    },
+    {
+      "id": 103,
+      "text": "डोके",
+      "sentence": 19,
+      "start": 1968,
+      "end": 1971,
+      "confidence": 1.0
+    },
+    {
+      "id": 104,
+      "text": "स्थिती",
+      "sentence": 19,
+      "start": 1984,
+      "end": 1987,
+      "confidence": 1.0
+    },
+    {
+      "id": 105,
+      "text": "कर्ज",
+      "sentence": 20,
+      "start": 2013,
+      "end": 2015,
+      "confidence": 1.0
+    },
+    {
+      "id": 106,
+      "text": "विद्यार्थी",
+      "sentence": 20,
+      "start": 2026,
+      "end": 2031,
+      "confidence": 1.0
+    },
+    {
+      "id": 107,
+      "text": "नागरिक",
+      "sentence": 20,
+      "start": 2043,
+      "end": 2046,
+      "confidence": 1.0
+    },
+    {
+      "id": 108,
+      "text": "त्याचे",
+      "sentence": 20,
+      "start": 2050,
+      "end": 2053,
+      "confidence": 1.0
+    },
+    {
+      "id": 109,
+      "text": "शिक्षण",
+      "sentence": 20,
+      "start": 2090,
+      "end": 2094,
+      "confidence": 1.0
+    },
+    {
+      "id": 110,
+      "text": "याचिका",
+      "sentence": 21,
+      "start": 2126,
+      "end": 2129,
+      "confidence": 1.0
+    },
+    {
+      "id": 111,
+      "text": "कोर्ट",
+      "sentence": 21,
+      "start": 2139,
+      "end": 2142,
+      "confidence": 1.0
+    },
+    {
+      "id": 112,
+      "text": "कचरा",
+      "sentence": 22,
+      "start": 2166,
+      "end": 2169,
+      "confidence": 1.0
+    },
+    {
+      "id": 113,
+      "text": "निर्मुलन",
+      "sentence": 22,
+      "start": 2171,
+      "end": 2176,
+      "confidence": 1.0
+    },
+    {
+      "id": 114,
+      "text": "प्रशासन",
+      "sentence": 22,
+      "start": 2192,
+      "end": 2197,
+      "confidence": 1.0
+    },
+    {
+      "id": 115,
+      "text": "उपाययोजना",
+      "sentence": 22,
+      "start": 2212,
+      "end": 2218,
+      "confidence": 1.0
+    },
+    {
+      "id": 116,
+      "text": "धर्मोपदेशक",
+      "sentence": 23,
+      "start": 2288,
+      "end": 2294,
+      "confidence": 1.0
+    },
+    {
+      "id": 117,
+      "text": "माझ्या",
+      "sentence": 24,
+      "start": 2326,
+      "end": 2330,
+      "confidence": 1.0
+    },
+    {
+      "id": 118,
+      "text": "फेसबुक",
+      "sentence": 24,
+      "start": 2343,
+      "end": 2349,
+      "confidence": 1.0
+    },
+    {
+      "id": 119,
+      "text": "अकाऊंट",
+      "sentence": 24,
+      "start": 2350,
+      "end": 2355,
+      "confidence": 1.0
+    },
+    {
+      "id": 120,
+      "text": "प्रकल्प",
+      "sentence": 25,
+      "start": 2378,
+      "end": 2381,
+      "confidence": 1.0
+    },
+    {
+      "id": 121,
+      "text": "विरोध",
+      "sentence": 25,
+      "start": 2385,
+      "end": 2388,
+      "confidence": 1.0
+    },
+    {
+      "id": 122,
+      "text": "गांधीजी",
+      "sentence": 25,
+      "start": 2400,
+      "end": 2405,
+      "confidence": 1.0
+    },
+    {
+      "id": 123,
+      "text": "टाटा",
+      "sentence": 25,
+      "start": 2409,
+      "end": 2412,
+      "confidence": 1.0
+    },
+    {
+      "id": 124,
+      "text": "प्रकल्प",
+      "sentence": 25,
+      "start": 2423,
+      "end": 2426,
+      "confidence": 1.0
+    },
+    {
+      "id": 125,
+      "text": "आवाहन",
+      "sentence": 25,
+      "start": 2439,
+      "end": 2443,
+      "confidence": 1.0
+    },
+    {
+      "id": 126,
+      "text": "हदगाव",
+      "sentence": 26,
+      "start": 2482,
+      "end": 2486,
+      "confidence": 1.0
+    },
+    {
+      "id": 127,
+      "text": "वडगाव",
+      "sentence": 26,
+      "start": 2497,
+      "end": 2501,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      109
+    ],
+    [
+      7,
+      9
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      24,
+      28,
+      56,
+      92
+    ],
+    [
+      30,
+      31,
+      32
+    ],
+    [
+      35,
+      36
+    ],
+    [
+      50,
+      51
+    ],
+    [
+      62,
+      64
+    ],
+    [
+      67,
+      68
+    ],
+    [
+      88,
+      95,
+      99,
+      100,
+      101
+    ],
+    [
+      102,
+      103,
+      104
+    ],
+    [
+      119,
+      121
+    ]
+  ]
+}

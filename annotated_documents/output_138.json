@@ -1,0 +1,104 @@
+{
+  "document_id": "document_138",
+  "sentences": [
+    "मुंबई बॉम्ब स्फोटाप्रकरणी शिक्षा भोगून आलेला अभिनेता संजय दत्त याला नियमांपेक्षा अधिक सुट्टया मिळाल्या असल्याचे धक्कादायक माहिती समोर येत आहे.",
+    "धारूर तालुक्यातील कासारी येथे रविवारी दुपारी घडली असून मायलेकराच्या मृत्यूने परिसरात हळहळ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मुंबई",
+      "sentence": 0,
+      "start": 0,
+      "end": 4,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "बॉम्ब",
+      "sentence": 0,
+      "start": 6,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "शिक्षा",
+      "sentence": 0,
+      "start": 22,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "अभिनेता",
+      "sentence": 0,
+      "start": 37,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "दत्त",
+      "sentence": 0,
+      "start": 51,
+      "end": 54,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "याला",
+      "sentence": 0,
+      "start": 56,
+      "end": 59,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "सुट्टया",
+      "sentence": 0,
+      "start": 78,
+      "end": 83,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "माहिती",
+      "sentence": 0,
+      "start": 101,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "धारूर",
+      "sentence": 1,
+      "start": 118,
+      "end": 122,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "कासारी",
+      "sentence": 1,
+      "start": 134,
+      "end": 139,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "मृत्यूने",
+      "sentence": 1,
+      "start": 180,
+      "end": 186,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      4,
+      5
+    ]
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "document_id": "document_194",
+  "sentences": [
+    "खूप अभ्यास करू शकले नाही.",
+    "या प्रकरणात, त्याच्या माजी शक्ती आणि घनता केस परत त्यांना पाहिजे काळजी मदत होईल मोड विश्रांती आवश्यक जीवनसत्त्वे घेऊन, आणि शक्ती.",
+    "२४ वर्षांचा असलेला निशाद सध्या इंग्लंडच्या नॉर्दन फिल्म स्कूलमधून फिल्ममेकिंगचे धडे गिरवतोय.",
+    "पाल, 7.30 वा.",
+    "आंबेली.",
+    "8 वा.",
+    "\"Bezhin कुरण\" Turgenev शब्द मिळवले शिकारी प्रकरणात कॅम्पफायर, रात्री, ज्योत प्रकाश, तरुण कथाकार प्रेरणेने चेहरे, घोडे, तारे, त्यांच्या अलविदा मध्ये संपणारा वारा पितर मध्ये स्वीकारणे सुमारे बोलत मुले ऐकणे आहे.",
+    "डौलदार अजस्त्र तो, डोळे शिकारीकडे",
+    "प्लास्टिकच्या पिशव्या, प्लास्टिकचे चमचे, कप, ग्लास, स्ट्रॉ, थर्माकोल ताट, ग्लास, वाट्या, उत्पादने साठवण्यासाठी असलेली प्लास्टिकची आवरणे, द्रवपदार्थ व अन्नपदार्थ साठवण्यासाठी वापरले जाणारे प्लास्टिक, थर्माकोलचे डेकोरेशन",
+    "मुंबई : देशात कॅशलेस ट्रान्झॅक्शन, डिजीटल इंडिया, ऑनलाईन ट्रान्झॅक्शन सारख्या संकल्पना येत आहेत.",
+    "महागाईवर उपाय शक्य",
+    "हभप इंदुरीकर महाराज यांना आरोग्य विभागाकडून नोटीस",
+    "पालम परिसरातील हॉटेल, पानतपरी, हातगाडे दुचाकी व चारचाकी वाहन यांची तोडफोड करून जाळून टाकली.",
+    "जेणेकरून सेनापती अभयधर्य शत्रूला खरंच सामील झालाय का, हे कळलं असतं, तोतया राजा सगळी माहिती सांगतोय म्हटल्यावर आनंदित झाला.",
+    "कॅशलेस व्यवहारांनी पारदर्शकता येते व ही काळाची गरज असल्याचे मत केंद्रीय परराष्ट्र राज्यमंत्री व्ही."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "त्याच्या",
+      "sentence": 1,
+      "start": 37,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "शक्ती",
+      "sentence": 1,
+      "start": 49,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "घनता",
+      "sentence": 1,
+      "start": 59,
+      "end": 62,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "त्यांना",
+      "sentence": 1,
+      "start": 73,
+      "end": 77,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "काळजी",
+      "sentence": 1,
+      "start": 84,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "विश्रांती",
+      "sentence": 1,
+      "start": 100,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "जीवनसत्त्वे",
+      "sentence": 1,
+      "start": 115,
+      "end": 123,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "शक्ती",
+      "sentence": 1,
+      "start": 130,
+      "end": 134,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "फिल्म",
+      "sentence": 2,
+      "start": 175,
+      "end": 178,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "स्कूलमधून",
+      "sentence": 2,
+      "start": 179,
+      "end": 186,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "कुरण",
+      "sentence": 6,
+      "start": 240,
+      "end": 243,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "Turgenev",
+      "sentence": 6,
+      "start": 247,
+      "end": 254,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "शब्द",
+      "sentence": 6,
+      "start": 256,
+      "end": 259,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "शिकारी",
+      "sentence": 6,
+      "start": 268,
+      "end": 272,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "कॅम्पफायर",
+      "sentence": 6,
+      "start": 282,
+      "end": 289,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "ज्योत",
+      "sentence": 6,
+      "start": 304,
+      "end": 307,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "प्रकाश",
+      "sentence": 6,
+      "start": 309,
+      "end": 313,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "कथाकार",
+      "sentence": 6,
+      "start": 322,
+      "end": 327,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "प्रेरणेने",
+      "sentence": 6,
+      "start": 329,
+      "end": 335,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "चेहरे",
+      "sentence": 6,
+      "start": 337,
+      "end": 340,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "घोडे",
+      "sentence": 6,
+      "start": 344,
+      "end": 347,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "तारे",
+      "sentence": 6,
+      "start": 351,
+      "end": 353,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "त्यांच्या",
+      "sentence": 6,
+      "start": 357,
+      "end": 362,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "अलविदा",
+      "sentence": 6,
+      "start": 364,
+      "end": 369,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "वारा",
+      "sentence": 6,
+      "start": 382,
+      "end": 384,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "पितर",
+      "sentence": 6,
+      "start": 386,
+      "end": 389,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "मुले",
+      "sentence": 6,
+      "start": 412,
+      "end": 414,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "तो",
+      "sentence": 7,
+      "start": 429,
+      "end": 430,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "डोळे",
+      "sentence": 7,
+      "start": 434,
+      "end": 436,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "शिकारीकडे",
+      "sentence": 7,
+      "start": 439,
+      "end": 445,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "पिशव्या",
+      "sentence": 8,
+      "start": 457,
+      "end": 461,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "चमचे",
+      "sentence": 8,
+      "start": 473,
+      "end": 476,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "ग्लास",
+      "sentence": 8,
+      "start": 483,
+      "end": 486,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "स्ट्रॉ",
+      "sentence": 8,
+      "start": 489,
+      "end": 491,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "ताट",
+      "sentence": 8,
+      "start": 500,
+      "end": 502,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "ग्लास",
+      "sentence": 8,
+      "start": 505,
+      "end": 508,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "उत्पादने",
+      "sentence": 8,
+      "start": 517,
+      "end": 521,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "आवरणे",
+      "sentence": 8,
+      "start": 541,
+      "end": 545,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "द्रवपदार्थ",
+      "sentence": 8,
+      "start": 548,
+      "end": 554,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "अन्नपदार्थ",
+      "sentence": 8,
+      "start": 557,
+      "end": 563,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "प्लास्टिक",
+      "sentence": 8,
+      "start": 578,
+      "end": 584,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "डेकोरेशन",
+      "sentence": 8,
+      "start": 590,
+      "end": 596,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "मुंबई",
+      "sentence": 9,
+      "start": 598,
+      "end": 601,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "देशात",
+      "sentence": 9,
+      "start": 605,
+      "end": 608,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "ट्रान्झॅक्शन",
+      "sentence": 9,
+      "start": 617,
+      "end": 626,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "इंडिया",
+      "sentence": 9,
+      "start": 634,
+      "end": 638,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "ट्रान्झॅक्शन",
+      "sentence": 9,
+      "start": 647,
+      "end": 656,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "संकल्पना",
+      "sentence": 9,
+      "start": 664,
+      "end": 669,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "महागाईवर",
+      "sentence": 10,
+      "start": 677,
+      "end": 683,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "उपाय",
+      "sentence": 10,
+      "start": 685,
+      "end": 687,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "इंदुरीकर",
+      "sentence": 11,
+      "start": 700,
+      "end": 706,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "महाराज",
+      "sentence": 11,
+      "start": 708,
+      "end": 712,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "विभागाकडून",
+      "sentence": 11,
+      "start": 720,
+      "end": 727,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "नोटीस",
+      "sentence": 11,
+      "start": 729,
+      "end": 733,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "पालम",
+      "sentence": 12,
+      "start": 741,
+      "end": 744,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "हॉटेल",
+      "sentence": 12,
+      "start": 754,
+      "end": 757,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "पानतपरी",
+      "sentence": 12,
+      "start": 760,
+      "end": 765,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "हातगाडे",
+      "sentence": 12,
+      "start": 768,
+      "end": 772,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "दुचाकी",
+      "sentence": 12,
+      "start": 774,
+      "end": 778,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "वाहन",
+      "sentence": 12,
+      "start": 785,
+      "end": 787,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "तोडफोड",
+      "sentence": 12,
+      "start": 794,
+      "end": 799,
+      "confidence": 1.0
+    },
+    {
+      "id": 61,
+      "text": "सेनापती",
+      "sentence": 13,
+      "start": 810,
+      "end": 815,
+      "confidence": 1.0
+    },
+    {
+      "id": 62,
+      "text": "अभयधर्य",
+      "sentence": 13,
+      "start": 817,
+      "end": 822,
+      "confidence": 1.0
+    },
+    {
+      "id": 63,
+      "text": "शत्रूला",
+      "sentence": 13,
+      "start": 825,
+      "end": 829,
+      "confidence": 1.0
+    },
+    {
+      "id": 64,
+      "text": "राजा",
+      "sentence": 13,
+      "start": 855,
+      "end": 857,
+      "confidence": 1.0
+    },
+    {
+      "id": 65,
+      "text": "माहिती",
+      "sentence": 13,
+      "start": 863,
+      "end": 866,
+      "confidence": 1.0
+    },
+    {
+      "id": 66,
+      "text": "व्यवहारांनी",
+      "sentence": 14,
+      "start": 878,
+      "end": 884,
+      "confidence": 1.0
+    },
+    {
+      "id": 67,
+      "text": "पारदर्शकता",
+      "sentence": 14,
+      "start": 886,
+      "end": 893,
+      "confidence": 1.0
+    },
+    {
+      "id": 68,
+      "text": "राज्यमंत्री",
+      "sentence": 14,
+      "start": 926,
+      "end": 932,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      2,
+      10
+    ],
+    [
+      0,
+      23
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      22,
+      41
+    ],
+    [
+      33,
+      37
+    ],
+    [
+      38,
+      39
+    ],
+    [
+      65,
+      66
+    ]
+  ]
+}

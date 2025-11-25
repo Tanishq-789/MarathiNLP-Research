@@ -1,0 +1,63 @@
+{
+  "document_id": "document_177",
+  "sentences": [
+    "अक्षरा सिंहच्या कार्यक्रमावर दगडफेक",
+    "स्वतःच्या पक्षाचे अपयश झाकण्यासाठी."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "अक्षरा",
+      "sentence": 0,
+      "start": 0,
+      "end": 6,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "कार्यक्रम",
+      "sentence": 0,
+      "start": 13,
+      "end": 20,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "दगडफेक",
+      "sentence": 0,
+      "start": 23,
+      "end": 31,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "स्वतः",
+      "sentence": 1,
+      "start": 31,
+      "end": 36,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "पक्ष",
+      "sentence": 1,
+      "start": 38,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "अपयश",
+      "sentence": 1,
+      "start": 44,
+      "end": 50,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ]
+  ]
+}

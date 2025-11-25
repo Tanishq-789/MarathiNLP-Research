@@ -1,0 +1,495 @@
+{
+  "document_id": "document_109",
+  "sentences": [
+    "17 एजी 6836 हा मुरुमने भरलेला डंपर तपोवन रोडच्या दिशेने जाताना दिसला.",
+    "‘ठाकरे’ चित्रपटाचे टीझर लॉन्च, ट्रेलर लॉन्च, म्युझिक लॉन्च अशा सर्व कार्यक्रमांची जोरदार चर्चा झाली.",
+    "आज मला प्रश्न विचारणाऱ्यांनी शिवसेना स्थापन करताना शिवाजी महाराजांच्या वंशजांची परवानगी घेतली होती का?",
+    "नीनाला घे बरं बरोबर.",
+    "प्रसिद्ध कादंबरी मध्ये \"यूजीन Onegin,\" कवी मैत्री सार प्रतिबिंब.",
+    "निर्भीड न्यूज – जागतिक पर्यावरण दिनाचे औचित्य साधून पिंपळे सौदागर येथील गोविंद यशदा चौकातील रस्त्याच्या बाजुने नगरसेवक शत्रुघ्न काटे व जेष्ठ नागरिक यांच्या हस्ते वृक्षारोपण करण्यात आल...",
+    "Read more",
+    "आपल्या असा पुतळा करा",
+    "तथापि, बरे करण्याचे चमत्कार, विनंत्यांची पूर्तता आणि मनाची शांती, ते खरोखर आपल्या यात्रेकरूंना अनुदान देतात केवळ चमत्कार घडतात आणि केवळ मुलांच्या गोष्टींमध्येच नव्हे तर आनंदित होणे!",
+    "कुणाला गोंजरायचे आणि कुणाच्या पाठीवर हात ठेवायचा हे मला कळते, या."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मुरुमने",
+      "sentence": 0,
+      "start": 15,
+      "end": 22,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "डंपर",
+      "sentence": 0,
+      "start": 31,
+      "end": 35,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "तपोवन",
+      "sentence": 0,
+      "start": 36,
+      "end": 41,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "दिशेने",
+      "sentence": 0,
+      "start": 49,
+      "end": 54,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "ठाकरे",
+      "sentence": 1,
+      "start": 63,
+      "end": 70,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "चित्रपटाचे",
+      "sentence": 1,
+      "start": 71,
+      "end": 80,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "टीझर",
+      "sentence": 1,
+      "start": 81,
+      "end": 85,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "ट्रेलर",
+      "sentence": 1,
+      "start": 92,
+      "end": 97,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "म्युझिक",
+      "sentence": 1,
+      "start": 104,
+      "end": 110,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "कार्यक्रमांची",
+      "sentence": 1,
+      "start": 124,
+      "end": 135,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "चर्चा",
+      "sentence": 1,
+      "start": 143,
+      "end": 147,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "मला",
+      "sentence": 2,
+      "start": 153,
+      "end": 156,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "प्रश्न",
+      "sentence": 2,
+      "start": 157,
+      "end": 162,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "शिवसेना",
+      "sentence": 2,
+      "start": 176,
+      "end": 182,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "शिवाजी",
+      "sentence": 2,
+      "start": 195,
+      "end": 200,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "महाराजांच्या",
+      "sentence": 2,
+      "start": 201,
+      "end": 211,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "वंशजांची",
+      "sentence": 2,
+      "start": 212,
+      "end": 220,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "परवानगी",
+      "sentence": 2,
+      "start": 221,
+      "end": 228,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "नीनाला",
+      "sentence": 3,
+      "start": 238,
+      "end": 243,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "कादंबरी",
+      "sentence": 4,
+      "start": 254,
+      "end": 261,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "यूजीन",
+      "sentence": 4,
+      "start": 269,
+      "end": 274,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "मैत्री",
+      "sentence": 4,
+      "start": 288,
+      "end": 293,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "प्रतिबिंब",
+      "sentence": 4,
+      "start": 298,
+      "end": 305,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "न्यूज",
+      "sentence": 5,
+      "start": 315,
+      "end": 319,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "पर्यावरण",
+      "sentence": 5,
+      "start": 331,
+      "end": 338,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "दिनाचे",
+      "sentence": 5,
+      "start": 339,
+      "end": 344,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "औचित्य",
+      "sentence": 5,
+      "start": 345,
+      "end": 351,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "पिंपळे",
+      "sentence": 5,
+      "start": 361,
+      "end": 367,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "सौदागर",
+      "sentence": 5,
+      "start": 368,
+      "end": 373,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "गोविंद",
+      "sentence": 5,
+      "start": 381,
+      "end": 386,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "यशदा",
+      "sentence": 5,
+      "start": 387,
+      "end": 391,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "बाजुने",
+      "sentence": 5,
+      "start": 410,
+      "end": 415,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "नगरसेवक",
+      "sentence": 5,
+      "start": 416,
+      "end": 423,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "शत्रुघ्न",
+      "sentence": 5,
+      "start": 424,
+      "end": 431,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "काटे",
+      "sentence": 5,
+      "start": 432,
+      "end": 436,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "नागरिक",
+      "sentence": 5,
+      "start": 444,
+      "end": 449,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "हस्ते",
+      "sentence": 5,
+      "start": 457,
+      "end": 461,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "वृक्षारोपण",
+      "sentence": 5,
+      "start": 462,
+      "end": 471,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "आपल्या",
+      "sentence": 8,
+      "start": 507,
+      "end": 513,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "पुतळा",
+      "sentence": 8,
+      "start": 518,
+      "end": 523,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "चमत्कार",
+      "sentence": 9,
+      "start": 537,
+      "end": 544,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "विनंत्यांची",
+      "sentence": 9,
+      "start": 546,
+      "end": 556,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "पूर्तता",
+      "sentence": 9,
+      "start": 557,
+      "end": 562,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "मनाची",
+      "sentence": 9,
+      "start": 567,
+      "end": 572,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "शांती",
+      "sentence": 9,
+      "start": 573,
+      "end": 578,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "ते",
+      "sentence": 9,
+      "start": 580,
+      "end": 582,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "आपल्या",
+      "sentence": 9,
+      "start": 590,
+      "end": 596,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "यात्रेकरूंना",
+      "sentence": 9,
+      "start": 597,
+      "end": 607,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "अनुदान",
+      "sentence": 9,
+      "start": 608,
+      "end": 613,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "चमत्कार",
+      "sentence": 9,
+      "start": 620,
+      "end": 627,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "मुलांच्या",
+      "sentence": 9,
+      "start": 640,
+      "end": 647,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "गोष्टींमध्येच",
+      "sentence": 9,
+      "start": 648,
+      "end": 659,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "कुणाला",
+      "sentence": 10,
+      "start": 676,
+      "end": 682,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "कुणाच्या",
+      "sentence": 10,
+      "start": 692,
+      "end": 698,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "मला",
+      "sentence": 10,
+      "start": 719,
+      "end": 722,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      2
+    ],
+    [
+      17,
+      18
+    ],
+    [
+      23,
+      24
+    ],
+    [
+      32,
+      33
+    ],
+    [
+      34,
+      35,
+      36
+    ],
+    [
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ]
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "document_id": "document_118",
+  "sentences": [
+    "भाबड करीत आहेत.",
+    "मध्यवर्ती ठिकाण असलेल्या कोल्हापुरात खंडपीठ व्हावे, या मागणीसाठी गेल्या ३४ वर्षांपासून वकील संघटनांचे आंदोलन सुरू आहे.",
+    "एक भाग घेऊन आधी थोडे लाटा.",
+    "त्यात आवडत असल्यास काळे तीळ किंवा लसूण-कोथिंबिरीचे मिश्रण पसरा व दोनदा दुमडून त्रिकोणी करून घ्या.",
+    "(लाटताना वरून लावायला मैदा किंवा कणीक वापरण्यास हरकत नाही.)",
+    "यावेळी एका महिलेला लक्ष्य करण्यात आले मात्र ही महिला ५२ वर्षीय असल्याचे समजले परंतु ती गंभीर जखमी झाली.",
+    "त्यामुळे त्यांना जबरदस्तीने या व्यवसायात आणले आहे का, तसेच त्यांची तस्करी करण्यात आली आहे का याची चौकशी करण्यासाठी जाधव यांनी शनिवारी सायंकाळी पथकासह प्रेमनगर परिसरात छापा टाकला.",
+    "राजवाडय़ावरुन पोवईनाक्याकडे येणाऱया सीटी पोस्टासमोर तसेच जांभळी चौकात पालिकेने खड्डे खोदले आहेत.",
+    "दहीहंडी : न्यायालय निर्णयाविरोधात जाण्यास मुख्यमंत्र्यांचा नकार",
+    "संपत शरीर crumbs इच्छित त्या प्रमाणात अधिक दूध पुरवठा करू शकत नाही.",
+    "एकूण 300 पैकी 69 जणांचे प्राणांतिक अपघात : प्रशासनाच्या गांभीर्याबद्दल शंका पुणे - पीएमपी ताफ्यातील ठेकेदारांच्या अनेक बस संचलन."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "भाबड",
+      "sentence": 0,
+      "start": 0,
+      "end": 5,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "ठिकाण",
+      "sentence": 1,
+      "start": 10,
+      "end": 15,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "खंडपीठ",
+      "sentence": 1,
+      "start": 35,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मागणीसाठी",
+      "sentence": 1,
+      "start": 57,
+      "end": 65,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "वर्षांपासून",
+      "sentence": 1,
+      "start": 74,
+      "end": 83,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "वकील",
+      "sentence": 1,
+      "start": 84,
+      "end": 89,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "संघटनांचे",
+      "sentence": 1,
+      "start": 90,
+      "end": 98,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "आंदोलन",
+      "sentence": 1,
+      "start": 99,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "तीळ",
+      "sentence": 3,
+      "start": 153,
+      "end": 156,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मिश्रण",
+      "sentence": 3,
+      "start": 179,
+      "end": 184,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "मैदा",
+      "sentence": 4,
+      "start": 206,
+      "end": 210,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "कणीक",
+      "sentence": 4,
+      "start": 215,
+      "end": 219,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "हरकत",
+      "sentence": 4,
+      "start": 227,
+      "end": 231,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "महिलेला",
+      "sentence": 5,
+      "start": 245,
+      "end": 251,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "महिला",
+      "sentence": 5,
+      "start": 275,
+      "end": 279,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "ती",
+      "sentence": 5,
+      "start": 303,
+      "end": 305,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "त्यांना",
+      "sentence": 6,
+      "start": 314,
+      "end": 319,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "व्यवसायात",
+      "sentence": 6,
+      "start": 335,
+      "end": 342,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "त्यांची",
+      "sentence": 6,
+      "start": 357,
+      "end": 362,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "तस्करी",
+      "sentence": 6,
+      "start": 363,
+      "end": 368,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "चौकशी",
+      "sentence": 6,
+      "start": 387,
+      "end": 392,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "जाधव",
+      "sentence": 6,
+      "start": 401,
+      "end": 405,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "पथकासह",
+      "sentence": 6,
+      "start": 425,
+      "end": 431,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "प्रेमनगर",
+      "sentence": 6,
+      "start": 432,
+      "end": 439,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "छापा",
+      "sentence": 6,
+      "start": 447,
+      "end": 451,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "राजवाडय़ावरुन",
+      "sentence": 7,
+      "start": 453,
+      "end": 463,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "पोवईनाक्याकडे",
+      "sentence": 7,
+      "start": 464,
+      "end": 474,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "सीटी",
+      "sentence": 7,
+      "start": 482,
+      "end": 485,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "पोस्टासमोर",
+      "sentence": 7,
+      "start": 486,
+      "end": 494,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "चौकात",
+      "sentence": 7,
+      "start": 508,
+      "end": 513,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "पालिकेने",
+      "sentence": 7,
+      "start": 514,
+      "end": 520,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "खड्डे",
+      "sentence": 7,
+      "start": 521,
+      "end": 526,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "न्यायालय",
+      "sentence": 8,
+      "start": 545,
+      "end": 551,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "निर्णयाविरोधात",
+      "sentence": 8,
+      "start": 552,
+      "end": 563,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "मुख्यमंत्र्यांचा",
+      "sentence": 8,
+      "start": 571,
+      "end": 580,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "नकार",
+      "sentence": 8,
+      "start": 581,
+      "end": 585,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "शरीर",
+      "sentence": 9,
+      "start": 592,
+      "end": 596,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "crumbs",
+      "sentence": 9,
+      "start": 597,
+      "end": 603,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "प्रमाणात",
+      "sentence": 9,
+      "start": 616,
+      "end": 622,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "पुरवठा",
+      "sentence": 9,
+      "start": 632,
+      "end": 637,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "जणांचे",
+      "sentence": 10,
+      "start": 655,
+      "end": 660,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "अपघात",
+      "sentence": 10,
+      "start": 669,
+      "end": 674,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "प्रशासनाच्या",
+      "sentence": 10,
+      "start": 677,
+      "end": 686,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "शंका",
+      "sentence": 10,
+      "start": 697,
+      "end": 701,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "पीएमपी",
+      "sentence": 10,
+      "start": 710,
+      "end": 713,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "संचलन",
+      "sentence": 10,
+      "start": 741,
+      "end": 747,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      16,
+      17,
+      18,
+      19,
+      21
+    ],
+    [
+      9,
+      10
+    ]
+  ]
+}

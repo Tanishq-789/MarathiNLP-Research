@@ -1,0 +1,17 @@
+{
+  "document_id": "document_102",
+  "sentences": [
+    "२१ जिल्हेजीं रावरंभा यांनीं मागितलें सबब."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "रावरंभा",
+      "sentence": 0,
+      "start": 11,
+      "end": 18,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

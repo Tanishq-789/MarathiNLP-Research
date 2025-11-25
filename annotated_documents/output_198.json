@@ -1,0 +1,700 @@
+{
+  "document_id": "document_198",
+  "sentences": [
+    "पू) अधिनियम १९७१ च्या कलम ३ (ई) आणि मुंबई विकास नियंत्रण नियमावलीतील १९९१च्या कलम ३३ (१०)च्या परिशिष्ट चारमधील परिच्छेद १.१८मधील तरतुदीनुसार ‘एसआरए’तंर्गत प्राप्त झालेल्या झोपडपट्टी पुनर्वसन इमारतीतील सदनिका अथवा गाळा भोगवटा प्रमाणपत्र (ओसी) प्राप्त झाल्यापासून १० वर्षाच्या कालावधीपर्यंत हस्तांतरण करण्यास निर्बंध घालण्यात आले आहेत.",
+    "इतकी चांगली गोष्ट जनतेने केल्यानंतर या मंडळींनी सत्तेसाठी प्रतारणा करावी, हे दुर्दैव आहे.",
+    "फुफ्फुसात छेद झाल्यामुळे त्याला श्वास घेताना अडचण होऊ लागली होती.",
+    "आता मेट्रोचे तिकीट हे डेबिट कार्ड आणि क्रेडीट कार्ड यांच्याद्वारे मिळण्याची व्यवस्था केली जाणार आहे.",
+    "त्यामध्ये आरक्षण हे अनुसूचित जाती पुरुष हे पडण्याची शक्यता वर्तवली जात आहे.",
+    "पर्रीकर सरकारमधील प्रमुख घटक पक्ष असलेल्या गोवा फॉरवर्ड पक्षाने 6 व्या कॅसिनोला विरोध केलेला असतानाही तो कॅसिनो मांडवी नदीत दाखल झाला असून मांडवीत आता कॅसिनो जहाजांची गर्दी झाल्याचे दिसून येत आहे.",
+    "मात्र, पूरग्रस्तांचे मूळ दुखणे असलेल्या भरपाईची रक्कम, अनुदान अद्याप पोहोचलेले नाही.",
+    "शरीर, कोणताही संसर्ग आणि विकसनशील दाह नाही तर, रक्त बँड आम्ल किंवा अल्कली रंगाचा परिणाम न होणारी पॉलीमॉर्फोन्यूक्लिअर श्वेतपेशी बाहेर काढले आहे.",
+    "शशिकलासह इतर दोन्ही आरोपींनी बंगळुरू सत्र न्यायालयात हजर होण्याचे आदेशही न्यायालयाने दिले.",
+    "राज्य घटनेचा अवमान करू नका.",
+    "परंतु, डेटा दिलात तर आटा कुठून मिळणार?",
+    "त्यातून त्यांचं कर्तृत्व, नेतृत्व, दातृत्व आणि पुरुषार्थ उलगडला आहे!"
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "अधिनियम",
+      "sentence": 0,
+      "start": 4,
+      "end": 11,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "मुंबई",
+      "sentence": 0,
+      "start": 34,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "विकास",
+      "sentence": 0,
+      "start": 39,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "नियंत्रण",
+      "sentence": 0,
+      "start": 44,
+      "end": 50,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "नियमावली",
+      "sentence": 0,
+      "start": 51,
+      "end": 57,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "परिशिष्ट",
+      "sentence": 0,
+      "start": 87,
+      "end": 93,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "परिच्छेद",
+      "sentence": 0,
+      "start": 102,
+      "end": 108,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "एसआरए",
+      "sentence": 0,
+      "start": 129,
+      "end": 133,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "झोपडपट्टी",
+      "sentence": 0,
+      "start": 149,
+      "end": 157,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "पुनर्वसन",
+      "sentence": 0,
+      "start": 158,
+      "end": 164,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "इमारत",
+      "sentence": 0,
+      "start": 165,
+      "end": 170,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "सदनिका",
+      "sentence": 0,
+      "start": 173,
+      "end": 179,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "गाळा",
+      "sentence": 0,
+      "start": 185,
+      "end": 188,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "भोगवटा",
+      "sentence": 0,
+      "start": 189,
+      "end": 194,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "प्रमाणपत्र",
+      "sentence": 0,
+      "start": 195,
+      "end": 202,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "वर्ष",
+      "sentence": 0,
+      "start": 225,
+      "end": 227,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "कालावधी",
+      "sentence": 0,
+      "start": 231,
+      "end": 236,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "हस्तांतरण",
+      "sentence": 0,
+      "start": 242,
+      "end": 249,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "निर्बंध",
+      "sentence": 0,
+      "start": 253,
+      "end": 257,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "गोष्ट",
+      "sentence": 1,
+      "start": 273,
+      "end": 276,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "जनता",
+      "sentence": 1,
+      "start": 278,
+      "end": 281,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "मंडळी",
+      "sentence": 1,
+      "start": 294,
+      "end": 297,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "सत्ता",
+      "sentence": 1,
+      "start": 300,
+      "end": 302,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "प्रतारणा",
+      "sentence": 1,
+      "start": 306,
+      "end": 311,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "दुर्दैव",
+      "sentence": 1,
+      "start": 319,
+      "end": 324,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "फुफ्फुस",
+      "sentence": 2,
+      "start": 328,
+      "end": 333,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "त्याला",
+      "sentence": 2,
+      "start": 347,
+      "end": 350,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "श्वास",
+      "sentence": 2,
+      "start": 351,
+      "end": 354,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "अडचण",
+      "sentence": 2,
+      "start": 363,
+      "end": 367,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "मेट्रो",
+      "sentence": 3,
+      "start": 374,
+      "end": 377,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "तिकीट",
+      "sentence": 3,
+      "start": 380,
+      "end": 384,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "डेबिट",
+      "sentence": 3,
+      "start": 389,
+      "end": 393,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "कार्ड",
+      "sentence": 3,
+      "start": 394,
+      "end": 397,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "क्रेडीट",
+      "sentence": 3,
+      "start": 402,
+      "end": 406,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "कार्ड",
+      "sentence": 3,
+      "start": 407,
+      "end": 410,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "व्यवस्था",
+      "sentence": 3,
+      "start": 426,
+      "end": 430,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "त्या",
+      "sentence": 4,
+      "start": 443,
+      "end": 445,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "आरक्षण",
+      "sentence": 4,
+      "start": 448,
+      "end": 452,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "जाती",
+      "sentence": 4,
+      "start": 463,
+      "end": 466,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "पुरुष",
+      "sentence": 4,
+      "start": 467,
+      "end": 470,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "शक्यता",
+      "sentence": 4,
+      "start": 481,
+      "end": 485,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "पर्रीकर",
+      "sentence": 5,
+      "start": 495,
+      "end": 500,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "सरकार",
+      "sentence": 5,
+      "start": 501,
+      "end": 505,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "पक्ष",
+      "sentence": 5,
+      "start": 515,
+      "end": 517,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "फॉरवर्ड",
+      "sentence": 5,
+      "start": 529,
+      "end": 535,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "पक्ष",
+      "sentence": 5,
+      "start": 536,
+      "end": 538,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "कॅसिनो",
+      "sentence": 5,
+      "start": 545,
+      "end": 549,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "तो",
+      "sentence": 5,
+      "start": 569,
+      "end": 570,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "कॅसिनो",
+      "sentence": 5,
+      "start": 571,
+      "end": 575,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "मांडवी",
+      "sentence": 5,
+      "start": 577,
+      "end": 581,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "मांडवी",
+      "sentence": 5,
+      "start": 597,
+      "end": 601,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "कॅसिनो",
+      "sentence": 5,
+      "start": 606,
+      "end": 610,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "जहाज",
+      "sentence": 5,
+      "start": 611,
+      "end": 614,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "गर्दी",
+      "sentence": 5,
+      "start": 617,
+      "end": 620,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "दुखणे",
+      "sentence": 6,
+      "start": 643,
+      "end": 647,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "भरपाई",
+      "sentence": 6,
+      "start": 657,
+      "end": 661,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "रक्कम",
+      "sentence": 6,
+      "start": 663,
+      "end": 666,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "अनुदान",
+      "sentence": 6,
+      "start": 668,
+      "end": 672,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "शरीर",
+      "sentence": 7,
+      "start": 689,
+      "end": 692,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "संसर्ग",
+      "sentence": 7,
+      "start": 703,
+      "end": 707,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "रक्त",
+      "sentence": 7,
+      "start": 727,
+      "end": 730,
+      "confidence": 1.0
+    },
+    {
+      "id": 61,
+      "text": "आम्ल",
+      "sentence": 7,
+      "start": 735,
+      "end": 738,
+      "confidence": 1.0
+    },
+    {
+      "id": 62,
+      "text": "अल्कली",
+      "sentence": 7,
+      "start": 742,
+      "end": 746,
+      "confidence": 1.0
+    },
+    {
+      "id": 63,
+      "text": "परिणाम",
+      "sentence": 7,
+      "start": 753,
+      "end": 757,
+      "confidence": 1.0
+    },
+    {
+      "id": 64,
+      "text": "श्वेतपेशी",
+      "sentence": 7,
+      "start": 777,
+      "end": 783,
+      "confidence": 1.0
+    },
+    {
+      "id": 65,
+      "text": "शशिकला",
+      "sentence": 8,
+      "start": 794,
+      "end": 800,
+      "confidence": 1.0
+    },
+    {
+      "id": 66,
+      "text": "आरोपी",
+      "sentence": 8,
+      "start": 809,
+      "end": 813,
+      "confidence": 1.0
+    },
+    {
+      "id": 67,
+      "text": "बंगळुरू",
+      "sentence": 8,
+      "start": 815,
+      "end": 820,
+      "confidence": 1.0
+    },
+    {
+      "id": 68,
+      "text": "सत्र",
+      "sentence": 8,
+      "start": 821,
+      "end": 823,
+      "confidence": 1.0
+    },
+    {
+      "id": 69,
+      "text": "न्यायालय",
+      "sentence": 8,
+      "start": 824,
+      "end": 829,
+      "confidence": 1.0
+    },
+    {
+      "id": 70,
+      "text": "न्यायालय",
+      "sentence": 8,
+      "start": 844,
+      "end": 849,
+      "confidence": 1.0
+    },
+    {
+      "id": 71,
+      "text": "राज्य",
+      "sentence": 9,
+      "start": 858,
+      "end": 860,
+      "confidence": 1.0
+    },
+    {
+      "id": 72,
+      "text": "घटना",
+      "sentence": 9,
+      "start": 861,
+      "end": 864,
+      "confidence": 1.0
+    },
+    {
+      "id": 73,
+      "text": "अवमान",
+      "sentence": 9,
+      "start": 868,
+      "end": 872,
+      "confidence": 1.0
+    },
+    {
+      "id": 74,
+      "text": "डेटा",
+      "sentence": 10,
+      "start": 882,
+      "end": 885,
+      "confidence": 1.0
+    },
+    {
+      "id": 75,
+      "text": "त्या",
+      "sentence": 11,
+      "start": 908,
+      "end": 910,
+      "confidence": 1.0
+    },
+    {
+      "id": 76,
+      "text": "त्यां",
+      "sentence": 11,
+      "start": 912,
+      "end": 914,
+      "confidence": 1.0
+    },
+    {
+      "id": 77,
+      "text": "कर्तृत्व",
+      "sentence": 11,
+      "start": 916,
+      "end": 921,
+      "confidence": 1.0
+    },
+    {
+      "id": 78,
+      "text": "नेतृत्व",
+      "sentence": 11,
+      "start": 923,
+      "end": 927,
+      "confidence": 1.0
+    },
+    {
+      "id": 79,
+      "text": "दातृत्व",
+      "sentence": 11,
+      "start": 929,
+      "end": 933,
+      "confidence": 1.0
+    },
+    {
+      "id": 80,
+      "text": "पुरुषार्थ",
+      "sentence": 11,
+      "start": 937,
+      "end": 942,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      37,
+      38
+    ],
+    [
+      40,
+      42,
+      43
+    ],
+    [
+      46,
+      47
+    ],
+    [
+      49,
+      50
+    ],
+    [
+      55,
+      58
+    ],
+    [
+      59,
+      60,
+      61,
+      65
+    ],
+    [
+      62,
+      64
+    ]
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "document_id": "document_179",
+  "sentences": [
+    "दरवर्षी 8 ते 9 लाख भाविक दर्शनासाठी हजेरी लावतात.",
+    "वेळीच लक्ष न दिल्यास तो जीवघेणा ठरत आहे.",
+    "प्रदीप भनगे (प्रतिनिधी)",
+    "‘ती माझी नाही, तर कुणाचीच नाही."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "भाविक",
+      "sentence": 0,
+      "start": 19,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "लक्ष",
+      "sentence": 1,
+      "start": 57,
+      "end": 59,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "तो",
+      "sentence": 1,
+      "start": 70,
+      "end": 72,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "प्रदीप",
+      "sentence": 2,
+      "start": 95,
+      "end": 100,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "भनगे",
+      "sentence": 2,
+      "start": 101,
+      "end": 105,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "ती",
+      "sentence": 3,
+      "start": 119,
+      "end": 121,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "माझी",
+      "sentence": 3,
+      "start": 122,
+      "end": 126,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      5
+    ]
+  ]
+}

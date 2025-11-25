@@ -1,0 +1,113 @@
+{
+  "document_id": "document_150",
+  "sentences": [
+    "दर महिना आपल्याला विमाहप्ता भरावाच लागेल नाहीतर विमा संपवण्यात येउ शकतो",
+    "बॉलिंगमध्येही ठरला अयशस्वी",
+    "स्वीकृत त्यांची वैशिष्ट्ये मूल्ये (शब्दच्छल) आणि त्यांना केली जाऊ शकते ऑपरेशन आधारित मूलभूत डेटा प्रकार उपलब्ध आहेत.",
+    "तिरुअनंतपुरम येथे झालेल्या अंतिम सामन्यात."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "आपल्याला",
+      "sentence": 0,
+      "start": 7,
+      "end": 14,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "विमाहप्ता",
+      "sentence": 0,
+      "start": 15,
+      "end": 22,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "विमा",
+      "sentence": 0,
+      "start": 40,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "त्यांची",
+      "sentence": 2,
+      "start": 77,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "वैशिष्ट्ये",
+      "sentence": 2,
+      "start": 83,
+      "end": 91,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "मूल्ये",
+      "sentence": 2,
+      "start": 92,
+      "end": 96,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "शब्दच्छल",
+      "sentence": 2,
+      "start": 99,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "त्यांना",
+      "sentence": 2,
+      "start": 111,
+      "end": 116,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "डेटा",
+      "sentence": 2,
+      "start": 147,
+      "end": 150,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "प्रकार",
+      "sentence": 2,
+      "start": 151,
+      "end": 155,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "तिरुअनंतपुरम",
+      "sentence": 3,
+      "start": 167,
+      "end": 178,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "सामन्यात",
+      "sentence": 3,
+      "start": 191,
+      "end": 197,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      4,
+      8
+    ]
+  ]
+}

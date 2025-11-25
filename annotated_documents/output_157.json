@@ -1,0 +1,58 @@
+{
+  "document_id": "document_157",
+  "sentences": [
+    "येडियुराप्पाही गुरुवारी रात्री दिल्लीला रवाना झाले.",
+    "संचालकपदाच्या शर्यतीत सर्वात पुढे नवी दिल्लीः RBI चे माजी गव्हर्नर रघुराम राजन आंतरराष्ट्रीय नाणेनिधी (IMF) चे व्यवस्थापकीय संचालक होण्याची शक्‍यता."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "येडियुराप्पाही",
+      "sentence": 0,
+      "start": 0,
+      "end": 10,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "दिल्ली",
+      "sentence": 1,
+      "start": 77,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "गव्हर्नर",
+      "sentence": 1,
+      "start": 95,
+      "end": 101,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "राजन",
+      "sentence": 1,
+      "start": 109,
+      "end": 112,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "नाणेनिधी",
+      "sentence": 1,
+      "start": 127,
+      "end": 134,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "संचालक",
+      "sentence": 1,
+      "start": 152,
+      "end": 157,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

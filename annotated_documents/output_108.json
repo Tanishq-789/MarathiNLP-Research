@@ -1,0 +1,541 @@
+{
+  "document_id": "document_108",
+  "sentences": [
+    "कॉलेज नंतर काय करायचे या विचारात पुण्याला आलो.",
+    "एसी लोकलमुळे रेल्वे प्रशासनाला दोन आठवड्यांच्या कालावधीतच लाखोंचा लाभ झाला असून वातानुकूलित लोकलला मुंबईकरांनी चांगलीच पसंती दिली असल्याचे समोर आले आहे.",
+    "थोडी हिंमत करुन कनिझ हिने आदितीला जाब देखील विचारला.",
+    "मुंबईच्या वेदान्त लोखंडेने नाशिकच्या श्रीहरी कुलकर्णीचा 29 व्या चालीला पराभव केला.",
+    "प्रत्येकजण दु: ख, जेरी, उशिर गंभीरपणे नाखूष होता, टॉम डावपेचांपुढे पासून ग्रस्त, पण आपण जवळून पाहण्यासाठी असेल, तर ते मांजर एक लहान कल्पक माउस खूप वाईट रीतीने नाही बाहेर करते.",
+    "\" तो जवळच्या राज्यांमध्ये अनेक परदेशी टूर मध्ये भाग घेणे होते.",
+    "लेखिका सध्या टीव्ही ९ मराठीमध्ये पत्रकार म्हणून कार्यरत आहेत",
+    "शेवटी वरून कोथिंबीर टाकून सजवावे.",
+    "कराड | शासनाने कराड विमानतळ विस्तारवाढ रद्द करावी या मागणीसाठी वारुंजी, मुंढे, केसे, पाडळी व गोटे गावातील ग्रामस्थांनी आज कराड विमानतळावर धडक मोर्चा काढून शासनाविरोधी घोषणा देऊन निषेध व्यक्त केला.",
+    "१४ ते २५ जानेवारीदरम्यान सुरक्षा सप्ताह साजरा होत आहे असून, त्याअंतर्गत नांदूरशिंगोटे बसस्थानकात सुरक्षा सप्ताहास प्रारंभ करण्यात आला",
+    "तसेच, या पॅकेजमध्ये प्रवास, जेवण इत्यादी गरजेच्या गोष्टी देखील मिळणार आहेत.",
+    "स्मरणशक्तीवरचा भार कमी झाला की मन हलकं होईल, मोकळं होईल.",
+    "ही गोष्ट चारचौघात बोलताही येत नाही, ह्या सगळ्याचा माझ्या मुलींवरही परिणाम होत आहे,",
+    "फडणवीस आणि अजित पवारांनी शपथ घेतली आहे.",
+    "दुपारी 3 च्या दरम्यान औरंगाबाद रोडकडून सफेद रंगाचा एम."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "पुण्याला",
+      "sentence": 0,
+      "start": 27,
+      "end": 33,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "लोकलमुळे",
+      "sentence": 1,
+      "start": 37,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "प्रशासनाला",
+      "sentence": 1,
+      "start": 49,
+      "end": 57,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "लाभ",
+      "sentence": 1,
+      "start": 90,
+      "end": 93,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "लोकलला",
+      "sentence": 1,
+      "start": 110,
+      "end": 116,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "मुंबईकरांनी",
+      "sentence": 1,
+      "start": 117,
+      "end": 126,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "पसंती",
+      "sentence": 1,
+      "start": 134,
+      "end": 139,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "हिंमत",
+      "sentence": 2,
+      "start": 150,
+      "end": 155,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "कनिझ",
+      "sentence": 2,
+      "start": 163,
+      "end": 167,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "आदितीला",
+      "sentence": 2,
+      "start": 173,
+      "end": 179,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "वेदान्त",
+      "sentence": 3,
+      "start": 201,
+      "end": 206,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "लोखंडेने",
+      "sentence": 3,
+      "start": 207,
+      "end": 213,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "श्रीहरी",
+      "sentence": 3,
+      "start": 223,
+      "end": 228,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "कुलकर्णीचा",
+      "sentence": 3,
+      "start": 229,
+      "end": 236,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "पराभव",
+      "sentence": 3,
+      "start": 247,
+      "end": 252,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "जेरी",
+      "sentence": 4,
+      "start": 273,
+      "end": 276,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "उशिर",
+      "sentence": 4,
+      "start": 278,
+      "end": 282,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "डावपेचांपुढे",
+      "sentence": 4,
+      "start": 304,
+      "end": 313,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "आपण",
+      "sentence": 4,
+      "start": 327,
+      "end": 330,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "ते",
+      "sentence": 4,
+      "start": 349,
+      "end": 350,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "मांजर",
+      "sentence": 4,
+      "start": 351,
+      "end": 355,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "माउस",
+      "sentence": 4,
+      "start": 367,
+      "end": 370,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "तो",
+      "sentence": 5,
+      "start": 390,
+      "end": 391,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "राज्यांमध्ये",
+      "sentence": 5,
+      "start": 400,
+      "end": 408,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "लेखिका",
+      "sentence": 6,
+      "start": 445,
+      "end": 450,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "टीव्ही",
+      "sentence": 6,
+      "start": 457,
+      "end": 460,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "पत्रकार",
+      "sentence": 6,
+      "start": 472,
+      "end": 477,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "कोथिंबीर",
+      "sentence": 7,
+      "start": 492,
+      "end": 498,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "शासनाने",
+      "sentence": 8,
+      "start": 514,
+      "end": 520,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "विमानतळ",
+      "sentence": 8,
+      "start": 525,
+      "end": 530,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "विस्तारवाढ",
+      "sentence": 8,
+      "start": 531,
+      "end": 537,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "मागणीसाठी",
+      "sentence": 8,
+      "start": 551,
+      "end": 558,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "वारुंजी",
+      "sentence": 8,
+      "start": 559,
+      "end": 564,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "मुंढे",
+      "sentence": 8,
+      "start": 566,
+      "end": 570,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "केसे",
+      "sentence": 8,
+      "start": 572,
+      "end": 575,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "पाडळी",
+      "sentence": 8,
+      "start": 577,
+      "end": 581,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "गोटे",
+      "sentence": 8,
+      "start": 584,
+      "end": 587,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "गावातील",
+      "sentence": 8,
+      "start": 588,
+      "end": 593,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "ग्रामस्थांनी",
+      "sentence": 8,
+      "start": 594,
+      "end": 602,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "विमानतळावर",
+      "sentence": 8,
+      "start": 611,
+      "end": 618,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "मोर्चा",
+      "sentence": 8,
+      "start": 624,
+      "end": 627,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "घोषणा",
+      "sentence": 8,
+      "start": 639,
+      "end": 643,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "निषेध",
+      "sentence": 8,
+      "start": 650,
+      "end": 654,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "सुरक्षा",
+      "sentence": 9,
+      "start": 679,
+      "end": 683,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "सप्ताह",
+      "sentence": 9,
+      "start": 684,
+      "end": 688,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "नांदूरशिंगोटे",
+      "sentence": 9,
+      "start": 715,
+      "end": 726,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "बसस्थानकात",
+      "sentence": 9,
+      "start": 727,
+      "end": 735,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "सुरक्षा",
+      "sentence": 9,
+      "start": 736,
+      "end": 740,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "पॅकेजमध्ये",
+      "sentence": 10,
+      "start": 758,
+      "end": 766,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "प्रवास",
+      "sentence": 10,
+      "start": 767,
+      "end": 771,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "जेवण",
+      "sentence": 10,
+      "start": 773,
+      "end": 776,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "गोष्टी",
+      "sentence": 10,
+      "start": 790,
+      "end": 793,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "गोष्ट",
+      "sentence": 12,
+      "start": 845,
+      "end": 848,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "मुलींवरही",
+      "sentence": 12,
+      "start": 879,
+      "end": 886,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "परिणाम",
+      "sentence": 12,
+      "start": 887,
+      "end": 891,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "फडणवीस",
+      "sentence": 13,
+      "start": 898,
+      "end": 905,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "अजित",
+      "sentence": 13,
+      "start": 910,
+      "end": 913,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "पवारांनी",
+      "sentence": 13,
+      "start": 914,
+      "end": 920,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "औरंगाबाद",
+      "sentence": 14,
+      "start": 951,
+      "end": 959,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "रोडकडून",
+      "sentence": 14,
+      "start": 960,
+      "end": 966,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "रंगाचा",
+      "sentence": 14,
+      "start": 974,
+      "end": 979,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      2,
+      6
+    ],
+    [
+      14,
+      15
+    ],
+    [
+      17,
+      18
+    ],
+    [
+      26,
+      27
+    ],
+    [
+      38,
+      40,
+      51
+    ],
+    [
+      41,
+      52
+    ],
+    [
+      58,
+      59
+    ]
+  ]
+}

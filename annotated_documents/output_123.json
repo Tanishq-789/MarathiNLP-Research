@@ -1,0 +1,250 @@
+{
+  "document_id": "document_123",
+  "sentences": [
+    "अतुल भोसले यांच्या प्रमुख उपस्थितीत ऊस गव्हाणीत मोळी टाकून गळीत हंगामाचा प्रारंभ करण्यात आला.",
+    "वस्तीवर त्यांचे एकच घर आहे.",
+    "त्याच्या निर्णायक साठी मिक्सरमध्ये आवश्यक आहे.",
+    "राष्ट्रवादी काँग्रेसच्या मुंबईमध्ये झालेल्या बैठकीत ही घोषणा करण्यात आली.",
+    "होय, अशी रासायनिक प्रतिक्रियांचे घटना परिणाम म्हणून ज्वलन उत्पादने लक्षणीय निवड मोठ्या प्रमाणात आहे.",
+    "इलेक्ट्रिक टेलगेट आणि स्लायडिंग, ड्युअल सनरुफ, स्वयंचलित वातावरण नियंत्रण, मूड लायटिंग आणि वैयक्तिक ट्रे टेबलही या कारमध्ये मिळणार आहे.",
+    "कळंबोलीतील नवीन सुधागड विद्यालयासमोरील रस्त्याच्या पलीकडील एका इमारतीचे बांधकाम सुरू आहे.",
+    "चांदा ते बांदा योजनेतून सिंधुदुर्ग जि."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "अतुल",
+      "sentence": 0,
+      "start": 0,
+      "end": 3,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "त्यांच्या",
+      "sentence": 0,
+      "start": 12,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "गव्हाणीत",
+      "sentence": 0,
+      "start": 33,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "हंगामाचा",
+      "sentence": 0,
+      "start": 53,
+      "end": 59,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "प्रारंभ",
+      "sentence": 0,
+      "start": 61,
+      "end": 66,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "वस्तीवर",
+      "sentence": 1,
+      "start": 79,
+      "end": 84,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "त्यांचे",
+      "sentence": 1,
+      "start": 86,
+      "end": 90,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "त्याच्या",
+      "sentence": 2,
+      "start": 105,
+      "end": 109,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "मिक्सरमध्ये",
+      "sentence": 2,
+      "start": 119,
+      "end": 127,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "राष्ट्रवादी",
+      "sentence": 3,
+      "start": 139,
+      "end": 147,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "बैठकीत",
+      "sentence": 3,
+      "start": 174,
+      "end": 179,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "घोषणा",
+      "sentence": 3,
+      "start": 184,
+      "end": 188,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "प्रतिक्रियांचे",
+      "sentence": 4,
+      "start": 201,
+      "end": 209,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "घटना",
+      "sentence": 4,
+      "start": 211,
+      "end": 214,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "परिणाम",
+      "sentence": 4,
+      "start": 216,
+      "end": 220,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "उत्पादने",
+      "sentence": 4,
+      "start": 227,
+      "end": 232,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "प्रमाणात",
+      "sentence": 4,
+      "start": 250,
+      "end": 255,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "स्लायडिंग",
+      "sentence": 5,
+      "start": 277,
+      "end": 283,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "सनरुफ",
+      "sentence": 5,
+      "start": 292,
+      "end": 297,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "वातावरण",
+      "sentence": 5,
+      "start": 308,
+      "end": 313,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "नियंत्रण",
+      "sentence": 5,
+      "start": 315,
+      "end": 320,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "लायटिंग",
+      "sentence": 5,
+      "start": 328,
+      "end": 333,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "ट्रे",
+      "sentence": 5,
+      "start": 345,
+      "end": 347,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "कारमध्ये",
+      "sentence": 5,
+      "start": 360,
+      "end": 366,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "विद्यालयासमोरील",
+      "sentence": 6,
+      "start": 402,
+      "end": 414,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "इमारतीचे",
+      "sentence": 6,
+      "start": 433,
+      "end": 439,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "बांधकाम",
+      "sentence": 6,
+      "start": 441,
+      "end": 446,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "बांदा",
+      "sentence": 7,
+      "start": 465,
+      "end": 469,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      13,
+      14
+    ]
+  ]
+}

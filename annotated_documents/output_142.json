@@ -1,0 +1,325 @@
+{
+  "document_id": "document_142",
+  "sentences": [
+    "शिक्षकांनाही बंदुका द्या!",
+    "मनुष्य जर पुढेही असंच मेलेले जगणे जगू लागला तर या महामरणाची केवढी दुर्गंधी वाढेल?",
+    "कीर्तनकार इंदुरीकर महाराजांनी कीर्तनात वादग्रस्त विधान केल्याने वेगवेगळ्या स्तरातून प्रतिक्रिया येऊ लागल्या आहेत.",
+    "तो महासागर दूर स्थित सागरी प्रतिनिधी मोठ्या प्रमाणात एक अद्वितीय संग्रह आहे.",
+    "तारीख करण्यासाठी, तो कल्पित व्हिक्टर Tsoi आला, त्याच्या आडनाव बदलण्याचा निर्णय घेतला.",
+    "मात्र इतक्या रात्री झाडे तोडण्याची गरज काय?",
+    "आकर्षण आपण निश्चितपणे कोस्टा Brava च्या खडकाळ किनारपट्टीवर आणि बारावी शतक व्हिला वेल्ला किल्ला भेट दिली पाहिजे.",
+    "इंग्लंडविरुद्ध तिसऱ्या सामन्यासह मालिका गमावल्यानंतर धोनीचा एक व्हिडीओ व्हायरल होत आहे.",
+    "हजारो रुपये खर्च करून तुम्ही कश्मीर, सिमला येथे जाण्याचा विचार करीत असाल तर थांबा."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "शिक्षकांना",
+      "sentence": 0,
+      "start": 0,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "बंदुका",
+      "sentence": 0,
+      "start": 11,
+      "end": 16,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "मनुष्य",
+      "sentence": 1,
+      "start": 18,
+      "end": 23,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "जगणे",
+      "sentence": 1,
+      "start": 37,
+      "end": 41,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "महामरणाची",
+      "sentence": 1,
+      "start": 52,
+      "end": 61,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "दुर्गंधी",
+      "sentence": 1,
+      "start": 68,
+      "end": 74,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "कीर्तनकार",
+      "sentence": 2,
+      "start": 76,
+      "end": 84,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "इंदुरीकर",
+      "sentence": 2,
+      "start": 85,
+      "end": 92,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "महाराजांनी",
+      "sentence": 2,
+      "start": 93,
+      "end": 101,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "कीर्तनात",
+      "sentence": 2,
+      "start": 102,
+      "end": 109,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "विधान",
+      "sentence": 2,
+      "start": 120,
+      "end": 124,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "स्तरातून",
+      "sentence": 2,
+      "start": 138,
+      "end": 145,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "प्रतिक्रिया",
+      "sentence": 2,
+      "start": 146,
+      "end": 153,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "तो",
+      "sentence": 3,
+      "start": 168,
+      "end": 169,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "महासागर",
+      "sentence": 3,
+      "start": 170,
+      "end": 177,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "प्रमाणात",
+      "sentence": 3,
+      "start": 205,
+      "end": 211,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "संग्रह",
+      "sentence": 3,
+      "start": 225,
+      "end": 230,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "तारीख",
+      "sentence": 4,
+      "start": 234,
+      "end": 239,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "तो",
+      "sentence": 4,
+      "start": 252,
+      "end": 253,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "व्हिक्टर",
+      "sentence": 4,
+      "start": 259,
+      "end": 264,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "त्याच्या",
+      "sentence": 4,
+      "start": 276,
+      "end": 281,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "आडनाव",
+      "sentence": 4,
+      "start": 282,
+      "end": 287,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "निर्णय",
+      "sentence": 4,
+      "start": 297,
+      "end": 301,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "झाडे",
+      "sentence": 5,
+      "start": 318,
+      "end": 322,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "आकर्षण",
+      "sentence": 6,
+      "start": 340,
+      "end": 346,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "आपण",
+      "sentence": 6,
+      "start": 347,
+      "end": 351,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "कोस्टा",
+      "sentence": 6,
+      "start": 362,
+      "end": 366,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "किनारपट्टीवर",
+      "sentence": 6,
+      "start": 381,
+      "end": 391,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "इंग्लंड",
+      "sentence": 7,
+      "start": 427,
+      "end": 432,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "सामन्या",
+      "sentence": 7,
+      "start": 438,
+      "end": 443,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "मालिका",
+      "sentence": 7,
+      "start": 445,
+      "end": 449,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "धोनी",
+      "sentence": 7,
+      "start": 461,
+      "end": 464,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "व्हिडीओ",
+      "sentence": 7,
+      "start": 469,
+      "end": 474,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "रुपये",
+      "sentence": 8,
+      "start": 484,
+      "end": 488,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "तुम्ही",
+      "sentence": 8,
+      "start": 500,
+      "end": 504,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "कश्मीर",
+      "sentence": 8,
+      "start": 505,
+      "end": 510,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "विचार",
+      "sentence": 8,
+      "start": 526,
+      "end": 530,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      6,
+      7,
+      8
+    ],
+    [
+      19,
+      20,
+      21,
+      22
+    ]
+  ]
+}

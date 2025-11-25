@@ -1,0 +1,67 @@
+{
+  "document_id": "document_119",
+  "sentences": [
+    "पर्यटनासाठी आलेल्या शालेय विद्यार्थ्यांच्या बसला अपघात",
+    "Lermontov मध्ये अतिथीगृह - उर्वरित मुख्यतः मुले असल्याने, अशा परिस्थितीत राहण्यासाठी सर्वोत्तम मार्ग.",
+    "९५ चेंडूत त्याने शतक साजरे केले."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "पर्यटनासाठी",
+      "sentence": 0,
+      "start": 0,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "अपघात",
+      "sentence": 0,
+      "start": 39,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "अतिथीगृह",
+      "sentence": 1,
+      "start": 59,
+      "end": 66,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मुले",
+      "sentence": 1,
+      "start": 83,
+      "end": 86,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "परिस्थितीत",
+      "sentence": 1,
+      "start": 104,
+      "end": 113,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "मार्ग",
+      "sentence": 1,
+      "start": 125,
+      "end": 129,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "त्याने",
+      "sentence": 2,
+      "start": 153,
+      "end": 157,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

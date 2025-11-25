@@ -1,0 +1,167 @@
+{
+  "document_id": "document_137",
+  "sentences": [
+    "त्या नंतर म्हणून ओळखले बनले जे प्रभावी उपाय, स्थापन करणे आवश्यक आहे झाल्याने काय होते \"अँटी-व्हायरस सॉफ्टवेअर.",
+    "या प्रकरणामध्ये कायदेशीर कारवाई नक्की केली जाईल, असा इशार आयुक्त रवींद्र खेबुडकर यांनी दिला.",
+    "त्यामुळे शुभेच्छांच्या नावावर शिक्षणमंत्री तावडे यांनी सरकारी खर्चात स्वत:ची प्रसिद्धी करून घेतली, पण ती लोकांना रुचलेली नाही.",
+    "या क्रियाकलापांमुळे मुले कशी प्रभावित करतात?"
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "त्या",
+      "sentence": 0,
+      "start": 0,
+      "end": 2,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "उपाय",
+      "sentence": 0,
+      "start": 35,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "सॉफ्टवेअर",
+      "sentence": 0,
+      "start": 84,
+      "end": 91,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "इशार",
+      "sentence": 1,
+      "start": 141,
+      "end": 145,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "आयुक्त",
+      "sentence": 1,
+      "start": 147,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "रवींद्र",
+      "sentence": 1,
+      "start": 153,
+      "end": 158,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "खेबुडकर",
+      "sentence": 1,
+      "start": 159,
+      "end": 166,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "नावावर",
+      "sentence": 2,
+      "start": 191,
+      "end": 196,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "शिक्षणमंत्री",
+      "sentence": 2,
+      "start": 197,
+      "end": 206,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "तावडे",
+      "sentence": 2,
+      "start": 207,
+      "end": 211,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "खर्चात",
+      "sentence": 2,
+      "start": 219,
+      "end": 224,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "स्वत:ची",
+      "sentence": 2,
+      "start": 225,
+      "end": 230,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "प्रसिद्धी",
+      "sentence": 2,
+      "start": 231,
+      "end": 236,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "ती",
+      "sentence": 2,
+      "start": 249,
+      "end": 250,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "लोकांना",
+      "sentence": 2,
+      "start": 251,
+      "end": 256,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "क्रियाकलापांमुळे",
+      "sentence": 3,
+      "start": 272,
+      "end": 283,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "मुले",
+      "sentence": 3,
+      "start": 284,
+      "end": 287,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ],
+    [
+      6,
+      7,
+      8
+    ],
+    [
+      11,
+      12,
+      14
+    ],
+    [
+      15,
+      16
+    ]
+  ]
+}

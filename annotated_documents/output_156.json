@@ -1,0 +1,540 @@
+{
+  "document_id": "document_156",
+  "sentences": [
+    "सत्तासंघर्ष : मुख्यमंत्र्यांशिवाय भाजप नेते राज्यपालांना भेटणार",
+    "यासाठी तिला पूर्णपणे दत्तक घेऊन तिला लागणाऱया साऱया सुविधा पुरविण्याचा निर्णय केएलई संस्थेने घेतला आहे.",
+    "हे थोडे अधिक आहे, आणि समुद्रकिनारा, कारण माँटेनिग्रो प्रसिद्ध आहे विशेषत उल्लेख केला आहे.",
+    "इतर राज्यांच्या बससेवा येण्यासही त्यांचा विरोध आहे.",
+    "काही ठिकाणी पायाचे ठसे सापडले, मात्र त्यावर वन विभाग ठामपणे बोलू शकत नाही़  त्यामुळे बिबट्याच होता की बिबट्यासदृश अन्य प्राणी याबाबत ठामपणे सांगितले जात नाही.",
+    "परस्परांवर मात करण्यासाठी आरोप प्रत्यारोपाच्या फैरी झडत असतात.",
+    "हा अपघात नेमका कशा प्रकारचा आहे, कसा झाला,  याबाबतचा खुलासा रविवारीसुद्धा होऊ शकलेला नाही.",
+    "निद्रिस्त राज्य सरकारला जाग आणण्यासाठी या जागरण गोंधळ कार्यक्रमाचे आयोजन करण्यात आले आहे.",
+    "मायक्रोवेव्ह वापर भविष्यात असो आणि समस्या टाळण्यासाठी, आपण अपयश सर्वात वारंवार कारणे काही स्वत: ची ओळख पाहिजे.",
+    "* देशाच्या एकूण भांडवली गुंतवणुकीपैकी १७% गुंतवणूक महाराष्ट्राचा औद्योगिक क्षेत्रात झाली आहे.",
+    "एकूण औद्योगिक कामगारांपैकी १७.५% औद्योगिक कामगार महाराष्ट्रात आहेत.",
+    "सर्वोत्कृष्ट पटकथा – रीमा कागती, जोया अख्तर, (गली बॉय)",
+    "तो गालिचा बंद करू नये.",
+    "त्याच कर्बोदकांमधे नाही.",
+    "अपात्र आमदारांनी नवी दिल्ली कूच केल्याचा सुगावा लागल्यानंतर मुख्यमंत्री बी."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "सत्तासंघर्ष",
+      "sentence": 0,
+      "start": 0,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "मुख्यमंत्र्यां",
+      "sentence": 0,
+      "start": 12,
+      "end": 23,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "भाजप",
+      "sentence": 0,
+      "start": 24,
+      "end": 28,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "नेते",
+      "sentence": 0,
+      "start": 29,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "राज्यपालां",
+      "sentence": 0,
+      "start": 33,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "तिला",
+      "sentence": 1,
+      "start": 53,
+      "end": 56,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "तिला",
+      "sentence": 1,
+      "start": 71,
+      "end": 74,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "सुविधा",
+      "sentence": 1,
+      "start": 90,
+      "end": 95,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "निर्णय",
+      "sentence": 1,
+      "start": 108,
+      "end": 112,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "केएलई",
+      "sentence": 1,
+      "start": 114,
+      "end": 118,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "संस्थे",
+      "sentence": 1,
+      "start": 119,
+      "end": 124,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "समुद्रकिनारा",
+      "sentence": 2,
+      "start": 156,
+      "end": 166,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "माँटेनिग्रो",
+      "sentence": 2,
+      "start": 168,
+      "end": 177,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "उल्लेख",
+      "sentence": 2,
+      "start": 209,
+      "end": 214,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "राज्यां",
+      "sentence": 3,
+      "start": 224,
+      "end": 230,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "त्यांचा",
+      "sentence": 3,
+      "start": 249,
+      "end": 254,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "ठिकाणी",
+      "sentence": 4,
+      "start": 267,
+      "end": 272,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "पाया",
+      "sentence": 4,
+      "start": 273,
+      "end": 276,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "त्यावर",
+      "sentence": 4,
+      "start": 289,
+      "end": 294,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "विभाग",
+      "sentence": 4,
+      "start": 298,
+      "end": 302,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "बिबट्या",
+      "sentence": 4,
+      "start": 336,
+      "end": 342,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "बिबट्या",
+      "sentence": 4,
+      "start": 354,
+      "end": 360,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "प्राणी",
+      "sentence": 4,
+      "start": 366,
+      "end": 370,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "परस्परां",
+      "sentence": 5,
+      "start": 430,
+      "end": 436,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "आरोप",
+      "sentence": 5,
+      "start": 450,
+      "end": 454,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "प्रत्यारोपा",
+      "sentence": 5,
+      "start": 455,
+      "end": 462,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "फैरी",
+      "sentence": 5,
+      "start": 463,
+      "end": 467,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "अपघात",
+      "sentence": 6,
+      "start": 499,
+      "end": 504,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "प्रकार",
+      "sentence": 6,
+      "start": 514,
+      "end": 518,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "खुलासा",
+      "sentence": 6,
+      "start": 545,
+      "end": 550,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "राज्य",
+      "sentence": 7,
+      "start": 596,
+      "end": 599,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "सरकार",
+      "sentence": 7,
+      "start": 600,
+      "end": 604,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "जागरण",
+      "sentence": 7,
+      "start": 625,
+      "end": 630,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "गोंधळ",
+      "sentence": 7,
+      "start": 631,
+      "end": 636,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "कार्यक्रमा",
+      "sentence": 7,
+      "start": 637,
+      "end": 644,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "आयोजन",
+      "sentence": 7,
+      "start": 645,
+      "end": 650,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "मायक्रोवेव्ह",
+      "sentence": 8,
+      "start": 675,
+      "end": 684,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "वापर",
+      "sentence": 8,
+      "start": 685,
+      "end": 689,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "भविष्या",
+      "sentence": 8,
+      "start": 690,
+      "end": 695,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "समस्या",
+      "sentence": 8,
+      "start": 708,
+      "end": 713,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "आपण",
+      "sentence": 8,
+      "start": 726,
+      "end": 729,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "अपयश",
+      "sentence": 8,
+      "start": 730,
+      "end": 734,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "कारणे",
+      "sentence": 8,
+      "start": 754,
+      "end": 758,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "देशा",
+      "sentence": 9,
+      "start": 782,
+      "end": 786,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "गुंतवणुकी",
+      "sentence": 9,
+      "start": 797,
+      "end": 804,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "गुंतवणूक",
+      "sentence": 9,
+      "start": 811,
+      "end": 818,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "महाराष्ट्रा",
+      "sentence": 9,
+      "start": 819,
+      "end": 827,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "क्षेत्रा",
+      "sentence": 9,
+      "start": 838,
+      "end": 843,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "कामगारां",
+      "sentence": 10,
+      "start": 879,
+      "end": 886,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "कामगार",
+      "sentence": 10,
+      "start": 902,
+      "end": 907,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "महाराष्ट्रा",
+      "sentence": 10,
+      "start": 908,
+      "end": 915,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "पटकथा",
+      "sentence": 11,
+      "start": 951,
+      "end": 956,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "रीमा",
+      "sentence": 11,
+      "start": 959,
+      "end": 962,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "अख्तर",
+      "sentence": 11,
+      "start": 976,
+      "end": 980,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "तो",
+      "sentence": 12,
+      "start": 996,
+      "end": 997,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "गालिचा",
+      "sentence": 12,
+      "start": 998,
+      "end": 1003,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "कर्बोदकां",
+      "sentence": 13,
+      "start": 1022,
+      "end": 1029,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "आमदारां",
+      "sentence": 14,
+      "start": 1047,
+      "end": 1054,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "दिल्ली",
+      "sentence": 14,
+      "start": 1059,
+      "end": 1064,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "सुगावा",
+      "sentence": 14,
+      "start": 1078,
+      "end": 1083,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "मुख्यमंत्री",
+      "sentence": 14,
+      "start": 1095,
+      "end": 1102,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      5,
+      6
+    ],
+    [
+      20,
+      21
+    ],
+    [
+      24,
+      25
+    ],
+    [
+      32,
+      33
+    ],
+    [
+      53,
+      54
+    ],
+    [
+      55,
+      59
+    ],
+    [
+      57,
+      58
+    ]
+  ]
+}

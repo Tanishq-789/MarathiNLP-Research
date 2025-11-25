@@ -1,0 +1,80 @@
+{
+  "document_id": "document_189",
+  "sentences": [
+    "देशमुख यांनी सलोमी.",
+    "संख्याबळानुसार भाजपच्या तीन जागा सहज निवडून येवू शकतात.",
+    "करणे थोडे अशक्‍य वाटते; परंतु आम्ही प्रयत्न करू, असे डोंबिवलीतील वाहनचालकांनी."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "देशमुख",
+      "sentence": 0,
+      "start": 0,
+      "end": 6,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "यांनी",
+      "sentence": 0,
+      "start": 8,
+      "end": 12,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "संख्याबळानुसार",
+      "sentence": 1,
+      "start": 21,
+      "end": 33,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "भाजपच्या",
+      "sentence": 1,
+      "start": 35,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "जागा",
+      "sentence": 1,
+      "start": 49,
+      "end": 52,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "आम्ही",
+      "sentence": 2,
+      "start": 109,
+      "end": 113,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "प्रयत्न",
+      "sentence": 2,
+      "start": 115,
+      "end": 120,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "वाहनचालकांनी",
+      "sentence": 2,
+      "start": 147,
+      "end": 159,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ]
+  ]
+}

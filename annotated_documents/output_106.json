@@ -1,0 +1,240 @@
+{
+  "document_id": "document_106",
+  "sentences": [
+    "मोदी सरकारच्या काळात ‘अंधा कानून’, मुजोर अधिकारी मोकाट तर खासदारावर ३०८ चा गुन्हा!",
+    "आपण संग्रहित करण्यासाठी परवानगी देतो शॉर्टकट, , प्लगइन स्थापित माहिती लक्षात फिल्टर संयोजीत करा.",
+    "आणखी एक इंटरेस्टिंग गोष्ट शंकराशी निगडीत दोन शब्द.",
+    "या सप्ताहात कीर्तनसाथीसाठी मृदंगाचार्य सुधाकर महाराज शेळके यांच्या मुकुंदराज संस्थान आंबेजोगाई यांचे दरवर्षी सहकार्य लाभते.",
+    "अयोध्येतील पाचशे वर्षांची बाबरी मशीद जमीनदोस्त करण्यात आल्याच्या घटनेला आता २५ वर्षे उलटली असली, तरी."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मोदी",
+      "sentence": 0,
+      "start": 0,
+      "end": 3,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "काळात",
+      "sentence": 0,
+      "start": 14,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "अधिकारी",
+      "sentence": 0,
+      "start": 41,
+      "end": 47,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "खासदारावर",
+      "sentence": 0,
+      "start": 57,
+      "end": 66,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "गुन्हा",
+      "sentence": 0,
+      "start": 75,
+      "end": 79,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "आपण",
+      "sentence": 1,
+      "start": 83,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "परवानगी",
+      "sentence": 1,
+      "start": 103,
+      "end": 109,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "प्लगइन",
+      "sentence": 1,
+      "start": 125,
+      "end": 130,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "माहिती",
+      "sentence": 1,
+      "start": 138,
+      "end": 143,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "फिल्टर",
+      "sentence": 1,
+      "start": 150,
+      "end": 155,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "गोष्ट",
+      "sentence": 2,
+      "start": 176,
+      "end": 180,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "शंकराशी",
+      "sentence": 2,
+      "start": 182,
+      "end": 189,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "शब्द",
+      "sentence": 2,
+      "start": 199,
+      "end": 202,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "सप्ताहात",
+      "sentence": 3,
+      "start": 207,
+      "end": 213,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "कीर्तनसाथीसाठी",
+      "sentence": 3,
+      "start": 215,
+      "end": 227,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "मृदंगाचार्य",
+      "sentence": 3,
+      "start": 228,
+      "end": 238,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "सुधाकर",
+      "sentence": 3,
+      "start": 239,
+      "end": 245,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "महाराज",
+      "sentence": 3,
+      "start": 246,
+      "end": 251,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "शेळके",
+      "sentence": 3,
+      "start": 252,
+      "end": 257,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "मुकुंदराज",
+      "sentence": 3,
+      "start": 266,
+      "end": 274,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "संस्थान",
+      "sentence": 3,
+      "start": 275,
+      "end": 280,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "आंबेजोगाई",
+      "sentence": 3,
+      "start": 281,
+      "end": 289,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "सहकार्य",
+      "sentence": 3,
+      "start": 300,
+      "end": 306,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "वर्षांची",
+      "sentence": 4,
+      "start": 323,
+      "end": 329,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "मशीद",
+      "sentence": 4,
+      "start": 336,
+      "end": 340,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "घटनेला",
+      "sentence": 4,
+      "start": 360,
+      "end": 365,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "वर्षे",
+      "sentence": 4,
+      "start": 372,
+      "end": 376,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      19,
+      20,
+      21
+    ],
+    [
+      22,
+      23,
+      24
+    ]
+  ]
+}

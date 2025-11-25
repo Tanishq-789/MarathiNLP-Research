@@ -1,0 +1,205 @@
+{
+  "document_id": "document_149",
+  "sentences": [
+    "नागपूर | मी स्वत: विधान परिषदेत मराठा आरक्षणासंदर्भात स्थगन प्रस्ताव दिला होता.",
+    "पण अनेक खेळाडूंच्या जडणघडणीत त्याला लागणारी आर्थिक मदत अशाच कुठल्यातरी स्पॉन्सरकडून येते.",
+    "आपल्या कुटुंबाचा उदरनिर्वाह चालावा, यासाठी तो थिएटरच्या बाहेर सिनेमाची तिकिटं ब्लॅकमध्ये विकायला सुरू करतो.",
+    "महापालिकेच्या सगळ्या बागा उत्साही लोकांनी भरून गेलेल्या दिसतात.",
+    "स्वामिनाथन हे आयडीएफसी फर्स्ट बँकेचे वरीष्ठ अधिकारी आहेत.",
+    "या पार्टीत सर्वधर्मसमभाव असतो.",
+    "अशा लोकांना मी छेडून, खुलवून पाहिलं आहे.",
+    "मनाला भुरळ घालतं, पण विचार केल्यावर रुचत नाही."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मी",
+      "sentence": 0,
+      "start": 9,
+      "end": 11,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "स्वत",
+      "sentence": 0,
+      "start": 12,
+      "end": 16,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "परिषदेत",
+      "sentence": 0,
+      "start": 22,
+      "end": 29,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "आरक्षणासंदर्भात",
+      "sentence": 0,
+      "start": 34,
+      "end": 48,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "प्रस्ताव",
+      "sentence": 0,
+      "start": 52,
+      "end": 59,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "जडणघडणीत",
+      "sentence": 1,
+      "start": 87,
+      "end": 96,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "त्याला",
+      "sentence": 1,
+      "start": 97,
+      "end": 102,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "स्पॉन्सरकडून",
+      "sentence": 1,
+      "start": 124,
+      "end": 136,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "कुटुंबाचा",
+      "sentence": 2,
+      "start": 170,
+      "end": 178,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "उदरनिर्वाह",
+      "sentence": 2,
+      "start": 179,
+      "end": 188,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "तो",
+      "sentence": 2,
+      "start": 193,
+      "end": 195,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "ब्लॅकमध्ये",
+      "sentence": 2,
+      "start": 219,
+      "end": 228,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "बागा",
+      "sentence": 3,
+      "start": 278,
+      "end": 282,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "लोकांनी",
+      "sentence": 3,
+      "start": 287,
+      "end": 293,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "स्वामिनाथन",
+      "sentence": 4,
+      "start": 320,
+      "end": 329,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "बँकेचे",
+      "sentence": 4,
+      "start": 344,
+      "end": 350,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "अधिकारी",
+      "sentence": 4,
+      "start": 358,
+      "end": 365,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "पार्टीत",
+      "sentence": 5,
+      "start": 379,
+      "end": 385,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "सर्वधर्मसमभाव",
+      "sentence": 5,
+      "start": 386,
+      "end": 399,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "लोकांना",
+      "sentence": 6,
+      "start": 411,
+      "end": 417,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "मी",
+      "sentence": 6,
+      "start": 418,
+      "end": 420,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "मनाला",
+      "sentence": 7,
+      "start": 448,
+      "end": 453,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "विचार",
+      "sentence": 7,
+      "start": 463,
+      "end": 468,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      1,
+      2
+    ]
+  ]
+}

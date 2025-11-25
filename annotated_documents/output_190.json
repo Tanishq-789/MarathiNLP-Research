@@ -1,0 +1,147 @@
+{
+  "document_id": "document_190",
+  "sentences": [
+    "जानेवारी 19, 2020",
+    "त्यामुळे मालिका कुठेही रटाळ न होता किंवा लांबत न जाता योग्य वेळी प्रेक्षकांना 'बाय' म्हणणार आहे.",
+    "पर बीते कुछ महीनों में बड़े पैमाने पर ये मशीनें चोरी की गई थी।",
+    "कुसुंबा भांग प्याले ॥",
+    "अंत्यसंस्कारापूर्वी रिपाइं नेते, केंद्रीय राज्यमंत्री रामदास आठवले, राज्याचे सामाजिक न्याय राज्यमंत्री अविनाश महातेकर, ज."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "जानेवारी",
+      "sentence": 0,
+      "start": 0,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "2020",
+      "sentence": 0,
+      "start": 12,
+      "end": 15,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "मालिका",
+      "sentence": 1,
+      "start": 22,
+      "end": 27,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "प्रेक्षकांना",
+      "sentence": 1,
+      "start": 74,
+      "end": 83,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "महीनों",
+      "sentence": 2,
+      "start": 104,
+      "end": 109,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "कुसुंबा",
+      "sentence": 3,
+      "start": 147,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "भांग",
+      "sentence": 3,
+      "start": 154,
+      "end": 157,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "रिपाइं",
+      "sentence": 4,
+      "start": 172,
+      "end": 176,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "नेते",
+      "sentence": 4,
+      "start": 178,
+      "end": 181,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "राज्यमंत्री",
+      "sentence": 4,
+      "start": 190,
+      "end": 199,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "रामदास",
+      "sentence": 4,
+      "start": 201,
+      "end": 206,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "राज्याचे",
+      "sentence": 4,
+      "start": 216,
+      "end": 222,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "न्याय",
+      "sentence": 4,
+      "start": 231,
+      "end": 234,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "राज्यमंत्री",
+      "sentence": 4,
+      "start": 236,
+      "end": 245,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "अविनाश",
+      "sentence": 4,
+      "start": 247,
+      "end": 252,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "महातेकर",
+      "sentence": 4,
+      "start": 254,
+      "end": 260,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      10,
+      11,
+      12
+    ]
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "document_id": "document_184",
+  "sentences": [
+    "EC च्या रडारवर उमेदवारांचा सोशल मीडिया, पण समर्थक मोकाट…",
+    "मुंबई यंदाच्या शाहीर दादा कोंडके स्मृती पुरस्कारांची घोषणा करण्यात आली असून अभिनेता अंकुश चौधरी, चित्रपट निर्माती समृद्धी पोरे यांच्यासह दिग्दर्शक पुरुषोत्तम बेर्डे,."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "रडारवर",
+      "sentence": 0,
+      "start": 6,
+      "end": 12,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "उमेदवारां",
+      "sentence": 0,
+      "start": 14,
+      "end": 21,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "मीडिया",
+      "sentence": 0,
+      "start": 29,
+      "end": 34,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "समर्थक",
+      "sentence": 0,
+      "start": 39,
+      "end": 45,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "मुंबई",
+      "sentence": 1,
+      "start": 49,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "शाहीर",
+      "sentence": 1,
+      "start": 63,
+      "end": 67,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "दादा",
+      "sentence": 1,
+      "start": 69,
+      "end": 72,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "कोंडके",
+      "sentence": 1,
+      "start": 74,
+      "end": 79,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "स्मृती",
+      "sentence": 1,
+      "start": 81,
+      "end": 86,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "पुरस्कारां",
+      "sentence": 1,
+      "start": 88,
+      "end": 96,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "घोषणा",
+      "sentence": 1,
+      "start": 98,
+      "end": 102,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "अभिनेता",
+      "sentence": 1,
+      "start": 120,
+      "end": 126,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "अंकुश",
+      "sentence": 1,
+      "start": 128,
+      "end": 132,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "चौधरी",
+      "sentence": 1,
+      "start": 134,
+      "end": 139,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "चित्रपट",
+      "sentence": 1,
+      "start": 142,
+      "end": 148,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "निर्माती",
+      "sentence": 1,
+      "start": 150,
+      "end": 156,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "समृद्धी",
+      "sentence": 1,
+      "start": 158,
+      "end": 163,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "दिग्दर्शक",
+      "sentence": 1,
+      "start": 177,
+      "end": 185,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "पुरुषोत्तम",
+      "sentence": 1,
+      "start": 187,
+      "end": 195,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      6,
+      7,
+      8
+    ],
+    [
+      12,
+      13,
+      14
+    ],
+    [
+      16,
+      17,
+      18
+    ]
+  ]
+}

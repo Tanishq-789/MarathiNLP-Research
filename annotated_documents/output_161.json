@@ -1,0 +1,55 @@
+{
+  "document_id": "document_161",
+  "sentences": [
+    "पण आत्ता या वयात लग्न?",
+    "कुलकर्णी हे काही कारणांनी महाराष्ट्र फिल्म कंपनीतून बाहेर पडले आणि त्यांनी इ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "लग्न",
+      "sentence": 0,
+      "start": 17,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "कुलकर्णी",
+      "sentence": 1,
+      "start": 21,
+      "end": 27,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "कारणांनी",
+      "sentence": 1,
+      "start": 31,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "कंपनीतून",
+      "sentence": 1,
+      "start": 57,
+      "end": 64,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "त्यांनी",
+      "sentence": 1,
+      "start": 81,
+      "end": 86,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      1,
+      2
+    ]
+  ]
+}

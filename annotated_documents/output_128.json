@@ -1,0 +1,108 @@
+{
+  "document_id": "document_128",
+  "sentences": [
+    "मात्र पूर्ण रक्कम हस्तांतरीत न झाल्याने स्मारकाचे काम रखडले आहे.",
+    "वडील ज्ञानेश्वरीचे पारायण करीत.",
+    "‘मसान’चा ट्रेलर रिलीज",
+    "या खोल्या पाहून प्रवेशव्दाराकडून येणार्या मुख्य रस्त्याला लागल्यावर उजव्या बाजूला एक दगडात बांधलेला मनोरा (उच्छवास) येथे पहाता येतो."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "रक्कम",
+      "sentence": 0,
+      "start": 7,
+      "end": 11,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "स्मारकाचे",
+      "sentence": 0,
+      "start": 35,
+      "end": 41,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "वडील",
+      "sentence": 1,
+      "start": 62,
+      "end": 66,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "पारायण",
+      "sentence": 1,
+      "start": 78,
+      "end": 83,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "ट्रेलर",
+      "sentence": 2,
+      "start": 100,
+      "end": 104,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "खोल्या",
+      "sentence": 3,
+      "start": 118,
+      "end": 122,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "प्रवेशव्दाराकडून",
+      "sentence": 3,
+      "start": 130,
+      "end": 142,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "रस्त्याला",
+      "sentence": 3,
+      "start": 158,
+      "end": 165,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "बाजूला",
+      "sentence": 3,
+      "start": 174,
+      "end": 179,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "दगडात",
+      "sentence": 3,
+      "start": 185,
+      "end": 190,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "मनोरा",
+      "sentence": 3,
+      "start": 201,
+      "end": 205,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "उच्छवास",
+      "sentence": 3,
+      "start": 208,
+      "end": 214,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

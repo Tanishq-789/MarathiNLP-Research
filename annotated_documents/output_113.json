@@ -1,0 +1,60 @@
+{
+  "document_id": "document_113",
+  "sentences": [
+    "अशा बायकांबरोबर दुसरं काय होणार?",
+    "हे आपण सा-यांनी ठरवले पाहिजे.",
+    "या सभागृहात आल्यानंतर काहीसं दडपण नक्कीच होतं.",
+    "या प्रकरणी महाड."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "बायका",
+      "sentence": 0,
+      "start": 4,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "आपण",
+      "sentence": 1,
+      "start": 31,
+      "end": 35,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "सभागृह",
+      "sentence": 2,
+      "start": 53,
+      "end": 59,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "दडपण",
+      "sentence": 2,
+      "start": 78,
+      "end": 83,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "प्रकरण",
+      "sentence": 3,
+      "start": 98,
+      "end": 102,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "महाड",
+      "sentence": 3,
+      "start": 106,
+      "end": 109,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

@@ -1,0 +1,324 @@
+{
+  "document_id": "document_129",
+  "sentences": [
+    "लोकशाही यांचा विवाह सोहळा या ठिकाणी आयोजित करण्यात आला होता.",
+    "नाळ आणि त्याचे स्थान सुमारे खात्री दिसते व्हा.",
+    "तिन्ही पक्ष एकत्र येण्याची ही पहिलची वेळ होती.",
+    "कासारवडवली येथील थरकाप उडवणाऱ्या हत्याकांड प्रकरणी आता नवी माहिती उजेडात येतेय.",
+    "परंतु शेतकरी वाऱ्यावर आहे', असा आरोप देवेंद्र फडणवीस यांनी केला.",
+    "त्यांचे असे म्हणने आहे की, सल्वाटोर मुंडीला लिओनार्डोने नाही तर त्यांच्यासोबत काम करणाऱ्या त्यांच्या सहकाऱ्याने बनवले होते.",
+    "‘बुद्धाची चळवळ म्हणजे त्या काळची ब्राह्मण-ब्राह्मणेतर चळवळ होती’, ‘जर बौद्धधर्म विजयी झाला असता तर जातिभेद शिल्लकच उरला नसता.",
+    "हे मी केलेले",
+    "शिवसेना पक्षप्रमुख उद्धव ठाकरेंच्या उपस्थितीत  प्रदीप शर्मा यांनी हातावर."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "लोकशाही",
+      "sentence": 0,
+      "start": 0,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "विवाह",
+      "sentence": 0,
+      "start": 14,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "सोहळा",
+      "sentence": 0,
+      "start": 20,
+      "end": 25,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "ठिकाणी",
+      "sentence": 0,
+      "start": 30,
+      "end": 36,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "त्याचे",
+      "sentence": 1,
+      "start": 62,
+      "end": 67,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "स्थान",
+      "sentence": 1,
+      "start": 69,
+      "end": 73,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "खात्री",
+      "sentence": 1,
+      "start": 80,
+      "end": 85,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "पक्ष",
+      "sentence": 2,
+      "start": 106,
+      "end": 109,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "हत्याकांड",
+      "sentence": 3,
+      "start": 161,
+      "end": 169,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "माहिती",
+      "sentence": 3,
+      "start": 189,
+      "end": 194,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "शेतकरी",
+      "sentence": 4,
+      "start": 227,
+      "end": 233,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "आरोप",
+      "sentence": 4,
+      "start": 248,
+      "end": 252,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "देवेंद्र",
+      "sentence": 4,
+      "start": 254,
+      "end": 260,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "फडणवीस",
+      "sentence": 4,
+      "start": 262,
+      "end": 269,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "त्यांचे",
+      "sentence": 5,
+      "start": 286,
+      "end": 291,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "सल्वाटोर",
+      "sentence": 5,
+      "start": 313,
+      "end": 321,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "मुंडीला",
+      "sentence": 5,
+      "start": 323,
+      "end": 329,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "लिओनार्डोने",
+      "sentence": 5,
+      "start": 331,
+      "end": 341,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "त्यांच्यासोबत",
+      "sentence": 5,
+      "start": 351,
+      "end": 362,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "त्यांच्या",
+      "sentence": 5,
+      "start": 374,
+      "end": 381,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "सहकाऱ्याने",
+      "sentence": 5,
+      "start": 383,
+      "end": 392,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "बुद्धाची",
+      "sentence": 6,
+      "start": 407,
+      "end": 414,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "चळवळ",
+      "sentence": 6,
+      "start": 416,
+      "end": 421,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "काळची",
+      "sentence": 6,
+      "start": 433,
+      "end": 438,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "ब्राह्मण-ब्राह्मणेतर",
+      "sentence": 6,
+      "start": 440,
+      "end": 458,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "चळवळ",
+      "sentence": 6,
+      "start": 460,
+      "end": 465,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "बौद्धधर्म",
+      "sentence": 6,
+      "start": 479,
+      "end": 487,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "जातिभेद",
+      "sentence": 6,
+      "start": 501,
+      "end": 508,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "मी",
+      "sentence": 7,
+      "start": 533,
+      "end": 535,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "शिवसेना",
+      "sentence": 8,
+      "start": 542,
+      "end": 549,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "पक्षप्रमुख",
+      "sentence": 8,
+      "start": 551,
+      "end": 560,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "उद्धव",
+      "sentence": 8,
+      "start": 562,
+      "end": 567,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "ठाकरेंच्या",
+      "sentence": 8,
+      "start": 569,
+      "end": 577,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "उपस्थितीत",
+      "sentence": 8,
+      "start": 579,
+      "end": 588,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "प्रदीप",
+      "sentence": 8,
+      "start": 590,
+      "end": 595,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "शर्मा",
+      "sentence": 8,
+      "start": 597,
+      "end": 602,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      5,
+      6
+    ],
+    [
+      17,
+      18,
+      19
+    ],
+    [
+      23,
+      24,
+      25
+    ],
+    [
+      28,
+      31
+    ]
+  ]
+}

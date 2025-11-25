@@ -1,0 +1,545 @@
+{
+  "document_id": "document_124",
+  "sentences": [
+    "पशुसंवर्धन विभागासाठी बचतगटामार्फत कुक्कुटपालन, शेळागट, चारा निर्मिती, दूध संस्था डेव्हलपमेंट यांसह उपक्रमातून एकूण 6 कोटी 50 लाख नियतव्य मंजूर केला आहे.",
+    "धोरण तपशील",
+    "– सायन स्थानकातील पाणी ओसरले",
+    "सकाळी उठल्या उठल्या आपल्या हाताचे तळवे पाहून देवाचे स्मरण करा.",
+    "दासय्याच्या घरी केली भक्तीची याचना,",
+    "भाजपचे आमदार नंदकिशोर गुर्जर यांच्यावर प्राणघातक हल्ला झाल्याची घटना घडलीय.",
+    "अजून पुण्याला व नोकरीला तसा फारसा रूळलो नसलो तरी पुणेरी उर्मटपणाचे धडे गिरवणे चालू होते.",
+    "उडदामाजी काळेगोरे काय निवडावे?",
+    "मुले, ती फक्त मुली पेक्षा अधिक अनेकदा त्यांना chastises - विद्यार्थी बहुसंख्य जेथे शाळा, वेळी.",
+    "माझे पती मंदार हे अधिक करड्या शिस्तीचे आहेत.",
+    "सवलतीत असलेल्या विमान प्रवासाच्या तिकीटांचे काही संस्थाकडून पुर्ण पैसे वटवून घेतले होते.",
+    "अपोलो या देवतेला इथे सर्वोच्च स्थान होतं.",
+    "मग सुरवात, आपण त्यांच्या जीवन निरीक्षण करू शकाल.",
+    "यावेळी बीटल्स या बॅन्डचे ल्युसी इन द स्काय विथ डायमंड्स या गाण्यातून अशांततेतील उद्विग्नता व्यक्त करण्यात आली.",
+    "तशी चिरागच्या मणक्यातुन भितीची एक लहर सरसरत गेली."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "विभागा",
+      "sentence": 0,
+      "start": 11,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "बचतगटा",
+      "sentence": 0,
+      "start": 20,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "कुक्कुटपालन",
+      "sentence": 0,
+      "start": 30,
+      "end": 40,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "शेळागट",
+      "sentence": 0,
+      "start": 43,
+      "end": 49,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "चारा",
+      "sentence": 0,
+      "start": 52,
+      "end": 55,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "निर्मिती",
+      "sentence": 0,
+      "start": 57,
+      "end": 63,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "संस्था",
+      "sentence": 0,
+      "start": 70,
+      "end": 75,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "डेव्हलपमेंट",
+      "sentence": 0,
+      "start": 76,
+      "end": 86,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "उपक्रमा",
+      "sentence": 0,
+      "start": 93,
+      "end": 99,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "कोटी",
+      "sentence": 0,
+      "start": 109,
+      "end": 113,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "नियतव्य",
+      "sentence": 0,
+      "start": 122,
+      "end": 128,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "धोरण",
+      "sentence": 1,
+      "start": 139,
+      "end": 144,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "तपशील",
+      "sentence": 1,
+      "start": 145,
+      "end": 151,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "सायन",
+      "sentence": 2,
+      "start": 156,
+      "end": 160,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "स्थानका",
+      "sentence": 2,
+      "start": 162,
+      "end": 168,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "पाणी",
+      "sentence": 2,
+      "start": 171,
+      "end": 175,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "हाता",
+      "sentence": 3,
+      "start": 204,
+      "end": 207,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "तळवे",
+      "sentence": 3,
+      "start": 210,
+      "end": 214,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "स्मरण",
+      "sentence": 3,
+      "start": 227,
+      "end": 232,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "दासय्या",
+      "sentence": 4,
+      "start": 236,
+      "end": 242,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "भक्ती",
+      "sentence": 4,
+      "start": 255,
+      "end": 259,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "भाजप",
+      "sentence": 5,
+      "start": 272,
+      "end": 276,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "आमदार",
+      "sentence": 5,
+      "start": 279,
+      "end": 284,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "नंदकिशोर",
+      "sentence": 5,
+      "start": 285,
+      "end": 293,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "गुर्जर",
+      "sentence": 5,
+      "start": 294,
+      "end": 299,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "त्यांच्या",
+      "sentence": 5,
+      "start": 301,
+      "end": 307,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "हल्ला",
+      "sentence": 5,
+      "start": 316,
+      "end": 320,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "घटना",
+      "sentence": 5,
+      "start": 329,
+      "end": 333,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "पुण्या",
+      "sentence": 6,
+      "start": 357,
+      "end": 361,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "नोकरी",
+      "sentence": 6,
+      "start": 364,
+      "end": 368,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "उर्मटपणा",
+      "sentence": 6,
+      "start": 396,
+      "end": 403,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "उडदा",
+      "sentence": 7,
+      "start": 438,
+      "end": 443,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "मुले",
+      "sentence": 8,
+      "start": 468,
+      "end": 471,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "ती",
+      "sentence": 8,
+      "start": 474,
+      "end": 475,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "मुली",
+      "sentence": 8,
+      "start": 481,
+      "end": 484,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "त्यांना",
+      "sentence": 8,
+      "start": 499,
+      "end": 503,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "विद्यार्थी",
+      "sentence": 8,
+      "start": 521,
+      "end": 528,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "शाळा",
+      "sentence": 8,
+      "start": 542,
+      "end": 546,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "माझे",
+      "sentence": 9,
+      "start": 558,
+      "end": 562,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "मंदार",
+      "sentence": 9,
+      "start": 567,
+      "end": 571,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "शिस्ती",
+      "sentence": 9,
+      "start": 588,
+      "end": 592,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "सवलती",
+      "sentence": 10,
+      "start": 606,
+      "end": 611,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "विमान",
+      "sentence": 10,
+      "start": 621,
+      "end": 625,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "प्रवासा",
+      "sentence": 10,
+      "start": 626,
+      "end": 631,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "तिकीटा",
+      "sentence": 10,
+      "start": 634,
+      "end": 639,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "संस्था",
+      "sentence": 10,
+      "start": 648,
+      "end": 652,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "पैसे",
+      "sentence": 10,
+      "start": 659,
+      "end": 663,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "अपोलो",
+      "sentence": 11,
+      "start": 683,
+      "end": 688,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "देवते",
+      "sentence": 11,
+      "start": 692,
+      "end": 696,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "स्थान",
+      "sentence": 11,
+      "start": 706,
+      "end": 710,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "आपण",
+      "sentence": 12,
+      "start": 730,
+      "end": 734,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "त्यांच्या",
+      "sentence": 12,
+      "start": 735,
+      "end": 741,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "जीवन",
+      "sentence": 12,
+      "start": 742,
+      "end": 746,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "निरीक्षण",
+      "sentence": 12,
+      "start": 747,
+      "end": 753,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "वेळे",
+      "sentence": 13,
+      "start": 766,
+      "end": 770,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "बीटल्स",
+      "sentence": 13,
+      "start": 771,
+      "end": 776,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "बॅन्ड",
+      "sentence": 13,
+      "start": 780,
+      "end": 784,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "डायमंड्स",
+      "sentence": 13,
+      "start": 808,
+      "end": 815,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "गाण्या",
+      "sentence": 13,
+      "start": 820,
+      "end": 825,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "उद्विग्नता",
+      "sentence": 13,
+      "start": 835,
+      "end": 843,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "चिराग",
+      "sentence": 14,
+      "start": 876,
+      "end": 881,
+      "confidence": 1.0
+    },
+    {
+      "id": 61,
+      "text": "मणक्या",
+      "sentence": 14,
+      "start": 883,
+      "end": 888,
+      "confidence": 1.0
+    },
+    {
+      "id": 62,
+      "text": "भिती",
+      "sentence": 14,
+      "start": 890,
+      "end": 894,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      29,
+      30,
+      31
+    ],
+    [
+      40,
+      41
+    ],
+    [
+      44,
+      43
+    ],
+    [
+      48,
+      49
+    ]
+  ]
+}

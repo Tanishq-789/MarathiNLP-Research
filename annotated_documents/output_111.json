@@ -1,0 +1,469 @@
+{
+  "document_id": "document_111",
+  "sentences": [
+    "ऊर्जादायी पोष्यद्रव्ये – पिष्टमय पदार्थ, मेद",
+    "उद्धव ठाकरे हे सभ्य व्यक्ती असून त्यांची भाजप अध्यक्ष अमित शहा यांच्याशी तुलनाच होऊ शकत नाही असं सिंग यांनी म्हटलं आहे.",
+    "अकरावीच्या प्रवेशाची तिसरी गुणवत्ता यादी मंगळवारी सकाळी जाहीर करण्यात आली.",
+    "सरकारने या विशेष सत्रात स्वतःच कर्जमाफी जाहीर केली पाहिजे.",
+    "शिवसेनेच्या कार्यकर्त्यांनी भारत-पाक संयुक्त बँडची घोषणा करणारी पत्रकार परिषद मंगळवारी प्रेस क्लबमध्ये उधळून लावण्याचा प्रयत्न केला.",
+    "अण्णांनी नाकारली ‘झेड प्लस’ सुरक्षा",
+    "जर आपण सतत गॅझेट संवाद योजना, तो कायम कनेक्शन सेट करण्यासाठी सर्वोत्तम आहे.",
+    "स्टॉप मदतीने कार पूर्व निराकरण आणि प्रसार मोडून जा.",
+    "या गोरखधंद्याची गुप्त माहिती मिळाल्यानंतर उत्पादन शुल्क विभागाने तातडीनं कारवाई करत मुंबई, नवी मुंबई, ठाणे, रायगड आणि पालघर जिल्हयातील ५० वाईन शॉप्स सील केले आहेत.",
+    "8 वाळवंट, तो आहे, दोन वाशींडी आहे?",
+    "या जगात जे सिद्ध उदयास आले, अगदी हनुमंतापासून रामदासस्वामींपर्यंत सर्वांनी रामनाम धारण केले व त्याचे प्रत्यंतर पुढे कशात झाले हे आपण पाहतोच.",
+    "आरोपींनी बलात्काराचा व्हिडिओ तयार."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "पोष्यद्रव्ये",
+      "sentence": 0,
+      "start": 8,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "पदार्थ",
+      "sentence": 0,
+      "start": 29,
+      "end": 34,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "उद्धव",
+      "sentence": 1,
+      "start": 40,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "ठाकरे",
+      "sentence": 1,
+      "start": 46,
+      "end": 51,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "व्यक्ती",
+      "sentence": 1,
+      "start": 58,
+      "end": 62,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "त्यांची",
+      "sentence": 1,
+      "start": 69,
+      "end": 74,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "भाजप",
+      "sentence": 1,
+      "start": 76,
+      "end": 80,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "अमित",
+      "sentence": 1,
+      "start": 88,
+      "end": 91,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "सिंग",
+      "sentence": 1,
+      "start": 129,
+      "end": 132,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "प्रवेशाची",
+      "sentence": 2,
+      "start": 146,
+      "end": 153,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "गुणवत्ता",
+      "sentence": 2,
+      "start": 161,
+      "end": 167,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "यादी",
+      "sentence": 2,
+      "start": 169,
+      "end": 173,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "सरकारने",
+      "sentence": 3,
+      "start": 197,
+      "end": 203,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "सत्रात",
+      "sentence": 3,
+      "start": 212,
+      "end": 217,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "स्वतःच",
+      "sentence": 3,
+      "start": 219,
+      "end": 224,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "कर्जमाफी",
+      "sentence": 3,
+      "start": 226,
+      "end": 232,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "शिवसेनेच्या",
+      "sentence": 4,
+      "start": 249,
+      "end": 258,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "कार्यकर्त्यांनी",
+      "sentence": 4,
+      "start": 260,
+      "end": 269,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "भारत-पाक",
+      "sentence": 4,
+      "start": 271,
+      "end": 278,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "बँडची",
+      "sentence": 4,
+      "start": 286,
+      "end": 291,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "घोषणा",
+      "sentence": 4,
+      "start": 292,
+      "end": 296,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "पत्रकार",
+      "sentence": 4,
+      "start": 304,
+      "end": 309,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "परिषद",
+      "sentence": 4,
+      "start": 311,
+      "end": 315,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "क्लबमध्ये",
+      "sentence": 4,
+      "start": 330,
+      "end": 337,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "प्रयत्न",
+      "sentence": 4,
+      "start": 350,
+      "end": 355,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "अण्णांनी",
+      "sentence": 5,
+      "start": 358,
+      "end": 364,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "सुरक्षा",
+      "sentence": 5,
+      "start": 378,
+      "end": 383,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "आपण",
+      "sentence": 6,
+      "start": 387,
+      "end": 390,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "गॅझेट",
+      "sentence": 6,
+      "start": 396,
+      "end": 400,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "संवाद",
+      "sentence": 6,
+      "start": 402,
+      "end": 406,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "योजना",
+      "sentence": 6,
+      "start": 408,
+      "end": 412,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "तो",
+      "sentence": 6,
+      "start": 415,
+      "end": 417,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "कनेक्शन",
+      "sentence": 6,
+      "start": 423,
+      "end": 429,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "प्रसार",
+      "sentence": 7,
+      "start": 482,
+      "end": 487,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "गोरखधंद्याची",
+      "sentence": 8,
+      "start": 490,
+      "end": 500,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "माहिती",
+      "sentence": 8,
+      "start": 506,
+      "end": 510,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "उत्पादन",
+      "sentence": 8,
+      "start": 523,
+      "end": 528,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "शुल्क",
+      "sentence": 8,
+      "start": 530,
+      "end": 534,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "विभागाने",
+      "sentence": 8,
+      "start": 537,
+      "end": 543,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "मुंबई",
+      "sentence": 8,
+      "start": 567,
+      "end": 571,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "मुंबई",
+      "sentence": 8,
+      "start": 576,
+      "end": 580,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "शॉप्स",
+      "sentence": 8,
+      "start": 617,
+      "end": 621,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "वाळवंट",
+      "sentence": 9,
+      "start": 624,
+      "end": 629,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "तो",
+      "sentence": 9,
+      "start": 633,
+      "end": 635,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "वाशींडी",
+      "sentence": 9,
+      "start": 645,
+      "end": 650,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "जगात",
+      "sentence": 10,
+      "start": 653,
+      "end": 657,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "हनुमंतापासून",
+      "sentence": 10,
+      "start": 676,
+      "end": 685,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "रामदासस्वामींपर्यंत",
+      "sentence": 10,
+      "start": 687,
+      "end": 701,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "सर्वांनी",
+      "sentence": 10,
+      "start": 702,
+      "end": 708,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "रामनाम",
+      "sentence": 10,
+      "start": 710,
+      "end": 715,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "त्याचे",
+      "sentence": 10,
+      "start": 725,
+      "end": 729,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "आपण",
+      "sentence": 10,
+      "start": 747,
+      "end": 750,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "आरोपींनी",
+      "sentence": 11,
+      "start": 752,
+      "end": 759,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      4,
+      6
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      16,
+      18
+    ],
+    [
+      34,
+      35
+    ],
+    [
+      48,
+      49,
+      50,
+      51,
+      52
+    ]
+  ]
+}

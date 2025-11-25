@@ -1,0 +1,745 @@
+{
+  "document_id": "document_188",
+  "sentences": [
+    "(लोनली हर्ट्स) च्या लेखक म्हणून ओळखला जातो.",
+    "पवना धरणात पाण्याची पातळी कमी झाली आहे.",
+    "ईडीनं दिपक कोचरचा भाऊ राजीव कोचरकडून या प्रकरणी बऱ्याचंदा चौकशी देखील केली आहे.",
+    "लोकलच्या ट्रॅकशेजारी काठी मारुन मोबाईल चोरण्याच्या प्रकारामुळे एका तरुणीचं आयुष्य उद्धवस्त झालंय.",
+    "मोबाईल चोरामुळे कल्याणच्या 23 वर्षीय द्रविता सिंगला आपला एक पाय आणि हाताची काही बोटं गमवावी लागली आहेत.",
+    "द्रविता नेहमीप्रमाणे बुधवारी सकाळी लोकलने सीएसएमटीच्या दिशेनं जात होती.",
+    "त्यावेळी फोनवर बोलण्याकरता ती लोकलच्या दरवाजावर गेली, तेव्हा तिच्या डोक्यावर बांबूचा जोरदार फटका बसला.",
+    "लोकलमधून ट्रॅकवर पडलेल्या द्रविताचा मोबाईल घेऊन चोर पसार झाला.",
+    "मात्र दुर्दैवी द्रविताला दुसऱ्या बाजूने येणाऱ्या लोकलची धडक बसली.",
+    "रोग्याच्या आजाराबद्दल डॉक्‍टरांना काही शंका असल्यास दुसऱ्या डॉक्‍टरांचा सल्ला (सेकंड ओपिनियन) घेणे आवश्‍यक असते, यात डॉक्‍टरांनी कुठल्याही प्रकारचा कमीपणा वाटून घेण्याची गरज नाही.",
+    "रुग्णाला रुग्णालयात ठेवलेले असल्यास रुग्णाने रुग्णालयाने दिलेले अन्नच दिलेल्या वेळीच खायला हवे असा रुग्णालयाचा एखादा नियम रुग्णाला गैरसोयीचा असू शकतो.",
+    "परंतु रुग्णासाठी पथ्याचे जेवण घरून आणले असले तर ते खाऊ देण्याची परवानगी मिळवून देण्यात कुटुंबाच्या फॅमिली डॉक्‍टरची मदत होणे अपेक्षित असते.",
+    "रुग्णाची पैशांची व्यवस्था होत नसली तर त्यासाठीही रुग्णालयाने अडून राहण्याची गरज नसावी, रुग्णाला बरे करणे हे सगळ्यात महत्त्वाचे ठरावे.",
+    "तापमानवाढ poncho आहे फोटो मध्ये दर्शविल्याप्रमाणे, मान प्रदान केली जाऊ शकते.",
+    "साहित्य संमेलनाच्या अध्यक्षपदी निवडणुन आल्याबद्दल देशमुख यांना साहित्यक्षेत्रातून आणि साहित्यप्रेमींकडून अभिनंदन होत आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "लेखक",
+      "sentence": 0,
+      "start": 18,
+      "end": 22,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "पवना",
+      "sentence": 1,
+      "start": 28,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "धरणा",
+      "sentence": 1,
+      "start": 33,
+      "end": 36,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "पाणी",
+      "sentence": 1,
+      "start": 39,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "पातळी",
+      "sentence": 1,
+      "start": 46,
+      "end": 49,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "दिपक",
+      "sentence": 2,
+      "start": 67,
+      "end": 70,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "कोचर",
+      "sentence": 2,
+      "start": 72,
+      "end": 75,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "राजीव",
+      "sentence": 2,
+      "start": 82,
+      "end": 85,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "कोचर",
+      "sentence": 2,
+      "start": 87,
+      "end": 90,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "प्रकरण",
+      "sentence": 2,
+      "start": 96,
+      "end": 99,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "चौकशी",
+      "sentence": 2,
+      "start": 109,
+      "end": 114,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "लोकल",
+      "sentence": 3,
+      "start": 122,
+      "end": 126,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "ट्रॅक",
+      "sentence": 3,
+      "start": 129,
+      "end": 132,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "काठी",
+      "sentence": 3,
+      "start": 138,
+      "end": 141,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "मोबाईल",
+      "sentence": 3,
+      "start": 149,
+      "end": 153,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "प्रकार",
+      "sentence": 3,
+      "start": 159,
+      "end": 162,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "तरुणी",
+      "sentence": 3,
+      "start": 170,
+      "end": 173,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "आयुष्य",
+      "sentence": 3,
+      "start": 177,
+      "end": 181,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "मोबाईल",
+      "sentence": 4,
+      "start": 189,
+      "end": 193,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "वर्षीय",
+      "sentence": 4,
+      "start": 213,
+      "end": 216,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "द्रविता",
+      "sentence": 4,
+      "start": 218,
+      "end": 222,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "सिंग",
+      "sentence": 4,
+      "start": 224,
+      "end": 227,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "आपला",
+      "sentence": 4,
+      "start": 230,
+      "end": 233,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "बोटं",
+      "sentence": 4,
+      "start": 252,
+      "end": 255,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "द्रविता",
+      "sentence": 5,
+      "start": 268,
+      "end": 272,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "बुधवार",
+      "sentence": 5,
+      "start": 279,
+      "end": 283,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "लोकल",
+      "sentence": 5,
+      "start": 292,
+      "end": 296,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "सीएसएमटी",
+      "sentence": 5,
+      "start": 298,
+      "end": 304,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "दिशा",
+      "sentence": 5,
+      "start": 307,
+      "end": 309,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "ती",
+      "sentence": 6,
+      "start": 333,
+      "end": 334,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "लोकल",
+      "sentence": 6,
+      "start": 336,
+      "end": 340,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "दरवाजा",
+      "sentence": 6,
+      "start": 343,
+      "end": 347,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "तिच्या",
+      "sentence": 6,
+      "start": 356,
+      "end": 360,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "डोकं",
+      "sentence": 6,
+      "start": 362,
+      "end": 365,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "बांबू",
+      "sentence": 6,
+      "start": 369,
+      "end": 372,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "फटका",
+      "sentence": 6,
+      "start": 381,
+      "end": 384,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "लोकल",
+      "sentence": 7,
+      "start": 390,
+      "end": 394,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "ट्रॅक",
+      "sentence": 7,
+      "start": 398,
+      "end": 401,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "द्रविता",
+      "sentence": 7,
+      "start": 410,
+      "end": 414,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "मोबाईल",
+      "sentence": 7,
+      "start": 418,
+      "end": 422,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "द्रविता",
+      "sentence": 8,
+      "start": 441,
+      "end": 445,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "बाजू",
+      "sentence": 8,
+      "start": 454,
+      "end": 457,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "लोकल",
+      "sentence": 8,
+      "start": 465,
+      "end": 469,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "रोगी",
+      "sentence": 9,
+      "start": 484,
+      "end": 487,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "डॉक्‍टर",
+      "sentence": 9,
+      "start": 500,
+      "end": 505,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "शंका",
+      "sentence": 9,
+      "start": 511,
+      "end": 514,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "डॉक्‍टर",
+      "sentence": 9,
+      "start": 524,
+      "end": 529,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "सल्ला",
+      "sentence": 9,
+      "start": 533,
+      "end": 536,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "ओपिनियन",
+      "sentence": 9,
+      "start": 545,
+      "end": 550,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "डॉक्‍टर",
+      "sentence": 9,
+      "start": 567,
+      "end": 572,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "प्रकार",
+      "sentence": 9,
+      "start": 585,
+      "end": 588,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "कमीपणा",
+      "sentence": 9,
+      "start": 592,
+      "end": 597,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "रुग्ण",
+      "sentence": 10,
+      "start": 611,
+      "end": 614,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "रुग्णालय",
+      "sentence": 10,
+      "start": 617,
+      "end": 623,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "रुग्ण",
+      "sentence": 10,
+      "start": 635,
+      "end": 638,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "रुग्णालय",
+      "sentence": 10,
+      "start": 641,
+      "end": 647,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "अन्न",
+      "sentence": 10,
+      "start": 654,
+      "end": 656,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "रुग्णालय",
+      "sentence": 10,
+      "start": 680,
+      "end": 686,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "नियम",
+      "sentence": 10,
+      "start": 693,
+      "end": 695,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "रुग्ण",
+      "sentence": 10,
+      "start": 697,
+      "end": 700,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "रुग्ण",
+      "sentence": 11,
+      "start": 718,
+      "end": 721,
+      "confidence": 1.0
+    },
+    {
+      "id": 61,
+      "text": "पथ्य",
+      "sentence": 11,
+      "start": 726,
+      "end": 729,
+      "confidence": 1.0
+    },
+    {
+      "id": 62,
+      "text": "जेवण",
+      "sentence": 11,
+      "start": 733,
+      "end": 736,
+      "confidence": 1.0
+    },
+    {
+      "id": 63,
+      "text": "ते",
+      "sentence": 11,
+      "start": 749,
+      "end": 750,
+      "confidence": 1.0
+    },
+    {
+      "id": 64,
+      "text": "परवानगी",
+      "sentence": 11,
+      "start": 760,
+      "end": 765,
+      "confidence": 1.0
+    },
+    {
+      "id": 65,
+      "text": "कुटुंब",
+      "sentence": 11,
+      "start": 776,
+      "end": 780,
+      "confidence": 1.0
+    },
+    {
+      "id": 66,
+      "text": "डॉक्‍टर",
+      "sentence": 11,
+      "start": 789,
+      "end": 794,
+      "confidence": 1.0
+    },
+    {
+      "id": 67,
+      "text": "रुग्ण",
+      "sentence": 12,
+      "start": 813,
+      "end": 816,
+      "confidence": 1.0
+    },
+    {
+      "id": 68,
+      "text": "पैसा",
+      "sentence": 12,
+      "start": 820,
+      "end": 823,
+      "confidence": 1.0
+    },
+    {
+      "id": 69,
+      "text": "व्यवस्था",
+      "sentence": 12,
+      "start": 827,
+      "end": 831,
+      "confidence": 1.0
+    },
+    {
+      "id": 70,
+      "text": "रुग्णालय",
+      "sentence": 12,
+      "start": 846,
+      "end": 852,
+      "confidence": 1.0
+    },
+    {
+      "id": 71,
+      "text": "रुग्ण",
+      "sentence": 12,
+      "start": 868,
+      "end": 871,
+      "confidence": 1.0
+    },
+    {
+      "id": 72,
+      "text": "तापमानवाढ",
+      "sentence": 13,
+      "start": 887,
+      "end": 893,
+      "confidence": 1.0
+    },
+    {
+      "id": 73,
+      "text": "poncho",
+      "sentence": 13,
+      "start": 895,
+      "end": 900,
+      "confidence": 1.0
+    },
+    {
+      "id": 74,
+      "text": "फोटो",
+      "sentence": 13,
+      "start": 905,
+      "end": 908,
+      "confidence": 1.0
+    },
+    {
+      "id": 75,
+      "text": "साहित्य",
+      "sentence": 14,
+      "start": 941,
+      "end": 945,
+      "confidence": 1.0
+    },
+    {
+      "id": 76,
+      "text": "संमेलन",
+      "sentence": 14,
+      "start": 947,
+      "end": 952,
+      "confidence": 1.0
+    },
+    {
+      "id": 77,
+      "text": "देशमुख",
+      "sentence": 14,
+      "start": 971,
+      "end": 975,
+      "confidence": 1.0
+    },
+    {
+      "id": 78,
+      "text": "यांना",
+      "sentence": 14,
+      "start": 977,
+      "end": 980,
+      "confidence": 1.0
+    },
+    {
+      "id": 79,
+      "text": "साहित्यक्षेत्र",
+      "sentence": 14,
+      "start": 982,
+      "end": 990,
+      "confidence": 1.0
+    },
+    {
+      "id": 80,
+      "text": "साहित्यप्रेमी",
+      "sentence": 14,
+      "start": 997,
+      "end": 1006,
+      "confidence": 1.0
+    },
+    {
+      "id": 81,
+      "text": "अभिनंदन",
+      "sentence": 14,
+      "start": 1011,
+      "end": 1015,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      24,
+      25,
+      26,
+      30,
+      37,
+      40,
+      46,
+      49,
+      18
+    ],
+    [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      13,
+      33,
+      38,
+      44,
+      51
+    ],
+    [
+      16,
+      20,
+      47
+    ],
+    [
+      21,
+      48
+    ],
+    [
+      14,
+      45
+    ],
+    [
+      55,
+      57,
+      62
+    ],
+    [
+      53,
+      66,
+      68,
+      74,
+      75
+    ],
+    [
+      67,
+      69,
+      72
+    ],
+    [
+      77,
+      78
+    ],
+    [
+      58,
+      59,
+      60,
+      61
+    ]
+  ]
+}

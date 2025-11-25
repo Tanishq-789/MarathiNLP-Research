@@ -1,0 +1,339 @@
+{
+  "document_id": "document_151",
+  "sentences": [
+    "मेरी कॉमचा ‘सुवर्ण पंच’, आशियाई बॉक्सिंग स्पर्धेवर विजयाची मोहोर",
+    "वणव्यामुळे जळालेला परिसर",
+    "तेव्हा डिझेल 32 पैसे आणि पेट्रोल 42 पैशांनी कमी झालं आहे.",
+    "भारताला स्वातंत्र्य मिळाल्यानंतर १४ ऑगस्टच्या मध्यरात्री देशभर भव्य समारोह आयोजित केले गेले होते त्याच धर्तीवर देशात १ जुलैपासून लागू होत असलेल्या जीएसटी साठीही संसद भवनात मध्यरात्री भव्य समारोह आयेाजित करण्याची योजना आखली जात असल्याचे समजते.",
+    "तिनंच चाल लावलेली.",
+    "आसाम मधली आजपासून कर्फ्यू मागे तर इंटरनेट सेवा सुरू",
+    "आताही काँग्रेस पक्ष नंबर वनच…",
+    "शिक्षणासारख्या पवित्र क्षेत्रातही अश्‍लील गोष्टींनी प्रवेश केला आहे.",
+    "येथे राजेशाही पदार्थांमधील पदार्थ आहेत:",
+    "या संपूर्ण मालिकेत अष्टपैलू कामगिरी करणारा के."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मेरी",
+      "sentence": 0,
+      "start": 0,
+      "end": 4,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "बॉक्सिंग",
+      "sentence": 0,
+      "start": 28,
+      "end": 35,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "विजयाची",
+      "sentence": 0,
+      "start": 44,
+      "end": 50,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मोहोर",
+      "sentence": 0,
+      "start": 51,
+      "end": 56,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "वणव्यामुळे",
+      "sentence": 1,
+      "start": 57,
+      "end": 66,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "परिसर",
+      "sentence": 1,
+      "start": 74,
+      "end": 79,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "डिझेल",
+      "sentence": 2,
+      "start": 86,
+      "end": 91,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "पैसे",
+      "sentence": 2,
+      "start": 95,
+      "end": 98,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "पेट्रोल",
+      "sentence": 2,
+      "start": 106,
+      "end": 112,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "पैशांनी",
+      "sentence": 2,
+      "start": 116,
+      "end": 122,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "भारताला",
+      "sentence": 3,
+      "start": 148,
+      "end": 155,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "स्वातंत्र्य",
+      "sentence": 3,
+      "start": 157,
+      "end": 165,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "मध्यरात्री",
+      "sentence": 3,
+      "start": 183,
+      "end": 193,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "देशभर",
+      "sentence": 3,
+      "start": 193,
+      "end": 198,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "समारोह",
+      "sentence": 3,
+      "start": 203,
+      "end": 209,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "धर्तीवर",
+      "sentence": 3,
+      "start": 221,
+      "end": 227,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "देशात",
+      "sentence": 3,
+      "start": 229,
+      "end": 234,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "जुलैपासून",
+      "sentence": 3,
+      "start": 238,
+      "end": 246,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "जीएसटी",
+      "sentence": 3,
+      "start": 263,
+      "end": 268,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "संसद",
+      "sentence": 3,
+      "start": 278,
+      "end": 282,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "भवनात",
+      "sentence": 3,
+      "start": 283,
+      "end": 288,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "मध्यरात्री",
+      "sentence": 3,
+      "start": 290,
+      "end": 300,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "समारोह",
+      "sentence": 3,
+      "start": 305,
+      "end": 311,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "योजना",
+      "sentence": 3,
+      "start": 326,
+      "end": 331,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "आसाम",
+      "sentence": 5,
+      "start": 357,
+      "end": 361,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "कर्फ्यू",
+      "sentence": 5,
+      "start": 372,
+      "end": 377,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "इंटरनेट",
+      "sentence": 5,
+      "start": 386,
+      "end": 392,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "सेवा",
+      "sentence": 5,
+      "start": 393,
+      "end": 396,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "काँग्रेस",
+      "sentence": 6,
+      "start": 410,
+      "end": 416,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "पक्ष",
+      "sentence": 6,
+      "start": 417,
+      "end": 420,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "नंबर",
+      "sentence": 6,
+      "start": 421,
+      "end": 425,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "क्षेत्रातही",
+      "sentence": 7,
+      "start": 454,
+      "end": 463,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "गोष्टींनी",
+      "sentence": 7,
+      "start": 469,
+      "end": 477,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "प्रवेश",
+      "sentence": 7,
+      "start": 481,
+      "end": 486,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "राजेशाही",
+      "sentence": 8,
+      "start": 500,
+      "end": 507,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "पदार्थ",
+      "sentence": 8,
+      "start": 520,
+      "end": 526,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "मालिकेत",
+      "sentence": 9,
+      "start": 543,
+      "end": 549,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "कामगिरी",
+      "sentence": 9,
+      "start": 555,
+      "end": 561,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ],
+    [
+      16,
+      25
+    ],
+    [
+      17,
+      20
+    ],
+    [
+      18,
+      26
+    ]
+  ]
+}

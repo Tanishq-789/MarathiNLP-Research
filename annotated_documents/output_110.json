@@ -1,0 +1,306 @@
+{
+  "document_id": "document_110",
+  "sentences": [
+    "बुधवार, 23 ऑक्टोबर 2019",
+    "“हऱया, टेलिव्हिजनचा शोध लुई पाश्चरने नाही लावला.",
+    "आटपाडीमध्ये रक्तपेढीची नितांत गरज असून ती पुर्ण करण्यासाठी ग्रामीण रूग्णालयात पद निर्माण करून रक्तपेढी सुरू करावी, अशी मागणी करत डॉक्टरांनी रक्ताअभावी होणारी गैरसोय आमदारांकडे विषद केली.",
+    "त्यांनी नेतृत्व गुण विकसित केले आहेत, आणि सामुटाचे नाव जाणून घेतल्याशिवाय सामूहिकरित्या त्यांना इतर मुलांद्वारे ओळखले जाते.",
+    "चंद्रकांत पाटील यांच्या अतिशयोक्तिपूर्ण वक्तव्यांची चर्चा- स्वत:च्याच जिल्ह्यात युतीला झटका",
+    "मोबाईल पेमेंटच्या माध्यमातून बँकिंग क्षेत्रात उतरलेली ‘पेटीएम’ नेट बँकिंग, ऑनलाइन पेमेंटनंतर आता एटीएमची सुविधा घेऊन येणार आहे.",
+    "आपण साइन वाटत असेल तर, नंतर हे मनुष्याच्या जीवनात खूप रोमँटिक आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "हऱया",
+      "sentence": 1,
+      "start": 23,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "पाश्चरने",
+      "sentence": 1,
+      "start": 49,
+      "end": 55,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "आटपाडीमध्ये",
+      "sentence": 2,
+      "start": 65,
+      "end": 75,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "रक्तपेढीची",
+      "sentence": 2,
+      "start": 76,
+      "end": 83,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "ती",
+      "sentence": 2,
+      "start": 98,
+      "end": 99,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "रूग्णालयात",
+      "sentence": 2,
+      "start": 115,
+      "end": 123,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "रक्तपेढी",
+      "sentence": 2,
+      "start": 139,
+      "end": 145,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "मागणी",
+      "sentence": 2,
+      "start": 156,
+      "end": 160,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "डॉक्टरांनी",
+      "sentence": 2,
+      "start": 169,
+      "end": 176,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "गैरसोय",
+      "sentence": 2,
+      "start": 192,
+      "end": 197,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "आमदारांकडे",
+      "sentence": 2,
+      "start": 198,
+      "end": 205,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "त्यांनी",
+      "sentence": 3,
+      "start": 215,
+      "end": 220,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "नेतृत्व",
+      "sentence": 3,
+      "start": 221,
+      "end": 226,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "सामुटाचे",
+      "sentence": 3,
+      "start": 252,
+      "end": 259,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "त्यांना",
+      "sentence": 3,
+      "start": 289,
+      "end": 293,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "मुलांद्वारे",
+      "sentence": 3,
+      "start": 300,
+      "end": 308,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "चंद्रकांत",
+      "sentence": 4,
+      "start": 321,
+      "end": 328,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "पाटील",
+      "sentence": 4,
+      "start": 329,
+      "end": 333,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "वक्तव्यांची",
+      "sentence": 4,
+      "start": 347,
+      "end": 354,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "चर्चा",
+      "sentence": 4,
+      "start": 355,
+      "end": 358,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "जिल्ह्यात",
+      "sentence": 4,
+      "start": 372,
+      "end": 378,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "युतीला",
+      "sentence": 4,
+      "start": 379,
+      "end": 383,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "झटका",
+      "sentence": 4,
+      "start": 384,
+      "end": 387,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "मोबाईल",
+      "sentence": 5,
+      "start": 389,
+      "end": 395,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "माध्यमातून",
+      "sentence": 5,
+      "start": 404,
+      "end": 411,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "बँकिंग",
+      "sentence": 5,
+      "start": 412,
+      "end": 417,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "क्षेत्रात",
+      "sentence": 5,
+      "start": 418,
+      "end": 423,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "पेटीएम",
+      "sentence": 5,
+      "start": 437,
+      "end": 442,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "बँकिंग",
+      "sentence": 5,
+      "start": 447,
+      "end": 452,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "पेमेंटनंतर",
+      "sentence": 5,
+      "start": 461,
+      "end": 469,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "एटीएमची",
+      "sentence": 5,
+      "start": 475,
+      "end": 481,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "सुविधा",
+      "sentence": 5,
+      "start": 482,
+      "end": 486,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "आपण",
+      "sentence": 6,
+      "start": 500,
+      "end": 503,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "मनुष्याच्या",
+      "sentence": 6,
+      "start": 524,
+      "end": 532,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "जीवनात",
+      "sentence": 6,
+      "start": 533,
+      "end": 538,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      4,
+      5,
+      8
+    ],
+    [
+      10,
+      13,
+      18
+    ]
+  ]
+}
