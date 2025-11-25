@@ -1,0 +1,437 @@
+{
+  "document_id": "document_88",
+  "sentences": [
+    "म्हणून भाजपा प्रवेशाचा निर्णय घेतला- नितेश राणे",
+    "आपल्याला भारततूनMettmachमधील एखाद्या व्यक्तीला कॉल करताना दूरध्वनी क्रमांकाआधी +43 7755 लावावा लागतो, त्याला पर्याय म्हणून आपण 0043 7755 वापरू शकता.",
+    "वाणिज्य आणि कला क्षेत्रातून गॅज्युएशन झालेल्या विद्यार्थ्यांसाठी ही परिक्षा आयोजित करण्यात आली होती.",
+    "तो वनडेमध्ये सर्वाधिक वेळा 150 किंवा त्यापेक्षा अधिक धावा करणारा तिसऱ्या क्रमांकाचा भारतीय फलंदाज ठरला आहे.",
+    "या यादीत अव्वल क्रमांकावर रोहित शर्मा आहे.",
+    "रोहितने 6 वेळा असा कारनामा केला आहे.",
+    "यातील तीन वेळा तर त्याने द्विशतके केली आहेत.",
+    "मुंबई, मंगळवार (विशेष प्रतिनिधी) – खरीप हंगाम 2018 साठी पंतप्रधान पीक विमा योजना राबविण्यात येत असून या योजनेसाठी कर्जदार व बिगर कर्जदार शेतकर्‍यांनी विमा प्रस्ताव सादर करण्यास 31 जुलैपर्यंतची मुदतवाढ देण्यात येणार आहे.",
+    "नव्या हक्‍कांसाठी लढे देण्याची प्रेरणा, सौदीमधील व इतर देशातीलही स्त्रियांना मिळू शकेल.",
+    "त्यासाठीच फडणवीस गुप्तता पाळत."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "भाजपा",
+      "sentence": 0,
+      "start": 7,
+      "end": 11,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "निर्णय",
+      "sentence": 0,
+      "start": 21,
+      "end": 25,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "नितेश",
+      "sentence": 0,
+      "start": 33,
+      "end": 37,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "राणे",
+      "sentence": 0,
+      "start": 38,
+      "end": 41,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "आपल्याला",
+      "sentence": 1,
+      "start": 43,
+      "end": 50,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "व्यक्तीला",
+      "sentence": 1,
+      "start": 73,
+      "end": 80,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "दूरध्वनी",
+      "sentence": 1,
+      "start": 91,
+      "end": 97,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "त्याला",
+      "sentence": 1,
+      "start": 121,
+      "end": 125,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "पर्याय",
+      "sentence": 1,
+      "start": 126,
+      "end": 130,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "आपण",
+      "sentence": 1,
+      "start": 143,
+      "end": 146,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "वाणिज्य",
+      "sentence": 2,
+      "start": 152,
+      "end": 157,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "क्षेत्रातून",
+      "sentence": 2,
+      "start": 165,
+      "end": 173,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "गॅज्युएशन",
+      "sentence": 2,
+      "start": 174,
+      "end": 181,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "विद्यार्थ्यांसाठी",
+      "sentence": 2,
+      "start": 191,
+      "end": 202,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "परिक्षा",
+      "sentence": 2,
+      "start": 206,
+      "end": 211,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "तो",
+      "sentence": 3,
+      "start": 239,
+      "end": 240,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "वनडेमध्ये",
+      "sentence": 3,
+      "start": 242,
+      "end": 249,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "वेळा",
+      "sentence": 3,
+      "start": 259,
+      "end": 262,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "धावा",
+      "sentence": 3,
+      "start": 276,
+      "end": 279,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "क्रमांकाचा",
+      "sentence": 3,
+      "start": 296,
+      "end": 304,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "फलंदाज",
+      "sentence": 3,
+      "start": 311,
+      "end": 316,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "यादीत",
+      "sentence": 4,
+      "start": 320,
+      "end": 324,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "शर्मा",
+      "sentence": 4,
+      "start": 346,
+      "end": 350,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "रोहितने",
+      "sentence": 5,
+      "start": 357,
+      "end": 362,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "वेळा",
+      "sentence": 5,
+      "start": 365,
+      "end": 368,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "कारनामा",
+      "sentence": 5,
+      "start": 372,
+      "end": 377,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "वेळा",
+      "sentence": 6,
+      "start": 393,
+      "end": 396,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "त्याने",
+      "sentence": 6,
+      "start": 400,
+      "end": 404,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "द्विशतके",
+      "sentence": 6,
+      "start": 405,
+      "end": 411,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "मुंबई",
+      "sentence": 7,
+      "start": 419,
+      "end": 423,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "मंगळवार",
+      "sentence": 7,
+      "start": 426,
+      "end": 432,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "खरीप",
+      "sentence": 7,
+      "start": 452,
+      "end": 456,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "हंगाम",
+      "sentence": 7,
+      "start": 457,
+      "end": 461,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "पंतप्रधान",
+      "sentence": 7,
+      "start": 467,
+      "end": 474,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "विमा",
+      "sentence": 7,
+      "start": 478,
+      "end": 481,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "योजना",
+      "sentence": 7,
+      "start": 482,
+      "end": 486,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "योजनेसाठी",
+      "sentence": 7,
+      "start": 498,
+      "end": 505,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "कर्जदार",
+      "sentence": 7,
+      "start": 506,
+      "end": 511,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "शेतकर्‍यांनी",
+      "sentence": 7,
+      "start": 518,
+      "end": 526,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "विमा",
+      "sentence": 7,
+      "start": 527,
+      "end": 530,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "प्रस्ताव",
+      "sentence": 7,
+      "start": 531,
+      "end": 536,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "मुदतवाढ",
+      "sentence": 7,
+      "start": 550,
+      "end": 555,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "हक्‍कांसाठी",
+      "sentence": 8,
+      "start": 573,
+      "end": 581,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "प्रेरणा",
+      "sentence": 8,
+      "start": 593,
+      "end": 597,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "देशातीलही",
+      "sentence": 8,
+      "start": 614,
+      "end": 621,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "स्त्रियांना",
+      "sentence": 8,
+      "start": 622,
+      "end": 629,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "फडणवीस",
+      "sentence": 9,
+      "start": 646,
+      "end": 652,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "गुप्तता",
+      "sentence": 9,
+      "start": 653,
+      "end": 658,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      2,
+      3
+    ],
+    [
+      4,
+      10
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      17,
+      22,
+      23,
+      26,
+      27,
+      28,
+      33
+    ],
+    [
+      29,
+      31,
+      32
+    ],
+    [
+      42,
+      47
+    ],
+    [
+      43,
+      44
+    ]
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "document_id": "document_97",
+  "sentences": [
+    "डब्ल्यू. शेख, शाखा अभियंता पाटबंधारे विभाग तेलगांव",
+    "मी दोन भागात विभागला.",
+    "डॅनियल डिसोझा म्हणाले की, सरकार कुळ मुंडकारावर अन्याय करत असून अनेक खटले मामलेदार कार्यालयात प्रलंबीत आहेत.",
+    "सरकारच्या विरोधात आवाज उठविण्याचा प्रयत्न केल्यास दाबले जाते.",
+    "मोर्चे नेल्यास मारहाण केली जाते.",
+    "जे प्रश्‍न चर्चेतून सुटू शकतात ते मारून सुटत नाहीत.",
+    "त्यामुळे येणार्‍या लोकसभा निवडणुकीत सरकारला जनता योग्य तो धडा शिकवेल.",
+    "पुण्यात राज ठाकरेंच्या सभेसाठी मैदानेच नाहीत",
+    "रॉडनी त्याचे जीवन गोड नाही.",
+    "नुकतंच या चित्रपटाचं ऑफिशल पोस्टर प्रदर्शित करण्यात आलं आहे.",
+    "म्हणजे, लोखंड, टायटॅनियम, मॅंगनीज, निकेल, तांबे, मॉलिब्डेनम, बोरॉन, सोडियम, पोटॅशियम, कॅल्शियम, अल्कली धातुतत्व, इ एकच वनस्पती साठी microelements प्रभावी सामग्री फार मोठे आहे आहे ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "डब्ल्यू",
+      "sentence": 0,
+      "start": 0,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "शेख",
+      "sentence": 0,
+      "start": 8,
+      "end": 12,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "अभियंता",
+      "sentence": 0,
+      "start": 19,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "पाटबंधारे",
+      "sentence": 0,
+      "start": 27,
+      "end": 36,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "विभाग",
+      "sentence": 0,
+      "start": 37,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "तेलगांव",
+      "sentence": 0,
+      "start": 43,
+      "end": 49,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "मी",
+      "sentence": 1,
+      "start": 52,
+      "end": 54,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "डॅनियल",
+      "sentence": 2,
+      "start": 75,
+      "end": 81,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "सरकार",
+      "sentence": 2,
+      "start": 100,
+      "end": 105,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मुंडकारावर",
+      "sentence": 2,
+      "start": 110,
+      "end": 120,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "अन्याय",
+      "sentence": 2,
+      "start": 121,
+      "end": 126,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "खटले",
+      "sentence": 2,
+      "start": 141,
+      "end": 145,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "मामलेदार",
+      "sentence": 2,
+      "start": 146,
+      "end": 154,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "कार्यालयात",
+      "sentence": 2,
+      "start": 155,
+      "end": 165,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "आवाज",
+      "sentence": 3,
+      "start": 196,
+      "end": 200,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "प्रयत्न",
+      "sentence": 3,
+      "start": 211,
+      "end": 216,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "मारहाण",
+      "sentence": 4,
+      "start": 251,
+      "end": 257,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "प्रश्‍न",
+      "sentence": 5,
+      "start": 274,
+      "end": 279,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "चर्चेतून",
+      "sentence": 5,
+      "start": 280,
+      "end": 287,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "ते",
+      "sentence": 5,
+      "start": 298,
+      "end": 300,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "सरकारला",
+      "sentence": 6,
+      "start": 346,
+      "end": 353,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "जनता",
+      "sentence": 6,
+      "start": 354,
+      "end": 358,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "ठाकरेंच्या",
+      "sentence": 7,
+      "start": 398,
+      "end": 407,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "सभेसाठी",
+      "sentence": 7,
+      "start": 408,
+      "end": 415,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "त्याचे",
+      "sentence": 8,
+      "start": 435,
+      "end": 440,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "जीवन",
+      "sentence": 8,
+      "start": 441,
+      "end": 445,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "पोस्टर",
+      "sentence": 9,
+      "start": 483,
+      "end": 489,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "लोखंड",
+      "sentence": 10,
+      "start": 528,
+      "end": 533,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "टायटॅनियम",
+      "sentence": 10,
+      "start": 535,
+      "end": 544,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "तांबे",
+      "sentence": 10,
+      "start": 562,
+      "end": 567,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "मॉलिब्डेनम",
+      "sentence": 10,
+      "start": 569,
+      "end": 578,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "बोरॉन",
+      "sentence": 10,
+      "start": 580,
+      "end": 585,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "सोडियम",
+      "sentence": 10,
+      "start": 587,
+      "end": 593,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "पोटॅशियम",
+      "sentence": 10,
+      "start": 595,
+      "end": 603,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "कॅल्शियम",
+      "sentence": 10,
+      "start": 605,
+      "end": 612,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "अल्कली",
+      "sentence": 10,
+      "start": 614,
+      "end": 620,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "धातुतत्व",
+      "sentence": 10,
+      "start": 621,
+      "end": 629,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "वनस्पती",
+      "sentence": 10,
+      "start": 636,
+      "end": 643,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "microelements",
+      "sentence": 10,
+      "start": 649,
+      "end": 662,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "सामग्री",
+      "sentence": 10,
+      "start": 670,
+      "end": 676,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      10,
+      17,
+      28
+    ],
+    [
+      23,
+      25
+    ],
+    [
+      32,
+      33
+    ],
+    [
+      36,
+      37
+    ]
+  ]
+}

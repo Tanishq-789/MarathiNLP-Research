@@ -1,0 +1,513 @@
+{
+  "document_id": "document_61",
+  "sentences": [
+    "करीनाकडे पुन्हा “गुड न्यूज’",
+    "राष्ट्रीय उद्यान एक ट्रिप.",
+    "'आरक्षण गेलं खड्डयात', मराठा विद्यार्थ्याच्या आत्महत्येनंतर संभाजीराजेंची संतप्त प्रतिक्रियापुणे – उस्मानाबाद येथील देवळाली गावातील मराठा समाजातील विद्यार्थी अक्षय शहाजी देवकर याने ९४% गुण मिळून सुध्दा चांगल्या महाविद्यालयात प्रवेश न मिळाल्याने आत्महत्या केल्याची घटना समोर आली आहे.",
+    "रावल मते, गर्भधारणेच्या पहिल्या किंवा दुसऱ्या तिमाहीत लोखंड मार्कर उच्च पातळी गर्भवतींना मधुमेह विकास धोका आहे.",
+    "मानापमान, निंदा-स्तुती, सुख-दुःख यात  तो सारखाच अविचल असतो.",
+    "क्रिकेटमधील सर्वोत्कृष्ट योगदानाबद्दल माजी यष्टीरक्षक, फलंदाज फारूख इंजिनीअर यांना जीवनगौरव पुरस्काराने सन्मानित करण्यात आले.",
+    "जोक्स अपार्ट, मागं एकदा एका लोकल 'महाराष्ट्रा मंडल' मध्ये मंत्रपुष्पांजलीचे धिंडवडे काढलेले ऐकवले/बघवले नाहीत.",
+    "पूर्ण केक पर्याय नंबर, कापूस कसे तयार महान म्हणून पर्याय सिंहाचा संख्या आहे.",
+    "ही त्यामागची भूमिका होती.",
+    "ही राजकीय बनवाबनवी आहे.",
+    "त्यांच्या कन्या आणि राज्याच्या ज्येष्ठ मंत्री पंकजा मुंडे यांना मात्र भगवान गडावर शक्तिप्रदर्शन करावे, असे का वाटले.",
+    "मराठीच्या ज्ञात अशा ४२ बोली आहेत.",
+    "ही कादंबरी या वाङ्‌मयप्रकाराची जमेची बाजू म्हणायला हवी.",
+    "नाही का?"
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "करीनाकडे",
+      "sentence": 0,
+      "start": 0,
+      "end": 8,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "न्यूज",
+      "sentence": 0,
+      "start": 16,
+      "end": 20,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "उद्यान",
+      "sentence": 1,
+      "start": 32,
+      "end": 37,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "ट्रिप",
+      "sentence": 1,
+      "start": 40,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "आरक्षण",
+      "sentence": 2,
+      "start": 46,
+      "end": 52,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "खड्डयात",
+      "sentence": 2,
+      "start": 57,
+      "end": 64,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "प्रतिक्रिया",
+      "sentence": 2,
+      "start": 118,
+      "end": 127,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "देवळाली",
+      "sentence": 2,
+      "start": 147,
+      "end": 154,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "गावातील",
+      "sentence": 2,
+      "start": 155,
+      "end": 162,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मराठा",
+      "sentence": 2,
+      "start": 163,
+      "end": 168,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "विद्यार्थी",
+      "sentence": 2,
+      "start": 178,
+      "end": 186,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "अक्षय",
+      "sentence": 2,
+      "start": 187,
+      "end": 192,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "शहाजी",
+      "sentence": 2,
+      "start": 193,
+      "end": 199,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "देवकर",
+      "sentence": 2,
+      "start": 200,
+      "end": 205,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "याने",
+      "sentence": 2,
+      "start": 206,
+      "end": 210,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "महाविद्यालयात",
+      "sentence": 2,
+      "start": 235,
+      "end": 248,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "प्रवेश",
+      "sentence": 2,
+      "start": 249,
+      "end": 255,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "आत्महत्या",
+      "sentence": 2,
+      "start": 272,
+      "end": 281,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "घटना",
+      "sentence": 2,
+      "start": 288,
+      "end": 292,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "लोखंड",
+      "sentence": 3,
+      "start": 345,
+      "end": 350,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "मार्कर",
+      "sentence": 3,
+      "start": 352,
+      "end": 357,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "पातळी",
+      "sentence": 3,
+      "start": 363,
+      "end": 368,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "गर्भवतींना",
+      "sentence": 3,
+      "start": 370,
+      "end": 379,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "मधुमेह",
+      "sentence": 3,
+      "start": 380,
+      "end": 385,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "विकास",
+      "sentence": 3,
+      "start": 387,
+      "end": 392,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "धोका",
+      "sentence": 3,
+      "start": 394,
+      "end": 398,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "मानापमान",
+      "sentence": 4,
+      "start": 407,
+      "end": 415,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "निंदा-स्तुती",
+      "sentence": 4,
+      "start": 417,
+      "end": 428,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "सुख-दुःख",
+      "sentence": 4,
+      "start": 430,
+      "end": 438,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "तो",
+      "sentence": 4,
+      "start": 446,
+      "end": 448,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "क्रिकेटमधील",
+      "sentence": 5,
+      "start": 472,
+      "end": 483,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "योगदानाबद्दल",
+      "sentence": 5,
+      "start": 484,
+      "end": 496,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "यष्टीरक्षक",
+      "sentence": 5,
+      "start": 504,
+      "end": 514,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "फलंदाज",
+      "sentence": 5,
+      "start": 516,
+      "end": 522,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "इंजिनीअर",
+      "sentence": 5,
+      "start": 530,
+      "end": 538,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "यांना",
+      "sentence": 5,
+      "start": 539,
+      "end": 543,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "जीवनगौरव",
+      "sentence": 5,
+      "start": 548,
+      "end": 556,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "पुरस्काराने",
+      "sentence": 5,
+      "start": 557,
+      "end": 567,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "मंडल",
+      "sentence": 6,
+      "start": 626,
+      "end": 631,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "धिंडवडे",
+      "sentence": 6,
+      "start": 655,
+      "end": 662,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "पर्याय",
+      "sentence": 7,
+      "start": 707,
+      "end": 712,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "नंबर",
+      "sentence": 7,
+      "start": 714,
+      "end": 718,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "कापूस",
+      "sentence": 7,
+      "start": 721,
+      "end": 726,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "पर्याय",
+      "sentence": 7,
+      "start": 745,
+      "end": 750,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "संख्या",
+      "sentence": 7,
+      "start": 757,
+      "end": 762,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "भूमिका",
+      "sentence": 8,
+      "start": 788,
+      "end": 794,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "त्यांच्या",
+      "sentence": 10,
+      "start": 823,
+      "end": 831,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "कन्या",
+      "sentence": 10,
+      "start": 832,
+      "end": 837,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "मंत्री",
+      "sentence": 10,
+      "start": 859,
+      "end": 864,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "पंकजा",
+      "sentence": 10,
+      "start": 866,
+      "end": 871,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "मुंडे",
+      "sentence": 10,
+      "start": 873,
+      "end": 877,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "यांना",
+      "sentence": 10,
+      "start": 879,
+      "end": 883,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "गडावर",
+      "sentence": 10,
+      "start": 900,
+      "end": 905,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "शक्तिप्रदर्शन",
+      "sentence": 10,
+      "start": 907,
+      "end": 918,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "मराठीच्या",
+      "sentence": 11,
+      "start": 939,
+      "end": 948,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "कादंबरी",
+      "sentence": 12,
+      "start": 974,
+      "end": 981,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "वाङ्‌मयप्रकाराची",
+      "sentence": 12,
+      "start": 985,
+      "end": 1001,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "बाजू",
+      "sentence": 12,
+      "start": 1009,
+      "end": 1013,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      6,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    [
+      7,
+      24,
+      25
+    ],
+    [
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    [
+      36,
+      37,
+      38,
+      39
+    ]
+  ]
+}

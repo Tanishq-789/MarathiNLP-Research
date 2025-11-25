@@ -1,0 +1,307 @@
+{
+  "document_id": "document_18",
+  "sentences": [
+    "कार्ड, तसेच दिव्यांग महामंडळामार्फत रोजगारासाठी अर्थसहाय्य आदि योजना लागू करून वाळके परिवारास भरीव आर्थिक मदत करण्याचे निर्देश संबंधित विभागाच्या अधिकाऱ्यांना दिले आहेत.",
+    "सचिनने त्याच्या आगामी ‘सचिन  : अ बिलियन ड्रिम्स’या सिनेमानिमित्त ‘हवा येऊ द्या’च्या मंचावर धमाल मस्ती केली.",
+    "२००७मध्ये तिने ‘नॅशनल फिजिक कमिटी’ची ‘जॉन शेरमन क्लासिक बॉडीबिल्डिंग फिगर अॅण्ड फिटनेस चॅम्पियनशिप’ जिंकली.",
+    "तथापि, एक दीर्घ परंपरा आणि काम नीतिविषयक लोभ उद्ध्वस्त होते.",
+    "झाम्पाचा व्हिडियो व्हायरल, ऑस्ट्रेलियन संघ पुन्हा अडचणीत",
+    "कार्बनचा साठा मातीमध्ये आवश्यक आहे, पण आज तो वातावरणात आहे.",
+    "पुण्याच्या मुरुडकर झेंडेवाल्यांनी असे पोस्टर लावले आहेत.",
+    "मात्र सत्ताधा-यांनी या विरोधाला न जुमानता हा प्रस्ताव मंजूर केला.",
+    "यानंतर एम."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "कार्ड",
+      "sentence": 0,
+      "start": 0,
+      "end": 4,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "महामंडळामार्फत",
+      "sentence": 0,
+      "start": 17,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "रोजगारासाठी",
+      "sentence": 0,
+      "start": 33,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "अर्थसहाय्य",
+      "sentence": 0,
+      "start": 44,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "योजना",
+      "sentence": 0,
+      "start": 58,
+      "end": 63,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "वाळके",
+      "sentence": 0,
+      "start": 73,
+      "end": 78,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "परिवारास",
+      "sentence": 0,
+      "start": 79,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "निर्देश",
+      "sentence": 0,
+      "start": 108,
+      "end": 114,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "विभागाच्या",
+      "sentence": 0,
+      "start": 122,
+      "end": 131,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "अधिकाऱ्यांना",
+      "sentence": 0,
+      "start": 132,
+      "end": 141,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "सचिनने",
+      "sentence": 1,
+      "start": 152,
+      "end": 158,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "त्याच्या",
+      "sentence": 1,
+      "start": 159,
+      "end": 165,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "सचिन",
+      "sentence": 1,
+      "start": 176,
+      "end": 180,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "सिनेमानिमित्त",
+      "sentence": 1,
+      "start": 208,
+      "end": 221,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "मंचावर",
+      "sentence": 1,
+      "start": 243,
+      "end": 249,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "मस्ती",
+      "sentence": 1,
+      "start": 257,
+      "end": 262,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "तिने",
+      "sentence": 2,
+      "start": 275,
+      "end": 279,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "कमिटी’ची",
+      "sentence": 2,
+      "start": 294,
+      "end": 302,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "शेरमन",
+      "sentence": 2,
+      "start": 313,
+      "end": 318,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "चॅम्पियनशिप",
+      "sentence": 2,
+      "start": 353,
+      "end": 364,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "परंपरा",
+      "sentence": 3,
+      "start": 376,
+      "end": 382,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "लोभ",
+      "sentence": 3,
+      "start": 402,
+      "end": 406,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "व्हिडियो",
+      "sentence": 4,
+      "start": 420,
+      "end": 427,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "अडचणीत",
+      "sentence": 4,
+      "start": 454,
+      "end": 461,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "साठा",
+      "sentence": 5,
+      "start": 471,
+      "end": 475,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "मातीमध्ये",
+      "sentence": 5,
+      "start": 476,
+      "end": 484,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "तो",
+      "sentence": 5,
+      "start": 504,
+      "end": 506,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "वातावरणात",
+      "sentence": 5,
+      "start": 507,
+      "end": 516,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "पुण्याच्या",
+      "sentence": 6,
+      "start": 523,
+      "end": 531,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "मुरुडकर",
+      "sentence": 6,
+      "start": 532,
+      "end": 539,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "झेंडेवाल्यांनी",
+      "sentence": 6,
+      "start": 540,
+      "end": 552,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "पोस्टर",
+      "sentence": 6,
+      "start": 557,
+      "end": 563,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "सत्ताधा-यांनी",
+      "sentence": 7,
+      "start": 583,
+      "end": 596,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "विरोधाला",
+      "sentence": 7,
+      "start": 600,
+      "end": 608,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "प्रस्ताव",
+      "sentence": 7,
+      "start": 621,
+      "end": 629,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      11,
+      12,
+      13
+    ],
+    [
+      31,
+      33
+    ]
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "document_id": "document_15",
+  "sentences": [
+    "हे एक स्वयंप्रकाशी सत्य आहे, की महाअसत्यामध्ये नेहमीच एक जोरकस विश्वासार्हता असते.",
+    "हा प्रकार म्हणजे  मेलेल्या माणसाच्या टाळूवरचे लोणी खाण्यासारखे आहे.",
+    "जग आपण सुमारे गोल फिरणे नाही, तो एक तारीख लक्षात विशेषतः महत्वाचे आहे.",
+    "कलामीमांसकांच्या दृष्टीने साहित्य, शिल्प, नृत्य, चित्र आणि संगीत या पाच फाइन आर्ट, म्हणजेच ललित कला, याच कला आहेत आणि त्या उच्च दर्जाच्या असतात."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "सत्य",
+      "sentence": 0,
+      "start": 10,
+      "end": 13,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "महाअसत्यामध्ये",
+      "sentence": 0,
+      "start": 24,
+      "end": 36,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "विश्वासार्हता",
+      "sentence": 0,
+      "start": 50,
+      "end": 61,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "प्रकार",
+      "sentence": 1,
+      "start": 68,
+      "end": 72,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "माणसाच्या",
+      "sentence": 1,
+      "start": 80,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "लोणी",
+      "sentence": 1,
+      "start": 96,
+      "end": 99,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "आपण",
+      "sentence": 2,
+      "start": 113,
+      "end": 116,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "तो",
+      "sentence": 2,
+      "start": 129,
+      "end": 130,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "तारीख",
+      "sentence": 2,
+      "start": 134,
+      "end": 138,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "दृष्टीने",
+      "sentence": 3,
+      "start": 169,
+      "end": 174,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "साहित्य",
+      "sentence": 3,
+      "start": 175,
+      "end": 180,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "शिल्प",
+      "sentence": 3,
+      "start": 182,
+      "end": 186,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "नृत्य",
+      "sentence": 3,
+      "start": 188,
+      "end": 191,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "चित्र",
+      "sentence": 3,
+      "start": 193,
+      "end": 196,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "संगीत",
+      "sentence": 3,
+      "start": 200,
+      "end": 204,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "आर्ट",
+      "sentence": 3,
+      "start": 216,
+      "end": 219,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "त्या",
+      "sentence": 3,
+      "start": 249,
+      "end": 251,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      4,
+      5
+    ],
+    [
+      8,
+      9,
+      10
+    ],
+    [
+      14,
+      15,
+      16
+    ]
+  ]
+}

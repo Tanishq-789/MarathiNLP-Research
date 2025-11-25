@@ -1,0 +1,477 @@
+{
+  "document_id": "document_77",
+  "sentences": [
+    "पाण्याची तीव्र टंचाई पाहता बारामती अँग्रोच्या वतीने शहरात पंधरा टॅकर सुरू आहेत.",
+    "चित्रपटाचे निर्माते स्पर्श करण्यास घाबरत नाहीत आणि त्यांनी \"मार्च-थ्रो\" चित्राच्या प्लॉटच्या आधारावर ठेवलेल्या शोकांतिक कथाबद्दल प्रेक्षकांना माहिती दिली.",
+    "उपवास असला तरी काय खावे व किती प्रमाणात खावे याचे भान ठेवणे गरजेचे आहे.",
+    "इथंही परिसरातील हिंदू भगिनी येतात.",
+    "बस्तान ३ [ अवस्तान = बस्थान = बस्तान (अलोप ) ] बस्थान म्हणजे अवस्था, स्थिति.",
+    "पण चिमुकल्याच्या जन्मानंतर आईचा मृत्यू झाल्यास काय करायचं हा प्रश्न अवघड असतो.",
+    "गणिताचा संदर्भ एवढय़ासाठीच, कारण नुकताच प्रदर्शित झालेला सिनेमा ‘सुपर थर्टी’.",
+    "पण आता मात्र दिल्लीत जाऊन तिथे मला संचलन करायला मिळणार आहे, ही गोष्ट माझ्यासाठी अतिशय आनंदाची आहे, असं दर्पेशनं सांगितलं.",
+    "निवडणूक अधिका-यांना धमकावणारे दुग्धविकास व पशुसंवर्धन मंत्री महादेव जानकर यांच्याविरोधात विधिमंडळाच्या दोन्ही सभागृहांत मंगळवारी विरोधक चांगलेच आक्रमक झाले.",
+    "बालकाचे अन्न हे चतुर्विध असावे असे सांगितलेले आहे, ज्यामुळे बाळाचे धातू पुष्ट होतात.",
+    "अल्बर्टा येथे झालेल्या 100 व 200 मीटर धावण्याच्या शर्यतीतही ते सहभागी झाले होते.",
+    "यावेळी भाजपा व महायुती मित्र पक्षाचे पदाधिकारी, कार्यकर्ते व ग्रामस्थ मोठ्या संख्येने उपस्थित होते.",
+    "Loading."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "पाण्याची",
+      "sentence": 0,
+      "start": 0,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "शहरात",
+      "sentence": 0,
+      "start": 45,
+      "end": 50,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "चित्रपटाचे",
+      "sentence": 1,
+      "start": 71,
+      "end": 79,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "त्यांनी",
+      "sentence": 1,
+      "start": 112,
+      "end": 117,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "चित्राच्या",
+      "sentence": 1,
+      "start": 132,
+      "end": 139,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "आधारावर",
+      "sentence": 1,
+      "start": 149,
+      "end": 156,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "कथाबद्दल",
+      "sentence": 1,
+      "start": 175,
+      "end": 182,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "प्रेक्षकांना",
+      "sentence": 1,
+      "start": 183,
+      "end": 191,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "उपवास",
+      "sentence": 2,
+      "start": 199,
+      "end": 204,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "भगिनी",
+      "sentence": 3,
+      "start": 268,
+      "end": 273,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "बस्तान",
+      "sentence": 4,
+      "start": 279,
+      "end": 284,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "अवस्तान",
+      "sentence": 4,
+      "start": 290,
+      "end": 296,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "बस्थान",
+      "sentence": 4,
+      "start": 299,
+      "end": 304,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "बस्तान",
+      "sentence": 4,
+      "start": 308,
+      "end": 313,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "बस्थान",
+      "sentence": 4,
+      "start": 324,
+      "end": 329,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "अवस्था",
+      "sentence": 4,
+      "start": 337,
+      "end": 342,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "स्थिति",
+      "sentence": 4,
+      "start": 344,
+      "end": 348,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "चिमुकल्याच्या",
+      "sentence": 5,
+      "start": 354,
+      "end": 364,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "जन्मानंतर",
+      "sentence": 5,
+      "start": 365,
+      "end": 373,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "आईचा",
+      "sentence": 5,
+      "start": 374,
+      "end": 378,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "मृत्यू",
+      "sentence": 5,
+      "start": 379,
+      "end": 383,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "प्रश्न",
+      "sentence": 5,
+      "start": 400,
+      "end": 404,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "गणिताचा",
+      "sentence": 6,
+      "start": 414,
+      "end": 421,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "संदर्भ",
+      "sentence": 6,
+      "start": 422,
+      "end": 427,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "सिनेमा",
+      "sentence": 6,
+      "start": 456,
+      "end": 461,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "थर्टी",
+      "sentence": 6,
+      "start": 468,
+      "end": 473,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "मला",
+      "sentence": 7,
+      "start": 501,
+      "end": 504,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "संचलन",
+      "sentence": 7,
+      "start": 505,
+      "end": 510,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "गोष्ट",
+      "sentence": 7,
+      "start": 526,
+      "end": 530,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "माझ्यासाठी",
+      "sentence": 7,
+      "start": 531,
+      "end": 539,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "दर्पेशनं",
+      "sentence": 7,
+      "start": 560,
+      "end": 567,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "अधिका-यांना",
+      "sentence": 8,
+      "start": 586,
+      "end": 595,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "दुग्धविकास",
+      "sentence": 8,
+      "start": 605,
+      "end": 614,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "पशुसंवर्धन",
+      "sentence": 8,
+      "start": 617,
+      "end": 626,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "मंत्री",
+      "sentence": 8,
+      "start": 627,
+      "end": 631,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "महादेव",
+      "sentence": 8,
+      "start": 632,
+      "end": 638,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "विधिमंडळाच्या",
+      "sentence": 8,
+      "start": 657,
+      "end": 668,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "सभागृहांत",
+      "sentence": 8,
+      "start": 675,
+      "end": 683,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "विरोधक",
+      "sentence": 8,
+      "start": 692,
+      "end": 698,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "बालकाचे",
+      "sentence": 9,
+      "start": 715,
+      "end": 721,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "अन्न",
+      "sentence": 9,
+      "start": 722,
+      "end": 725,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "बाळाचे",
+      "sentence": 9,
+      "start": 760,
+      "end": 765,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "धातू",
+      "sentence": 9,
+      "start": 767,
+      "end": 770,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "अल्बर्टा",
+      "sentence": 10,
+      "start": 778,
+      "end": 784,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "शर्यतीतही",
+      "sentence": 10,
+      "start": 811,
+      "end": 819,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "ते",
+      "sentence": 10,
+      "start": 820,
+      "end": 822,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "भाजपा",
+      "sentence": 11,
+      "start": 845,
+      "end": 849,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "महायुती",
+      "sentence": 11,
+      "start": 852,
+      "end": 858,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "मित्र",
+      "sentence": 11,
+      "start": 859,
+      "end": 863,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "पक्षाचे",
+      "sentence": 11,
+      "start": 864,
+      "end": 869,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "पदाधिकारी",
+      "sentence": 11,
+      "start": 870,
+      "end": 878,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "कार्यकर्ते",
+      "sentence": 11,
+      "start": 880,
+      "end": 887,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "ग्रामस्थ",
+      "sentence": 11,
+      "start": 889,
+      "end": 894,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      5,
+      6
+    ],
+    [
+      16,
+      17,
+      18,
+      19,
+      21,
+      22,
+      23
+    ],
+    [
+      32,
+      33
+    ],
+    [
+      34,
+      35
+    ],
+    [
+      36,
+      39,
+      40
+    ],
+    [
+      46,
+      47,
+      48
+    ]
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "document_id": "document_85",
+  "sentences": [
+    "रावसाहेब दानवेंची हकालपट्टी करा",
+    "भविष्यातील शिक्षक आणि \"वाजवी, चांगला, अनंतकाळचे पेरणे रचना\" शिक्षक, एक दु: खद राज्य मध्ये मठ नेले.",
+    "प्राचीन इजिप्त मध्ये Shadoof - या राज्यात नवीन राज्याची काळात सर्वात महत्वाचे शोध एक.",
+    "स्वाभिमानी शेतकरी संघटनेचे खा.",
+    "फोन झाल्यावर अस्मिताला खूप बरं वाटलं.",
+    "कौसडी जिंतूर तालुक्यातील कौसडी येथील ग्रामपंचायतच्या वतीने सुरू करण्यात आलेले थंड व शुध्द पाण्याचे 'वॉटर एटीएम' मागील दोन ते तिन दिवसापासून बंद."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "रावसाहेब",
+      "sentence": 0,
+      "start": 0,
+      "end": 8,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "दानवेंची",
+      "sentence": 0,
+      "start": 9,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "हकालपट्टी",
+      "sentence": 0,
+      "start": 18,
+      "end": 27,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "शिक्षक",
+      "sentence": 1,
+      "start": 41,
+      "end": 47,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "रचना",
+      "sentence": 1,
+      "start": 75,
+      "end": 80,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "शिक्षक",
+      "sentence": 1,
+      "start": 82,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "राज्य",
+      "sentence": 1,
+      "start": 94,
+      "end": 99,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "इजिप्त",
+      "sentence": 2,
+      "start": 119,
+      "end": 125,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "राज्यात",
+      "sentence": 2,
+      "start": 144,
+      "end": 150,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "राज्याची",
+      "sentence": 2,
+      "start": 155,
+      "end": 162,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "काळात",
+      "sentence": 2,
+      "start": 163,
+      "end": 169,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "शेतकरी",
+      "sentence": 3,
+      "start": 199,
+      "end": 206,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "संघटनेचे",
+      "sentence": 3,
+      "start": 207,
+      "end": 216,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "अस्मिताला",
+      "sentence": 4,
+      "start": 231,
+      "end": 240,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "कौसडी",
+      "sentence": 5,
+      "start": 252,
+      "end": 258,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "जिंतूर",
+      "sentence": 5,
+      "start": 259,
+      "end": 265,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "कौसडी",
+      "sentence": 5,
+      "start": 276,
+      "end": 282,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "ग्रामपंचायतच्या",
+      "sentence": 5,
+      "start": 288,
+      "end": 300,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "वतीने",
+      "sentence": 5,
+      "start": 301,
+      "end": 307,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "पाण्याचे",
+      "sentence": 5,
+      "start": 332,
+      "end": 340,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "वॉटर",
+      "sentence": 5,
+      "start": 341,
+      "end": 347,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "एटीएम",
+      "sentence": 5,
+      "start": 347,
+      "end": 352,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "दिवसापासून",
+      "sentence": 5,
+      "start": 369,
+      "end": 379,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      5
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      19,
+      22
+    ]
+  ]
+}

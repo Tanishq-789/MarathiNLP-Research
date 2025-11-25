@@ -1,0 +1,40 @@
+{
+  "document_id": "document_13",
+  "sentences": [
+    "वैद्यकीय व्यवसायाचं किती अधःपतन होतंय, हेच यातून स्पष्ट होतंय.",
+    "भक्‍तिसुखें दोंद वाढेल ।",
+    "देशात."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "अधःपतन",
+      "sentence": 0,
+      "start": 25,
+      "end": 31,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "भक्‍तिसुखें",
+      "sentence": 1,
+      "start": 56,
+      "end": 65,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "देशात",
+      "sentence": 2,
+      "start": 78,
+      "end": 82,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      1,
+      2
+    ]
+  ]
+}

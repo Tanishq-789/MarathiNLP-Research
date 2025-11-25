@@ -1,0 +1,248 @@
+{
+  "document_id": "document_43",
+  "sentences": [
+    "ताग, गवार ,चवळी, धैंचा, मूग, मटकी, मेथी, लाख, मसूर, वाटाणा, उडीद, कुळीथ, सेंजी, शेवरी, लसूण घास, बरसीम या पिकांचा समावेश असतो.",
+    "बदल्या, तुकडी वाढ, विषय वाढ सारखे इतर विषयासंदर्भातील अधिकार हे विभागीय शिक्षण संचालकांना देणार असल्याचे समजते.",
+    "हा फॉर्म भरल्यानंतर तुमच्या मोबाईल आणि मेल आयडीवर ओटीपी(वन टाईम पासवर्ड) येईल.",
+    "नवी दिल्ली : भारताचा माजी कसोटी आणि राष्ट्रीय काँग्रेस पक्षाचा नेता नवज्योत सिंग सिद्धू याने पुन्हा एकदा वाद ओढवून घेतला आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "गवार",
+      "sentence": 0,
+      "start": 4,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "मटकी",
+      "sentence": 0,
+      "start": 28,
+      "end": 31,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "मेथी",
+      "sentence": 0,
+      "start": 34,
+      "end": 37,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मसूर",
+      "sentence": 0,
+      "start": 45,
+      "end": 48,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "वाटाणा",
+      "sentence": 0,
+      "start": 51,
+      "end": 55,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "उडीद",
+      "sentence": 0,
+      "start": 58,
+      "end": 61,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "कुळीथ",
+      "sentence": 0,
+      "start": 64,
+      "end": 67,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "शेवरी",
+      "sentence": 0,
+      "start": 76,
+      "end": 79,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "पिकांचा",
+      "sentence": 0,
+      "start": 100,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "तुकडी",
+      "sentence": 1,
+      "start": 126,
+      "end": 130,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "विषय",
+      "sentence": 1,
+      "start": 135,
+      "end": 138,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "अधिकार",
+      "sentence": 1,
+      "start": 161,
+      "end": 165,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "शिक्षण",
+      "sentence": 1,
+      "start": 173,
+      "end": 177,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "संचालकांना",
+      "sentence": 1,
+      "start": 178,
+      "end": 185,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "फॉर्म",
+      "sentence": 2,
+      "start": 213,
+      "end": 216,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "मोबाईल",
+      "sentence": 2,
+      "start": 232,
+      "end": 237,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "आयडी",
+      "sentence": 2,
+      "start": 245,
+      "end": 247,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "ओटीपी",
+      "sentence": 2,
+      "start": 251,
+      "end": 254,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "पासवर्ड",
+      "sentence": 2,
+      "start": 265,
+      "end": 270,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "दिल्ली",
+      "sentence": 3,
+      "start": 277,
+      "end": 279,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "भारत",
+      "sentence": 3,
+      "start": 282,
+      "end": 286,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "कसोटी",
+      "sentence": 3,
+      "start": 290,
+      "end": 293,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "काँग्रेस",
+      "sentence": 3,
+      "start": 301,
+      "end": 306,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "पक्ष",
+      "sentence": 3,
+      "start": 307,
+      "end": 309,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "नेता",
+      "sentence": 3,
+      "start": 311,
+      "end": 313,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "सिद्धू",
+      "sentence": 3,
+      "start": 326,
+      "end": 330,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "याने",
+      "sentence": 3,
+      "start": 332,
+      "end": 335,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  ]
+}

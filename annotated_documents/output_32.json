@@ -1,0 +1,255 @@
+{
+  "document_id": "document_32",
+  "sentences": [
+    "लेख : देणाऱ्याचे हात…",
+    "सफाळे (पालघर) : पालघर पोलीस स्टेशन, साईविराज महिला क्रिकेट कमिटी व सकाळ तनिष्का ग्रुप ऑफ पालघर यांच्या संयुक्त विद्यमाने पालघर येथील आर्यन हायस्कूलच्या मैदानावर येत्या गुरुवारी (ता. 8) पालघर महिला क्रिकेट चषक 2018 चे प्रथमच आयोजन करण्यात आले आहे.",
+    "मॉस्को मेट्रो स्थानांवरील काही भागांवर टर्बाइन टाइल आहेत.",
+    "पॅकेज भिंतीचा चमचा संलग्न औषध योग्य डोस पालन करणे.",
+    "सीमाप्रश्‍नाच्या सोडवणुकीसाठी सत्तेत राहणे आवश्यक आहे.",
+    "सत्तेत राहून आपल्या न्याय हक्कासाठी भांडणे रास्त ठरते.",
+    "मात्र, म."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "सफाळे",
+      "sentence": 1,
+      "start": 21,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "स्टेशन",
+      "sentence": 1,
+      "start": 51,
+      "end": 56,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "साईविराज",
+      "sentence": 1,
+      "start": 59,
+      "end": 67,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "महिला",
+      "sentence": 1,
+      "start": 68,
+      "end": 73,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "क्रिकेट",
+      "sentence": 1,
+      "start": 74,
+      "end": 80,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "कमिटी",
+      "sentence": 1,
+      "start": 81,
+      "end": 86,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "सकाळ",
+      "sentence": 1,
+      "start": 90,
+      "end": 94,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "तनिष्का",
+      "sentence": 1,
+      "start": 95,
+      "end": 101,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "ग्रुप",
+      "sentence": 1,
+      "start": 102,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "विद्यमाने",
+      "sentence": 1,
+      "start": 133,
+      "end": 139,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "आर्यन",
+      "sentence": 1,
+      "start": 153,
+      "end": 158,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "मैदानावर",
+      "sentence": 1,
+      "start": 171,
+      "end": 179,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "महिला",
+      "sentence": 1,
+      "start": 211,
+      "end": 216,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "क्रिकेट",
+      "sentence": 1,
+      "start": 217,
+      "end": 223,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "आयोजन",
+      "sentence": 1,
+      "start": 247,
+      "end": 253,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "मॉस्को",
+      "sentence": 2,
+      "start": 315,
+      "end": 320,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "मेट्रो",
+      "sentence": 2,
+      "start": 321,
+      "end": 326,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "भागांवर",
+      "sentence": 2,
+      "start": 345,
+      "end": 351,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "टर्बाइन",
+      "sentence": 2,
+      "start": 352,
+      "end": 359,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "पॅकेज",
+      "sentence": 3,
+      "start": 374,
+      "end": 379,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "भिंतीचा",
+      "sentence": 3,
+      "start": 380,
+      "end": 386,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "चमचा",
+      "sentence": 3,
+      "start": 387,
+      "end": 392,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "पालन",
+      "sentence": 3,
+      "start": 419,
+      "end": 423,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "सत्तेत",
+      "sentence": 4,
+      "start": 464,
+      "end": 469,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "सत्तेत",
+      "sentence": 5,
+      "start": 498,
+      "end": 503,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "आपल्या",
+      "sentence": 5,
+      "start": 509,
+      "end": 515,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "न्याय",
+      "sentence": 5,
+      "start": 516,
+      "end": 520,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "हक्कासाठी",
+      "sentence": 5,
+      "start": 521,
+      "end": 529,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      4,
+      13,
+      16,
+      22
+    ],
+    [
+      7,
+      23
+    ],
+    [
+      8,
+      24
+    ]
+  ]
+}

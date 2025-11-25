@@ -1,0 +1,50 @@
+{
+  "document_id": "document_20",
+  "sentences": [
+    "गुंतागुंतीच्या खून खटल्यामुळे पोलिसांचा ‘धर-सोड’ कारभार",
+    "कसे \"सोनेरी विभाग\" एक पिरॅमिड तयार करण्यासाठी?"
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "खटल्यामुळे",
+      "sentence": 0,
+      "start": 19,
+      "end": 28,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "पोलिसांचा",
+      "sentence": 0,
+      "start": 30,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "कारभार",
+      "sentence": 0,
+      "start": 51,
+      "end": 57,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "विभाग",
+      "sentence": 1,
+      "start": 70,
+      "end": 75,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "पिरॅमिड",
+      "sentence": 1,
+      "start": 83,
+      "end": 90,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

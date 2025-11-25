@@ -1,0 +1,459 @@
+{
+  "document_id": "document_90",
+  "sentences": [
+    "अल्वारा जमिनीच्या प्रश्नासंदर्भात वाळपईत लवकरच बैठक- विश्वजीत राणे",
+    "पिंकी व तिच्या छोटय़ा बहिणीचा सांभाळ आईनेच केला.",
+    "नेहमी वेळ आणि जगातील इंद्रियगोचर ठिकाणी पालन करण्यासाठी, नैसर्गिक दगड मणी अनावश्यक कधीही आहेत.",
+    "त्याचबरोबर या पुराने अनेक मुलांचे पालकत्वही हिरावून घेत त्यांना पोरके केले.",
+    "केवळ २००० रूपयात ही पर्यटन मोहीम आयोजित केली असून यासोबत सहभागींना सोबत अनुभवी मार्गदर्शक, खास गोमंतकीय जेवण आणि वेस्पाच्या साथीने हेल्मेट, पेट्रोलही देण्यात आले.",
+    "मोठ्या मुलीला नर्स करणार म्हणायचा.",
+    "काही प्रवाशांना त्यांचे पायलटही दिसले.",
+    "दरम्यान.",
+    "पाकिस्तानी हवाई नियंत्रकाच्या गफलतीमुळे ही घटना घडली.",
+    "आता इथे कॉस्मेटिक्स हा शब्द",
+    "आता आईला सांगायचे काय, आई रागावणार म्हणून रूबिना हिने स्वतःचे अपहरणनाट्य रचल्याचे तपासात निष्पन्न झाले असे वरिष्ठ पोलीस निरीक्षक व्यंकट पाटील यांनी सांगितले.",
+    "मुंबई, बुधवार – राज्य सरकारने दुधाच्या खरेदी दरात वाढ करूनही काही सहकारी दूध संघांनी दरवाढ लागू केलेली नाही.",
+    "हा आहे पारिंगा."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "प्रश्नासंदर्भात",
+      "sentence": 0,
+      "start": 16,
+      "end": 29,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "बैठक",
+      "sentence": 0,
+      "start": 47,
+      "end": 52,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "विश्वजीत",
+      "sentence": 0,
+      "start": 54,
+      "end": 61,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "राणे",
+      "sentence": 0,
+      "start": 62,
+      "end": 66,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "तिच्या",
+      "sentence": 1,
+      "start": 75,
+      "end": 80,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "बहिणीचा",
+      "sentence": 1,
+      "start": 86,
+      "end": 93,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "सांभाळ",
+      "sentence": 1,
+      "start": 94,
+      "end": 99,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "आईनेच",
+      "sentence": 1,
+      "start": 100,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "इंद्रियगोचर",
+      "sentence": 2,
+      "start": 131,
+      "end": 140,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "ठिकाणी",
+      "sentence": 2,
+      "start": 141,
+      "end": 147,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "पालन",
+      "sentence": 2,
+      "start": 148,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "पुराने",
+      "sentence": 3,
+      "start": 201,
+      "end": 205,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "मुलांचे",
+      "sentence": 3,
+      "start": 213,
+      "end": 219,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "पालकत्वही",
+      "sentence": 3,
+      "start": 220,
+      "end": 229,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "त्यांना",
+      "sentence": 3,
+      "start": 242,
+      "end": 247,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "रूपयात",
+      "sentence": 4,
+      "start": 260,
+      "end": 265,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "पर्यटन",
+      "sentence": 4,
+      "start": 270,
+      "end": 275,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "मोहीम",
+      "sentence": 4,
+      "start": 276,
+      "end": 281,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "सहभागींना",
+      "sentence": 4,
+      "start": 304,
+      "end": 312,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "मार्गदर्शक",
+      "sentence": 4,
+      "start": 325,
+      "end": 333,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "जेवण",
+      "sentence": 4,
+      "start": 347,
+      "end": 351,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "वेस्पाच्या",
+      "sentence": 4,
+      "start": 356,
+      "end": 364,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "साथीने",
+      "sentence": 4,
+      "start": 365,
+      "end": 370,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "हेल्मेट",
+      "sentence": 4,
+      "start": 371,
+      "end": 376,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "पेट्रोलही",
+      "sentence": 4,
+      "start": 378,
+      "end": 386,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "मुलीला",
+      "sentence": 5,
+      "start": 395,
+      "end": 400,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "नर्स",
+      "sentence": 5,
+      "start": 401,
+      "end": 404,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "प्रवाशांना",
+      "sentence": 6,
+      "start": 411,
+      "end": 419,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "त्यांचे",
+      "sentence": 6,
+      "start": 420,
+      "end": 425,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "पायलटही",
+      "sentence": 6,
+      "start": 426,
+      "end": 433,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "गफलतीमुळे",
+      "sentence": 8,
+      "start": 468,
+      "end": 477,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "घटना",
+      "sentence": 8,
+      "start": 481,
+      "end": 485,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "कॉस्मेटिक्स",
+      "sentence": 9,
+      "start": 494,
+      "end": 504,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "शब्द",
+      "sentence": 9,
+      "start": 508,
+      "end": 511,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "आईला",
+      "sentence": 10,
+      "start": 517,
+      "end": 521,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "रूबिना",
+      "sentence": 10,
+      "start": 546,
+      "end": 551,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "हिने",
+      "sentence": 10,
+      "start": 552,
+      "end": 556,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "स्वतःचे",
+      "sentence": 10,
+      "start": 557,
+      "end": 563,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "अपहरणनाट्य",
+      "sentence": 10,
+      "start": 564,
+      "end": 574,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "तपासात",
+      "sentence": 10,
+      "start": 585,
+      "end": 591,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "निरीक्षक",
+      "sentence": 10,
+      "start": 611,
+      "end": 618,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "व्यंकट",
+      "sentence": 10,
+      "start": 619,
+      "end": 624,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "पाटील",
+      "sentence": 10,
+      "start": 625,
+      "end": 630,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "मुंबई",
+      "sentence": 11,
+      "start": 634,
+      "end": 639,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "बुधवार",
+      "sentence": 11,
+      "start": 641,
+      "end": 647,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "राज्य",
+      "sentence": 11,
+      "start": 651,
+      "end": 654,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "सरकारने",
+      "sentence": 11,
+      "start": 655,
+      "end": 661,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "खरेदी",
+      "sentence": 11,
+      "start": 669,
+      "end": 673,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "दरात",
+      "sentence": 11,
+      "start": 674,
+      "end": 678,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "संघांनी",
+      "sentence": 11,
+      "start": 703,
+      "end": 709,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "दरवाढ",
+      "sentence": 11,
+      "start": 710,
+      "end": 715,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "पारिंगा",
+      "sentence": 12,
+      "start": 735,
+      "end": 741,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      6,
+      7
+    ],
+    [
+      19,
+      21
+    ],
+    [
+      34,
+      35
+    ],
+    [
+      42,
+      43
+    ],
+    [
+      44,
+      45,
+      46
+    ]
+  ]
+}

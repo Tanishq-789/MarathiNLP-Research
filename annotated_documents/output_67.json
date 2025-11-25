@@ -1,0 +1,67 @@
+{
+  "document_id": "document_67",
+  "sentences": [
+    "कौतुकास्पद!",
+    "त्यांनी शिवस्मारकाच्या कामात झालेल्या भ्रष्टाचाराची कागदपत्रे पत्रकार परिषदेत सादर केली.",
+    "Loading."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "त्यांनी",
+      "sentence": 1,
+      "start": 12,
+      "end": 18,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "शिवस्मारकाच्या",
+      "sentence": 1,
+      "start": 19,
+      "end": 33,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "कामात",
+      "sentence": 1,
+      "start": 35,
+      "end": 40,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "भ्रष्टाचाराची",
+      "sentence": 1,
+      "start": 49,
+      "end": 61,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "कागदपत्रे",
+      "sentence": 1,
+      "start": 62,
+      "end": 71,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "पत्रकार",
+      "sentence": 1,
+      "start": 73,
+      "end": 80,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "परिषदेत",
+      "sentence": 1,
+      "start": 81,
+      "end": 88,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

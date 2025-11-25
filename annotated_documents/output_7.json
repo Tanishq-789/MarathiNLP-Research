@@ -1,0 +1,213 @@
+{
+  "document_id": "document_7",
+  "sentences": [
+    "जेंव्हा कोरडी प्रशस्तीपत्रकं काळजांत घर करून राहिली",
+    "यावेळी संशयित आरोपी सूरज चारोस्कर व शार्दुल (पूर्ण नाव माहीत नाही) तेथे आले व मागील भांडणाची कुरापत काढत लोखंडी रोड व दगडाने मारहाण केली.",
+    "या प्रकरणात, आपण त्यांच्या आरोग्य लक्ष देणे आवश्यक आहे.",
+    "रांची | झारखंडच्या रामगढ येथे कार आणि ट्रक यांच्या धडकेत एकाच कुटुंबातील 10 जण ठार झाले आहेत.",
+    "बाजार समितीच्या आवारातील गोदामात व नेमाडे फ्लॉट वस्तीतील गोदामात बारदानाचे 100 गठे आढळुन आले.",
+    "जेव्हा उदयनराजे गाणं गातात."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "प्रशस्तीपत्रकं",
+      "sentence": 0,
+      "start": 12,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "काळजांत",
+      "sentence": 0,
+      "start": 25,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "आरोपी",
+      "sentence": 1,
+      "start": 44,
+      "end": 49,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "सूरज",
+      "sentence": 1,
+      "start": 50,
+      "end": 54,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "चारोस्कर",
+      "sentence": 1,
+      "start": 55,
+      "end": 63,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "शार्दुल",
+      "sentence": 1,
+      "start": 66,
+      "end": 72,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "भांडणाची",
+      "sentence": 1,
+      "start": 97,
+      "end": 105,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "कुरापत",
+      "sentence": 1,
+      "start": 106,
+      "end": 112,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "दगडाने",
+      "sentence": 1,
+      "start": 127,
+      "end": 133,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मारहाण",
+      "sentence": 1,
+      "start": 134,
+      "end": 140,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "आपण",
+      "sentence": 2,
+      "start": 158,
+      "end": 162,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "त्यांच्या",
+      "sentence": 2,
+      "start": 163,
+      "end": 170,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "आरोग्य",
+      "sentence": 2,
+      "start": 171,
+      "end": 177,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "लक्ष",
+      "sentence": 2,
+      "start": 178,
+      "end": 181,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "रांची",
+      "sentence": 3,
+      "start": 189,
+      "end": 193,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "ट्रक",
+      "sentence": 3,
+      "start": 225,
+      "end": 228,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "धडकेत",
+      "sentence": 3,
+      "start": 235,
+      "end": 240,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "बाजार",
+      "sentence": 4,
+      "start": 276,
+      "end": 281,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "गोदामात",
+      "sentence": 4,
+      "start": 300,
+      "end": 307,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "नेमाडे",
+      "sentence": 4,
+      "start": 310,
+      "end": 316,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "गोदामात",
+      "sentence": 4,
+      "start": 331,
+      "end": 338,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "बारदानाचे",
+      "sentence": 4,
+      "start": 339,
+      "end": 348,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "उदयनराजे",
+      "sentence": 5,
+      "start": 374,
+      "end": 382,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "गाणं",
+      "sentence": 5,
+      "start": 383,
+      "end": 387,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      4,
+      5,
+      14
+    ]
+  ]
+}

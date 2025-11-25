@@ -1,0 +1,224 @@
+{
+  "document_id": "document_49",
+  "sentences": [
+    "पाटील, राजकुमार पाटील यांच्यासह अनेक मोहिते-पाटील विरोधकांनी तालुक्यात विरोधक म्हणून चांगले काम केले होते.",
+    "काम त्याच्या ठिकाणी मासिक \"सोव्हिएत युनियन\" च्या पत्रकारिता विभाग होते.",
+    "आता पेपर तपासणी करताना विद्यार्थ्याचे हित शिक्षकांनी जपावे असे आवाहन देखील त्यांनी केले आहे.",
+    "विशेष म्हणजे या संघटनांनी हेल्मेटसोबत दारुच्या बाटलीत चहा, वडापाव, भेळ अशा वस्तू ठेवून हा विधी पार पाडला आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "पाटील",
+      "sentence": 0,
+      "start": 0,
+      "end": 5,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "राजकुमार",
+      "sentence": 0,
+      "start": 8,
+      "end": 16,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "पाटील",
+      "sentence": 0,
+      "start": 18,
+      "end": 23,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मोहिते-पाटील",
+      "sentence": 0,
+      "start": 30,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "विरोधकांनी",
+      "sentence": 0,
+      "start": 44,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "विरोधक",
+      "sentence": 0,
+      "start": 65,
+      "end": 71,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "त्याच्या",
+      "sentence": 1,
+      "start": 97,
+      "end": 102,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "ठिकाणी",
+      "sentence": 1,
+      "start": 104,
+      "end": 109,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "मासिक",
+      "sentence": 1,
+      "start": 111,
+      "end": 116,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "युनियन",
+      "sentence": 1,
+      "start": 126,
+      "end": 132,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "पत्रकारिता",
+      "sentence": 1,
+      "start": 138,
+      "end": 146,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "विभाग",
+      "sentence": 1,
+      "start": 147,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "पेपर",
+      "sentence": 2,
+      "start": 160,
+      "end": 164,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "तपासणी",
+      "sentence": 2,
+      "start": 166,
+      "end": 172,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "विद्यार्थ्याचे",
+      "sentence": 2,
+      "start": 179,
+      "end": 187,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "शिक्षकांनी",
+      "sentence": 2,
+      "start": 194,
+      "end": 202,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "आवाहन",
+      "sentence": 2,
+      "start": 207,
+      "end": 212,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "त्यांनी",
+      "sentence": 2,
+      "start": 220,
+      "end": 225,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "संघटनांनी",
+      "sentence": 3,
+      "start": 243,
+      "end": 250,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "हेल्मेट",
+      "sentence": 3,
+      "start": 252,
+      "end": 258,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "बाटलीत",
+      "sentence": 3,
+      "start": 270,
+      "end": 275,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "वडापाव",
+      "sentence": 3,
+      "start": 282,
+      "end": 288,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "वस्तू",
+      "sentence": 3,
+      "start": 299,
+      "end": 303,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "विधी",
+      "sentence": 3,
+      "start": 311,
+      "end": 314,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1,
+      2,
+      4,
+      6
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      12,
+      13
+    ],
+    [
+      20,
+      22
+    ]
+  ]
+}

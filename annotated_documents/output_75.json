@@ -1,0 +1,371 @@
+{
+  "document_id": "document_75",
+  "sentences": [
+    "केंद्गीय सचिव ( Ministry of personnel Grievances & Pension, Dept. of Administration Reforms Public Grievances, New Delhi) यांचेकडील दारिद्ग्य निर्मूलनासाठी वृध्दी या प्रकल्पनांतर्गत केंद्गशासनाकडून नाविन्यपूर्ण प्रकल्पांना मान्यता मिळालेली आहे.",
+    "सदरच्या उपक्रमासाठी केंद्गशासनाकडून ६६.६७ लाख इतका निधी मंजूर करण्यात आला आहे.",
+    "फी भरण्यासाठी विद्यार्थ्यांवर दबाव आणला जातो.",
+    "सलमान खान पहिल्यांदाच एका वयस्कर रुपात यानिमित्ताने प्रेक्षकांसमोर आला आहे.",
+    "पार्शल आपण कोणत्याही वापरू शकता, तेथे आपल्या स्वयंपाकघर आहेत.",
+    "या बंधाऱ्याच्या आतमध्ये जलमहाल आणि गणेश महाल असे दोन महाल बांधलेले आहेत.",
+    "अमेरिकेत त्यावेळेस शेतकरी शनिवारपर्यंत शेतात काम करायचे.",
+    "जे आहे ते स्वीकारण्याची ताकद आपल्यामध्ये असायला हवी आणि ते मान्य करण्याचा मोकळेपणा आपल्यामध्ये यायला हवा.",
+    "' असा प्रश्‍न."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "सचिव",
+      "sentence": 0,
+      "start": 8,
+      "end": 12,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "personnel",
+      "sentence": 0,
+      "start": 28,
+      "end": 37,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "Grievances",
+      "sentence": 0,
+      "start": 38,
+      "end": 48,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "Reforms",
+      "sentence": 0,
+      "start": 82,
+      "end": 89,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "Grievances",
+      "sentence": 0,
+      "start": 97,
+      "end": 107,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "Delhi",
+      "sentence": 0,
+      "start": 113,
+      "end": 118,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "दारिद्ग्य",
+      "sentence": 0,
+      "start": 129,
+      "end": 136,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "निर्मूलनासाठी",
+      "sentence": 0,
+      "start": 137,
+      "end": 149,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "वृध्दी",
+      "sentence": 0,
+      "start": 150,
+      "end": 155,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "प्रकल्पनांतर्गत",
+      "sentence": 0,
+      "start": 159,
+      "end": 170,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "केंद्गशासनाकडून",
+      "sentence": 0,
+      "start": 171,
+      "end": 183,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "प्रकल्पांना",
+      "sentence": 0,
+      "start": 193,
+      "end": 201,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "मान्यता",
+      "sentence": 0,
+      "start": 202,
+      "end": 208,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "उपक्रमासाठी",
+      "sentence": 1,
+      "start": 227,
+      "end": 236,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "केंद्गशासनाकडून",
+      "sentence": 1,
+      "start": 237,
+      "end": 249,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "निधी",
+      "sentence": 1,
+      "start": 268,
+      "end": 272,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "विद्यार्थ्यांवर",
+      "sentence": 2,
+      "start": 297,
+      "end": 306,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "दबाव",
+      "sentence": 2,
+      "start": 307,
+      "end": 311,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "सलमान",
+      "sentence": 3,
+      "start": 323,
+      "end": 328,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "रुपात",
+      "sentence": 3,
+      "start": 354,
+      "end": 358,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "प्रेक्षकांसमोर",
+      "sentence": 3,
+      "start": 369,
+      "end": 379,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "पार्शल",
+      "sentence": 4,
+      "start": 390,
+      "end": 395,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "आपण",
+      "sentence": 4,
+      "start": 396,
+      "end": 400,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "आपल्या",
+      "sentence": 4,
+      "start": 421,
+      "end": 426,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "स्वयंपाकघर",
+      "sentence": 4,
+      "start": 427,
+      "end": 436,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "बंधाऱ्याच्या",
+      "sentence": 5,
+      "start": 442,
+      "end": 451,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "आतमध्ये",
+      "sentence": 5,
+      "start": 452,
+      "end": 458,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "जलमहाल",
+      "sentence": 5,
+      "start": 459,
+      "end": 466,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "गणेश",
+      "sentence": 5,
+      "start": 470,
+      "end": 474,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "महाल",
+      "sentence": 5,
+      "start": 475,
+      "end": 479,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "महाल",
+      "sentence": 5,
+      "start": 488,
+      "end": 492,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "अमेरिकेत",
+      "sentence": 6,
+      "start": 506,
+      "end": 513,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "शेतकरी",
+      "sentence": 6,
+      "start": 523,
+      "end": 529,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "शेतात",
+      "sentence": 6,
+      "start": 541,
+      "end": 546,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "ते",
+      "sentence": 7,
+      "start": 565,
+      "end": 567,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "ताकद",
+      "sentence": 7,
+      "start": 578,
+      "end": 582,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "आपल्यामध्ये",
+      "sentence": 7,
+      "start": 583,
+      "end": 592,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "ते",
+      "sentence": 7,
+      "start": 608,
+      "end": 610,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "मोकळेपणा",
+      "sentence": 7,
+      "start": 621,
+      "end": 629,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "आपल्यामध्ये",
+      "sentence": 7,
+      "start": 630,
+      "end": 639,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "प्रश्‍न",
+      "sentence": 8,
+      "start": 646,
+      "end": 650,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      12
+    ],
+    [
+      16,
+      18,
+      20
+    ],
+    [
+      17,
+      21
+    ],
+    [
+      27,
+      28
+    ],
+    [
+      32,
+      34
+    ],
+    [
+      38,
+      40
+    ]
+  ]
+}

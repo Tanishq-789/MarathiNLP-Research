@@ -1,0 +1,262 @@
+{
+  "document_id": "document_28",
+  "sentences": [
+    "नगरसेवकांकडून प्रशासन धारेवर",
+    "मात्र, उच्च न्यायालयात याचिका दाखल झाल्यानंतर मुस्लिम समाजाला शिक्षणात आरक्षण दिले गेले पाहिजे, असे उच्च न्यायालयाने सांगितले होते.",
+    "मागील पाच वर्षांत सरकारने २ लाख १५ हजार काेटींचे कर्ज घेतले.",
+    "दरम्यान, आता या चित्रपटात नेहा जोशी आणि पुष्कराज चिरपुटकर दिसणार आहेत.",
+    "इंडिया टीव्ही-CNX च्या ओपिनियन पोलमध्ये भाजपसाठी धक्कादायक वास्तव पुढे आले आहे.",
+    "कोशिंबीर \"कामदेव बाण\": चीज सह तिसऱ्या पाककृती",
+    "एक नियम म्हणून, घर सुंदर violets \"आवडत्या मुलगी\" देखावा विविध आणि आराम मिळेल.",
+    "हे सर्व आम्ही जनतेसमोर आणणार असल्याचेही त्यांनी ठासून सांगितले.",
+    "यावेळी."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "नगरसेवकांकडून",
+      "sentence": 0,
+      "start": 0,
+      "end": 13,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "प्रशासन",
+      "sentence": 0,
+      "start": 14,
+      "end": 21,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "याचिका",
+      "sentence": 1,
+      "start": 37,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मुस्लिम",
+      "sentence": 1,
+      "start": 58,
+      "end": 64,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "समाजाला",
+      "sentence": 1,
+      "start": 65,
+      "end": 72,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "शिक्षणात",
+      "sentence": 1,
+      "start": 73,
+      "end": 80,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "आरक्षण",
+      "sentence": 1,
+      "start": 81,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "न्यायालयाने",
+      "sentence": 1,
+      "start": 110,
+      "end": 118,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "वर्षांत",
+      "sentence": 2,
+      "start": 134,
+      "end": 140,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "सरकारने",
+      "sentence": 2,
+      "start": 141,
+      "end": 147,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "कर्ज",
+      "sentence": 2,
+      "start": 172,
+      "end": 176,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "चित्रपटात",
+      "sentence": 3,
+      "start": 191,
+      "end": 198,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "नेहा",
+      "sentence": 3,
+      "start": 199,
+      "end": 203,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "जोशी",
+      "sentence": 3,
+      "start": 204,
+      "end": 208,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "पुष्कराज",
+      "sentence": 3,
+      "start": 211,
+      "end": 218,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "इंडिया",
+      "sentence": 4,
+      "start": 243,
+      "end": 248,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "पोलमध्ये",
+      "sentence": 4,
+      "start": 268,
+      "end": 275,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "भाजपसाठी",
+      "sentence": 4,
+      "start": 276,
+      "end": 284,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "वास्तव",
+      "sentence": 4,
+      "start": 292,
+      "end": 298,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "कोशिंबीर",
+      "sentence": 5,
+      "start": 310,
+      "end": 318,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "कामदेव",
+      "sentence": 5,
+      "start": 320,
+      "end": 326,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "पाककृती",
+      "sentence": 5,
+      "start": 345,
+      "end": 351,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "नियम",
+      "sentence": 6,
+      "start": 355,
+      "end": 359,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "violets",
+      "sentence": 6,
+      "start": 378,
+      "end": 385,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "मुलगी",
+      "sentence": 6,
+      "start": 395,
+      "end": 400,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "देखावा",
+      "sentence": 6,
+      "start": 401,
+      "end": 406,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "आराम",
+      "sentence": 6,
+      "start": 413,
+      "end": 417,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "आम्ही",
+      "sentence": 7,
+      "start": 431,
+      "end": 435,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "जनतेसमोर",
+      "sentence": 7,
+      "start": 435,
+      "end": 443,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "त्यांनी",
+      "sentence": 7,
+      "start": 457,
+      "end": 462,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      2,
+      8
+    ]
+  ]
+}

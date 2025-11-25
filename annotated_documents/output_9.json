@@ -1,0 +1,851 @@
+{
+  "document_id": "document_9",
+  "sentences": [
+    "कॅगचा अहवालाचा सुलभ भाषेत अर्थ आहे, रेल्वे 98 रुपये 44 पैसे लावून केवळ 100 रुपये कमावत आहे",
+    "मात्र, प्रत्यक्षात हवामान बदल असो की, जागतिक शांततेचा विषय असो अमेरिका आणि इतर विकसित देश विकसनशील देशांवर आपली मते लादताना दिसतात.",
+    "दोन्ही अंडे आणि मादक द्रव्ये खूप जलद तळल्या जातात.",
+    "अकोले, संगमनेर : प्रतिनिधी",
+    "त्याला दोन महिने उलटले तरीही मान्यता मिळालेली नाही.",
+    "अधिक महत्त्वपूर्ण माहिती धंद्यासाठी मिळेल.",
+    "सट्टेबाजीला ऊत आलेला आहे,",
+    "या सर्व प्रकारामुळे अनेक शाळांना पूर्व प्राथमिक आणि प्राथमिक म्हणजे पहिलीच्या प्रवेश क्षमतेसाठी संभ्रम निर्माण होणार आहे.",
+    "त्यानुसार डिसेंबर २०१४ मध्ये मारीवन बघायची अनुमती इराणने दिली, तर आयोगाने परत पारचीन सुविधा बघायचा हट्ट धरला.",
+    "पण आता तुम्हाला माहीत असतं की तुम्ही गरीब नाही, म्हणुन आता तुम्ही परिस्थितीसमोर आगतिक होत नाही, उलट हसत खेळत, कमाई वाढवण्याच्या, नवनवीन कल्पना अंमलात आणता.",
+    "जितेश पाटील, रोहित मोकल टीबीएमकडून, तर आदिनाथ घुले, चांदसाब बागा शिवासकडून उत्तम खेळले.",
+    "संप्रेरक गर्भनिरोधक वापरणे;",
+    "पॅरिस सार्वजनिक, एकापेक्षा अधिक शतक देशातील ऑट couture फॅशन मोहात कामे, पटकन तीन तरुण, 2013 पर्यंत शब्दशः काहीही ऐकू शकत नाही, जे निर्मिती मूल्यमापन.",
+    "श्रींची पालखी शेगावात दाखल; खामगाव ते शेगाव रस्ता भक्तांच्या गर्दीने फुलला",
+    "आज उत्पादक सर्वशक्तिमान स्वयंपाकघर सोपे काम साधनांकरीता विविधता देतात.",
+    "सरकारी मीडिया हाऊस ग्लोबल टाईम्सने म्हटले आहे की, 2012मध्ये या मिसाईलची घोषणा करण्यात आली होती.",
+    "कांद्याची बाजारात टंचाई आहे.",
+    "-प्रकाश सहस्रबुद्धे, विदर्भ क्रिकेट संघाचे माजी कर्णधार",
+    "त्यासाठी राजापुरात प्रकल्प समर्थनार्थ  शुक्रवारी मेळावा घेण्यात आला.",
+    "तिने आपल्या लग्नाबाबत देखील नियोजन केले आहे.",
+    "दरवाजावरील टकटक ऐकुन अस्मिता सावध झाली.",
+    "तो घरी आला.",
+    "- मध 20 ग्रॅम",
+    "औषध विक्रेत्यांनी पुकारलेल्या बंदचा सामना करण्याकरता अन्न व औषध प्रशासन तयार झाले आहे.",
+    "तसेच शाळांना लागलेल्या सुट्टय़ा, लग्न सराई, जत्रा, यात्रा ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "अहवाल",
+      "sentence": 0,
+      "start": 6,
+      "end": 11,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "भाषा",
+      "sentence": 0,
+      "start": 19,
+      "end": 22,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "अर्थ",
+      "sentence": 0,
+      "start": 24,
+      "end": 27,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "रेल्वे",
+      "sentence": 0,
+      "start": 34,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "रुपये",
+      "sentence": 0,
+      "start": 42,
+      "end": 46,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "पैसे",
+      "sentence": 0,
+      "start": 50,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "रुपये",
+      "sentence": 0,
+      "start": 66,
+      "end": 70,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "हवामान",
+      "sentence": 1,
+      "start": 81,
+      "end": 86,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "शांतता",
+      "sentence": 1,
+      "start": 100,
+      "end": 105,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "विषय",
+      "sentence": 1,
+      "start": 108,
+      "end": 111,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "अमेरिका",
+      "sentence": 1,
+      "start": 116,
+      "end": 122,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "अंडे",
+      "sentence": 2,
+      "start": 175,
+      "end": 177,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "द्रव्ये",
+      "sentence": 2,
+      "start": 186,
+      "end": 189,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "संगमनेर",
+      "sentence": 3,
+      "start": 211,
+      "end": 217,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "त्याला",
+      "sentence": 4,
+      "start": 227,
+      "end": 231,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "महिने",
+      "sentence": 4,
+      "start": 236,
+      "end": 240,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "मान्यता",
+      "sentence": 4,
+      "start": 252,
+      "end": 257,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "माहिती",
+      "sentence": 5,
+      "start": 272,
+      "end": 276,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "धंदा",
+      "sentence": 5,
+      "start": 278,
+      "end": 281,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "सट्टेबाजी",
+      "sentence": 6,
+      "start": 294,
+      "end": 302,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "प्रकार",
+      "sentence": 7,
+      "start": 320,
+      "end": 324,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "शाळा",
+      "sentence": 7,
+      "start": 333,
+      "end": 337,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "प्रवेश",
+      "sentence": 7,
+      "start": 377,
+      "end": 381,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "क्षमता",
+      "sentence": 7,
+      "start": 383,
+      "end": 387,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "संभ्रम",
+      "sentence": 7,
+      "start": 392,
+      "end": 396,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "डिसेंबर",
+      "sentence": 8,
+      "start": 415,
+      "end": 421,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "मारीवन",
+      "sentence": 8,
+      "start": 431,
+      "end": 436,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "अनुमती",
+      "sentence": 8,
+      "start": 444,
+      "end": 449,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "इराण",
+      "sentence": 8,
+      "start": 451,
+      "end": 455,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "आयोग",
+      "sentence": 8,
+      "start": 465,
+      "end": 469,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "सुविधा",
+      "sentence": 8,
+      "start": 482,
+      "end": 486,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "हट्ट",
+      "sentence": 8,
+      "start": 494,
+      "end": 497,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "तुम्हाला",
+      "sentence": 9,
+      "start": 510,
+      "end": 516,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "तुम्ही",
+      "sentence": 9,
+      "start": 529,
+      "end": 533,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "तुम्ही",
+      "sentence": 9,
+      "start": 553,
+      "end": 557,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "परिस्थिती",
+      "sentence": 9,
+      "start": 558,
+      "end": 565,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "कमाई",
+      "sentence": 9,
+      "start": 596,
+      "end": 599,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "कल्पना",
+      "sentence": 9,
+      "start": 618,
+      "end": 622,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "जितेश",
+      "sentence": 10,
+      "start": 623,
+      "end": 627,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "पाटील",
+      "sentence": 10,
+      "start": 628,
+      "end": 632,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "टीबीएम",
+      "sentence": 10,
+      "start": 645,
+      "end": 649,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "आदिनाथ",
+      "sentence": 10,
+      "start": 659,
+      "end": 664,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "घुले",
+      "sentence": 10,
+      "start": 665,
+      "end": 668,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "बागा",
+      "sentence": 10,
+      "start": 677,
+      "end": 680,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "शिवास",
+      "sentence": 10,
+      "start": 682,
+      "end": 686,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "संप्रेरक",
+      "sentence": 11,
+      "start": 699,
+      "end": 705,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "गर्भनिरोधक",
+      "sentence": 11,
+      "start": 706,
+      "end": 714,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "पॅरिस",
+      "sentence": 12,
+      "start": 716,
+      "end": 720,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "couture",
+      "sentence": 12,
+      "start": 749,
+      "end": 755,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "फॅशन",
+      "sentence": 12,
+      "start": 757,
+      "end": 760,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "कामे",
+      "sentence": 12,
+      "start": 766,
+      "end": 769,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "तरुण",
+      "sentence": 12,
+      "start": 780,
+      "end": 783,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "निर्मिती",
+      "sentence": 12,
+      "start": 822,
+      "end": 827,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "मूल्यमापन",
+      "sentence": 12,
+      "start": 828,
+      "end": 834,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "श्री",
+      "sentence": 13,
+      "start": 835,
+      "end": 837,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "पालखी",
+      "sentence": 13,
+      "start": 841,
+      "end": 845,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "शेगाव",
+      "sentence": 13,
+      "start": 847,
+      "end": 851,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "खामगाव",
+      "sentence": 13,
+      "start": 860,
+      "end": 865,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "शेगाव",
+      "sentence": 13,
+      "start": 869,
+      "end": 873,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "रस्ता",
+      "sentence": 13,
+      "start": 874,
+      "end": 878,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "भक्त",
+      "sentence": 13,
+      "start": 880,
+      "end": 883,
+      "confidence": 1.0
+    },
+    {
+      "id": 61,
+      "text": "गर्दी",
+      "sentence": 13,
+      "start": 887,
+      "end": 890,
+      "confidence": 1.0
+    },
+    {
+      "id": 62,
+      "text": "उत्पादक",
+      "sentence": 14,
+      "start": 898,
+      "end": 903,
+      "confidence": 1.0
+    },
+    {
+      "id": 63,
+      "text": "स्वयंपाकघर",
+      "sentence": 14,
+      "start": 914,
+      "end": 921,
+      "confidence": 1.0
+    },
+    {
+      "id": 64,
+      "text": "साधन",
+      "sentence": 14,
+      "start": 930,
+      "end": 933,
+      "confidence": 1.0
+    },
+    {
+      "id": 65,
+      "text": "विविधता",
+      "sentence": 14,
+      "start": 940,
+      "end": 945,
+      "confidence": 1.0
+    },
+    {
+      "id": 66,
+      "text": "मीडिया",
+      "sentence": 15,
+      "start": 956,
+      "end": 960,
+      "confidence": 1.0
+    },
+    {
+      "id": 67,
+      "text": "ग्लोबल",
+      "sentence": 15,
+      "start": 967,
+      "end": 971,
+      "confidence": 1.0
+    },
+    {
+      "id": 68,
+      "text": "मिसाईल",
+      "sentence": 15,
+      "start": 1008,
+      "end": 1012,
+      "confidence": 1.0
+    },
+    {
+      "id": 69,
+      "text": "घोषणा",
+      "sentence": 15,
+      "start": 1016,
+      "end": 1020,
+      "confidence": 1.0
+    },
+    {
+      "id": 70,
+      "text": "कांदा",
+      "sentence": 16,
+      "start": 1026,
+      "end": 1030,
+      "confidence": 1.0
+    },
+    {
+      "id": 71,
+      "text": "बाजार",
+      "sentence": 16,
+      "start": 1034,
+      "end": 1038,
+      "confidence": 1.0
+    },
+    {
+      "id": 72,
+      "text": "टंचाई",
+      "sentence": 16,
+      "start": 1041,
+      "end": 1044,
+      "confidence": 1.0
+    },
+    {
+      "id": 73,
+      "text": "प्रकाश",
+      "sentence": 17,
+      "start": 1047,
+      "end": 1052,
+      "confidence": 1.0
+    },
+    {
+      "id": 74,
+      "text": "सहस्रबुद्धे",
+      "sentence": 17,
+      "start": 1053,
+      "end": 1061,
+      "confidence": 1.0
+    },
+    {
+      "id": 75,
+      "text": "विदर्भ",
+      "sentence": 17,
+      "start": 1064,
+      "end": 1068,
+      "confidence": 1.0
+    },
+    {
+      "id": 76,
+      "text": "क्रिकेट",
+      "sentence": 17,
+      "start": 1070,
+      "end": 1075,
+      "confidence": 1.0
+    },
+    {
+      "id": 77,
+      "text": "कर्णधार",
+      "sentence": 17,
+      "start": 1086,
+      "end": 1091,
+      "confidence": 1.0
+    },
+    {
+      "id": 78,
+      "text": "प्रकल्प",
+      "sentence": 18,
+      "start": 1107,
+      "end": 1112,
+      "confidence": 1.0
+    },
+    {
+      "id": 79,
+      "text": "शुक्रवार",
+      "sentence": 18,
+      "start": 1122,
+      "end": 1128,
+      "confidence": 1.0
+    },
+    {
+      "id": 80,
+      "text": "मेळावा",
+      "sentence": 18,
+      "start": 1130,
+      "end": 1134,
+      "confidence": 1.0
+    },
+    {
+      "id": 81,
+      "text": "तिने",
+      "sentence": 19,
+      "start": 1142,
+      "end": 1145,
+      "confidence": 1.0
+    },
+    {
+      "id": 82,
+      "text": "आपल्या",
+      "sentence": 19,
+      "start": 1147,
+      "end": 1152,
+      "confidence": 1.0
+    },
+    {
+      "id": 83,
+      "text": "लग्न",
+      "sentence": 19,
+      "start": 1154,
+      "end": 1157,
+      "confidence": 1.0
+    },
+    {
+      "id": 84,
+      "text": "नियोजन",
+      "sentence": 19,
+      "start": 1167,
+      "end": 1172,
+      "confidence": 1.0
+    },
+    {
+      "id": 85,
+      "text": "दरवाजा",
+      "sentence": 20,
+      "start": 1184,
+      "end": 1189,
+      "confidence": 1.0
+    },
+    {
+      "id": 86,
+      "text": "अस्मिता",
+      "sentence": 20,
+      "start": 1202,
+      "end": 1207,
+      "confidence": 1.0
+    },
+    {
+      "id": 87,
+      "text": "तो",
+      "sentence": 21,
+      "start": 1216,
+      "end": 1217,
+      "confidence": 1.0
+    },
+    {
+      "id": 88,
+      "text": "ग्रॅम",
+      "sentence": 22,
+      "start": 1233,
+      "end": 1236,
+      "confidence": 1.0
+    },
+    {
+      "id": 89,
+      "text": "विक्रेता",
+      "sentence": 23,
+      "start": 1242,
+      "end": 1247,
+      "confidence": 1.0
+    },
+    {
+      "id": 90,
+      "text": "सामना",
+      "sentence": 23,
+      "start": 1266,
+      "end": 1270,
+      "confidence": 1.0
+    },
+    {
+      "id": 91,
+      "text": "अन्न",
+      "sentence": 23,
+      "start": 1281,
+      "end": 1284,
+      "confidence": 1.0
+    },
+    {
+      "id": 92,
+      "text": "प्रशासन",
+      "sentence": 23,
+      "start": 1291,
+      "end": 1296,
+      "confidence": 1.0
+    },
+    {
+      "id": 93,
+      "text": "शाळा",
+      "sentence": 24,
+      "start": 1307,
+      "end": 1311,
+      "confidence": 1.0
+    },
+    {
+      "id": 94,
+      "text": "सुट्टय़ा",
+      "sentence": 24,
+      "start": 1321,
+      "end": 1325,
+      "confidence": 1.0
+    },
+    {
+      "id": 95,
+      "text": "लग्न",
+      "sentence": 24,
+      "start": 1328,
+      "end": 1331,
+      "confidence": 1.0
+    },
+    {
+      "id": 96,
+      "text": "सराई",
+      "sentence": 24,
+      "start": 1333,
+      "end": 1336,
+      "confidence": 1.0
+    },
+    {
+      "id": 97,
+      "text": "जत्रा",
+      "sentence": 24,
+      "start": 1339,
+      "end": 1342,
+      "confidence": 1.0
+    },
+    {
+      "id": 98,
+      "text": "यात्रा",
+      "sentence": 24,
+      "start": 1345,
+      "end": 1348,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      12,
+      13,
+      15
+    ],
+    [
+      42,
+      43,
+      44
+    ],
+    [
+      73,
+      75
+    ],
+    [
+      84,
+      85,
+      86,
+      87
+    ],
+    [
+      93,
+      94,
+      98
+    ]
+  ]
+}

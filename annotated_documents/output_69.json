@@ -1,0 +1,106 @@
+{
+  "document_id": "document_69",
+  "sentences": [
+    "पाऊस नोंदला गेला आहे.",
+    "मात्र, आता उर्वरित कंत्राटदारांची चौकशीही पूर्ण झाली असून त्याचा अहवाल बुधवारी आयुक्तांना सादर केला जाण्याची शक्यता आहे.",
+    "जेव्हा ते त्याला कळलं तेव्हा युवराजचा पत्ता आधीच कट झालाय हेही माहीत नव्हतं.",
+    "या सभेचा मुख्य अजेंडा…",
+    "Loading."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "पाऊस",
+      "sentence": 0,
+      "start": 0,
+      "end": 4,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "कंत्राटदारांची",
+      "sentence": 1,
+      "start": 39,
+      "end": 51,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "चौकशीही",
+      "sentence": 1,
+      "start": 52,
+      "end": 60,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "त्याचा",
+      "sentence": 1,
+      "start": 76,
+      "end": 81,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "अहवाल",
+      "sentence": 1,
+      "start": 82,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "आयुक्तांना",
+      "sentence": 1,
+      "start": 95,
+      "end": 103,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "ते",
+      "sentence": 2,
+      "start": 137,
+      "end": 139,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "त्याला",
+      "sentence": 2,
+      "start": 140,
+      "end": 144,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "युवराजचा",
+      "sentence": 2,
+      "start": 157,
+      "end": 165,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "पत्ता",
+      "sentence": 2,
+      "start": 166,
+      "end": 170,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "अजेंडा",
+      "sentence": 3,
+      "start": 219,
+      "end": 224,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      2,
+      3
+    ]
+  ]
+}

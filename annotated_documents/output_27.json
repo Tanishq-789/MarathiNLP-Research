@@ -1,0 +1,153 @@
+{
+  "document_id": "document_27",
+  "sentences": [
+    "बाभूळ, बोर, करंज, जांभूळ, भोकर, कडुलिंब, वाघाटे वेल, सीताफळ, रामफळ, आंबा, लिंबू आदी.",
+    "ऑस्कर 2019 ; ‘ग्रीन बुक’ ठरला सर्वोत्कृष्ट चित्रपट",
+    "माझ्या विचारांसाठी मला स्पेस हवी तर तुला ती मी आधी दिली पाहिजे हे इम्प्लीमेंट होऊ लागलं.",
+    "263 पोलीस कर्मचारी जखमी झाले ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "बाभूळ",
+      "sentence": 0,
+      "start": 0,
+      "end": 5,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "करंज",
+      "sentence": 0,
+      "start": 13,
+      "end": 16,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "जांभूळ",
+      "sentence": 0,
+      "start": 19,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "कडुलिंब",
+      "sentence": 0,
+      "start": 33,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "सीताफळ",
+      "sentence": 0,
+      "start": 54,
+      "end": 59,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "रामफळ",
+      "sentence": 0,
+      "start": 62,
+      "end": 66,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "आंबा",
+      "sentence": 0,
+      "start": 69,
+      "end": 72,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "लिंबू",
+      "sentence": 0,
+      "start": 75,
+      "end": 78,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "ऑस्कर",
+      "sentence": 1,
+      "start": 84,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "चित्रपट",
+      "sentence": 1,
+      "start": 118,
+      "end": 123,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "माझ्या",
+      "sentence": 2,
+      "start": 124,
+      "end": 128,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "विचारांसाठी",
+      "sentence": 2,
+      "start": 130,
+      "end": 139,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "मला",
+      "sentence": 2,
+      "start": 142,
+      "end": 144,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "तुला",
+      "sentence": 2,
+      "start": 157,
+      "end": 160,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "ती",
+      "sentence": 2,
+      "start": 162,
+      "end": 163,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "मी",
+      "sentence": 2,
+      "start": 165,
+      "end": 166,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "कर्मचारी",
+      "sentence": 3,
+      "start": 200,
+      "end": 206,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      14,
+      16
+    ]
+  ]
+}

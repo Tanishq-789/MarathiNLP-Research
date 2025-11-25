@@ -1,0 +1,74 @@
+{
+  "document_id": "document_1",
+  "sentences": [
+    "स्वप्न दाखविणे आणि आश्वासने देणारे नेतेही लोकांना खूप आवडतात.",
+    "मुलांसोबतच पालकांना सांभाळण्याची जबाबदारी ही विवाहीत महिलांचीही आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "स्वप्न",
+      "sentence": 0,
+      "start": 0,
+      "end": 3,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "आश्वासने",
+      "sentence": 0,
+      "start": 18,
+      "end": 25,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "नेतेही",
+      "sentence": 0,
+      "start": 34,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "लोकांना",
+      "sentence": 0,
+      "start": 41,
+      "end": 46,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "मुलांसोबतच",
+      "sentence": 1,
+      "start": 63,
+      "end": 72,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "पालकांना",
+      "sentence": 1,
+      "start": 74,
+      "end": 80,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "जबाबदारी",
+      "sentence": 1,
+      "start": 93,
+      "end": 100,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "महिलांचीही",
+      "sentence": 1,
+      "start": 111,
+      "end": 118,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

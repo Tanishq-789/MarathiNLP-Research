@@ -1,0 +1,403 @@
+{
+  "document_id": "document_96",
+  "sentences": [
+    "मंगळवार, 29 ऑक्टोबर 2019",
+    "उवांमुळे निर्माण होणारी लक्षणे त्याचे अस्तित्व वेगळे चिन्हे नाही, आणि अजून सोपे पुरेशी शोधू.",
+    "स्विच नियंत्रक अस्तर करणे आवश्यक आहे.",
+    "ही पद्धत \"MegaFon\" कंपनी अधिकृत सेवा आहे, त्यामुळे आपण आपले पैसे वाटेत कुठेतरी गमावला जाणार नाही याची खात्री असू शकते.",
+    "बाजीराउ बल्लाळ प्रधान नमस्कार विनंति उपरि येथील कुशल जाणून स्वकीय लिहिणें.",
+    "विशेष.",
+    "बापूजी बिन्न जावजी सातव निमे पाटील, मौजे वाघोली, ता।",
+    "चॉकलेट बार शेगडी आणि शिडकावा चॉकलेट चीप केळी.",
+    "तो एक स्वच्छ वाळलेल्या पृष्ठभाग आणि विशिष्ट तपशील लागू आहे.",
+    "कारमधील तिन्ही युवकांना त्वरीत रुग्णालयात नेण्यात आले.",
+    "12 महिने शीतपेये पिणारे लोकं आहेत.",
+    "तिने घड्याळ्यात पाहीलं.",
+    "कपडेलत्ते प्रकारात आपण प्रत्येकाचा समाधान करू शकत नाही.",
+    "कर्मचाऱ्यांमार्फत तलावाची दररोज पाहाणी करून जर भेगाची लांबी वाढत चालली तर भेगा पडलेल्या भागावर काम करावे लागेल."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मंगळवार",
+      "sentence": 0,
+      "start": 0,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "उवांमुळे",
+      "sentence": 1,
+      "start": 25,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "लक्षणे",
+      "sentence": 1,
+      "start": 44,
+      "end": 49,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "त्याचे",
+      "sentence": 1,
+      "start": 51,
+      "end": 56,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "अस्तित्व",
+      "sentence": 1,
+      "start": 58,
+      "end": 65,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "चिन्हे",
+      "sentence": 1,
+      "start": 72,
+      "end": 77,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "नियंत्रक",
+      "sentence": 2,
+      "start": 122,
+      "end": 128,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "अस्तर",
+      "sentence": 2,
+      "start": 130,
+      "end": 134,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "पद्धत",
+      "sentence": 3,
+      "start": 158,
+      "end": 162,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "कंपनी",
+      "sentence": 3,
+      "start": 176,
+      "end": 180,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "सेवा",
+      "sentence": 3,
+      "start": 188,
+      "end": 191,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "आपण",
+      "sentence": 3,
+      "start": 201,
+      "end": 204,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "आपले",
+      "sentence": 3,
+      "start": 206,
+      "end": 209,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "पैसे",
+      "sentence": 3,
+      "start": 211,
+      "end": 214,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "वाटेत",
+      "sentence": 3,
+      "start": 216,
+      "end": 220,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "खात्री",
+      "sentence": 3,
+      "start": 246,
+      "end": 251,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "बाजीराउ",
+      "sentence": 4,
+      "start": 268,
+      "end": 274,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "बल्लाळ",
+      "sentence": 4,
+      "start": 276,
+      "end": 281,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "प्रधान",
+      "sentence": 4,
+      "start": 283,
+      "end": 288,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "नमस्कार",
+      "sentence": 4,
+      "start": 290,
+      "end": 296,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "विनंति",
+      "sentence": 4,
+      "start": 298,
+      "end": 303,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "स्वकीय",
+      "sentence": 4,
+      "start": 325,
+      "end": 330,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "बापूजी",
+      "sentence": 6,
+      "start": 340,
+      "end": 345,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "बिन्न",
+      "sentence": 6,
+      "start": 347,
+      "end": 350,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "पाटील",
+      "sentence": 6,
+      "start": 367,
+      "end": 371,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "शिडकावा",
+      "sentence": 7,
+      "start": 408,
+      "end": 414,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "केळी",
+      "sentence": 7,
+      "start": 427,
+      "end": 430,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "तो",
+      "sentence": 8,
+      "start": 432,
+      "end": 433,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "पृष्ठभाग",
+      "sentence": 8,
+      "start": 445,
+      "end": 452,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "तपशील",
+      "sentence": 8,
+      "start": 463,
+      "end": 468,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "युवकांना",
+      "sentence": 9,
+      "start": 498,
+      "end": 504,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "रुग्णालयात",
+      "sentence": 9,
+      "start": 512,
+      "end": 520,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "महिने",
+      "sentence": 10,
+      "start": 536,
+      "end": 540,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "शीतपेये",
+      "sentence": 10,
+      "start": 542,
+      "end": 548,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "लोकं",
+      "sentence": 10,
+      "start": 554,
+      "end": 557,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "तिने",
+      "sentence": 11,
+      "start": 571,
+      "end": 574,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "घड्याळ्यात",
+      "sentence": 11,
+      "start": 576,
+      "end": 583,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "कपडेलत्ते",
+      "sentence": 12,
+      "start": 595,
+      "end": 602,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "प्रकारात",
+      "sentence": 12,
+      "start": 604,
+      "end": 610,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "आपण",
+      "sentence": 12,
+      "start": 612,
+      "end": 615,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "समाधान",
+      "sentence": 12,
+      "start": 626,
+      "end": 631,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "कर्मचाऱ्यांमार्फत",
+      "sentence": 13,
+      "start": 647,
+      "end": 661,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "भेगाची",
+      "sentence": 13,
+      "start": 689,
+      "end": 694,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "लांबी",
+      "sentence": 13,
+      "start": 696,
+      "end": 700,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "भेगा",
+      "sentence": 13,
+      "start": 712,
+      "end": 715,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "भागावर",
+      "sentence": 13,
+      "start": 723,
+      "end": 728,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      10,
+      11
+    ],
+    [
+      15,
+      16
+    ],
+    [
+      35,
+      39
+    ]
+  ]
+}

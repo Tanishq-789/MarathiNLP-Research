@@ -1,0 +1,536 @@
+{
+  "document_id": "document_66",
+  "sentences": [
+    "बॅंका आणि वित्त संस्थांना बळकट करण्याचा सरकारचा प्रयत्न",
+    "'सत्ताधाऱ्यांकडून राष्ट्रवादीचे नेते अजित पवार यांना संपवण्याचा प्रयत्न'",
+    "देश हा सर्वांसाठी आहे आणि प्रत्येकाने यासाठी चांगले काम केले पाहिजे असेही त्यांनी सांगितले.",
+    "दरम्यान, त्यावर मंगळवारी सुनावणी होणार आहे़",
+    "तरीही शाळा खंडपीठाने पासून पृथ्वी आकार गोल आहे आणि त्याच्या अक्षावर बदलते हे मला माहीत आहे.",
+    "त्यांच्या गाडीच्या काचा तुटल्या आहेत.",
+    "लोक बिरादरी प्रकल्पामार्फत आदिवासी लोकांमध्ये असलेली अंधश्रद्धा दूर करण्यासाठी त्यांनी भरीव कार्य केले असून त्यासाठी स्वत:चे संपूर्ण आयुष्य त्यांनी समर्पित केले आहे.",
+    "देशातील पर्यटन जलद पुरेशी विकसित होत आहे.",
+    "अपात्र ठरविण्यात आलेल्या 17 आमदारांचे राजकीय भवितव्य पणाला लागले असून ते पूर्णतः सर्वोच्च न्यायालयाच्या निकालावर अवलंबून आहे.",
+    "आज शाळेचे अनेक दिग्गज विद्यार्थी विविध क्षेत्रात कार्यरत आहेत, ते विद्यार्थी जेव्हा शाळेबद्दल गौरवाद्वार काढतात ते गौरवाद्वगारचा शाळेचा खरा सन्मान असल्याचे त्यांनी यावेळी नमूद केले.",
+    "तर गेली चार वर्ष एमसीएचे उपाध्यक्ष असलेले विजय पाटील स्वाभिमानासाठी ही लढाई लढत आहेत.",
+    "ते का आवडतात यावर त्याने लिहिलेला लेखही वाचनीय आहे.",
+    "प्राचीन रोमन शैली सुशोभित आहे, आणि आपण अस्पष्ट चेहरे आश्चर्यकारक शिल्पे पाहू शकता.",
+    "तर महिलांसाठी फॅशन शोचं आयोजन करण्यात आलं होतं.",
+    "मुंबईच्या विजयाची सरासरी 58.28 टक्के आहे.",
+    "या मुद्यांबरोबरच."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "बॅंका",
+      "sentence": 0,
+      "start": 0,
+      "end": 4,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "संस्थांना",
+      "sentence": 0,
+      "start": 10,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "सरकारचा",
+      "sentence": 0,
+      "start": 31,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "प्रयत्न",
+      "sentence": 0,
+      "start": 39,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "सत्ताधाऱ्यांकडून",
+      "sentence": 1,
+      "start": 1,
+      "end": 15,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "नेते",
+      "sentence": 1,
+      "start": 28,
+      "end": 31,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "अजित",
+      "sentence": 1,
+      "start": 32,
+      "end": 36,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "पवार",
+      "sentence": 1,
+      "start": 37,
+      "end": 41,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "यांना",
+      "sentence": 1,
+      "start": 42,
+      "end": 46,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "प्रयत्न",
+      "sentence": 1,
+      "start": 57,
+      "end": 62,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "त्यांनी",
+      "sentence": 2,
+      "start": 120,
+      "end": 125,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "त्यावर",
+      "sentence": 3,
+      "start": 137,
+      "end": 142,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "सुनावणी",
+      "sentence": 3,
+      "start": 152,
+      "end": 158,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "शाळा",
+      "sentence": 4,
+      "start": 169,
+      "end": 173,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "खंडपीठाने",
+      "sentence": 4,
+      "start": 174,
+      "end": 182,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "पृथ्वी",
+      "sentence": 4,
+      "start": 191,
+      "end": 196,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "मला",
+      "sentence": 4,
+      "start": 230,
+      "end": 233,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "त्यांच्या",
+      "sentence": 5,
+      "start": 243,
+      "end": 249,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "गाडीच्या",
+      "sentence": 5,
+      "start": 250,
+      "end": 256,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "काचा",
+      "sentence": 5,
+      "start": 257,
+      "end": 261,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "बिरादरी",
+      "sentence": 6,
+      "start": 275,
+      "end": 281,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "प्रकल्पामार्फत",
+      "sentence": 6,
+      "start": 282,
+      "end": 292,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "आदिवासी",
+      "sentence": 6,
+      "start": 293,
+      "end": 299,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "अंधश्रद्धा",
+      "sentence": 6,
+      "start": 316,
+      "end": 323,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "त्यांनी",
+      "sentence": 6,
+      "start": 332,
+      "end": 337,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "कार्य",
+      "sentence": 6,
+      "start": 343,
+      "end": 346,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "स्वत:चे",
+      "sentence": 6,
+      "start": 361,
+      "end": 367,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "आयुष्य",
+      "sentence": 6,
+      "start": 375,
+      "end": 380,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "त्यांनी",
+      "sentence": 6,
+      "start": 381,
+      "end": 386,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "पर्यटन",
+      "sentence": 7,
+      "start": 407,
+      "end": 412,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "आमदारांचे",
+      "sentence": 8,
+      "start": 432,
+      "end": 439,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "भवितव्य",
+      "sentence": 8,
+      "start": 447,
+      "end": 452,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "ते",
+      "sentence": 8,
+      "start": 467,
+      "end": 469,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "शाळेचे",
+      "sentence": 9,
+      "start": 509,
+      "end": 514,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "विद्यार्थी",
+      "sentence": 9,
+      "start": 524,
+      "end": 529,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "क्षेत्रात",
+      "sentence": 9,
+      "start": 537,
+      "end": 542,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "ते",
+      "sentence": 9,
+      "start": 546,
+      "end": 548,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "विद्यार्थी",
+      "sentence": 9,
+      "start": 549,
+      "end": 554,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "गौरवाद्वार",
+      "sentence": 9,
+      "start": 568,
+      "end": 576,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "ते",
+      "sentence": 9,
+      "start": 584,
+      "end": 586,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "शाळेचा",
+      "sentence": 9,
+      "start": 598,
+      "end": 603,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "सन्मान",
+      "sentence": 9,
+      "start": 608,
+      "end": 613,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "त्यांनी",
+      "sentence": 9,
+      "start": 619,
+      "end": 624,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "वर्ष",
+      "sentence": 10,
+      "start": 642,
+      "end": 645,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "एमसीएचे",
+      "sentence": 10,
+      "start": 646,
+      "end": 652,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "पाटील",
+      "sentence": 10,
+      "start": 672,
+      "end": 676,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "स्वाभिमानासाठी",
+      "sentence": 10,
+      "start": 677,
+      "end": 687,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "लढाई",
+      "sentence": 10,
+      "start": 693,
+      "end": 697,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "ते",
+      "sentence": 11,
+      "start": 707,
+      "end": 709,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "त्याने",
+      "sentence": 11,
+      "start": 719,
+      "end": 723,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "लेखही",
+      "sentence": 11,
+      "start": 729,
+      "end": 734,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "शैली",
+      "sentence": 12,
+      "start": 749,
+      "end": 752,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "आपण",
+      "sentence": 12,
+      "start": 770,
+      "end": 773,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "चेहरे",
+      "sentence": 12,
+      "start": 781,
+      "end": 785,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "शिल्पे",
+      "sentence": 12,
+      "start": 796,
+      "end": 800,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "महिलांसाठी",
+      "sentence": 13,
+      "start": 810,
+      "end": 818,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "फॅशन",
+      "sentence": 13,
+      "start": 819,
+      "end": 823,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "आयोजन",
+      "sentence": 13,
+      "start": 832,
+      "end": 837,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "विजयाची",
+      "sentence": 14,
+      "start": 855,
+      "end": 861,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "सरासरी",
+      "sentence": 14,
+      "start": 862,
+      "end": 867,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "मुद्यांबरोबरच",
+      "sentence": 15,
+      "start": 876,
+      "end": 886,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      6,
+      7,
+      8
+    ],
+    [
+      33,
+      35,
+      37
+    ],
+    [
+      40,
+      41
+    ],
+    [
+      45,
+      47,
+      48
+    ],
+    [
+      51,
+      54
+    ]
+  ]
+}

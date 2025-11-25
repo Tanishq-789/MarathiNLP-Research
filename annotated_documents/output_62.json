@@ -1,0 +1,82 @@
+{
+  "document_id": "document_62",
+  "sentences": [
+    "त्यामुळे ट्रम्प यांनी सुलेमानी यांची हत्या करून इराणला इशारा देण्याचं कर्तब गाजवलं आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "ट्रम्प",
+      "sentence": 0,
+      "start": 7,
+      "end": 11,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "यांनी",
+      "sentence": 0,
+      "start": 13,
+      "end": 16,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "सुलेमानी",
+      "sentence": 0,
+      "start": 18,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "यांची",
+      "sentence": 0,
+      "start": 26,
+      "end": 29,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "हत्या",
+      "sentence": 0,
+      "start": 30,
+      "end": 33,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "इराण",
+      "sentence": 0,
+      "start": 41,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "इशारा",
+      "sentence": 0,
+      "start": 46,
+      "end": 50,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "कर्तब",
+      "sentence": 0,
+      "start": 60,
+      "end": 63,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      3
+    ]
+  ]
+}

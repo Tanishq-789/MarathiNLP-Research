@@ -1,0 +1,413 @@
+{
+  "document_id": "document_2",
+  "sentences": [
+    "केवळ, विवाह झालाय म्हणून वृद्ध पालकांची जबाबदारी त्यांना झटकता येणार नाही असं हायकोर्टानं म्हटलंय.",
+    "पहा काय बरळला पाकड्यांचा पंतप्रधान इमरान खान",
+    "३ (पीसीबी) – मावळमध्ये पवना जलवाहिनीविरोधात आंदोलन करणाऱ्या आंदोलक शेतकऱ्यांवर गोळीबार करण्याचे आदेश मी दिल्याचा पंतप्रधान नरेंद्र मोदींचा आरोप चुकीचा आहे.",
+    "वृषभ : क्षुल्लक कारणाने तुम्ही अस्वस्थ व्हाल.",
+    "तो किती बद्दल, आम्ही नंतर तुम्हांला सांगतो.",
+    "मुख्य पान चालू घडामोडी शेतकऱयांना कर्जमाफी किंवा भरपाई",
+    "मुलांमध्ये भेदभाव पालकांनी करू नये, मिठाई आणली असेल तर सर्वाना द्यावी, फक्त एकाच मुलाला/मुलीला आणि इतरांना नाही असे नको.",
+    "राज्यातलं सरकार आणि मुख्यमंत्री चांगलं काम करत आहेत.",
+    "चित्रपटातील गाणं रिमेक जरी असलं तरी त्यात बॉलिवूड स्टाईल वापरली असल्याने प्रेक्षकांना ते फार आवडत आहे.",
+    "शुक्रवारी सायंकाळी चव्हाट गल्ल्ली येथे हि घटना घडली असून जखमी युवकाला उपचारासाठी सिव्हिल हॉस्पिटलमध्ये दाखल करण्यात आले ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "विवाह",
+      "sentence": 0,
+      "start": 6,
+      "end": 10,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "पालकांची",
+      "sentence": 0,
+      "start": 29,
+      "end": 36,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "जबाबदारी",
+      "sentence": 0,
+      "start": 37,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "त्यांना",
+      "sentence": 0,
+      "start": 45,
+      "end": 50,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "हायकोर्टानं",
+      "sentence": 0,
+      "start": 70,
+      "end": 79,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "पंतप्रधान",
+      "sentence": 1,
+      "start": 106,
+      "end": 113,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "इमरान",
+      "sentence": 1,
+      "start": 114,
+      "end": 119,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "पीसीबी",
+      "sentence": 2,
+      "start": 129,
+      "end": 133,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "मावळमध्ये",
+      "sentence": 2,
+      "start": 137,
+      "end": 144,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "पवना",
+      "sentence": 2,
+      "start": 145,
+      "end": 149,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "जलवाहिनी",
+      "sentence": 2,
+      "start": 150,
+      "end": 158,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "शेतकऱ्यांवर",
+      "sentence": 2,
+      "start": 180,
+      "end": 189,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "मी",
+      "sentence": 2,
+      "start": 204,
+      "end": 205,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "पंतप्रधान",
+      "sentence": 2,
+      "start": 217,
+      "end": 224,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "नरेंद्र",
+      "sentence": 2,
+      "start": 225,
+      "end": 231,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "मोदींचा",
+      "sentence": 2,
+      "start": 232,
+      "end": 238,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "आरोप",
+      "sentence": 2,
+      "start": 239,
+      "end": 243,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "वृषभ",
+      "sentence": 3,
+      "start": 254,
+      "end": 257,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "कारणाने",
+      "sentence": 3,
+      "start": 266,
+      "end": 272,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "तुम्ही",
+      "sentence": 3,
+      "start": 273,
+      "end": 277,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "तो",
+      "sentence": 4,
+      "start": 289,
+      "end": 290,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "आम्ही",
+      "sentence": 4,
+      "start": 303,
+      "end": 307,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "तुम्हांला",
+      "sentence": 4,
+      "start": 313,
+      "end": 319,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "घडामोडी",
+      "sentence": 5,
+      "start": 335,
+      "end": 341,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "शेतकऱयांना",
+      "sentence": 5,
+      "start": 342,
+      "end": 351,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "कर्जमाफी",
+      "sentence": 5,
+      "start": 352,
+      "end": 359,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "भरपाई",
+      "sentence": 5,
+      "start": 364,
+      "end": 369,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "मुलांमध्ये",
+      "sentence": 6,
+      "start": 371,
+      "end": 378,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "भेदभाव",
+      "sentence": 6,
+      "start": 379,
+      "end": 385,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "पालकांनी",
+      "sentence": 6,
+      "start": 386,
+      "end": 392,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "मिठाई",
+      "sentence": 6,
+      "start": 402,
+      "end": 406,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "सर्वाना",
+      "sentence": 6,
+      "start": 419,
+      "end": 424,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "मुलाला",
+      "sentence": 6,
+      "start": 435,
+      "end": 440,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "मुलीला",
+      "sentence": 6,
+      "start": 441,
+      "end": 446,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "इतरांना",
+      "sentence": 6,
+      "start": 450,
+      "end": 455,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "सरकार",
+      "sentence": 7,
+      "start": 469,
+      "end": 473,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "मुख्यमंत्री",
+      "sentence": 7,
+      "start": 477,
+      "end": 484,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "गाणं",
+      "sentence": 8,
+      "start": 492,
+      "end": 495,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "बॉलिवूड",
+      "sentence": 8,
+      "start": 517,
+      "end": 524,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "प्रेक्षकांना",
+      "sentence": 8,
+      "start": 545,
+      "end": 552,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "ते",
+      "sentence": 8,
+      "start": 553,
+      "end": 554,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "चव्हाट",
+      "sentence": 9,
+      "start": 570,
+      "end": 574,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "घटना",
+      "sentence": 9,
+      "start": 587,
+      "end": 590,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "युवकाला",
+      "sentence": 9,
+      "start": 601,
+      "end": 606,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "उपचारासाठी",
+      "sentence": 9,
+      "start": 607,
+      "end": 616,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "हॉस्पिटलमध्ये",
+      "sentence": 9,
+      "start": 623,
+      "end": 633,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      5,
+      6,
+      7
+    ],
+    [
+      15,
+      16,
+      17
+    ],
+    [
+      19,
+      21
+    ],
+    [
+      30,
+      34,
+      35,
+      36,
+      37
+    ],
+    [
+      40,
+      41,
+      45
+    ]
+  ]
+}

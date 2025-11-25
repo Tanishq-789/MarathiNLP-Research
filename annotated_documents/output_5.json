@@ -1,0 +1,188 @@
+{
+  "document_id": "document_5",
+  "sentences": [
+    "ढवळीत पुरग्रस्तांच्या मदत वाटपाची चौकशी सुरु",
+    "शॉक लार्जचे हानिकारक परिणाम अधिक दबाव वाढते.",
+    "उपनिषदांतील बर्‍याच ऋचा गीतेत उद्धृत केलेल्या दिसतात.",
+    "सध्या कांद्याच्या भावात चांगलीच वाढ झाली.",
+    "अनेकांनी आपली अघोषित संपत्ती त्यांचे कर्मचारी किंवा एजंटच्या माध्यमातून जनधन खात्यांमध्ये जमा केल्याचा सरकारला संशय आहे.",
+    "त्यांच्याशी संबंधित एखादा विषय ताटकळत न ठेवता झटपट निर्णय प्रक्रिया हाच गुण सनदी अधिकार्‍यांनाही आवडणारा असा आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "वाटपाची",
+      "sentence": 0,
+      "start": 26,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "चौकशी",
+      "sentence": 0,
+      "start": 34,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "लार्जचे",
+      "sentence": 1,
+      "start": 46,
+      "end": 51,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "परिणाम",
+      "sentence": 1,
+      "start": 60,
+      "end": 65,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "दबाव",
+      "sentence": 1,
+      "start": 72,
+      "end": 76,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "गीतेत",
+      "sentence": 2,
+      "start": 110,
+      "end": 114,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "कांद्याच्या",
+      "sentence": 3,
+      "start": 144,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "भावात",
+      "sentence": 3,
+      "start": 154,
+      "end": 158,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "अनेकांनी",
+      "sentence": 4,
+      "start": 178,
+      "end": 185,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "संपत्ती",
+      "sentence": 4,
+      "start": 199,
+      "end": 204,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "त्यांचे",
+      "sentence": 4,
+      "start": 206,
+      "end": 210,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "कर्मचारी",
+      "sentence": 4,
+      "start": 212,
+      "end": 218,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "माध्यमातून",
+      "sentence": 4,
+      "start": 233,
+      "end": 240,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "जनधन",
+      "sentence": 4,
+      "start": 242,
+      "end": 247,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "खात्यांमध्ये",
+      "sentence": 4,
+      "start": 248,
+      "end": 257,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "सरकारला",
+      "sentence": 4,
+      "start": 270,
+      "end": 276,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "संशय",
+      "sentence": 4,
+      "start": 278,
+      "end": 282,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "विषय",
+      "sentence": 5,
+      "start": 308,
+      "end": 311,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "निर्णय",
+      "sentence": 5,
+      "start": 327,
+      "end": 331,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "प्रक्रिया",
+      "sentence": 5,
+      "start": 333,
+      "end": 338,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "अधिकार्‍यांनाही",
+      "sentence": 5,
+      "start": 353,
+      "end": 364,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      15,
+      16,
+      18
+    ]
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "document_id": "document_58",
+  "sentences": [
+    "नाईक विद्यालय संघाने शिवभक्त विद्यालयाचा १५-१२ असा पराभव करत शिवनेरी सेवा मंडळ खो-खोच्या महिला राज्यस्तरीय स्पर्धेचे जेतेपद पटकावले, तसेच पुरुष व्यावसायिक.",
+    "तशीच मनात वाढत जाणारी ही घाण, किटाळ गावाच्या शांततेला खूपच मारक ठरल्याचे पाहून गावाची कीव येते.",
+    "मध्येस्तांनीं पत्र वाचून आपले मर्जीसहींत नवाबाकडे पाठविलें."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "संघाने",
+      "sentence": 0,
+      "start": 15,
+      "end": 21,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "विद्यालयाचा",
+      "sentence": 0,
+      "start": 34,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "पराभव",
+      "sentence": 0,
+      "start": 53,
+      "end": 58,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मंडळ",
+      "sentence": 0,
+      "start": 77,
+      "end": 81,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "खो-खोच्या",
+      "sentence": 0,
+      "start": 82,
+      "end": 90,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "महिला",
+      "sentence": 0,
+      "start": 91,
+      "end": 95,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "स्पर्धेचे",
+      "sentence": 0,
+      "start": 106,
+      "end": 112,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "जेतेपद",
+      "sentence": 0,
+      "start": 113,
+      "end": 118,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "पुरुष",
+      "sentence": 0,
+      "start": 132,
+      "end": 136,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "व्यावसायिक",
+      "sentence": 0,
+      "start": 137,
+      "end": 144,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "मनात",
+      "sentence": 1,
+      "start": 152,
+      "end": 156,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "किटाळ",
+      "sentence": 1,
+      "start": 176,
+      "end": 180,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "गावाच्या",
+      "sentence": 1,
+      "start": 181,
+      "end": 187,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "शांततेला",
+      "sentence": 1,
+      "start": 188,
+      "end": 195,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "मारक",
+      "sentence": 1,
+      "start": 203,
+      "end": 207,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "गावाची",
+      "sentence": 1,
+      "start": 223,
+      "end": 228,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "पत्र",
+      "sentence": 2,
+      "start": 249,
+      "end": 252,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "आपले",
+      "sentence": 2,
+      "start": 259,
+      "end": 263,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "मर्जीसहींत",
+      "sentence": 2,
+      "start": 264,
+      "end": 272,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "नवाबाकडे",
+      "sentence": 2,
+      "start": 273,
+      "end": 280,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      11,
+      12
+    ],
+    [
+      13,
+      16
+    ]
+  ]
+}

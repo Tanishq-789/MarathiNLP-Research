@@ -1,0 +1,533 @@
+{
+  "document_id": "document_73",
+  "sentences": [
+    "नाशिक : पारंपरिक शेतमाल बाजार व्यवस्था बदलून जोपर्यंत आपण आधुनिक बाजार व्यवस्था स्वीकारीत नाही, तोपर्यंत शेतीची मूल्य साखळी मजबूत.",
+    "आरोपीने तिला अयोग्य रीतीने स्पर्श केला.",
+    "2014-15 : भारत 2-0 ने पराभूत",
+    "असे कोणतेही प्रकारचे वुल्फ टॅटू नाही जे आपण निवडल्यास नाटकीय होणार नाही.",
+    "आपली सर्जनशीलता प्रदर्शित करताना आपणास भिन्न बनविण्यासाठी आपल्या भेगावर भिन्न रंग वापरू शकता.",
+    "प्रतिमा स्त्रोत",
+    "मुंबई – बॉलिवूडची ‘देसी गर्ल’ प्रियांका आणि निकच्या नात्याबद्दल गेल्या अनेक दिवसांपासून चर्चांना उधाण येत आहे.",
+    "मैलोन मैल काहीही वाहन दिसायचे नाही.",
+    "तिने हा फोटो शेअर करून सादगी असं कॅप्शन दिलं आहे.",
+    "तसे, Hakagure रेकॉर्ड जाळणे त्याला आज्ञा केली, पण तो शिक्षक आज्ञा मोडली, आणि नंतरचे नंतर पुस्तकाच्या प्रती प्रसार लागले.",
+    "परत स्वस्तात वीज दिल्याचा खोटा दावा करून विविध सरकारे शेतकऱ्यांची आणि जनतेची फसवणूकच करत आली आहेत.",
+    "युरोपातले सर्वात उंच शिखर माउन्ट एल्ब्रसच..",
+    "पश्चिम युरोपातले मात्र मॉन्ट ब्लाँ..",
+    "आणि हे आल्प्समध्ये येत असल्याने अजून प्रसिद्ध..",
+    "एल्ब्रस आल्प्सच्या रांगात येत नाही (चू.भू.द्या.घ्या.)..",
+    "दुष्ट अगर घातक त्वचार्बुद एक विशिष्ट वैशिष्ट्य पेटलेला एक वेदना, खाज सुटणे, पापुद्रा काढणे आहे.",
+    "त्याच वेळी ज्युनियर बसून आम्ही बॉस संपेपर्यंत प्रतीक्षा.",
+    "मराठे कसे आहेत."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "नाशिक",
+      "sentence": 0,
+      "start": 0,
+      "end": 5,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "बाजार",
+      "sentence": 0,
+      "start": 45,
+      "end": 49,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "आपण",
+      "sentence": 0,
+      "start": 64,
+      "end": 68,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "बाजार",
+      "sentence": 0,
+      "start": 83,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "शेतीची",
+      "sentence": 0,
+      "start": 110,
+      "end": 116,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "साखळी",
+      "sentence": 0,
+      "start": 122,
+      "end": 127,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "आरोपीने",
+      "sentence": 1,
+      "start": 137,
+      "end": 143,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "तिला",
+      "sentence": 1,
+      "start": 144,
+      "end": 147,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "भारत",
+      "sentence": 2,
+      "start": 172,
+      "end": 176,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "प्रकारचे",
+      "sentence": 3,
+      "start": 207,
+      "end": 213,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "टॅटू",
+      "sentence": 3,
+      "start": 219,
+      "end": 222,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "आपण",
+      "sentence": 3,
+      "start": 230,
+      "end": 234,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "सर्जनशीलता",
+      "sentence": 4,
+      "start": 258,
+      "end": 267,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "आपणास",
+      "sentence": 4,
+      "start": 278,
+      "end": 283,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "आपल्या",
+      "sentence": 4,
+      "start": 296,
+      "end": 301,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "भेगावर",
+      "sentence": 4,
+      "start": 302,
+      "end": 307,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "प्रतिमा",
+      "sentence": 5,
+      "start": 329,
+      "end": 334,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "स्त्रोत",
+      "sentence": 5,
+      "start": 335,
+      "end": 339,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "मुंबई",
+      "sentence": 6,
+      "start": 341,
+      "end": 346,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "बॉलिवूडची",
+      "sentence": 6,
+      "start": 350,
+      "end": 359,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "गर्ल",
+      "sentence": 6,
+      "start": 367,
+      "end": 370,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "प्रियांका",
+      "sentence": 6,
+      "start": 373,
+      "end": 379,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "निकच्या",
+      "sentence": 6,
+      "start": 383,
+      "end": 388,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "नात्याबद्दल",
+      "sentence": 6,
+      "start": 389,
+      "end": 397,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "दिवसांपासून",
+      "sentence": 6,
+      "start": 419,
+      "end": 428,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "चर्चांना",
+      "sentence": 6,
+      "start": 429,
+      "end": 435,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "उधाण",
+      "sentence": 6,
+      "start": 436,
+      "end": 440,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "वाहन",
+      "sentence": 7,
+      "start": 457,
+      "end": 461,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "तिने",
+      "sentence": 8,
+      "start": 472,
+      "end": 475,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "फोटो",
+      "sentence": 8,
+      "start": 479,
+      "end": 483,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "सादगी",
+      "sentence": 8,
+      "start": 490,
+      "end": 495,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "कॅप्शन",
+      "sentence": 8,
+      "start": 500,
+      "end": 505,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "रेकॉर्ड",
+      "sentence": 9,
+      "start": 524,
+      "end": 529,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "त्याला",
+      "sentence": 9,
+      "start": 537,
+      "end": 540,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "आज्ञा",
+      "sentence": 9,
+      "start": 541,
+      "end": 544,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "तो",
+      "sentence": 9,
+      "start": 555,
+      "end": 556,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "शिक्षक",
+      "sentence": 9,
+      "start": 557,
+      "end": 561,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "आज्ञा",
+      "sentence": 9,
+      "start": 562,
+      "end": 565,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "प्रती",
+      "sentence": 9,
+      "start": 596,
+      "end": 599,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "प्रसार",
+      "sentence": 9,
+      "start": 600,
+      "end": 604,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "दावा",
+      "sentence": 10,
+      "start": 630,
+      "end": 633,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "सरकारे",
+      "sentence": 10,
+      "start": 643,
+      "end": 648,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "शेतकऱ्यांची",
+      "sentence": 10,
+      "start": 649,
+      "end": 658,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "जनतेची",
+      "sentence": 10,
+      "start": 662,
+      "end": 668,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "युरोपातले",
+      "sentence": 11,
+      "start": 689,
+      "end": 696,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "शिखर",
+      "sentence": 11,
+      "start": 707,
+      "end": 711,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "एल्ब्रसच",
+      "sentence": 11,
+      "start": 718,
+      "end": 724,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "युरोपातले",
+      "sentence": 12,
+      "start": 735,
+      "end": 742,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "ब्लाँ",
+      "sentence": 12,
+      "start": 752,
+      "end": 755,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "आल्प्समध्ये",
+      "sentence": 13,
+      "start": 764,
+      "end": 772,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "एल्ब्रस",
+      "sentence": 14,
+      "start": 786,
+      "end": 791,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "रांगात",
+      "sentence": 14,
+      "start": 800,
+      "end": 805,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "त्वचार्बुद",
+      "sentence": 15,
+      "start": 825,
+      "end": 832,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "वैशिष्ट्य",
+      "sentence": 15,
+      "start": 841,
+      "end": 847,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "वेदना",
+      "sentence": 15,
+      "start": 859,
+      "end": 863,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "पापुद्रा",
+      "sentence": 15,
+      "start": 876,
+      "end": 881,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "आम्ही",
+      "sentence": 16,
+      "start": 906,
+      "end": 909,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "प्रतीक्षा",
+      "sentence": 16,
+      "start": 920,
+      "end": 925,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "मराठे",
+      "sentence": 17,
+      "start": 930,
+      "end": 934,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      2,
+      13,
+      14,
+      16,
+      17
+    ],
+    [
+      7,
+      33
+    ],
+    [
+      37,
+      39,
+      41,
+      42
+    ],
+    [
+      56,
+      57
+    ],
+    [
+      24,
+      25,
+      26
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      40,
+      43
+    ]
+  ]
+}

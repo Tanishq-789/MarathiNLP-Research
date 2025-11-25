@@ -1,0 +1,206 @@
+{
+  "document_id": "document_99",
+  "sentences": [
+    "संतोष टारफे यांच्यासमोर आहे.",
+    "सीसीटीव्हीद्वारे शोध",
+    "संलग्नक न गहाण",
+    "दहशतवादी संघटना विमानतळासह मेट्रो स्थानकांवर हल्ला करण्याच्या प्रयत्नात आहेत.",
+    "तर दुसरीकडे ही श्रीमंत राष्ट्रे स्थलांतरितापासून आपल्या सीमा सुरक्षित करीत राहतील.",
+    "माझ्या सुनेचे विवाहबाह्य संबंध आहेत.",
+    "सध्या राज्यात ९ जिल्ह्यांसाठी परभणीत सैन्य भरतीला सुरुवात झाली आहे.",
+    "हे कापड फ्लॉवर रेखा क्रिस्टल्स पिन सुशोभित स्टडस्, पिसे, चकाकी, इ असू शकते - ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "संतोष",
+      "sentence": 0,
+      "start": 0,
+      "end": 5,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "सीसीटीव्ही",
+      "sentence": 1,
+      "start": 29,
+      "end": 36,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "संलग्नक",
+      "sentence": 2,
+      "start": 48,
+      "end": 55,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "गहाण",
+      "sentence": 2,
+      "start": 59,
+      "end": 63,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "संघटना",
+      "sentence": 3,
+      "start": 73,
+      "end": 78,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "विमानतळ",
+      "sentence": 3,
+      "start": 80,
+      "end": 86,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "मेट्रो",
+      "sentence": 3,
+      "start": 91,
+      "end": 95,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "स्थानक",
+      "sentence": 3,
+      "start": 98,
+      "end": 103,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "हल्ला",
+      "sentence": 3,
+      "start": 109,
+      "end": 113,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "प्रयत्न",
+      "sentence": 3,
+      "start": 126,
+      "end": 131,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "राष्ट्रे",
+      "sentence": 4,
+      "start": 163,
+      "end": 168,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "आपल्या",
+      "sentence": 4,
+      "start": 184,
+      "end": 190,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "सीमा",
+      "sentence": 4,
+      "start": 191,
+      "end": 195,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "माझ्या",
+      "sentence": 5,
+      "start": 223,
+      "end": 228,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "संबंध",
+      "sentence": 5,
+      "start": 240,
+      "end": 245,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "राज्य",
+      "sentence": 6,
+      "start": 266,
+      "end": 269,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "जिल्हा",
+      "sentence": 6,
+      "start": 274,
+      "end": 278,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "सैन्य",
+      "sentence": 6,
+      "start": 289,
+      "end": 293,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "भरती",
+      "sentence": 6,
+      "start": 294,
+      "end": 297,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "कापड",
+      "sentence": 7,
+      "start": 330,
+      "end": 334,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "फ्लॉवर",
+      "sentence": 7,
+      "start": 335,
+      "end": 340,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "रेखा",
+      "sentence": 7,
+      "start": 342,
+      "end": 345,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "क्रिस्टल्स",
+      "sentence": 7,
+      "start": 346,
+      "end": 355,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      12,
+      13,
+      15
+    ]
+  ]
+}

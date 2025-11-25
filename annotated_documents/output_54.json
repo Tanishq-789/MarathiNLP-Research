@@ -1,0 +1,331 @@
+{
+  "document_id": "document_54",
+  "sentences": [
+    "श्रीकांत शिंदे फाऊंडेशनच्या पेटाऱ्यातून ‘रासरंग डोंबिवली’ हा नवरात्रोत्सव गेली काही वर्षे सुरू आहे.",
+    "दिवसभरातील%20घडामोडी",
+    "मात्र आजही दैनंदिन वापरात असलेल्या अनेक वास्तू आणि स्थळं या यादीत ढकलल्यामुळे याला विरोध होऊ लागलाय.",
+    "मग ते विचारतात 'इज दॅट यस ऑर नो?",
+    "तसेच जेथे fuses आहेत मॉडेल मुले त्यांच्या स्वत: च्या उपकरणे प्ले करण्यासाठी परवानगी देत नाही, आहेत.",
+    "दोन पेपर निवडून एका महिन्यात कोणत्या पुरस्काराच्या, किती आणि कुठल्या पानावर बातम्या छापल्या जातात ह्याचं सर्वेक्षण करायचं होतं.",
+    "इतिहास प्राचीन मणी नमुना आजच्या आकार बरेच वेगळे आहे की आपल्याला सांगते.",
+    "संध्याकाळी हे क्लासेस सुरू असतानाच अचानक ही इमारत कोसळली.",
+    "१ फेब्रुवारीपासून तुमच्या टीव्ही चॅनेलचे दर बदलणार",
+    "त्यांना हेही - एक crucian, गोड पाण्यातील माशाची एक जात, गोड्या पाण्यातील एक मासा, pike, गोड्या पाण्यातील एक मासा.",
+    "सरसोमध्ये भरपूर प्रमाणात फायबर्स असतात.",
+    "न बा , आगे बढो हम तुम्हारे पिछे है !"
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "श्रीकांत",
+      "sentence": 0,
+      "start": 0,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "शिंदे",
+      "sentence": 0,
+      "start": 8,
+      "end": 13,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "पेटाऱ्यातून",
+      "sentence": 0,
+      "start": 26,
+      "end": 35,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "रासरंग",
+      "sentence": 0,
+      "start": 38,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "नवरात्रोत्सव",
+      "sentence": 0,
+      "start": 57,
+      "end": 68,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "वर्षे",
+      "sentence": 0,
+      "start": 84,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "घडामोडी",
+      "sentence": 1,
+      "start": 116,
+      "end": 125,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "वास्तू",
+      "sentence": 2,
+      "start": 163,
+      "end": 168,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "स्थळं",
+      "sentence": 2,
+      "start": 172,
+      "end": 177,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "यादीत",
+      "sentence": 2,
+      "start": 181,
+      "end": 186,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "याला",
+      "sentence": 2,
+      "start": 200,
+      "end": 204,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "विरोध",
+      "sentence": 2,
+      "start": 205,
+      "end": 210,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "ते",
+      "sentence": 3,
+      "start": 231,
+      "end": 233,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "fuses",
+      "sentence": 4,
+      "start": 274,
+      "end": 279,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "मॉडेल",
+      "sentence": 4,
+      "start": 287,
+      "end": 292,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "मुले",
+      "sentence": 4,
+      "start": 293,
+      "end": 296,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "त्यांच्या",
+      "sentence": 4,
+      "start": 297,
+      "end": 303,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "उपकरणे",
+      "sentence": 4,
+      "start": 318,
+      "end": 323,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "पेपर",
+      "sentence": 5,
+      "start": 372,
+      "end": 376,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "पानावर",
+      "sentence": 5,
+      "start": 434,
+      "end": 440,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "बातम्या",
+      "sentence": 5,
+      "start": 441,
+      "end": 446,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "सर्वेक्षण",
+      "sentence": 5,
+      "start": 468,
+      "end": 475,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "इतिहास",
+      "sentence": 6,
+      "start": 495,
+      "end": 500,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "नमुना",
+      "sentence": 6,
+      "start": 512,
+      "end": 516,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "आपल्याला",
+      "sentence": 6,
+      "start": 553,
+      "end": 559,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "संध्याकाळी",
+      "sentence": 7,
+      "start": 564,
+      "end": 571,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "क्लासेस",
+      "sentence": 7,
+      "start": 575,
+      "end": 581,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "इमारत",
+      "sentence": 7,
+      "start": 610,
+      "end": 615,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "फेब्रुवारीपासून",
+      "sentence": 8,
+      "start": 628,
+      "end": 639,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "टीव्ही",
+      "sentence": 8,
+      "start": 647,
+      "end": 650,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "त्यांना",
+      "sentence": 9,
+      "start": 672,
+      "end": 676,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "मासा",
+      "sentence": 9,
+      "start": 737,
+      "end": 741,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "pike",
+      "sentence": 9,
+      "start": 744,
+      "end": 748,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "मासा",
+      "sentence": 9,
+      "start": 765,
+      "end": 769,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "सरसोमध्ये",
+      "sentence": 10,
+      "start": 776,
+      "end": 784,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "प्रमाणात",
+      "sentence": 10,
+      "start": 794,
+      "end": 800,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "फायबर्स",
+      "sentence": 10,
+      "start": 801,
+      "end": 808,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      4,
+      5,
+      6
+    ],
+    [
+      21,
+      22
+    ]
+  ]
+}

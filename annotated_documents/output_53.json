@@ -1,0 +1,282 @@
+{
+  "document_id": "document_53",
+  "sentences": [
+    "रिझर्व्ह बँकेच्या डेप्युटी गव्हर्नरपदी महेश कुमार जैन यांची नियुक्ती",
+    "सातारा लाचलुचपत प्रतिबंध तथा एसीबीने सोमवारी सायंकाळी प्राथमिक शिक्षणाधिकारी पुनीता गुरव यांना लाच स्वीकारल्याप्रकरणी अटक केली आहे.",
+    "ध्वज तयार करताना तिरंगाचा रंग, कापड, माप हे योग्य पद्धतीने तयार केले जाते.",
+    "जो पर्यंत आपण अविवाहित आहोत तोपर्यंत आपल्या उत्पनाच्या कमीतकमी ३०% आपण बचत केली पाहिजे, लग्न झाल्यावर २०% आणि कुटुंब वाढल्यावर कमीतकमी १०% बचत करायला हवी.",
+    "कैरकैसन शहरच्या दक्षिण पूर्व औड येथील जंगलात बुधवारी दुपारी ही आग लागली.",
+    "यावेळी बोलताना उदयनराजे यांनी छत्रपती शिवाजी महाराजांच्या विचारावरच भाजप पुढे चाललाय.",
+    "वालुकामय, फॅन्सी सदोष आणि ताजा: ते विविध चाचण्या बाहेर केले."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "रिझर्व्ह",
+      "sentence": 0,
+      "start": 0,
+      "end": 6,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "गव्हर्नरपदी",
+      "sentence": 0,
+      "start": 22,
+      "end": 30,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "कुमार",
+      "sentence": 0,
+      "start": 37,
+      "end": 41,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "यांची",
+      "sentence": 0,
+      "start": 47,
+      "end": 51,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "नियुक्ती",
+      "sentence": 0,
+      "start": 52,
+      "end": 57,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "सातारा",
+      "sentence": 1,
+      "start": 59,
+      "end": 64,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "लाचलुचपत",
+      "sentence": 1,
+      "start": 65,
+      "end": 72,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "प्रतिबंध",
+      "sentence": 1,
+      "start": 73,
+      "end": 79,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "एसीबीने",
+      "sentence": 1,
+      "start": 86,
+      "end": 92,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "शिक्षणाधिकारी",
+      "sentence": 1,
+      "start": 118,
+      "end": 128,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "गुरव",
+      "sentence": 1,
+      "start": 135,
+      "end": 139,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "यांना",
+      "sentence": 1,
+      "start": 141,
+      "end": 145,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "ध्वज",
+      "sentence": 2,
+      "start": 171,
+      "end": 174,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "कापड",
+      "sentence": 2,
+      "start": 198,
+      "end": 202,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "आपण",
+      "sentence": 3,
+      "start": 231,
+      "end": 234,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "आपल्या",
+      "sentence": 3,
+      "start": 251,
+      "end": 255,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "उत्पनाच्या",
+      "sentence": 3,
+      "start": 256,
+      "end": 262,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "आपण",
+      "sentence": 3,
+      "start": 279,
+      "end": 282,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "लग्न",
+      "sentence": 3,
+      "start": 297,
+      "end": 300,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "कुटुंब",
+      "sentence": 3,
+      "start": 317,
+      "end": 320,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "कैरकैसन",
+      "sentence": 4,
+      "start": 349,
+      "end": 356,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "जंगलात",
+      "sentence": 4,
+      "start": 384,
+      "end": 390,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "उदयनराजे",
+      "sentence": 5,
+      "start": 429,
+      "end": 436,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "यांनी",
+      "sentence": 5,
+      "start": 437,
+      "end": 440,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "छत्रपती",
+      "sentence": 5,
+      "start": 441,
+      "end": 447,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "शिवाजी",
+      "sentence": 5,
+      "start": 448,
+      "end": 453,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "महाराजांच्या",
+      "sentence": 5,
+      "start": 454,
+      "end": 463,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "विचारावरच",
+      "sentence": 5,
+      "start": 464,
+      "end": 472,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "भाजप",
+      "sentence": 5,
+      "start": 473,
+      "end": 477,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "ते",
+      "sentence": 6,
+      "start": 504,
+      "end": 506,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      4,
+      5,
+      6
+    ],
+    [
+      15,
+      16,
+      17
+    ],
+    [
+      19,
+      20
+    ],
+    [
+      21,
+      22,
+      23,
+      24
+    ],
+    [
+      25,
+      26,
+      28
+    ]
+  ]
+}

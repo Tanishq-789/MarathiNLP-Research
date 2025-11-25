@@ -1,0 +1,562 @@
+{
+  "document_id": "document_92",
+  "sentences": [
+    "लिंबाचा रस- चिकनला पुरेल इतका",
+    "नाणार येथे प्रकल्प उभारण्यास असलेला आपला विरोध स्पष्ट शब्दात मांडताना आर्ते म्हणाले की, लोकांनी चांगले प्रकल्प येण्यासाठी ‘लोकआंदोलन’ उभे केले पाहिज़े",
+    "शैक्षणिक केंद्र ऑटोमोबाईल उद्योग, मोठे रूग्णालय संकुल यासारखे प्रकल्प यावेत, यासाठी लोकप्रतिनिधींनी विशेष प्रयत्न केले पाहिजेत आणि जनतेनेही आम्हाला रोजगाराभिमुख पण प्रदेशस्नेही उद्योग द्या, अशी मागणी केली पाहिज़े",
+    "(समाप्त)",
+    "गरूड हा आकाशात सगळ्यात उंच उडतो.",
+    "मॉस्को पेन्शन अतिरिक्त पैसे आणि काम सोडून ज्यांनी निवृत्त ठेवले.",
+    "भावनगर-अहमदाबाद महामार्गावरील दुर्घटना : मृतांमध्ये महिलांचा समावेश",
+    "मुकुल शिवपुत्र, राजन मिश्रा, सुरेश वाडकर, अश्विनी भिडे चाफेकर, उदय भवाळकर, जयतीर्थ मेवुंडी, रोणू मुजुमदार, कौशिकी चक्रवर्ती, पं.",
+    "बांधकाम निष्ठा, आपण या लेखातील आढळेल एक फोटो वॉलपेपर gluing हेतूने केले जाऊ शकते.",
+    "भाईगिरीनंतर आता संकेत पावसे दिग्दर्शित ‘ट्रिपल सीट’ या चित्रपटात प्रविण विठ्ठल तरडे एका पोलीस इन्स्पेक्टरच्या भूमिकेत",
+    "आता हेच पाहा ना मुंबईत झालेल्या एका ‘अंडर-16’ लढतीमध्ये संपूर्ण संघ फक्त 7 धावांवर बाद झाला आणि विरोधी संघाने तब्बल 754 धावांनी ऐतिहासिक विजय मिळवला.",
+    "सीएसएमटी इथं पादचारी पुल कोसळून 6 जणांचा मृत्यू झाला.",
+    "जाळय़ात पाय अडकल्याने मच्छीमाराचा मृत्यू"
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "चिकनला",
+      "sentence": 0,
+      "start": 15,
+      "end": 21,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "नाणार",
+      "sentence": 1,
+      "start": 28,
+      "end": 33,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "प्रकल्प",
+      "sentence": 1,
+      "start": 35,
+      "end": 41,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "आपला",
+      "sentence": 1,
+      "start": 57,
+      "end": 61,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "विरोध",
+      "sentence": 1,
+      "start": 63,
+      "end": 68,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "शब्दात",
+      "sentence": 1,
+      "start": 74,
+      "end": 79,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "आर्ते",
+      "sentence": 1,
+      "start": 84,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "लोकांनी",
+      "sentence": 1,
+      "start": 100,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "प्रकल्प",
+      "sentence": 1,
+      "start": 114,
+      "end": 120,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "केंद्र",
+      "sentence": 2,
+      "start": 156,
+      "end": 160,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "उद्योग",
+      "sentence": 2,
+      "start": 172,
+      "end": 177,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "संकुल",
+      "sentence": 2,
+      "start": 195,
+      "end": 200,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "प्रकल्प",
+      "sentence": 2,
+      "start": 209,
+      "end": 215,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "लोकप्रतिनिधींनी",
+      "sentence": 2,
+      "start": 227,
+      "end": 240,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "प्रयत्न",
+      "sentence": 2,
+      "start": 240,
+      "end": 246,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "जनतेनेही",
+      "sentence": 2,
+      "start": 260,
+      "end": 267,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "आम्हाला",
+      "sentence": 2,
+      "start": 268,
+      "end": 274,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "उद्योग",
+      "sentence": 2,
+      "start": 297,
+      "end": 302,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "मागणी",
+      "sentence": 2,
+      "start": 308,
+      "end": 312,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "गरूड",
+      "sentence": 4,
+      "start": 396,
+      "end": 400,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "आकाशात",
+      "sentence": 4,
+      "start": 407,
+      "end": 413,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "मॉस्को",
+      "sentence": 5,
+      "start": 429,
+      "end": 434,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "पेन्शन",
+      "sentence": 5,
+      "start": 436,
+      "end": 441,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "पैसे",
+      "sentence": 5,
+      "start": 451,
+      "end": 454,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "ज्यांनी",
+      "sentence": 5,
+      "start": 471,
+      "end": 476,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "दुर्घटना",
+      "sentence": 6,
+      "start": 508,
+      "end": 514,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "मृतांमध्ये",
+      "sentence": 6,
+      "start": 521,
+      "end": 529,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "महिलांचा",
+      "sentence": 6,
+      "start": 532,
+      "end": 538,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "मुकुल",
+      "sentence": 7,
+      "start": 545,
+      "end": 549,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "शिवपुत्र",
+      "sentence": 7,
+      "start": 551,
+      "end": 558,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "राजन",
+      "sentence": 7,
+      "start": 560,
+      "end": 564,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "मिश्रा",
+      "sentence": 7,
+      "start": 566,
+      "end": 571,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "वाडकर",
+      "sentence": 7,
+      "start": 579,
+      "end": 584,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "अश्विनी",
+      "sentence": 7,
+      "start": 586,
+      "end": 592,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "भिडे",
+      "sentence": 7,
+      "start": 593,
+      "end": 597,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "भवाळकर",
+      "sentence": 7,
+      "start": 611,
+      "end": 617,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "जयतीर्थ",
+      "sentence": 7,
+      "start": 620,
+      "end": 626,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "मेवुंडी",
+      "sentence": 7,
+      "start": 628,
+      "end": 634,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "रोणू",
+      "sentence": 7,
+      "start": 636,
+      "end": 639,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "मुजुमदार",
+      "sentence": 7,
+      "start": 641,
+      "end": 648,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "कौशिकी",
+      "sentence": 7,
+      "start": 651,
+      "end": 656,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "चक्रवर्ती",
+      "sentence": 7,
+      "start": 658,
+      "end": 666,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "बांधकाम",
+      "sentence": 8,
+      "start": 672,
+      "end": 678,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "निष्ठा",
+      "sentence": 8,
+      "start": 680,
+      "end": 684,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "आपण",
+      "sentence": 8,
+      "start": 687,
+      "end": 690,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "फोटो",
+      "sentence": 8,
+      "start": 710,
+      "end": 713,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "वॉलपेपर",
+      "sentence": 8,
+      "start": 715,
+      "end": 721,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "हेतूने",
+      "sentence": 8,
+      "start": 729,
+      "end": 734,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "संकेत",
+      "sentence": 9,
+      "start": 747,
+      "end": 751,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "पावसे",
+      "sentence": 9,
+      "start": 753,
+      "end": 757,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "चित्रपटात",
+      "sentence": 9,
+      "start": 785,
+      "end": 791,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "प्रविण",
+      "sentence": 9,
+      "start": 792,
+      "end": 797,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "विठ्ठल",
+      "sentence": 9,
+      "start": 798,
+      "end": 803,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "पोलीस",
+      "sentence": 9,
+      "start": 814,
+      "end": 818,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "भूमिकेत",
+      "sentence": 9,
+      "start": 832,
+      "end": 838,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "मुंबईत",
+      "sentence": 10,
+      "start": 848,
+      "end": 853,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "लढतीमध्ये",
+      "sentence": 10,
+      "start": 866,
+      "end": 874,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "धावांवर",
+      "sentence": 10,
+      "start": 893,
+      "end": 899,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "संघाने",
+      "sentence": 10,
+      "start": 917,
+      "end": 922,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "धावांनी",
+      "sentence": 10,
+      "start": 936,
+      "end": 941,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "सीएसएमटी",
+      "sentence": 11,
+      "start": 955,
+      "end": 961,
+      "confidence": 1.0
+    },
+    {
+      "id": 61,
+      "text": "जणांचा",
+      "sentence": 11,
+      "start": 986,
+      "end": 991,
+      "confidence": 1.0
+    },
+    {
+      "id": 62,
+      "text": "मृत्यू",
+      "sentence": 11,
+      "start": 992,
+      "end": 996,
+      "confidence": 1.0
+    },
+    {
+      "id": 63,
+      "text": "जाळय़ात",
+      "sentence": 12,
+      "start": 1000,
+      "end": 1005,
+      "confidence": 1.0
+    },
+    {
+      "id": 64,
+      "text": "मच्छीमाराचा",
+      "sentence": 12,
+      "start": 1018,
+      "end": 1026,
+      "confidence": 1.0
+    },
+    {
+      "id": 65,
+      "text": "मृत्यू",
+      "sentence": 12,
+      "start": 1027,
+      "end": 1031,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      5,
+      8
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      22,
+      23
+    ]
+  ]
+}
