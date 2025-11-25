@@ -1,0 +1,339 @@
+{
+  "document_id": "document_284",
+  "sentences": [
+    "गायकवाड, स्वप्निल बोराटे, गजानन दिक्षित, डॉ सुधाकर लाड, मारूती नेवसे, गोरख कदम, राजेश कदम, नरेश बोकेफोडे, रामभाऊ कांबळे.",
+    "Gazaeva म्हणून पत्नी देशद्रोह एक आंधळा डोळा चालू जात नाही, आणि लगेच अपमान जाऊ पेक्षा, अनेक वर्षे सर्व संबंध बंद खंडित सर्वोत्तम आहे.",
+    "निरंजन भूमकर हे वैरागचे माजी सरपंच आहेत, त्यांच्या मातोश्री रेखा भुमकर या सध्या वैराग जिल्हा परिषद गटाच्या सदस्य आहेत.",
+    "मात्र, त्याचे निदान होत नाही आणि उपचाराचा फरकही पडत नव्हता.",
+    "रुग्णालयामध्ये डॉक्टरांकडून तसेच पोलिसांकडून होणारी  विचारपूस नको म्हणून अपघात समोर घडलेला असूनही इतर लोक बिनधास्तपणे निघून जातात.",
+    "दिलीप सोपल बुधवारी (दि.",
+    "बागांमध्ये वाढला बुरशीजन्य रोगांचा प्रादुर्भाव",
+    "जुन्या नोटांच्या रकमेवर कर आकारणी होणार",
+    "सीबीआयचे अधिकारी के."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "गायकवाड",
+      "sentence": 0,
+      "start": 0,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "गजानन",
+      "sentence": 0,
+      "start": 24,
+      "end": 29,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "दिक्षित",
+      "sentence": 0,
+      "start": 31,
+      "end": 36,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "सुधाकर",
+      "sentence": 0,
+      "start": 41,
+      "end": 46,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "गोरख",
+      "sentence": 0,
+      "start": 65,
+      "end": 69,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "राजेश",
+      "sentence": 0,
+      "start": 76,
+      "end": 80,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "रामभाऊ",
+      "sentence": 0,
+      "start": 101,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "कांबळे",
+      "sentence": 0,
+      "start": 108,
+      "end": 113,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "Gazaeva",
+      "sentence": 1,
+      "start": 115,
+      "end": 121,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "पत्नी",
+      "sentence": 1,
+      "start": 129,
+      "end": 132,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "देशद्रोह",
+      "sentence": 1,
+      "start": 134,
+      "end": 140,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "डोळा",
+      "sentence": 1,
+      "start": 152,
+      "end": 155,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "वर्षे",
+      "sentence": 1,
+      "start": 176,
+      "end": 179,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "संबंध",
+      "sentence": 1,
+      "start": 183,
+      "end": 186,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "निरंजन",
+      "sentence": 2,
+      "start": 200,
+      "end": 205,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "भूमकर",
+      "sentence": 2,
+      "start": 207,
+      "end": 211,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "वैराग",
+      "sentence": 2,
+      "start": 215,
+      "end": 219,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "सरपंच",
+      "sentence": 2,
+      "start": 224,
+      "end": 228,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "त्यांच्या",
+      "sentence": 2,
+      "start": 239,
+      "end": 244,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "रेखा",
+      "sentence": 2,
+      "start": 253,
+      "end": 256,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "भुमकर",
+      "sentence": 2,
+      "start": 258,
+      "end": 262,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "वैराग",
+      "sentence": 2,
+      "start": 267,
+      "end": 271,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "जिल्हा",
+      "sentence": 2,
+      "start": 273,
+      "end": 277,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "परिषद",
+      "sentence": 2,
+      "start": 279,
+      "end": 283,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "सदस्य",
+      "sentence": 2,
+      "start": 291,
+      "end": 295,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "त्याचे",
+      "sentence": 3,
+      "start": 301,
+      "end": 305,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "निदान",
+      "sentence": 3,
+      "start": 307,
+      "end": 310,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "उपचार",
+      "sentence": 3,
+      "start": 322,
+      "end": 325,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "रुग्णालय",
+      "sentence": 4,
+      "start": 345,
+      "end": 350,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "डॉक्टर",
+      "sentence": 4,
+      "start": 359,
+      "end": 363,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "पोलीस",
+      "sentence": 4,
+      "start": 375,
+      "end": 378,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "विचारपूस",
+      "sentence": 4,
+      "start": 388,
+      "end": 393,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "अपघात",
+      "sentence": 4,
+      "start": 401,
+      "end": 405,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "बुधवार",
+      "sentence": 5,
+      "start": 457,
+      "end": 461,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "प्रादुर्भाव",
+      "sentence": 6,
+      "start": 486,
+      "end": 491,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "रक्कम",
+      "sentence": 7,
+      "start": 506,
+      "end": 508,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "आकारणी",
+      "sentence": 7,
+      "start": 514,
+      "end": 518,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "अधिकारी",
+      "sentence": 8,
+      "start": 530,
+      "end": 534,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      24,
+      25,
+      28
+    ],
+    [
+      30,
+      31
+    ],
+    [
+      26,
+      32
+    ],
+    [
+      33,
+      34
+    ]
+  ]
+}

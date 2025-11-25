@@ -1,0 +1,82 @@
+{
+  "document_id": "document_296",
+  "sentences": [
+    "खरं तर, काही दिवसांपूर्वी एका व्यक्तीने जेरोम साल्ले यांना टॅग करत ट्विट केले होते आणि म्हटले होते की ‘साहो’ त्याच्या ‘लार्गो फिंच’ चित्रपटातून कॉपी झाला आहे.",
+    "हे कशामुळे वाटलं ते कळलं नाही.",
+    "म्हंजे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "व्यक्तीने",
+      "sentence": 0,
+      "start": 20,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "जेरोम",
+      "sentence": 0,
+      "start": 28,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "यांना",
+      "sentence": 0,
+      "start": 40,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "ट्विट",
+      "sentence": 0,
+      "start": 51,
+      "end": 54,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "त्याच्या",
+      "sentence": 0,
+      "start": 92,
+      "end": 97,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "लार्गो",
+      "sentence": 0,
+      "start": 100,
+      "end": 104,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "चित्रपटातून",
+      "sentence": 0,
+      "start": 111,
+      "end": 120,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "ते",
+      "sentence": 1,
+      "start": 139,
+      "end": 140,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      1,
+      2,
+      3,
+      6
+    ]
+  ]
+}

@@ -1,0 +1,589 @@
+{
+  "document_id": "document_300",
+  "sentences": [
+    "आज या परिसरात सुध्दा तब्बल ५६ मिलीमीटर पावसाची नोंद झाली आहे.",
+    "अशा नपुंसक औलादीच्या ताब्यात देश द्याल का, असा सवालही त्यांनी उपस्थित जनसमुदायाला केला.",
+    "ऑस्ट्रेलियाचा संघ विश्वासाच्या लाटेवर स्वार झाला आहे.",
+    "प्रश्न हा आहे की मोदींनी या निवडणूका खरंच निवडणूकीच्या मैदानावर लढल्यात का ?",
+    "त्यानंतर आयोजित पत्रकार परिषदेत बोलताना संजय राऊत यांनी भाजप सरकारच्या कारभारावर कडक शब्दांत टीका केली.",
+    "विविध वयोगटातील लोक योगासने करण्यासाठी याठिकाणी एकत्र आले असून स्वत: रामदेव बाबा त्यांना योगासनाचे धडे देत आहेत.",
+    "प्रसारमाध्यमांनी हे प्रकरण उचलून धरले.",
+    "आदिम आदिवासी कुटुंबे (माडिया, कोलाम, कातकरी), भूमिहीन शेतमजूर, अल्पभुधारक शेतकरी, ग्रामीण कारागीर उदा.",
+    "इवान आणि रेफ्री यांच्यात वाद सुरू असताना सुरक्षेच्या कारणावरून एईकेचा संघ मैदानाबाहेर निघून गेला आणि पुन्हा मैदानात आलाच नाही.",
+    "राजेंद्र बोरकर यांच्यासह डॉ.",
+    "भिसो विष्णू शेटगावकर, आनंदी गार्डन्स ऍण्ड रिक्रिएशनल सेंटरचे अध्यक्ष मोर्तू नाईक तसेच उपाध्यक्ष अशोक नाईक, नवीन खांडेकर व सचिव आनंदी नाईक यांची उपस्थिती होती.",
+    "फ्रान्समधील एका वृत्तपत्राने त्यांची मुलाखत छापण्यात नकार दिला आहे.",
+    "खालील प्रमाणे आपला चळवळ मार्ग असेल:",
+    "तरीदेखील आम्ही मध्यवर्ती म."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "पावसाची",
+      "sentence": 0,
+      "start": 31,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "नोंद",
+      "sentence": 0,
+      "start": 39,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "औलादीच्या",
+      "sentence": 1,
+      "start": 13,
+      "end": 22,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "ताब्यात",
+      "sentence": 1,
+      "start": 23,
+      "end": 29,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "सवालही",
+      "sentence": 1,
+      "start": 46,
+      "end": 52,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "त्यांनी",
+      "sentence": 1,
+      "start": 53,
+      "end": 58,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "जनसमुदायाला",
+      "sentence": 1,
+      "start": 65,
+      "end": 75,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "ऑस्ट्रेलियाचा",
+      "sentence": 2,
+      "start": 0,
+      "end": 10,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "विश्वासाच्या",
+      "sentence": 2,
+      "start": 15,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "लाटेवर",
+      "sentence": 2,
+      "start": 25,
+      "end": 31,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "प्रश्न",
+      "sentence": 3,
+      "start": 0,
+      "end": 5,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "मोदींनी",
+      "sentence": 3,
+      "start": 16,
+      "end": 22,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "मैदानावर",
+      "sentence": 3,
+      "start": 51,
+      "end": 58,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "पत्रकार",
+      "sentence": 4,
+      "start": 12,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "परिषदेत",
+      "sentence": 4,
+      "start": 18,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "राऊत",
+      "sentence": 4,
+      "start": 39,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "यांनी",
+      "sentence": 4,
+      "start": 44,
+      "end": 48,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "भाजप",
+      "sentence": 4,
+      "start": 49,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "कारभारावर",
+      "sentence": 4,
+      "start": 62,
+      "end": 69,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "शब्दांत",
+      "sentence": 4,
+      "start": 76,
+      "end": 81,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "टीका",
+      "sentence": 4,
+      "start": 82,
+      "end": 86,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "वयोगटातील",
+      "sentence": 5,
+      "start": 6,
+      "end": 14,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "योगासने",
+      "sentence": 5,
+      "start": 18,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "स्वतः",
+      "sentence": 5,
+      "start": 51,
+      "end": 55,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "रामदेव",
+      "sentence": 5,
+      "start": 56,
+      "end": 61,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "बाबा",
+      "sentence": 5,
+      "start": 62,
+      "end": 65,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "त्यांना",
+      "sentence": 5,
+      "start": 66,
+      "end": 71,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "योगासनाचे",
+      "sentence": 5,
+      "start": 72,
+      "end": 79,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "प्रसारमाध्यमांनी",
+      "sentence": 6,
+      "start": 0,
+      "end": 12,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "प्रकरण",
+      "sentence": 6,
+      "start": 16,
+      "end": 21,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "आदिवासी",
+      "sentence": 7,
+      "start": 5,
+      "end": 12,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "कुटुंबे",
+      "sentence": 7,
+      "start": 13,
+      "end": 18,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "माडिया",
+      "sentence": 7,
+      "start": 21,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "कोलाम",
+      "sentence": 7,
+      "start": 28,
+      "end": 33,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "कातकरी",
+      "sentence": 7,
+      "start": 35,
+      "end": 41,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "शेतमजूर",
+      "sentence": 7,
+      "start": 50,
+      "end": 57,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "शेतकरी",
+      "sentence": 7,
+      "start": 67,
+      "end": 73,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "कारागीर",
+      "sentence": 7,
+      "start": 82,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "इवान",
+      "sentence": 8,
+      "start": 0,
+      "end": 3,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "रेफ्री",
+      "sentence": 8,
+      "start": 8,
+      "end": 12,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "कारणावरून",
+      "sentence": 8,
+      "start": 43,
+      "end": 50,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "मैदानाबाहेर",
+      "sentence": 8,
+      "start": 62,
+      "end": 71,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "मैदानात",
+      "sentence": 8,
+      "start": 89,
+      "end": 95,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "राजेंद्र",
+      "sentence": 9,
+      "start": 0,
+      "end": 6,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "विष्णू",
+      "sentence": 10,
+      "start": 4,
+      "end": 8,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "शेटगावकर",
+      "sentence": 10,
+      "start": 9,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "गार्डन्स",
+      "sentence": 10,
+      "start": 24,
+      "end": 30,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "सेंटरचे",
+      "sentence": 10,
+      "start": 46,
+      "end": 52,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "मोर्तू",
+      "sentence": 10,
+      "start": 59,
+      "end": 63,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "नाईक",
+      "sentence": 10,
+      "start": 64,
+      "end": 68,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "अशोक",
+      "sentence": 10,
+      "start": 84,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "नाईक",
+      "sentence": 10,
+      "start": 89,
+      "end": 93,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "खांडेकर",
+      "sentence": 10,
+      "start": 100,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "सचिव",
+      "sentence": 10,
+      "start": 109,
+      "end": 113,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "नाईक",
+      "sentence": 10,
+      "start": 119,
+      "end": 123,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "यांची",
+      "sentence": 10,
+      "start": 124,
+      "end": 128,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "उपस्थिती",
+      "sentence": 10,
+      "start": 129,
+      "end": 135,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "फ्रान्समधील",
+      "sentence": 11,
+      "start": 0,
+      "end": 8,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "वृत्तपत्राने",
+      "sentence": 11,
+      "start": 13,
+      "end": 20,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "त्यांची",
+      "sentence": 11,
+      "start": 21,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "मुलाखत",
+      "sentence": 11,
+      "start": 27,
+      "end": 33,
+      "confidence": 1.0
+    },
+    {
+      "id": 61,
+      "text": "नकार",
+      "sentence": 11,
+      "start": 41,
+      "end": 45,
+      "confidence": 1.0
+    },
+    {
+      "id": 62,
+      "text": "चळवळ",
+      "sentence": 12,
+      "start": 14,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 63,
+      "text": "मार्ग",
+      "sentence": 12,
+      "start": 20,
+      "end": 23,
+      "confidence": 1.0
+    },
+    {
+      "id": 64,
+      "text": "आम्ही",
+      "sentence": 13,
+      "start": 9,
+      "end": 13,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      20,
+      21,
+      22
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      53,
+      54
+    ],
+    [
+      17,
+      55,
+      56
+    ],
+    [
+      31,
+      32,
+      33
+    ],
+    [
+      29,
+      34
+    ],
+    [
+      23,
+      24
+    ],
+    [
+      47,
+      48,
+      49
+    ],
+    [
+      62,
+      63,
+      64
+    ],
+    [
+      59,
+      60,
+      61
+    ]
+  ]
+}

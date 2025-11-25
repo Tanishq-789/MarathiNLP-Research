@@ -1,0 +1,161 @@
+{
+  "document_id": "document_249",
+  "sentences": [
+    "नाईक.",
+    "त्यांच्या या अध्यक्षीय भाषणात त्यांनी महाराष्ट्रातील सामाजिक न्यायाच्या चळवळीचा जणू संक्षिप्त इतिहासच लिहिला होता.",
+    "कोल्हापूर महाराष्ट्र-कर्नाटक सीमालढय़ात मराठी भाषक चळवळीचे प्रमुख केंद्र असलेल्या बेळगाव येथे आजपासून सुरू झालेल्या कर्नाटक सरकारच्या हिवाळी अधिवेशनाला मराठी भाषकांनीही महामेळाव्यातून चोख प्रत्युत्तर दिले."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "नाईक",
+      "sentence": 0,
+      "start": 0,
+      "end": 4,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "त्यांच्या",
+      "sentence": 1,
+      "start": 6,
+      "end": 13,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "भाषणात",
+      "sentence": 1,
+      "start": 23,
+      "end": 29,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "त्यांनी",
+      "sentence": 1,
+      "start": 31,
+      "end": 36,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "न्यायाच्या",
+      "sentence": 1,
+      "start": 59,
+      "end": 67,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "चळवळीचा",
+      "sentence": 1,
+      "start": 68,
+      "end": 75,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "इतिहासच",
+      "sentence": 1,
+      "start": 85,
+      "end": 91,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "कोल्हापूर",
+      "sentence": 2,
+      "start": 95,
+      "end": 103,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "महाराष्ट्र-कर्नाटक",
+      "sentence": 2,
+      "start": 104,
+      "end": 120,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "सीमालढय़ात",
+      "sentence": 2,
+      "start": 121,
+      "end": 130,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "भाषक",
+      "sentence": 2,
+      "start": 137,
+      "end": 141,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "चळवळीचे",
+      "sentence": 2,
+      "start": 142,
+      "end": 148,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "केंद्र",
+      "sentence": 2,
+      "start": 155,
+      "end": 159,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "बेळगाव",
+      "sentence": 2,
+      "start": 168,
+      "end": 173,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "अधिवेशनाला",
+      "sentence": 2,
+      "start": 217,
+      "end": 226,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "भाषकांनीही",
+      "sentence": 2,
+      "start": 235,
+      "end": 244,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "महामेळाव्यातून",
+      "sentence": 2,
+      "start": 247,
+      "end": 259,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "प्रत्युत्तर",
+      "sentence": 2,
+      "start": 266,
+      "end": 275,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1,
+      3
+    ]
+  ]
+}

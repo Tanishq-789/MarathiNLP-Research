@@ -1,0 +1,244 @@
+{
+  "document_id": "document_272",
+  "sentences": [
+    "बीड : पंकजा मुंडे यांच्या नेतृत्वाखाली सोमवारी औरंगाबादेत मराठवाड्याच्या पाणी प्रश्नावर झालेल्या आंदोलनाला देवेंद्र फडणवीस यांच्यापासून बहुतेक सर्वच राज्यातील बड्या नेत्यांची.",
+    "ई-कॉमर्स कंपन्यांनी केलेल्या एकूण विक्रीचा विचार केल्यास त्यातील अ‍ॅमेझॉनचा वाटा २८ टक्के इतका आहे.",
+    "विरोधकांचा पराभव होईल.",
+    "गोमूत्राने वडिलांचा कॅन्सर बरा झाल्याचा भाजप खासदाराचा दावा",
+    "आई  होण्याचा आनंद ती अनुभव होती.",
+    "२ या कथेतले गंगाधरपंत एका अपघाताने दुसऱ्याच एका परिचित तरी अपरिचित जगात जातात.",
+    "चेंडू इ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "पंकजा",
+      "sentence": 0,
+      "start": 7,
+      "end": 12,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "मुंडे",
+      "sentence": 0,
+      "start": 14,
+      "end": 18,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "औरंगाबादेत",
+      "sentence": 0,
+      "start": 48,
+      "end": 58,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मराठवाड्याच्या",
+      "sentence": 0,
+      "start": 60,
+      "end": 71,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "पाणी",
+      "sentence": 0,
+      "start": 74,
+      "end": 78,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "प्रश्नावर",
+      "sentence": 0,
+      "start": 80,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "आंदोलनाला",
+      "sentence": 0,
+      "start": 93,
+      "end": 101,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "देवेंद्र",
+      "sentence": 0,
+      "start": 107,
+      "end": 113,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "फडणवीस",
+      "sentence": 0,
+      "start": 115,
+      "end": 122,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "नेत्यांची",
+      "sentence": 0,
+      "start": 151,
+      "end": 157,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "कंपन्यांनी",
+      "sentence": 1,
+      "start": 12,
+      "end": 20,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "विक्रीचा",
+      "sentence": 1,
+      "start": 31,
+      "end": 37,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "विचार",
+      "sentence": 1,
+      "start": 40,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "वाटा",
+      "sentence": 1,
+      "start": 68,
+      "end": 71,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "पराभव",
+      "sentence": 2,
+      "start": 10,
+      "end": 15,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "गोमूत्राने",
+      "sentence": 3,
+      "start": 0,
+      "end": 8,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "वडिलांचा",
+      "sentence": 3,
+      "start": 9,
+      "end": 16,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "कॅन्सर",
+      "sentence": 3,
+      "start": 17,
+      "end": 22,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "भाजप",
+      "sentence": 3,
+      "start": 30,
+      "end": 34,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "खासदाराचा",
+      "sentence": 3,
+      "start": 37,
+      "end": 45,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "दावा",
+      "sentence": 3,
+      "start": 46,
+      "end": 49,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "आनंद",
+      "sentence": 4,
+      "start": 11,
+      "end": 15,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "ती",
+      "sentence": 4,
+      "start": 17,
+      "end": 18,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "गंगाधरपंत",
+      "sentence": 5,
+      "start": 12,
+      "end": 21,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "अपघाताने",
+      "sentence": 5,
+      "start": 26,
+      "end": 33,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "जगात",
+      "sentence": 5,
+      "start": 55,
+      "end": 59,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "चेंडू",
+      "sentence": 6,
+      "start": 0,
+      "end": 4,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      1,
+      2
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      14,
+      16
+    ]
+  ]
+}

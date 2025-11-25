@@ -1,0 +1,289 @@
+{
+  "document_id": "document_220",
+  "sentences": [
+    "लातूरमध्ये बँक खात्यामधून 44 हजार परस्पर काढून फसवणूक",
+    "उपचार कालावधी दरम्यान, रुग्णाला एक डोकेदुखी आहे, आणि दृष्टी समस्या असेल, तर ते घेणे थांबवा.",
+    "अरूणा कामत पै यांनी गौतम नवलखा आणि माओवाद्यांचा पाकिस्तानची दहशतवादी संघटना हिजबुल मुजाहिद्दीनसोबत थेट संबंध आहेत.",
+    "सुत्रांनी दिलेल्या माहितीनुसार यावेळी मतमोजणीची पद्धत वेगळी ठेवण्यात आली असून मतदान यंत्रातील मते तसेच व्हिव्हिपीएटीमधील मते मोजून त्यांची तुलना करण्यात येणर आहे.",
+    "हे करण्यासाठी, शहर पावसाळी किंवा ढगाळ हवामान द्वारे दर्शविले जाते.",
+    "सुरुवातीच्या काळात भारतात गाड्या तयार होऊ लागल्या त्या म्हणजे ॲम्बेसिडर."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "लातूरमध्ये",
+      "sentence": 0,
+      "start": 0,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "खात्यामधून",
+      "sentence": 0,
+      "start": 14,
+      "end": 22,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "फसवणूक",
+      "sentence": 0,
+      "start": 40,
+      "end": 46,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "उपचार",
+      "sentence": 1,
+      "start": 48,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "कालावधी",
+      "sentence": 1,
+      "start": 55,
+      "end": 61,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "रुग्णाला",
+      "sentence": 1,
+      "start": 71,
+      "end": 78,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "डोकेदुखी",
+      "sentence": 1,
+      "start": 79,
+      "end": 86,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "दृष्टी",
+      "sentence": 1,
+      "start": 96,
+      "end": 100,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "समस्या",
+      "sentence": 1,
+      "start": 102,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "ते",
+      "sentence": 1,
+      "start": 114,
+      "end": 115,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "अरूणा",
+      "sentence": 2,
+      "start": 138,
+      "end": 142,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "कामत",
+      "sentence": 2,
+      "start": 144,
+      "end": 147,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "गौतम",
+      "sentence": 2,
+      "start": 157,
+      "end": 160,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "नवलखा",
+      "sentence": 2,
+      "start": 162,
+      "end": 166,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "माओवाद्यांचा",
+      "sentence": 2,
+      "start": 175,
+      "end": 185,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "पाकिस्तानची",
+      "sentence": 2,
+      "start": 187,
+      "end": 197,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "संघटना",
+      "sentence": 2,
+      "start": 208,
+      "end": 213,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "हिजबुल",
+      "sentence": 2,
+      "start": 215,
+      "end": 220,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "मुजाहिद्दीनसोबत",
+      "sentence": 2,
+      "start": 222,
+      "end": 236,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "संबंध",
+      "sentence": 2,
+      "start": 248,
+      "end": 252,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "सुत्रांनी",
+      "sentence": 3,
+      "start": 252,
+      "end": 260,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "माहितीनुसार",
+      "sentence": 3,
+      "start": 262,
+      "end": 272,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "मतमोजणीची",
+      "sentence": 3,
+      "start": 277,
+      "end": 286,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "पद्धत",
+      "sentence": 3,
+      "start": 288,
+      "end": 292,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "मतदान",
+      "sentence": 3,
+      "start": 311,
+      "end": 315,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "त्यांची",
+      "sentence": 3,
+      "start": 368,
+      "end": 373,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "हवामान",
+      "sentence": 4,
+      "start": 437,
+      "end": 442,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "काळात",
+      "sentence": 5,
+      "start": 488,
+      "end": 492,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "भारतात",
+      "sentence": 5,
+      "start": 495,
+      "end": 500,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "गाड्या",
+      "sentence": 5,
+      "start": 503,
+      "end": 507,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "त्या",
+      "sentence": 5,
+      "start": 523,
+      "end": 525,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "ॲम्बेसिडर",
+      "sentence": 5,
+      "start": 533,
+      "end": 541,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      12,
+      13,
+      14
+    ],
+    [
+      15,
+      16
+    ],
+    [
+      19,
+      20,
+      21
+    ],
+    [
+      29,
+      31
+    ]
+  ]
+}

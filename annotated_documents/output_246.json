@@ -1,0 +1,450 @@
+{
+  "document_id": "document_246",
+  "sentences": [
+    "’ अशी गाणी सादर करून वृद्धाश्रमातील ज्येष्ठांना आनंद दिला.",
+    "एप्रिल महिन्यात त्यांचा भाडे करार पूर्ण झाला होता, त्यामुळे घर मालकाने त्यांना घर खाली करण्यास सांगितले होते.",
+    "आमचा सैन्यदलांवर पूर्ण विश्वास आहे.",
+    "दरम्यान विवेकची पत्नी शिल्पा व मैत्रिण गंगा या दोघींनी विवेकला अन्नातून विष दिले होते.",
+    "वर्गात प्रशिक्षण मध्ये Aristova स्वेतलाना पाचक मुलूख च्या व्यत्यय होऊ कारणे बद्दल बोलतो, आणि पाचक प्रणाली विविध रोग उपचार पध्दती शिकवते.",
+    "मिट्टी जैसे सपने ये कित्ता भी",
+    "दरम्यान अद्याप या व्हॅनवर कारवाई करण्यात आली नाही.",
+    "ती शिजू द्यावे आपण मलई दुसऱ्या प्रकारचे करणे आवश्यक आहे.",
+    "समाजातील अंधश्रध्दा आणि समाजातील रूढी, परंपरा आणि त्यातून समाजाला आलेली गुलामगिरी तोडण्याचे काम केले पाहिजे आणि ते करण्याची ताकद सावरकरांच्या विज्ञाननिष्ठ धोरणात आहे.",
+    "मात्र त्यानंतर तुम्ही बॅंकेतून जा अन्यथा तुमच्यावर गुन्हा दाखल करून अशी धमकी दिली."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "गाणी",
+      "sentence": 0,
+      "start": 6,
+      "end": 10,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "ज्येष्ठांना",
+      "sentence": 0,
+      "start": 32,
+      "end": 40,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "आनंद",
+      "sentence": 0,
+      "start": 41,
+      "end": 45,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "एप्रिल",
+      "sentence": 1,
+      "start": 50,
+      "end": 55,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "त्यांचा",
+      "sentence": 1,
+      "start": 64,
+      "end": 70,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "भाडे",
+      "sentence": 1,
+      "start": 71,
+      "end": 75,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "करार",
+      "sentence": 1,
+      "start": 76,
+      "end": 80,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "मालकाने",
+      "sentence": 1,
+      "start": 106,
+      "end": 112,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "त्यांना",
+      "sentence": 1,
+      "start": 113,
+      "end": 118,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "आमचा",
+      "sentence": 2,
+      "start": 137,
+      "end": 142,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "सैन्यदलांवर",
+      "sentence": 2,
+      "start": 143,
+      "end": 153,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "विश्वास",
+      "sentence": 2,
+      "start": 160,
+      "end": 165,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "विवेक",
+      "sentence": 3,
+      "start": 174,
+      "end": 179,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "पत्नी",
+      "sentence": 3,
+      "start": 181,
+      "end": 185,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "शिल्पा",
+      "sentence": 3,
+      "start": 186,
+      "end": 191,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "मैत्रिण",
+      "sentence": 3,
+      "start": 194,
+      "end": 199,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "गंगा",
+      "sentence": 3,
+      "start": 200,
+      "end": 204,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "दोघींनी",
+      "sentence": 3,
+      "start": 208,
+      "end": 214,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "विवेक",
+      "sentence": 3,
+      "start": 215,
+      "end": 220,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "अन्नातून",
+      "sentence": 3,
+      "start": 221,
+      "end": 228,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "वर्गात",
+      "sentence": 4,
+      "start": 243,
+      "end": 248,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "प्रशिक्षण",
+      "sentence": 4,
+      "start": 249,
+      "end": 256,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "Aristova",
+      "sentence": 4,
+      "start": 262,
+      "end": 270,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "स्वेतलाना",
+      "sentence": 4,
+      "start": 271,
+      "end": 278,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "मुलूख",
+      "sentence": 4,
+      "start": 284,
+      "end": 288,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "व्यत्यय",
+      "sentence": 4,
+      "start": 293,
+      "end": 298,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "कारणे",
+      "sentence": 4,
+      "start": 302,
+      "end": 306,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "प्रणाली",
+      "sentence": 4,
+      "start": 325,
+      "end": 330,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "उपचार",
+      "sentence": 4,
+      "start": 340,
+      "end": 344,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "पध्दती",
+      "sentence": 4,
+      "start": 345,
+      "end": 350,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "मिट्टी",
+      "sentence": 5,
+      "start": 355,
+      "end": 359,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "सपने",
+      "sentence": 5,
+      "start": 365,
+      "end": 369,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "कित्ता",
+      "sentence": 5,
+      "start": 373,
+      "end": 377,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "ती",
+      "sentence": 7,
+      "start": 416,
+      "end": 418,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "आपण",
+      "sentence": 7,
+      "start": 425,
+      "end": 428,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "प्रकार",
+      "sentence": 7,
+      "start": 440,
+      "end": 444,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "अंधश्रध्दा",
+      "sentence": 8,
+      "start": 459,
+      "end": 467,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "रूढी",
+      "sentence": 8,
+      "start": 479,
+      "end": 483,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "परंपरा",
+      "sentence": 8,
+      "start": 485,
+      "end": 490,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "त्यातून",
+      "sentence": 8,
+      "start": 493,
+      "end": 498,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "समाज",
+      "sentence": 8,
+      "start": 499,
+      "end": 503,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "गुलामगिरी",
+      "sentence": 8,
+      "start": 510,
+      "end": 517,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "ते",
+      "sentence": 8,
+      "start": 543,
+      "end": 545,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "ताकद",
+      "sentence": 8,
+      "start": 551,
+      "end": 555,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "सावरकर",
+      "sentence": 8,
+      "start": 556,
+      "end": 562,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "धोरण",
+      "sentence": 8,
+      "start": 572,
+      "end": 577,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "तुम्ही",
+      "sentence": 9,
+      "start": 592,
+      "end": 596,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "बॅंक",
+      "sentence": 9,
+      "start": 597,
+      "end": 601,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "तुम्ही",
+      "sentence": 9,
+      "start": 611,
+      "end": 615,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "गुन्हा",
+      "sentence": 9,
+      "start": 616,
+      "end": 620,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "धमकी",
+      "sentence": 9,
+      "start": 632,
+      "end": 636,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      5,
+      10
+    ],
+    [
+      15,
+      21
+    ],
+    [
+      17,
+      19,
+      20
+    ],
+    [
+      26,
+      27
+    ],
+    [
+      45,
+      46,
+      47,
+      48
+    ]
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "document_id": "document_242",
+  "sentences": [
+    "अणू करारामधून इराणचीही माघार",
+    "म्हणजे स्टेटीक्स - संख्याशास्त्रा नुसार प्रेमात पडायची शक्यता दहात एक !",
+    "पण प्रेम फक्त तुला वाटुन उपयोग नाही ...",
+    "तिलाही वाटले पाहिजे !!",
+    "स्पष्टीकरण आवश्यक आहे की पहिला मुद्दा आहे - मालमत्ता अधिकार नोंदणी नागरिक दावा आहे.",
+    "भाजपचे नेते स्वामी चिन्मयानंद यांच्यावर बलात्काराचा आरोप करणाऱ्या तरुणीला पोलिसांनी आज तिच्या घरातून अटक केली.",
+    "शिवेंद्रराजे यांनी स्पष्ट केले."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "इराणचीही",
+      "sentence": 0,
+      "start": 12,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "स्टेटीक्स",
+      "sentence": 1,
+      "start": 35,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "संख्याशास्त्रा",
+      "sentence": 1,
+      "start": 45,
+      "end": 57,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "प्रेमात",
+      "sentence": 1,
+      "start": 65,
+      "end": 70,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "शक्यता",
+      "sentence": 1,
+      "start": 78,
+      "end": 83,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "प्रेम",
+      "sentence": 2,
+      "start": 99,
+      "end": 102,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "तुला",
+      "sentence": 2,
+      "start": 109,
+      "end": 112,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "उपयोग",
+      "sentence": 2,
+      "start": 119,
+      "end": 123,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "तिलाही",
+      "sentence": 3,
+      "start": 130,
+      "end": 135,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "स्पष्टीकरण",
+      "sentence": 4,
+      "start": 141,
+      "end": 149,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "मुद्दा",
+      "sentence": 4,
+      "start": 168,
+      "end": 172,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "मालमत्ता",
+      "sentence": 4,
+      "start": 180,
+      "end": 187,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "अधिकार",
+      "sentence": 4,
+      "start": 188,
+      "end": 193,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "नोंदणी",
+      "sentence": 4,
+      "start": 194,
+      "end": 199,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "नागरिक",
+      "sentence": 4,
+      "start": 200,
+      "end": 205,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "दावा",
+      "sentence": 4,
+      "start": 206,
+      "end": 209,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "भाजपचे",
+      "sentence": 5,
+      "start": 216,
+      "end": 221,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "नेते",
+      "sentence": 5,
+      "start": 222,
+      "end": 225,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "चिन्मयानंद",
+      "sentence": 5,
+      "start": 231,
+      "end": 240,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "बलात्काराचा",
+      "sentence": 5,
+      "start": 247,
+      "end": 257,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "आरोप",
+      "sentence": 5,
+      "start": 258,
+      "end": 262,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "तरुणीला",
+      "sentence": 5,
+      "start": 271,
+      "end": 277,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "पोलिसांनी",
+      "sentence": 5,
+      "start": 278,
+      "end": 285,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "तिच्या",
+      "sentence": 5,
+      "start": 289,
+      "end": 293,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "घरातून",
+      "sentence": 5,
+      "start": 294,
+      "end": 300,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "शिवेंद्रराजे",
+      "sentence": 6,
+      "start": 310,
+      "end": 318,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      4,
+      8
+    ]
+  ]
+}

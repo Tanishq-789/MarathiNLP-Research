@@ -1,0 +1,543 @@
+{
+  "document_id": "document_207",
+  "sentences": [
+    "एकतर्फी विकृतीचे बळी",
+    "अदानच्या खाडीत तैनात असणाऱया भारतीय युद्धनौका आयएनएस त्रिशूलने त्वरित कारवाई करत एका भारतीय मालवाहक जहाजाला समुद्री चाच्यांच्या हल्ल्यापासून बचावले.",
+    "पक्ष्यांचं स्थलांतर आणि वळं अडकवण्याची प्रक्रिया:",
+    "पुढे महापालिकेने ते काम आपल्या हाती घेतले आणि दहनासाठी मोफत लाकडे पुरवण्यास सुरुवात केली.",
+    "मार्लन सॅम्युएलही ऑक्टोबर २०१६ मध्ये शेवटचा एकदिवसीय सामना विंडीजकडून खेळला होता.",
+    "2009 ला शिवसेनेचे उमेदवार चंद्रकांत मोकाटे यांनी मनसेचे उमेदवार ऍड.",
+    "देशात व राज्यात नुकत्याच झालेल्या पोटनिवडणुकांच्या माध्यमातून तसेच शिक्षक व स्थानिक स्वराज्य संस्था विधान परिषद निवडणुकीत काँग्रेस, राष्ट्रवादी काँग्रेस आघाडीला मिळालेला विजय हा धर्मनिरपेक्ष विचारांचा विजय आहे.",
+    "ही विचारांची बैठक अधिक भक्‍कम करण्यासाठी व कोकणात पुन्हा एकदा पदवीधर मतदारसंघाच्या माध्यमातून आघाडीच्या उमेदवारास विजयी करून हॅट्ट्रिक साधण्याची संधी आली आहे, असे प्रतिपादन राष्ट्रवादीचे राष्ट्रीय सरचिटणीस व आ.",
+    "सुनील तटकरे यांनी केले.",
+    "इंडियन रेल्वे आपला वारसा जपण्यासाठी जुन्या साथीदारांना अर्थात रिटायर्ड कर्मचाऱ्यांची मदत घेणार आहे.",
+    "तुमच्या चांगुलपणावर माझा विश्वास आहे.",
+    "या वेळी देवीचे असंख्य भक्त दर्शन घेतात.",
+    "बहुधा, स्नायू उबळ काहीतरी घसा हस्तक्षेप करणारी भावना दाखल्याची पूर्तता आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "अदान",
+      "sentence": 1,
+      "start": 20,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "खाडीत",
+      "sentence": 1,
+      "start": 26,
+      "end": 30,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "युद्धनौका",
+      "sentence": 1,
+      "start": 48,
+      "end": 55,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "आयएनएस",
+      "sentence": 1,
+      "start": 56,
+      "end": 60,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "त्रिशूलने",
+      "sentence": 1,
+      "start": 61,
+      "end": 67,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "जहाजाला",
+      "sentence": 1,
+      "start": 95,
+      "end": 101,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "हल्ल्यापासून",
+      "sentence": 1,
+      "start": 117,
+      "end": 125,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "स्थलांतर",
+      "sentence": 2,
+      "start": 143,
+      "end": 149,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "प्रक्रिया",
+      "sentence": 2,
+      "start": 167,
+      "end": 172,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "महापालिकेने",
+      "sentence": 3,
+      "start": 179,
+      "end": 187,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "ते",
+      "sentence": 3,
+      "start": 188,
+      "end": 189,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "आपल्या",
+      "sentence": 3,
+      "start": 194,
+      "end": 198,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "दहनासाठी",
+      "sentence": 3,
+      "start": 213,
+      "end": 219,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "लाकडे",
+      "sentence": 3,
+      "start": 226,
+      "end": 230,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "मार्लन",
+      "sentence": 4,
+      "start": 242,
+      "end": 246,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "सामना",
+      "sentence": 4,
+      "start": 275,
+      "end": 279,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "विंडीजकडून",
+      "sentence": 4,
+      "start": 280,
+      "end": 287,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "शिवसेनेचे",
+      "sentence": 5,
+      "start": 300,
+      "end": 306,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "चंद्रकांत",
+      "sentence": 5,
+      "start": 313,
+      "end": 319,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "मनसेचे",
+      "sentence": 5,
+      "start": 330,
+      "end": 334,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "देशात",
+      "sentence": 6,
+      "start": 345,
+      "end": 349,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "राज्यात",
+      "sentence": 6,
+      "start": 352,
+      "end": 356,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "माध्यमातून",
+      "sentence": 6,
+      "start": 386,
+      "end": 393,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "शिक्षक",
+      "sentence": 6,
+      "start": 401,
+      "end": 405,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "स्वराज्य",
+      "sentence": 6,
+      "start": 416,
+      "end": 421,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "संस्था",
+      "sentence": 6,
+      "start": 422,
+      "end": 425,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "विधान",
+      "sentence": 6,
+      "start": 426,
+      "end": 429,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "परिषद",
+      "sentence": 6,
+      "start": 430,
+      "end": 434,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "काँग्रेस",
+      "sentence": 6,
+      "start": 443,
+      "end": 447,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "राष्ट्रवादी",
+      "sentence": 6,
+      "start": 449,
+      "end": 456,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "काँग्रेस",
+      "sentence": 6,
+      "start": 457,
+      "end": 461,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "आघाडीला",
+      "sentence": 6,
+      "start": 462,
+      "end": 467,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "विचारांचा",
+      "sentence": 6,
+      "start": 488,
+      "end": 493,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "विचारांची",
+      "sentence": 7,
+      "start": 504,
+      "end": 510,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "बैठक",
+      "sentence": 7,
+      "start": 511,
+      "end": 514,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "पदवीधर",
+      "sentence": 7,
+      "start": 547,
+      "end": 552,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "मतदारसंघाच्या",
+      "sentence": 7,
+      "start": 553,
+      "end": 562,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "माध्यमातून",
+      "sentence": 7,
+      "start": 563,
+      "end": 570,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "आघाडीच्या",
+      "sentence": 7,
+      "start": 571,
+      "end": 577,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "हॅट्ट्रिक",
+      "sentence": 7,
+      "start": 593,
+      "end": 598,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "संधी",
+      "sentence": 7,
+      "start": 606,
+      "end": 609,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "प्रतिपादन",
+      "sentence": 7,
+      "start": 616,
+      "end": 622,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "राष्ट्रवादीचे",
+      "sentence": 7,
+      "start": 623,
+      "end": 630,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "सरचिटणीस",
+      "sentence": 7,
+      "start": 640,
+      "end": 646,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "तटकरे",
+      "sentence": 8,
+      "start": 658,
+      "end": 662,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "रेल्वे",
+      "sentence": 9,
+      "start": 678,
+      "end": 681,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "आपला",
+      "sentence": 9,
+      "start": 683,
+      "end": 686,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "वारसा",
+      "sentence": 9,
+      "start": 687,
+      "end": 690,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "साथीदारांना",
+      "sentence": 9,
+      "start": 706,
+      "end": 713,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "कर्मचाऱ्यांची",
+      "sentence": 9,
+      "start": 723,
+      "end": 731,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "चांगुलपणावर",
+      "sentence": 10,
+      "start": 751,
+      "end": 759,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "माझा",
+      "sentence": 10,
+      "start": 761,
+      "end": 764,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "विश्वास",
+      "sentence": 10,
+      "start": 765,
+      "end": 769,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "देवीचे",
+      "sentence": 11,
+      "start": 779,
+      "end": 783,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "भक्त",
+      "sentence": 11,
+      "start": 789,
+      "end": 791,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "दर्शन",
+      "sentence": 11,
+      "start": 792,
+      "end": 795,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "स्नायू",
+      "sentence": 12,
+      "start": 807,
+      "end": 810,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "हस्तक्षेप",
+      "sentence": 12,
+      "start": 825,
+      "end": 830,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "भावना",
+      "sentence": 12,
+      "start": 837,
+      "end": 840,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "पूर्तता",
+      "sentence": 12,
+      "start": 849,
+      "end": 853,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      4,
+      5
+    ],
+    [
+      14,
+      17
+    ],
+    [
+      15,
+      16
+    ],
+    [
+      21,
+      22
+    ],
+    [
+      28,
+      29
+    ],
+    [
+      44,
+      45
+    ],
+    [
+      46,
+      58
+    ],
+    [
+      47,
+      48,
+      50
+    ],
+    [
+      49,
+      52
+    ],
+    [
+      51,
+      53
+    ]
+  ]
+}

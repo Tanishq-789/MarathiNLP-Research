@@ -1,0 +1,537 @@
+{
+  "document_id": "document_263",
+  "sentences": [
+    "डी आमच्या नातेवाईकांकडे आणि पार्क मधे जास्तीत जास्त लहान मुलेच पाहतात.",
+    "गणित आणि या इंद्रियगोचर आर्किटेक्चर व्यापक सैद्धांतिक व व्यावहारिक अनुप्रयोग होते.",
+    "हसवून मारू नका.",
+    "त्याविसीहि सलोखा करतील.",
+    "स्टुडंट्स अफेयर्सचे असोसिएट्स डीन प्राध्यापक जॉर्ज मॅथ्यू यांनी नव्या 15 नियमांची नियमावली तयार केली आहे.",
+    "हा सामना जिंकून सर्बियाच्या नोवाक जोकोविचने नवा इतिहास रचला आहे.",
+    "राहुलच्या फॉर्मची चिंता, या खेळाडूला ओपनिंगला संधी मिळण्याची शक्यता",
+    "चाहत्यांसमोर किंवा मीडियासमोर येताना नेहमी आपला लूक आणि पेहराव विशिष्ट प्रकारचा असावा असा त्यांचा हट्ट असतो व त्यांच्या फॅशन डिझायनरला तो पुरवावाही लागतो.",
+    "पॅरिस :  हवामान बदलाबाबत अभ्यास करण्यासंदर्भात पॅरिसमध्ये आज भारतासह १७५ देशांची ऐतिहासिक करार स्वाक्षरी झाली.",
+    "निवडणूक सुधारणा कार्यक्रमांतर्गत निवडणूक निधीसंदर्भात ही नियमावली तयार केली आहे.",
+    "त्यानंतर त्याने आपली सर्वाना ओळख करून दिली.",
+    "हात दोन्ही बाजूस ठेवावे व दोन्ही पाय वर उचलावेत.",
+    "त्याचप्रमाणे सावंतवाडी तालुका धनगर समाज मंडळ मुंबईच्या दोडामार्ग शाखेने शुक्रवारी आपला पाठिंबा जाहीर केला.",
+    "एका स्वप्नाचा पाठलाग",
+    "स्वावलम्बी कोकीळा",
+    "त्यामुळे आता दोन्ही महानगरपालिकेच्या हद्दीत तीस लाखांपर्यंतच्या दस्त नोंदणीवर 7 टक्‍के ऐवजी (नोंदणी शुल्क धरून) 8 टक्‍के मुद्रांक शुल्क आकारले जात आहे.",
+    "अनिल आणि पु."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "पार्क",
+      "sentence": 0,
+      "start": 24,
+      "end": 27,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "गणित",
+      "sentence": 1,
+      "start": 59,
+      "end": 63,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "आर्किटेक्चर",
+      "sentence": 1,
+      "start": 75,
+      "end": 84,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "अनुप्रयोग",
+      "sentence": 1,
+      "start": 105,
+      "end": 112,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "सलोखा",
+      "sentence": 3,
+      "start": 139,
+      "end": 143,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "स्टुडंट्स",
+      "sentence": 4,
+      "start": 149,
+      "end": 157,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "असोसिएट्स",
+      "sentence": 4,
+      "start": 167,
+      "end": 176,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "प्राध्यापक",
+      "sentence": 4,
+      "start": 182,
+      "end": 189,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "मॅथ्यू",
+      "sentence": 4,
+      "start": 196,
+      "end": 200,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "नियमांची",
+      "sentence": 4,
+      "start": 213,
+      "end": 219,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "नियमावली",
+      "sentence": 4,
+      "start": 221,
+      "end": 228,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "सामना",
+      "sentence": 5,
+      "start": 243,
+      "end": 247,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "सर्बियाच्या",
+      "sentence": 5,
+      "start": 254,
+      "end": 263,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "नोवाक",
+      "sentence": 5,
+      "start": 265,
+      "end": 270,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "इतिहास",
+      "sentence": 5,
+      "start": 284,
+      "end": 289,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "फॉर्मची",
+      "sentence": 6,
+      "start": 308,
+      "end": 314,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "चिंता",
+      "sentence": 6,
+      "start": 316,
+      "end": 320,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "खेळाडूला",
+      "sentence": 6,
+      "start": 326,
+      "end": 333,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "संधी",
+      "sentence": 6,
+      "start": 344,
+      "end": 347,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "शक्यता",
+      "sentence": 6,
+      "start": 355,
+      "end": 359,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "चाहत्यांसमोर",
+      "sentence": 7,
+      "start": 361,
+      "end": 372,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "मीडियासमोर",
+      "sentence": 7,
+      "start": 378,
+      "end": 388,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "आपला",
+      "sentence": 7,
+      "start": 399,
+      "end": 403,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "पेहराव",
+      "sentence": 7,
+      "start": 413,
+      "end": 418,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "त्यांचा",
+      "sentence": 7,
+      "start": 437,
+      "end": 442,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "हट्ट",
+      "sentence": 7,
+      "start": 444,
+      "end": 447,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "त्यांच्या",
+      "sentence": 7,
+      "start": 457,
+      "end": 463,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "फॅशन",
+      "sentence": 7,
+      "start": 465,
+      "end": 469,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "डिझायनरला",
+      "sentence": 7,
+      "start": 471,
+      "end": 480,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "तो",
+      "sentence": 7,
+      "start": 482,
+      "end": 483,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "पॅरिस",
+      "sentence": 8,
+      "start": 492,
+      "end": 496,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "हवामान",
+      "sentence": 8,
+      "start": 500,
+      "end": 505,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "अभ्यास",
+      "sentence": 8,
+      "start": 515,
+      "end": 519,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "भारतासह",
+      "sentence": 8,
+      "start": 548,
+      "end": 554,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "देशांची",
+      "sentence": 8,
+      "start": 562,
+      "end": 568,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "करार",
+      "sentence": 8,
+      "start": 576,
+      "end": 580,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "स्वाक्षरी",
+      "sentence": 8,
+      "start": 582,
+      "end": 588,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "सुधारणा",
+      "sentence": 9,
+      "start": 601,
+      "end": 606,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "निधीसंदर्भात",
+      "sentence": 9,
+      "start": 629,
+      "end": 638,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "नियमावली",
+      "sentence": 9,
+      "start": 645,
+      "end": 652,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "त्याने",
+      "sentence": 10,
+      "start": 661,
+      "end": 664,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "सर्वाना",
+      "sentence": 10,
+      "start": 672,
+      "end": 676,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "बाजूस",
+      "sentence": 11,
+      "start": 700,
+      "end": 704,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "सावंतवाडी",
+      "sentence": 12,
+      "start": 725,
+      "end": 733,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "धनगर",
+      "sentence": 12,
+      "start": 742,
+      "end": 747,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "समाज",
+      "sentence": 12,
+      "start": 749,
+      "end": 752,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "मंडळ",
+      "sentence": 12,
+      "start": 754,
+      "end": 757,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "दोडामार्ग",
+      "sentence": 12,
+      "start": 768,
+      "end": 775,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "शाखेने",
+      "sentence": 12,
+      "start": 777,
+      "end": 781,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "आपला",
+      "sentence": 12,
+      "start": 790,
+      "end": 794,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "पाठिंबा",
+      "sentence": 12,
+      "start": 796,
+      "end": 801,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "स्वप्नाचा",
+      "sentence": 13,
+      "start": 810,
+      "end": 816,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "पाठलाग",
+      "sentence": 13,
+      "start": 818,
+      "end": 823,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "कोकीळा",
+      "sentence": 14,
+      "start": 833,
+      "end": 837,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "हद्दीत",
+      "sentence": 15,
+      "start": 864,
+      "end": 868,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "दस्त",
+      "sentence": 15,
+      "start": 887,
+      "end": 890,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "नोंदणीवर",
+      "sentence": 15,
+      "start": 892,
+      "end": 898,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "नोंदणी",
+      "sentence": 15,
+      "start": 912,
+      "end": 917,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "शुल्क",
+      "sentence": 15,
+      "start": 919,
+      "end": 922,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "मुद्रांक",
+      "sentence": 15,
+      "start": 937,
+      "end": 942,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "शुल्क",
+      "sentence": 15,
+      "start": 944,
+      "end": 947,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      13,
+      14
+    ],
+    [
+      19,
+      20
+    ],
+    [
+      22,
+      25,
+      31,
+      34,
+      36
+    ],
+    [
+      40,
+      44
+    ],
+    [
+      55,
+      56
+    ]
+  ]
+}

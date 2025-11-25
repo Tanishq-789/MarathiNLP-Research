@@ -1,0 +1,251 @@
+{
+  "document_id": "document_264",
+  "sentences": [
+    "रेगेंसारखे कवी सोपेपणा अवघड करतात अन अवघडपणा सोपा.",
+    "त्यातच रूपा विडी कंपनीचे व्यवस्थापक रामजीत गुप्ता ( ४७,रा.",
+    "पॅसिफिक समुद्राच्या उत्तर भागात आणि अरबी समुद्रात येणा-या वादळांना सर्वसाधारणत: नुसतंच सायक्लोन असं म्हटलं जातं.",
+    "गुरुवारी रात्री माहूर तालुक्यातील मलकागुडा येथे ही घटना घडली.",
+    "साधने क्षमता कोणत्या ते सर्वात प्रभावित?",
+    "मुंबई : शिवसेनेने किमान 135 जागांसाठी धरलेला आग्रह मान्य करायचा काय आणि कोथरूड ,सोलापूर ,धुळे अशा खास भाजपमय विधानसभा जागांची केलेली मागणी विचारात घ्यायची काय, याबददलचा अंतिम."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "सोपेपणा",
+      "sentence": 0,
+      "start": 13,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "अवघडपणा",
+      "sentence": 0,
+      "start": 37,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "रूपा",
+      "sentence": 1,
+      "start": 60,
+      "end": 63,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "विडी",
+      "sentence": 1,
+      "start": 65,
+      "end": 68,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "कंपनी",
+      "sentence": 1,
+      "start": 70,
+      "end": 75,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "व्यवस्थापक",
+      "sentence": 1,
+      "start": 78,
+      "end": 86,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "रामजीत",
+      "sentence": 1,
+      "start": 88,
+      "end": 93,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "गुप्ता",
+      "sentence": 1,
+      "start": 95,
+      "end": 99,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "पॅसिफिक",
+      "sentence": 2,
+      "start": 115,
+      "end": 121,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "समुद्रा",
+      "sentence": 2,
+      "start": 123,
+      "end": 128,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "समुद्रा",
+      "sentence": 2,
+      "start": 152,
+      "end": 157,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "वादळा",
+      "sentence": 2,
+      "start": 161,
+      "end": 165,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "सायक्लोन",
+      "sentence": 2,
+      "start": 186,
+      "end": 193,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "माहूर",
+      "sentence": 3,
+      "start": 245,
+      "end": 249,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "तालुक्या",
+      "sentence": 3,
+      "start": 251,
+      "end": 257,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "मलकागुडा",
+      "sentence": 3,
+      "start": 262,
+      "end": 269,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "घटना",
+      "sentence": 3,
+      "start": 273,
+      "end": 276,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "साधने",
+      "sentence": 4,
+      "start": 290,
+      "end": 294,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "क्षमता",
+      "sentence": 4,
+      "start": 297,
+      "end": 301,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "ते",
+      "sentence": 4,
+      "start": 306,
+      "end": 307,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "मुंबई",
+      "sentence": 5,
+      "start": 330,
+      "end": 334,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "शिवसेने",
+      "sentence": 5,
+      "start": 337,
+      "end": 342,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "जागां",
+      "sentence": 5,
+      "start": 352,
+      "end": 356,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "आग्रह",
+      "sentence": 5,
+      "start": 369,
+      "end": 373,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "कोथरूड",
+      "sentence": 5,
+      "start": 394,
+      "end": 400,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "सोलापूर",
+      "sentence": 5,
+      "start": 403,
+      "end": 409,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "जागां",
+      "sentence": 5,
+      "start": 444,
+      "end": 448,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "मागणी",
+      "sentence": 5,
+      "start": 457,
+      "end": 461,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      8,
+      9
+    ],
+    [
+      15,
+      16
+    ],
+    [
+      22,
+      23
+    ]
+  ]
+}

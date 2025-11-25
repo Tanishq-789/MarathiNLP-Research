@@ -1,0 +1,374 @@
+{
+  "document_id": "document_294",
+  "sentences": [
+    "आजच्या घडीला १९७२ पेक्षा मोठा दुष्काळ आहे.",
+    "अण्णांनी पाठींबा दिलेल्या सरकारी लोकपाल केजरीवाल यांचा मात्र विरोध असल्याचा प्रश्न अण्णांना विचारल्यावर अरविंदनं बिल नीट वाचलेलं दिसत नाही, असा टोला अण्णांनी लगावला.",
+    "सोलापूर : प्रेमप्रकरणावरून फॉरेस्टमधील कुमार चौकात राहणाºया एका पंचवीस वर्षीय फुटबॉल कोचला मारहाण करून त्याचा खून करण्यात आला.",
+    "त्याला आता कायाच्या शांत राहण्याची भीती वाटत होती कारण कायाच्या डोक्यात घातक असे काही तरी शिजतयं याची त्याला खात्री होती पण नेमके काय?",
+    "अर्थात, आज अनेकदा आपण एक समान शब्द ऐकू आहे शकत नाही, पण पूर्वी तो जोरदार लोकप्रिय आनंद.",
+    "खरंच ही मुलगी किती सुखी, समाधानी आहे तिच्या मनामध्ये किती शांती आहे.",
+    "यामध्ये जवळपास दीड लाखाचे नुकसान झाले आहे.",
+    "तीन कृत्रिम तळे, आरतीसाठी टेबल, 25 जीवरक्षकही उपलब्ध पिंपरी - प्लॅस्टर ऑफ पॅरिसच्या गणेश मूर्ती नदीच्या पाण्यात विसर्जित केल्यामुळे मोठ्या."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "घडीला",
+      "sentence": 0,
+      "start": 7,
+      "end": 12,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "दुष्काळ",
+      "sentence": 0,
+      "start": 27,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "अण्णांनी",
+      "sentence": 1,
+      "start": 40,
+      "end": 47,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "लोकपाल",
+      "sentence": 1,
+      "start": 68,
+      "end": 74,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "केजरीवाल",
+      "sentence": 1,
+      "start": 75,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "विरोध",
+      "sentence": 1,
+      "start": 95,
+      "end": 99,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "प्रश्न",
+      "sentence": 1,
+      "start": 110,
+      "end": 114,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "अण्णांना",
+      "sentence": 1,
+      "start": 115,
+      "end": 121,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "टोला",
+      "sentence": 1,
+      "start": 162,
+      "end": 165,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "अण्णांनी",
+      "sentence": 1,
+      "start": 166,
+      "end": 172,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "सोलापूर",
+      "sentence": 2,
+      "start": 202,
+      "end": 208,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "प्रेमप्रकरणावरून",
+      "sentence": 2,
+      "start": 211,
+      "end": 224,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "कुमार",
+      "sentence": 2,
+      "start": 236,
+      "end": 240,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "चौकात",
+      "sentence": 2,
+      "start": 241,
+      "end": 246,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "मारहाण",
+      "sentence": 2,
+      "start": 280,
+      "end": 286,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "त्याचा",
+      "sentence": 2,
+      "start": 292,
+      "end": 296,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "त्याला",
+      "sentence": 3,
+      "start": 347,
+      "end": 351,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "कायाच्या",
+      "sentence": 3,
+      "start": 356,
+      "end": 361,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "भीती",
+      "sentence": 3,
+      "start": 375,
+      "end": 378,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "कायाच्या",
+      "sentence": 3,
+      "start": 394,
+      "end": 399,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "डोक्यात",
+      "sentence": 3,
+      "start": 400,
+      "end": 405,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "याची",
+      "sentence": 3,
+      "start": 428,
+      "end": 431,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "त्याला",
+      "sentence": 3,
+      "start": 432,
+      "end": 436,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "खात्री",
+      "sentence": 3,
+      "start": 437,
+      "end": 442,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "आपण",
+      "sentence": 4,
+      "start": 505,
+      "end": 508,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "शब्द",
+      "sentence": 4,
+      "start": 516,
+      "end": 519,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "तो",
+      "sentence": 4,
+      "start": 542,
+      "end": 543,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "आनंद",
+      "sentence": 4,
+      "start": 555,
+      "end": 559,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "मुलगी",
+      "sentence": 5,
+      "start": 591,
+      "end": 595,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "तिच्या",
+      "sentence": 5,
+      "start": 611,
+      "end": 615,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "मनामध्ये",
+      "sentence": 5,
+      "start": 616,
+      "end": 622,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "शांती",
+      "sentence": 5,
+      "start": 628,
+      "end": 632,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "लाखाचे",
+      "sentence": 6,
+      "start": 668,
+      "end": 673,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "नुकसान",
+      "sentence": 6,
+      "start": 674,
+      "end": 679,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "आरतीसाठी",
+      "sentence": 7,
+      "start": 712,
+      "end": 719,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "टेबल",
+      "sentence": 7,
+      "start": 720,
+      "end": 724,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "जीवरक्षकही",
+      "sentence": 7,
+      "start": 731,
+      "end": 738,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "प्लॅस्टर",
+      "sentence": 7,
+      "start": 756,
+      "end": 762,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "गणेश",
+      "sentence": 7,
+      "start": 774,
+      "end": 778,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "मूर्ती",
+      "sentence": 7,
+      "start": 780,
+      "end": 784,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "पाण्यात",
+      "sentence": 7,
+      "start": 791,
+      "end": 796,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      9,
+      13
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      19,
+      21
+    ],
+    [
+      23,
+      31
+    ],
+    [
+      24,
+      27
+    ],
+    [
+      34,
+      35
+    ],
+    [
+      37,
+      38
+    ]
+  ]
+}

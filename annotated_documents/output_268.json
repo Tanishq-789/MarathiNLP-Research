@@ -1,0 +1,277 @@
+{
+  "document_id": "document_268",
+  "sentences": [
+    "बीकडे सोपवून प्रशासक नेमला.",
+    "भाजप नेते अनेकदा राहुल गांधींना ‘शहजादा’ म्हणून टोमणे मारतात.",
+    "सोनम वांगडी आणि डॉ.",
+    "नगीन नंदा यांच्या न्यायाधीकरणाने दिला आहे.",
+    "या स्वयंवरावर पहिल्यांदा अनूप जलोटा यांनी प्रतिक्रिया दिली आहे.",
+    "हल्ली आपल्या पैकी बरेच जणं कार नी प्रवास करतात.",
+    "क्रीडा संकुलात मॉल नको म्हणून यापूर्वीच क्रीडाप्रेमींनी विरोध दर्शवला आहे.",
+    "ते म्हणाले की, हा कोणताही ग्लॅमरस इव्हेन्ट नाही.",
+    "या अपघातात त्यांची बायको आणि मुलगा मृत्यूमुखी पडले तर सय्यद यांच्यासह ६ जण जखमी झालेत.",
+    "अचानक प्रतिक्रिया आहे, तर, डॉक्टर एक समानता, आणि योग्य उपचार काढणे सक्षम असेल.",
+    "आघाडी झाली असली, तरी."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "प्रशासक",
+      "sentence": 0,
+      "start": 12,
+      "end": 18,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "भाजप",
+      "sentence": 1,
+      "start": 24,
+      "end": 28,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "नेते",
+      "sentence": 1,
+      "start": 30,
+      "end": 33,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "गांधींना",
+      "sentence": 1,
+      "start": 46,
+      "end": 52,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "शहजादा",
+      "sentence": 1,
+      "start": 56,
+      "end": 62,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "सोनम",
+      "sentence": 2,
+      "start": 73,
+      "end": 77,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "वांगडी",
+      "sentence": 2,
+      "start": 79,
+      "end": 84,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "नंदा",
+      "sentence": 3,
+      "start": 102,
+      "end": 105,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "न्यायाधीकरणाने",
+      "sentence": 3,
+      "start": 114,
+      "end": 124,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "स्वयंवरावर",
+      "sentence": 4,
+      "start": 129,
+      "end": 137,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "अनूप",
+      "sentence": 4,
+      "start": 150,
+      "end": 153,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "जलोटा",
+      "sentence": 4,
+      "start": 155,
+      "end": 159,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "प्रतिक्रिया",
+      "sentence": 4,
+      "start": 165,
+      "end": 171,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "आपल्या",
+      "sentence": 5,
+      "start": 180,
+      "end": 185,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "प्रवास",
+      "sentence": 5,
+      "start": 204,
+      "end": 208,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "क्रीडा",
+      "sentence": 6,
+      "start": 215,
+      "end": 219,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "संकुलात",
+      "sentence": 6,
+      "start": 221,
+      "end": 226,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "क्रीडाप्रेमींनी",
+      "sentence": 6,
+      "start": 250,
+      "end": 260,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "विरोध",
+      "sentence": 6,
+      "start": 262,
+      "end": 266,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "ते",
+      "sentence": 7,
+      "start": 274,
+      "end": 275,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "इव्हेन्ट",
+      "sentence": 7,
+      "start": 301,
+      "end": 305,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "अपघातात",
+      "sentence": 8,
+      "start": 310,
+      "end": 316,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "त्यांची",
+      "sentence": 8,
+      "start": 318,
+      "end": 323,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "बायको",
+      "sentence": 8,
+      "start": 325,
+      "end": 329,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "मुलगा",
+      "sentence": 8,
+      "start": 334,
+      "end": 338,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "सय्यद",
+      "sentence": 8,
+      "start": 354,
+      "end": 358,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "प्रतिक्रिया",
+      "sentence": 9,
+      "start": 378,
+      "end": 384,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "डॉक्टर",
+      "sentence": 9,
+      "start": 393,
+      "end": 398,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "समानता",
+      "sentence": 9,
+      "start": 403,
+      "end": 408,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "उपचार",
+      "sentence": 9,
+      "start": 419,
+      "end": 423,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "आघाडी",
+      "sentence": 10,
+      "start": 436,
+      "end": 440,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      4,
+      5
+    ],
+    [
+      13,
+      14
+    ]
+  ]
+}

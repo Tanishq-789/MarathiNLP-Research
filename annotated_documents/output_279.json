@@ -1,0 +1,454 @@
+{
+  "document_id": "document_279",
+  "sentences": [
+    "बॉलिवूड अभिनेत्री अनुष्का शर्मा आणि क्रिकेटर विराट कोहली हे इटलीत एका खाजगी समारंभात विवाहबंधनात अडकले असले तरी त्यांचे अनेक नातेवाईक मात्र त्यांच्या या 'गुपचूप' विवाहसोहळ्यावर नाराज आहेत.",
+    "आपण नंतर हे नारळ वाहत्या पाण्यात वाहून द्यावे.",
+    "या पार्श्‍वभूमीवर महापौर मुक्ता टिळक, स्थायी समिती अध्यक्ष योगेश मुळीक, सभागृह नेते श्रीनाथ भिमाले आणि क्रिडा समिती अध्यक्ष राहुल भंडारे यांनी आज निवेदन प्रसिद्धीला दिले आहे.",
+    "‘फोर्ब्स’ने मंगळवारी जगात सर्वाधिक उत्पन्न असणाऱ्या टेलिव्हिजन अभिनेत्रींची यादी जाहीर केली.",
+    "वरिष्ठांच्या जाचाला कंटाळून आठवडाभरात दोन पोलीस कर्मचाऱ्यांनी जीवनप्रवास संपविल्याने पोलीस दलाला हादरा बसलाय.",
+    "आता इथे एक गंमत होते.",
+    "इंग्लंडमध्ये एव्हडा पाऊस असताना विश्वचषक का ठेवला?",
+    "त्यानंतर त्या गरीब स्त्रीकडून एक मेहंदीचं पाकिट परत घ्यावं आणि ती परत घेतलेली मेहंदी त्या गरीब सवाष्ण स्त्रीच्या हातावर आपल्या मुलीच्या हातून लावावी.",
+    "मात्र त्याच्या याच आक्रमक वृत्तीने त्याने भारतीय संघाला विजयाची सवय लावली."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "अनुष्का",
+      "sentence": 0,
+      "start": 15,
+      "end": 21,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "शर्मा",
+      "sentence": 0,
+      "start": 23,
+      "end": 27,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "क्रिकेटर",
+      "sentence": 0,
+      "start": 31,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "विराट",
+      "sentence": 0,
+      "start": 40,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "कोहली",
+      "sentence": 0,
+      "start": 46,
+      "end": 51,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "इटलीत",
+      "sentence": 0,
+      "start": 56,
+      "end": 61,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "समारंभात",
+      "sentence": 0,
+      "start": 75,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "त्यांचे",
+      "sentence": 0,
+      "start": 108,
+      "end": 112,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "नातेवाईक",
+      "sentence": 0,
+      "start": 119,
+      "end": 126,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "त्यांच्या",
+      "sentence": 0,
+      "start": 132,
+      "end": 138,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "विवाहसोहळ्यावर",
+      "sentence": 0,
+      "start": 149,
+      "end": 162,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "आपण",
+      "sentence": 1,
+      "start": 171,
+      "end": 175,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "नारळ",
+      "sentence": 1,
+      "start": 181,
+      "end": 185,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "पाण्यात",
+      "sentence": 1,
+      "start": 193,
+      "end": 198,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "पार्श्‍वभूमीवर",
+      "sentence": 2,
+      "start": 214,
+      "end": 225,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "महापौर",
+      "sentence": 2,
+      "start": 226,
+      "end": 232,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "मुक्ता",
+      "sentence": 2,
+      "start": 233,
+      "end": 237,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "टिळक",
+      "sentence": 2,
+      "start": 239,
+      "end": 243,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "मुळीक",
+      "sentence": 2,
+      "start": 270,
+      "end": 274,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "सभागृह",
+      "sentence": 2,
+      "start": 277,
+      "end": 283,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "नेते",
+      "sentence": 2,
+      "start": 286,
+      "end": 289,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "श्रीनाथ",
+      "sentence": 2,
+      "start": 290,
+      "end": 295,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "क्रिडा",
+      "sentence": 2,
+      "start": 305,
+      "end": 309,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "भंडारे",
+      "sentence": 2,
+      "start": 330,
+      "end": 335,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "यांनी",
+      "sentence": 2,
+      "start": 336,
+      "end": 340,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "निवेदन",
+      "sentence": 2,
+      "start": 345,
+      "end": 350,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "फोर्ब्स",
+      "sentence": 3,
+      "start": 367,
+      "end": 373,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "जगात",
+      "sentence": 3,
+      "start": 384,
+      "end": 388,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "टेलिव्हिजन",
+      "sentence": 3,
+      "start": 402,
+      "end": 411,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "अभिनेत्रींची",
+      "sentence": 3,
+      "start": 413,
+      "end": 421,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "यादी",
+      "sentence": 3,
+      "start": 423,
+      "end": 426,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "वरिष्ठांच्या",
+      "sentence": 4,
+      "start": 438,
+      "end": 447,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "पोलीस",
+      "sentence": 4,
+      "start": 478,
+      "end": 482,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "कर्मचाऱ्यांनी",
+      "sentence": 4,
+      "start": 484,
+      "end": 493,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "जीवनप्रवास",
+      "sentence": 4,
+      "start": 494,
+      "end": 503,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "पोलीस",
+      "sentence": 4,
+      "start": 513,
+      "end": 517,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "दलाला",
+      "sentence": 4,
+      "start": 518,
+      "end": 522,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "हादरा",
+      "sentence": 4,
+      "start": 523,
+      "end": 528,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "गंमत",
+      "sentence": 5,
+      "start": 549,
+      "end": 553,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "पाऊस",
+      "sentence": 6,
+      "start": 577,
+      "end": 581,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "विश्वचषक",
+      "sentence": 6,
+      "start": 590,
+      "end": 596,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "स्त्रीकडून",
+      "sentence": 7,
+      "start": 613,
+      "end": 620,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "पाकिट",
+      "sentence": 7,
+      "start": 633,
+      "end": 637,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "ती",
+      "sentence": 7,
+      "start": 652,
+      "end": 653,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "मेहंदी",
+      "sentence": 7,
+      "start": 665,
+      "end": 669,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "हातावर",
+      "sentence": 7,
+      "start": 692,
+      "end": 697,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "मुलीच्या",
+      "sentence": 7,
+      "start": 704,
+      "end": 709,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "हातून",
+      "sentence": 7,
+      "start": 711,
+      "end": 715,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "त्याच्या",
+      "sentence": 8,
+      "start": 731,
+      "end": 736,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "वृत्तीने",
+      "sentence": 8,
+      "start": 745,
+      "end": 750,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "त्याने",
+      "sentence": 8,
+      "start": 751,
+      "end": 755,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "संघाला",
+      "sentence": 8,
+      "start": 765,
+      "end": 770,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      1,
+      2,
+      4,
+      5,
+      6,
+      9,
+      11
+    ],
+    [
+      18,
+      19,
+      22,
+      23,
+      26,
+      27,
+      31,
+      32,
+      33
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "document_id": "document_221",
+  "sentences": [
+    "त्या तक्रारींच्या पार्श्वभूमीवर एफडीएद्वारे भेसळयुक्त दूध विक्रीविरोधात मुंबईत विशेष मोहीम राबवली होती.",
+    "\" पण आणि स्लाव्हिक स्लोव्हेनियन पूर्ण ओळख \"प्रेम आपण!"
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "पार्श्वभूमीवर",
+      "sentence": 0,
+      "start": 15,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "एफडीएद्वारे",
+      "sentence": 0,
+      "start": 27,
+      "end": 36,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "विक्रीविरोधात",
+      "sentence": 0,
+      "start": 50,
+      "end": 62,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मुंबईत",
+      "sentence": 0,
+      "start": 63,
+      "end": 68,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "मोहीम",
+      "sentence": 0,
+      "start": 76,
+      "end": 81,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "प्रेम",
+      "sentence": 1,
+      "start": 132,
+      "end": 136,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "आपण",
+      "sentence": 1,
+      "start": 137,
+      "end": 141,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

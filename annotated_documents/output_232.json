@@ -1,0 +1,83 @@
+{
+  "document_id": "document_232",
+  "sentences": [
+    "ची समोरासमोर धडक होऊन झालेल्या अपघातात   दुचाकीस्वार मेंढपाळ जागीच ठार झाला.",
+    "अहवालात हिंदुस्थानच्या आर्थिक प्रगतीबाबत चिंताही व्यक्त करण्यात आली आहे.",
+    "मुलांसोबत दहावी, बारावीची परीक्षा देणारे पालकही आपण पाहिले आहेत."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मेंढपाळ",
+      "sentence": 0,
+      "start": 48,
+      "end": 54,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "अहवाल",
+      "sentence": 1,
+      "start": 71,
+      "end": 76,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "हिंदुस्थान",
+      "sentence": 1,
+      "start": 79,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "प्रगती",
+      "sentence": 1,
+      "start": 98,
+      "end": 104,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "चिंता",
+      "sentence": 1,
+      "start": 108,
+      "end": 112,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "मुलां",
+      "sentence": 2,
+      "start": 141,
+      "end": 146,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "परीक्षा",
+      "sentence": 2,
+      "start": 164,
+      "end": 169,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "पालक",
+      "sentence": 2,
+      "start": 176,
+      "end": 180,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "आपण",
+      "sentence": 2,
+      "start": 183,
+      "end": 187,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

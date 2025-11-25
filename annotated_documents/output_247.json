@@ -1,0 +1,877 @@
+{
+  "document_id": "document_247",
+  "sentences": [
+    "लग्नचा अर्थ धम्माल आणि मस्ती यांच्याशी आहे.",
+    "त्यामुळे वाहतूक कोंडीला आळा घालायचा असेल तर सर्वप्रथम या फेरीवाल्यांना हटवायला हवे.",
+    "या कंपनीचे तावडीत गुणवत्ता ओळखले जातात, त्यांना वरील भाग तिच्या पॅडिंग पॉलिस्टर आणि कृत्रिम फर आत जोडल्या एक पाणी-तिरस्करणीय फॅब्रिक, समाविष्टीत असते.",
+    "मालक घर संरक्षण स्क्रीन शेकोटी येत मध्ये बंद नाही तर प्राणी वाट पाहत त्याच समस्या.",
+    "तंबाखू, धूम्रपानचे वाढते प्रमाण रोखण्यासाठी सरकारने हे पाऊल उचलले आहे.",
+    "हे ऍप डेव्हलप करण्यासाठी महापालिकेने काही कंपन्यांकडे विचारणा केली आहे.",
+    "यात शेकडो जणांचा मृत्यू झाला.",
+    "अंगविक्षेप आणि नृत्य यात फरक मानायला नको का?",
+    "1959 साली त्यांनी लढलेल्या केएम नानावटी विरुद्ध महाराष्ट्र राज्य या खटल्यामुळे त्यांचे नाव पहिल्यांदा चर्चेत आले होते.",
+    "आपल्याला मिळणार्‍या धनाचा काही भाग तरी सामाजिक संस्थांना देणगी रूपात द्यावा व सामाजिक बांधिलकीची जाणीव, विवेक मनात जागृत ठेवावा हा मोलाचा अनमोल विचार आपण त्यांच्या सामाजिक समरसतेतून घ्यायला हवा.",
+    "आधी कलाकार म्हणून आणि नंतर राजकारणी म्हणून वाद आणि वादळांनी त्यांची कायम सोबत केली.",
+    "त्यांनी संधीसाधू राजकारण केलेलं नाही.",
+    "लाखोंच्या घरात यंदा हिवाळी पाहुणे पक्ष्यांनी, जिल्ह्याला वरदायिनी ठरलेल्या उजनी जलाशयावर विस्तारासाठी येऊन अभूतपूर्व गर्दी केली होती.",
+    "मात्र, यंदाच्या विधानसभा निवडणुकीत राज्यात शिवसेना-भाजप युतीला सहज विजय मिळेल, असे वाटत असताना राष्ट्रवादीचे नेते शरद पवार यांनी संपूर्ण महाराष्ट्र पिंजून काढल्यानंतर काँग्रेस-राष्ट्रवादीला या निवडणुकीत चांगले यश मिळाले आहे.",
+    "आनंद कुलकर्णी मुलींच्या संघाचे प्रशिक्षक असतील, तर सुरेश शेलार सहप्रशिक्षक असतील.",
+    "मुलांच्या संघाची जबाबदारी चैतन्य दीक्षित यांच्याकडे सोपविण्यात आली असून सहप्रशिक्षक अरुण पवार त्यांना साहाय्य करतील.",
+    "ललित नहाटा आणि हृषिकेश दीक्षित हे अनुक्रमे मुली व मुलांच्या संघाचे व्यवस्थापक असतील.आगामी राष्ट्रीय अजिंक्‍यपद बास्केटबॉल स्पर्धेकरिता महाराष्ट्राचे संघ निवडण्यासाठी या स्पर्धेचे आयोजन 28 जुलै ते एक ऑगस्ट या कालावधीत पुण्यात करण्यात आले आहे.",
+    "महाराष्ट्र बास्केटबॉल संघटनेच्या वतीने पुणे जिल्हा बास्केटबॉल संघटना आणि एन."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "अर्थ",
+      "sentence": 0,
+      "start": 7,
+      "end": 11,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "मस्ती",
+      "sentence": 0,
+      "start": 23,
+      "end": 27,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "कोंडीला",
+      "sentence": 1,
+      "start": 49,
+      "end": 55,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "फेरीवाल्यांना",
+      "sentence": 1,
+      "start": 83,
+      "end": 93,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "कंपनीचे",
+      "sentence": 2,
+      "start": 100,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "गुणवत्ता",
+      "sentence": 2,
+      "start": 115,
+      "end": 121,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "त्यांना",
+      "sentence": 2,
+      "start": 135,
+      "end": 140,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "तिच्या",
+      "sentence": 2,
+      "start": 150,
+      "end": 154,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "पॅडिंग",
+      "sentence": 2,
+      "start": 155,
+      "end": 160,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "पॉलिस्टर",
+      "sentence": 2,
+      "start": 161,
+      "end": 168,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "फॅब्रिक",
+      "sentence": 2,
+      "start": 195,
+      "end": 201,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "मालक",
+      "sentence": 3,
+      "start": 219,
+      "end": 223,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "संरक्षण",
+      "sentence": 3,
+      "start": 227,
+      "end": 233,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "स्क्रीन",
+      "sentence": 3,
+      "start": 234,
+      "end": 239,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "प्राणी",
+      "sentence": 3,
+      "start": 265,
+      "end": 269,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "समस्या",
+      "sentence": 3,
+      "start": 281,
+      "end": 286,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "तंबाखू",
+      "sentence": 4,
+      "start": 288,
+      "end": 294,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "धूम्रपानचे",
+      "sentence": 4,
+      "start": 296,
+      "end": 303,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "प्रमाण",
+      "sentence": 4,
+      "start": 310,
+      "end": 314,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "सरकारने",
+      "sentence": 4,
+      "start": 324,
+      "end": 329,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "पाऊल",
+      "sentence": 4,
+      "start": 332,
+      "end": 336,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "महापालिकेने",
+      "sentence": 5,
+      "start": 368,
+      "end": 376,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "कंपन्यांकडे",
+      "sentence": 5,
+      "start": 382,
+      "end": 390,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "विचारणा",
+      "sentence": 5,
+      "start": 391,
+      "end": 397,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "जणांचा",
+      "sentence": 6,
+      "start": 416,
+      "end": 421,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "मृत्यू",
+      "sentence": 6,
+      "start": 422,
+      "end": 426,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "अंगविक्षेप",
+      "sentence": 7,
+      "start": 435,
+      "end": 442,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "नृत्य",
+      "sentence": 7,
+      "start": 447,
+      "end": 450,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "त्यांनी",
+      "sentence": 8,
+      "start": 469,
+      "end": 474,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "नानावटी",
+      "sentence": 8,
+      "start": 485,
+      "end": 491,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "महाराष्ट्र",
+      "sentence": 8,
+      "start": 498,
+      "end": 504,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "राज्य",
+      "sentence": 8,
+      "start": 505,
+      "end": 508,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "खटल्यामुळे",
+      "sentence": 8,
+      "start": 512,
+      "end": 519,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "त्यांचे",
+      "sentence": 8,
+      "start": 520,
+      "end": 524,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "आपल्याला",
+      "sentence": 9,
+      "start": 546,
+      "end": 552,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "धनाचा",
+      "sentence": 9,
+      "start": 559,
+      "end": 563,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "संस्थांना",
+      "sentence": 9,
+      "start": 581,
+      "end": 587,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "देणगी",
+      "sentence": 9,
+      "start": 588,
+      "end": 592,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "जाणीव",
+      "sentence": 9,
+      "start": 620,
+      "end": 624,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "विवेक",
+      "sentence": 9,
+      "start": 626,
+      "end": 630,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "मनात",
+      "sentence": 9,
+      "start": 631,
+      "end": 635,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "विचार",
+      "sentence": 9,
+      "start": 654,
+      "end": 658,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "आपण",
+      "sentence": 9,
+      "start": 659,
+      "end": 663,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "त्यांच्या",
+      "sentence": 9,
+      "start": 664,
+      "end": 669,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "समरसतेतून",
+      "sentence": 9,
+      "start": 679,
+      "end": 687,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "कलाकार",
+      "sentence": 10,
+      "start": 693,
+      "end": 698,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "राजकारणी",
+      "sentence": 10,
+      "start": 714,
+      "end": 720,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "वादळांनी",
+      "sentence": 10,
+      "start": 734,
+      "end": 740,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "त्यांची",
+      "sentence": 10,
+      "start": 741,
+      "end": 745,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "त्यांनी",
+      "sentence": 11,
+      "start": 762,
+      "end": 767,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "राजकारण",
+      "sentence": 11,
+      "start": 777,
+      "end": 783,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "घरात",
+      "sentence": 12,
+      "start": 796,
+      "end": 800,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "पक्ष्यांनी",
+      "sentence": 12,
+      "start": 815,
+      "end": 821,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "जिल्ह्याला",
+      "sentence": 12,
+      "start": 823,
+      "end": 828,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "उजनी",
+      "sentence": 12,
+      "start": 843,
+      "end": 847,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "जलाशयावर",
+      "sentence": 12,
+      "start": 848,
+      "end": 856,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "विस्तारासाठी",
+      "sentence": 12,
+      "start": 857,
+      "end": 865,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "गर्दी",
+      "sentence": 12,
+      "start": 874,
+      "end": 877,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "राज्यात",
+      "sentence": 13,
+      "start": 907,
+      "end": 911,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "शिवसेना-भाजप",
+      "sentence": 13,
+      "start": 912,
+      "end": 922,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "युतीला",
+      "sentence": 13,
+      "start": 923,
+      "end": 927,
+      "confidence": 1.0
+    },
+    {
+      "id": 61,
+      "text": "नेते",
+      "sentence": 13,
+      "start": 957,
+      "end": 960,
+      "confidence": 1.0
+    },
+    {
+      "id": 62,
+      "text": "पवार",
+      "sentence": 13,
+      "start": 966,
+      "end": 970,
+      "confidence": 1.0
+    },
+    {
+      "id": 63,
+      "text": "महाराष्ट्र",
+      "sentence": 13,
+      "start": 979,
+      "end": 985,
+      "confidence": 1.0
+    },
+    {
+      "id": 64,
+      "text": "काँग्रेस-राष्ट्रवादीला",
+      "sentence": 13,
+      "start": 998,
+      "end": 1011,
+      "confidence": 1.0
+    },
+    {
+      "id": 65,
+      "text": "आनंद",
+      "sentence": 14,
+      "start": 1043,
+      "end": 1047,
+      "confidence": 1.0
+    },
+    {
+      "id": 66,
+      "text": "कुलकर्णी",
+      "sentence": 14,
+      "start": 1048,
+      "end": 1054,
+      "confidence": 1.0
+    },
+    {
+      "id": 67,
+      "text": "संघाचे",
+      "sentence": 14,
+      "start": 1062,
+      "end": 1067,
+      "confidence": 1.0
+    },
+    {
+      "id": 68,
+      "text": "प्रशिक्षक",
+      "sentence": 14,
+      "start": 1068,
+      "end": 1074,
+      "confidence": 1.0
+    },
+    {
+      "id": 69,
+      "text": "शेलार",
+      "sentence": 14,
+      "start": 1090,
+      "end": 1094,
+      "confidence": 1.0
+    },
+    {
+      "id": 70,
+      "text": "सहप्रशिक्षक",
+      "sentence": 14,
+      "start": 1095,
+      "end": 1102,
+      "confidence": 1.0
+    },
+    {
+      "id": 71,
+      "text": "मुलांच्या",
+      "sentence": 15,
+      "start": 1109,
+      "end": 1115,
+      "confidence": 1.0
+    },
+    {
+      "id": 72,
+      "text": "संघाची",
+      "sentence": 15,
+      "start": 1116,
+      "end": 1121,
+      "confidence": 1.0
+    },
+    {
+      "id": 73,
+      "text": "जबाबदारी",
+      "sentence": 15,
+      "start": 1122,
+      "end": 1129,
+      "confidence": 1.0
+    },
+    {
+      "id": 74,
+      "text": "चैतन्य",
+      "sentence": 15,
+      "start": 1130,
+      "end": 1136,
+      "confidence": 1.0
+    },
+    {
+      "id": 75,
+      "text": "दीक्षित",
+      "sentence": 15,
+      "start": 1137,
+      "end": 1142,
+      "confidence": 1.0
+    },
+    {
+      "id": 76,
+      "text": "सहप्रशिक्षक",
+      "sentence": 15,
+      "start": 1159,
+      "end": 1166,
+      "confidence": 1.0
+    },
+    {
+      "id": 77,
+      "text": "अरुण",
+      "sentence": 15,
+      "start": 1167,
+      "end": 1170,
+      "confidence": 1.0
+    },
+    {
+      "id": 78,
+      "text": "पवार",
+      "sentence": 15,
+      "start": 1171,
+      "end": 1175,
+      "confidence": 1.0
+    },
+    {
+      "id": 79,
+      "text": "त्यांना",
+      "sentence": 15,
+      "start": 1176,
+      "end": 1181,
+      "confidence": 1.0
+    },
+    {
+      "id": 80,
+      "text": "ललित",
+      "sentence": 16,
+      "start": 1187,
+      "end": 1190,
+      "confidence": 1.0
+    },
+    {
+      "id": 81,
+      "text": "नहाटा",
+      "sentence": 16,
+      "start": 1191,
+      "end": 1195,
+      "confidence": 1.0
+    },
+    {
+      "id": 82,
+      "text": "हृषिकेश",
+      "sentence": 16,
+      "start": 1200,
+      "end": 1206,
+      "confidence": 1.0
+    },
+    {
+      "id": 83,
+      "text": "दीक्षित",
+      "sentence": 16,
+      "start": 1207,
+      "end": 1212,
+      "confidence": 1.0
+    },
+    {
+      "id": 84,
+      "text": "मुली",
+      "sentence": 16,
+      "start": 1223,
+      "end": 1226,
+      "confidence": 1.0
+    },
+    {
+      "id": 85,
+      "text": "मुलांच्या",
+      "sentence": 16,
+      "start": 1229,
+      "end": 1235,
+      "confidence": 1.0
+    },
+    {
+      "id": 86,
+      "text": "संघाचे",
+      "sentence": 16,
+      "start": 1236,
+      "end": 1241,
+      "confidence": 1.0
+    },
+    {
+      "id": 87,
+      "text": "व्यवस्थापक",
+      "sentence": 16,
+      "start": 1242,
+      "end": 1248,
+      "confidence": 1.0
+    },
+    {
+      "id": 88,
+      "text": "स्पर्धेकरिता",
+      "sentence": 16,
+      "start": 1283,
+      "end": 1291,
+      "confidence": 1.0
+    },
+    {
+      "id": 89,
+      "text": "महाराष्ट्राचे",
+      "sentence": 16,
+      "start": 1292,
+      "end": 1300,
+      "confidence": 1.0
+    },
+    {
+      "id": 90,
+      "text": "स्पर्धेचे",
+      "sentence": 16,
+      "start": 1315,
+      "end": 1320,
+      "confidence": 1.0
+    },
+    {
+      "id": 91,
+      "text": "आयोजन",
+      "sentence": 16,
+      "start": 1321,
+      "end": 1326,
+      "confidence": 1.0
+    },
+    {
+      "id": 92,
+      "text": "जुलै",
+      "sentence": 16,
+      "start": 1335,
+      "end": 1338,
+      "confidence": 1.0
+    },
+    {
+      "id": 93,
+      "text": "कालावधीत",
+      "sentence": 16,
+      "start": 1357,
+      "end": 1364,
+      "confidence": 1.0
+    },
+    {
+      "id": 94,
+      "text": "महाराष्ट्र",
+      "sentence": 17,
+      "start": 1382,
+      "end": 1388,
+      "confidence": 1.0
+    },
+    {
+      "id": 95,
+      "text": "बास्केटबॉल",
+      "sentence": 17,
+      "start": 1389,
+      "end": 1398,
+      "confidence": 1.0
+    },
+    {
+      "id": 96,
+      "text": "जिल्हा",
+      "sentence": 17,
+      "start": 1417,
+      "end": 1421,
+      "confidence": 1.0
+    },
+    {
+      "id": 97,
+      "text": "बास्ketबॉल",
+      "sentence": 17,
+      "start": 1422,
+      "end": 1431,
+      "confidence": 1.0
+    },
+    {
+      "id": 98,
+      "text": "संघटना",
+      "sentence": 17,
+      "start": 1432,
+      "end": 1437,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      51,
+      62
+    ],
+    [
+      43,
+      49,
+      63,
+      69,
+      71
+    ],
+    [
+      44,
+      45
+    ],
+    [
+      46,
+      47
+    ],
+    [
+      60,
+      61
+    ],
+    [
+      29,
+      30
+    ],
+    [
+      31,
+      32
+    ],
+    [
+      39,
+      40,
+      41
+    ],
+    [
+      2,
+      3,
+      4
+    ],
+    [
+      8,
+      12
+    ],
+    [
+      93,
+      94
+    ],
+    [
+      86,
+      87,
+      88
+    ],
+    [
+      81,
+      91
+    ]
+  ]
+}

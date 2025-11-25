@@ -1,0 +1,58 @@
+{
+  "document_id": "document_237",
+  "sentences": [
+    "मोदींच या दोन लोकांवर विशेष प्रेम आहे.",
+    "एमआयएम प्रमुख असदुद्दीन ओवेसी यांनी इम्तियाज जलील."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "लोकांवर",
+      "sentence": 0,
+      "start": 12,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "प्रेम",
+      "sentence": 0,
+      "start": 28,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "एमआयएम",
+      "sentence": 1,
+      "start": 36,
+      "end": 42,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "असदुद्दीन",
+      "sentence": 1,
+      "start": 49,
+      "end": 58,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "ओवेसी",
+      "sentence": 1,
+      "start": 59,
+      "end": 64,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "इम्तियाज",
+      "sentence": 1,
+      "start": 71,
+      "end": 79,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

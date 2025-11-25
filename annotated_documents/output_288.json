@@ -1,0 +1,104 @@
+{
+  "document_id": "document_288",
+  "sentences": [
+    "शेवटच्या क्षणापर्यंत ताणल्या गेलेल्या अत्यंत उत्कंठावर्धक क्वार्टर फायनल रशियाविरुद्ध टायब्रेकरमध्ये दीपिका कुमारी आणि तिच्या सहकाऱ्यांना अपयश आलं.",
+    "दुसऱया श्रावण सोमवारीही कपिलेश्वर मंदिरात भाविकांची गर्दी",
+    "यंत्रणांना आपले काम करू द्यायला हवं, त्यामुळे राज ठाकरे यांच्या."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "टायब्रेकरमध्ये",
+      "sentence": 0,
+      "start": 53,
+      "end": 63,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "दीपिका",
+      "sentence": 0,
+      "start": 72,
+      "end": 78,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "तिच्या",
+      "sentence": 0,
+      "start": 89,
+      "end": 94,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "सहकाऱ्यांना",
+      "sentence": 0,
+      "start": 95,
+      "end": 104,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "अपयश",
+      "sentence": 0,
+      "start": 105,
+      "end": 110,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "सोमवारीही",
+      "sentence": 1,
+      "start": 126,
+      "end": 134,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "मंदिरात",
+      "sentence": 1,
+      "start": 135,
+      "end": 142,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "भाविकांची",
+      "sentence": 1,
+      "start": 143,
+      "end": 151,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "गर्दी",
+      "sentence": 1,
+      "start": 152,
+      "end": 156,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "यंत्रणांना",
+      "sentence": 2,
+      "start": 158,
+      "end": 167,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "आपले",
+      "sentence": 2,
+      "start": 168,
+      "end": 173,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      2,
+      3
+    ]
+  ]
+}

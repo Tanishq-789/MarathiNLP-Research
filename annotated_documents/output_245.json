@@ -1,0 +1,42 @@
+{
+  "document_id": "document_245",
+  "sentences": [
+    "मी लाँग रन्स जनरली १७/१८ पर्यंतच करते.",
+    "आज बीड जिल्हयात मोठा दुष्काळ आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मी",
+      "sentence": 0,
+      "start": 0,
+      "end": 1,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "रन्स",
+      "sentence": 0,
+      "start": 9,
+      "end": 12,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "जिल्हयात",
+      "sentence": 1,
+      "start": 49,
+      "end": 56,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "दुष्काळ",
+      "sentence": 1,
+      "start": 63,
+      "end": 68,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

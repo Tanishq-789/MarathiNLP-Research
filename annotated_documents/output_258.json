@@ -1,0 +1,1064 @@
+{
+  "document_id": "document_258",
+  "sentences": [
+    "पीतर्फे झुमइन नॅशनल डिजीटल सर्किट 2018 ही संपुर्ण भारतातील छायाचित्रण स्पर्धा आयोजित करण्यात आली होती.",
+    "आज बुधवारी राज्य मंत्रिमंडळाची बैठक पार पडली.",
+    "प्रार्थना बेहेरे, आरोह वेलणकर आणि विराजस कुलकर्णी यांच्या प्रमुख भूमिका आहेत.",
+    "ते पाणी वरील कोठीत साठवायचे, नळाने कारंज्यापर्यंत पुरवायचे, कळ फिरवली की कारंजे सुरु.",
+    "अनिल गोरे (पुणे)  ४५,०००/-",
+    "शिवाय, तेव्हा आढळले उच्च दर सिंड्रोम कशिंग, अंडाशय मध्ये अतिवृद्धी किंवा आवाळू testicular स्ट्रोमा, तसेच स्थानभ्रष्ट कॉटिको विमोचन.",
+    "अ‍ॅट्रॉसिटी कायदा आम्ही रद्द होऊ देणार नाही, अशी भूमिका आठवलेंनी मांडली आहे.",
+    "असा सवाल ही गावडे यांनी केला आहे.",
+    "आपण पुढे वेळ समारंभ तयार करणे आवश्यक आहे.",
+    "स्मरणशक्ती तर अतिशय तल्लख स्वरूपाची होती.",
+    "7 – संपूर्ण राज्यभरात 7 ते 9 ऑगस्टदरम्यान जाहीर केलेल्या राज्यव्यापी शासकीय कर्माचार्‍यांच्या संपास भिवंडी तालुक्यातून 90 टक्के प्रतिसाद मिळाला असून बहुसंख्येने कर्मचारी संपात सहभागी झाले आहेत.",
+    "लोकलमधून फेकल्याने तिचा पाय कापावा लागला.",
+    "आर्थिक दिवाळ खोरीत गेलेली नवी मुंबई महापालिकेला तत्कालीन आयुक्त तुकाराम मुंढे आणि आत्ताचे आयुक्त डॉ.",
+    "रामास्वामी यांनी श्रीमंत महापालिकेच्या यादीत आणून बसवलं होतं.",
+    "२०११ विश्वचषक जिंकल्यानंतरचा धोनीचा लुक",
+    "डाळीमधे बीन्स, गाजर, भोपळा वगैरे भरपूर भाज्या घालायच्या.",
+    "जळगाव : ज्ञानपीठ पुरस्कार विजेते लेखक भालचंद्र नेमाडे यांनी पाठ्यपुस्तकात लिहिलेला शिवाजी महाराजांचा इतिहास खोटा असल्याचे वक्तव्य केले असून शिवाजी महाराज कळण्यासाठी त्यांच्याजवळील माणसांचा अभ्यास करणे आवश्यक आहे, असेही ते म्हणाले.",
+    "हे आहे मिडल इस्ट ब्लॉकला वीण knotted कार्पेट वापरला होता निर्मिती आणि मध्य आशिया, जाड, मऊ आणि हलका आणि मऊ कापड निर्माण माध्यमातून.",
+    "दादाराव अडसड व्हॉलिबॉल पटांगणात सोमवारी (ता.",
+    "सर्वेक्षण ही औपचारिकता : शिरोडकर",
+    "पण, काँग्रेसने भगव्या दहशतवादाचा मुद्दा काढला होता.",
+    "अशातच 2021 मध्ये होऊ घातलेल्या विधानसभा निवडणुकीत भाजपचा जोरदार प्रतिकार करण्यासाठी ममता बॅनर्जी यांच्याकडून व्यूहरचना केली जात आहे.",
+    "गेल्याच महिन्यात १८ डिसेंबर रोजी अकोल्यातील रणपिसेनगर भागात ज्योती आणि राणी शर्मा या मायलेकींची हत्या झाली होती.",
+    "त्यानुसार 30 वर्षांसाठी एकूण 28 कोटी 16 लाख 98 हजार 312 रुपये भाडे महापालिकेस मिळणार आहेत.",
+    "देहू-आळंदी पालखी मार्ग, 30 हजार घरकुलांची पायाभरणी, स्मार्ट सिटी, ड्रेनेज योजना अशा विविध विकासकामांचे पंतप्रधान मोदींच्या हस्ते भूमिपूजन करण्यात ."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "सर्किट",
+      "sentence": 0,
+      "start": 16,
+      "end": 22,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "छायाचित्रण",
+      "sentence": 0,
+      "start": 46,
+      "end": 56,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "स्पर्धा",
+      "sentence": 0,
+      "start": 57,
+      "end": 62,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "राज्य",
+      "sentence": 1,
+      "start": 13,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "मंत्रिमंडळ",
+      "sentence": 1,
+      "start": 18,
+      "end": 28,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "बैठक",
+      "sentence": 1,
+      "start": 29,
+      "end": 34,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "प्रार्थना",
+      "sentence": 2,
+      "start": 0,
+      "end": 6,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "बेहेरे",
+      "sentence": 2,
+      "start": 7,
+      "end": 11,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "आरोह",
+      "sentence": 2,
+      "start": 13,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "वेलणकर",
+      "sentence": 2,
+      "start": 18,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "कुलकर्णी",
+      "sentence": 2,
+      "start": 34,
+      "end": 41,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "भूमिका",
+      "sentence": 2,
+      "start": 56,
+      "end": 61,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "ते",
+      "sentence": 3,
+      "start": 0,
+      "end": 2,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "पाणी",
+      "sentence": 3,
+      "start": 3,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "कारंजे",
+      "sentence": 3,
+      "start": 36,
+      "end": 47,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "कारंजे",
+      "sentence": 3,
+      "start": 70,
+      "end": 75,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "गोरे",
+      "sentence": 4,
+      "start": 5,
+      "end": 8,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "सिंड्रोम",
+      "sentence": 5,
+      "start": 25,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "अंडाशय",
+      "sentence": 5,
+      "start": 39,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "अतिवृद्धी",
+      "sentence": 5,
+      "start": 50,
+      "end": 58,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "स्ट्रोमा",
+      "sentence": 5,
+      "start": 78,
+      "end": 83,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "कॉटिको",
+      "sentence": 5,
+      "start": 91,
+      "end": 97,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "विमोचन",
+      "sentence": 5,
+      "start": 98,
+      "end": 104,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "अ‍ॅट्रॉसिटी",
+      "sentence": 6,
+      "start": 0,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "कायदा",
+      "sentence": 6,
+      "start": 10,
+      "end": 14,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "आम्ही",
+      "sentence": 6,
+      "start": 15,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "भूमिका",
+      "sentence": 6,
+      "start": 42,
+      "end": 47,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "सवाल",
+      "sentence": 7,
+      "start": 4,
+      "end": 8,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "गावडे",
+      "sentence": 7,
+      "start": 12,
+      "end": 16,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "आपण",
+      "sentence": 8,
+      "start": 0,
+      "end": 4,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "समारंभ",
+      "sentence": 8,
+      "start": 12,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "स्मरणशक्ती",
+      "sentence": 9,
+      "start": 0,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "स्वरूप",
+      "sentence": 9,
+      "start": 21,
+      "end": 29,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "राज्य",
+      "sentence": 10,
+      "start": 5,
+      "end": 12,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "कर्मचारी",
+      "sentence": 10,
+      "start": 49,
+      "end": 60,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "प्रतिसाद",
+      "sentence": 10,
+      "start": 91,
+      "end": 97,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "कर्मचारी",
+      "sentence": 10,
+      "start": 113,
+      "end": 120,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "लोकल",
+      "sentence": 11,
+      "start": 0,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "ती",
+      "sentence": 11,
+      "start": 19,
+      "end": 23,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "मुंबई",
+      "sentence": 12,
+      "start": 23,
+      "end": 28,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "महापालिका",
+      "sentence": 12,
+      "start": 29,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "आयुक्त",
+      "sentence": 12,
+      "start": 50,
+      "end": 55,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "तुकाराम",
+      "sentence": 12,
+      "start": 56,
+      "end": 62,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "मुंढे",
+      "sentence": 12,
+      "start": 63,
+      "end": 67,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "आयुक्त",
+      "sentence": 12,
+      "start": 77,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "रामास्वामी",
+      "sentence": 13,
+      "start": 0,
+      "end": 8,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "महापालिका",
+      "sentence": 13,
+      "start": 18,
+      "end": 28,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "यादी",
+      "sentence": 13,
+      "start": 29,
+      "end": 33,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "विश्वचषक",
+      "sentence": 14,
+      "start": 5,
+      "end": 11,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "धोनी",
+      "sentence": 14,
+      "start": 22,
+      "end": 27,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "बीन्स",
+      "sentence": 15,
+      "start": 8,
+      "end": 12,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "गाजर",
+      "sentence": 15,
+      "start": 14,
+      "end": 18,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "भोपळा",
+      "sentence": 15,
+      "start": 20,
+      "end": 25,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "भाज्या",
+      "sentence": 15,
+      "start": 34,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "जळगाव",
+      "sentence": 16,
+      "start": 0,
+      "end": 5,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "ज्ञानपीठ",
+      "sentence": 16,
+      "start": 8,
+      "end": 14,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "पुरस्कार",
+      "sentence": 16,
+      "start": 15,
+      "end": 21,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "लेखक",
+      "sentence": 16,
+      "start": 27,
+      "end": 31,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "भालचंद्र",
+      "sentence": 16,
+      "start": 32,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "पाठ्यपुस्तक",
+      "sentence": 16,
+      "start": 50,
+      "end": 61,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "शिवाजी",
+      "sentence": 16,
+      "start": 68,
+      "end": 73,
+      "confidence": 1.0
+    },
+    {
+      "id": 61,
+      "text": "महाराज",
+      "sentence": 16,
+      "start": 74,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 62,
+      "text": "इतिहास",
+      "sentence": 16,
+      "start": 83,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 63,
+      "text": "वक्तव्य",
+      "sentence": 16,
+      "start": 104,
+      "end": 110,
+      "confidence": 1.0
+    },
+    {
+      "id": 64,
+      "text": "शिवाजी",
+      "sentence": 16,
+      "start": 125,
+      "end": 130,
+      "confidence": 1.0
+    },
+    {
+      "id": 65,
+      "text": "महाराज",
+      "sentence": 16,
+      "start": 131,
+      "end": 136,
+      "confidence": 1.0
+    },
+    {
+      "id": 66,
+      "text": "त्यांच्या",
+      "sentence": 16,
+      "start": 144,
+      "end": 155,
+      "confidence": 1.0
+    },
+    {
+      "id": 67,
+      "text": "माणूस",
+      "sentence": 16,
+      "start": 156,
+      "end": 163,
+      "confidence": 1.0
+    },
+    {
+      "id": 68,
+      "text": "अभ्यास",
+      "sentence": 16,
+      "start": 164,
+      "end": 169,
+      "confidence": 1.0
+    },
+    {
+      "id": 69,
+      "text": "ते",
+      "sentence": 16,
+      "start": 188,
+      "end": 190,
+      "confidence": 1.0
+    },
+    {
+      "id": 70,
+      "text": "मिडल",
+      "sentence": 17,
+      "start": 7,
+      "end": 11,
+      "confidence": 1.0
+    },
+    {
+      "id": 71,
+      "text": "ब्लॉक",
+      "sentence": 17,
+      "start": 16,
+      "end": 22,
+      "confidence": 1.0
+    },
+    {
+      "id": 72,
+      "text": "कार्पेट",
+      "sentence": 17,
+      "start": 35,
+      "end": 40,
+      "confidence": 1.0
+    },
+    {
+      "id": 73,
+      "text": "निर्मिती",
+      "sentence": 17,
+      "start": 53,
+      "end": 59,
+      "confidence": 1.0
+    },
+    {
+      "id": 74,
+      "text": "मध्य",
+      "sentence": 17,
+      "start": 62,
+      "end": 65,
+      "confidence": 1.0
+    },
+    {
+      "id": 75,
+      "text": "आशिया",
+      "sentence": 17,
+      "start": 66,
+      "end": 70,
+      "confidence": 1.0
+    },
+    {
+      "id": 76,
+      "text": "कापड",
+      "sentence": 17,
+      "start": 91,
+      "end": 95,
+      "confidence": 1.0
+    },
+    {
+      "id": 77,
+      "text": "दादाराव",
+      "sentence": 18,
+      "start": 0,
+      "end": 6,
+      "confidence": 1.0
+    },
+    {
+      "id": 78,
+      "text": "व्हॉलिबॉल",
+      "sentence": 18,
+      "start": 12,
+      "end": 20,
+      "confidence": 1.0
+    },
+    {
+      "id": 79,
+      "text": "पटांगण",
+      "sentence": 18,
+      "start": 21,
+      "end": 28,
+      "confidence": 1.0
+    },
+    {
+      "id": 80,
+      "text": "सोमवार",
+      "sentence": 18,
+      "start": 29,
+      "end": 35,
+      "confidence": 1.0
+    },
+    {
+      "id": 81,
+      "text": "सर्वेक्षण",
+      "sentence": 19,
+      "start": 0,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 82,
+      "text": "औपचारिकता",
+      "sentence": 19,
+      "start": 11,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 83,
+      "text": "काँग्रेस",
+      "sentence": 20,
+      "start": 4,
+      "end": 10,
+      "confidence": 1.0
+    },
+    {
+      "id": 84,
+      "text": "दहशतवाद",
+      "sentence": 20,
+      "start": 16,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 85,
+      "text": "मुद्दा",
+      "sentence": 20,
+      "start": 27,
+      "end": 31,
+      "confidence": 1.0
+    },
+    {
+      "id": 86,
+      "text": "2021",
+      "sentence": 21,
+      "start": 7,
+      "end": 11,
+      "confidence": 1.0
+    },
+    {
+      "id": 87,
+      "text": "भाजप",
+      "sentence": 21,
+      "start": 41,
+      "end": 46,
+      "confidence": 1.0
+    },
+    {
+      "id": 88,
+      "text": "प्रतिकार",
+      "sentence": 21,
+      "start": 54,
+      "end": 60,
+      "confidence": 1.0
+    },
+    {
+      "id": 89,
+      "text": "ममता",
+      "sentence": 21,
+      "start": 67,
+      "end": 71,
+      "confidence": 1.0
+    },
+    {
+      "id": 90,
+      "text": "बॅनर्जी",
+      "sentence": 21,
+      "start": 72,
+      "end": 77,
+      "confidence": 1.0
+    },
+    {
+      "id": 91,
+      "text": "व्यूहरचना",
+      "sentence": 21,
+      "start": 87,
+      "end": 94,
+      "confidence": 1.0
+    },
+    {
+      "id": 92,
+      "text": "महिना",
+      "sentence": 22,
+      "start": 7,
+      "end": 13,
+      "confidence": 1.0
+    },
+    {
+      "id": 93,
+      "text": "डिसेंबर",
+      "sentence": 22,
+      "start": 17,
+      "end": 23,
+      "confidence": 1.0
+    },
+    {
+      "id": 94,
+      "text": "राणी",
+      "sentence": 22,
+      "start": 61,
+      "end": 64,
+      "confidence": 1.0
+    },
+    {
+      "id": 95,
+      "text": "शर्मा",
+      "sentence": 22,
+      "start": 65,
+      "end": 69,
+      "confidence": 1.0
+    },
+    {
+      "id": 96,
+      "text": "हत्या",
+      "sentence": 22,
+      "start": 83,
+      "end": 86,
+      "confidence": 1.0
+    },
+    {
+      "id": 97,
+      "text": "वर्ष",
+      "sentence": 23,
+      "start": 12,
+      "end": 20,
+      "confidence": 1.0
+    },
+    {
+      "id": 98,
+      "text": "कोटी",
+      "sentence": 23,
+      "start": 28,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 99,
+      "text": "रुपये",
+      "sentence": 23,
+      "start": 54,
+      "end": 58,
+      "confidence": 1.0
+    },
+    {
+      "id": 100,
+      "text": "भाडे",
+      "sentence": 23,
+      "start": 59,
+      "end": 63,
+      "confidence": 1.0
+    },
+    {
+      "id": 101,
+      "text": "महापालिका",
+      "sentence": 23,
+      "start": 64,
+      "end": 72,
+      "confidence": 1.0
+    },
+    {
+      "id": 102,
+      "text": "देहू",
+      "sentence": 24,
+      "start": 0,
+      "end": 3,
+      "confidence": 1.0
+    },
+    {
+      "id": 103,
+      "text": "आळंदी",
+      "sentence": 24,
+      "start": 4,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 104,
+      "text": "पालखी",
+      "sentence": 24,
+      "start": 10,
+      "end": 15,
+      "confidence": 1.0
+    },
+    {
+      "id": 105,
+      "text": "मार्ग",
+      "sentence": 24,
+      "start": 16,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 106,
+      "text": "घरकुल",
+      "sentence": 24,
+      "start": 29,
+      "end": 37,
+      "confidence": 1.0
+    },
+    {
+      "id": 107,
+      "text": "पायाभरणी",
+      "sentence": 24,
+      "start": 38,
+      "end": 45,
+      "confidence": 1.0
+    },
+    {
+      "id": 108,
+      "text": "सिटी",
+      "sentence": 24,
+      "start": 52,
+      "end": 55,
+      "confidence": 1.0
+    },
+    {
+      "id": 109,
+      "text": "ड्रेनेज",
+      "sentence": 24,
+      "start": 57,
+      "end": 62,
+      "confidence": 1.0
+    },
+    {
+      "id": 110,
+      "text": "योजना",
+      "sentence": 24,
+      "start": 63,
+      "end": 67,
+      "confidence": 1.0
+    },
+    {
+      "id": 111,
+      "text": "विकासकाम",
+      "sentence": 24,
+      "start": 75,
+      "end": 84,
+      "confidence": 1.0
+    },
+    {
+      "id": 112,
+      "text": "पंतप्रधान",
+      "sentence": 24,
+      "start": 85,
+      "end": 92,
+      "confidence": 1.0
+    },
+    {
+      "id": 113,
+      "text": "मोदी",
+      "sentence": 24,
+      "start": 93,
+      "end": 99,
+      "confidence": 1.0
+    },
+    {
+      "id": 114,
+      "text": "हस्ते",
+      "sentence": 24,
+      "start": 100,
+      "end": 104,
+      "confidence": 1.0
+    },
+    {
+      "id": 115,
+      "text": "भूमिपूजन",
+      "sentence": 24,
+      "start": 105,
+      "end": 112,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    [
+      16,
+      17
+    ],
+    [
+      20,
+      22
+    ],
+    [
+      23,
+      24
+    ],
+    [
+      26,
+      27
+    ],
+    [
+      32,
+      33
+    ],
+    [
+      34,
+      35
+    ],
+    [
+      48,
+      54
+    ],
+    [
+      49,
+      55
+    ],
+    [
+      60,
+      67
+    ],
+    [
+      61,
+      62,
+      63
+    ],
+    [
+      64,
+      65
+    ],
+    [
+      79,
+      80
+    ],
+    [
+      81,
+      82,
+      83,
+      91,
+      94
+    ],
+    [
+      85,
+      86,
+      89,
+      90
+    ],
+    [
+      95,
+      100
+    ],
+    [
+      96,
+      97
+    ],
+    [
+      102,
+      103
+    ],
+    [
+      105,
+      106
+    ],
+    [
+      110,
+      111
+    ]
+  ]
+}

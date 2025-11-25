@@ -1,0 +1,384 @@
+{
+  "document_id": "document_285",
+  "sentences": [
+    "सिंग यांनी एक अर्ज दाखल करून यासंदर्भात योग्य ते आदेश देण्याची विनंती न्यायालयास केली, परंतु न्यायालयाने या अर्जावर आज कोणताही निर्णय घेतला नाही.",
+    "राज्यातील आठ विभागांमधील सवरेत्कृष्ट एकांकिकांच्या झालेल्या उत्कंठावर्धक महाअंतिम लढतीत अखेर औरंगाबाद येथील डॉ.",
+    "बाबासाहेब आंबेडकर मराठवाडा विद्यापीठातील भक्षक ही महाराष्ट्राची लोकांकिका ठरली.",
+    "आता मीनलच्या भावाने तिला माती कालवण्याचे एक यंत्र विकसित करून दिले असल्याने माती कालवण्याचे काम थोडे सोपे झाले आहे.",
+    "मात्र, गुप्त बातमीदाराच्या माहितीवरून गुन्हे शाखेने ही धडक कारवाई केली.",
+    "चर्चच्या चर्चमधील गायकांची नातू त्यांना देणारी मुलगी होती.",
+    "नवी दिल्ली विवाहबाह्य संबंधासाठी स्त्री व पुरुष या दोघांनाही जबाबदार ठरवावे व त्यांना समान शिक्षेची तरतूद असावी या याचिकेला केंद्र सरकारने विरोध दर्शवला."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "सिंग",
+      "sentence": 0,
+      "start": 0,
+      "end": 3,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "यांनी",
+      "sentence": 0,
+      "start": 5,
+      "end": 8,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "अर्ज",
+      "sentence": 0,
+      "start": 13,
+      "end": 15,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "विनंती",
+      "sentence": 0,
+      "start": 52,
+      "end": 56,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "न्यायालयास",
+      "sentence": 0,
+      "start": 58,
+      "end": 66,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "न्यायालयाने",
+      "sentence": 0,
+      "start": 80,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "अर्जावर",
+      "sentence": 0,
+      "start": 93,
+      "end": 98,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "निर्णय",
+      "sentence": 0,
+      "start": 107,
+      "end": 111,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "लढतीत",
+      "sentence": 1,
+      "start": 181,
+      "end": 186,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "औरंगाबाद",
+      "sentence": 1,
+      "start": 194,
+      "end": 202,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "बाबासाहेब",
+      "sentence": 2,
+      "start": 216,
+      "end": 223,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "आंबेडकर",
+      "sentence": 2,
+      "start": 225,
+      "end": 231,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "मराठवाडा",
+      "sentence": 2,
+      "start": 233,
+      "end": 239,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "विद्यापीठातील",
+      "sentence": 2,
+      "start": 241,
+      "end": 251,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "भक्षक",
+      "sentence": 2,
+      "start": 253,
+      "end": 257,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "महाराष्ट्राची",
+      "sentence": 2,
+      "start": 262,
+      "end": 271,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "लोकांकिका",
+      "sentence": 2,
+      "start": 273,
+      "end": 280,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "भावाने",
+      "sentence": 3,
+      "start": 298,
+      "end": 302,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "तिला",
+      "sentence": 3,
+      "start": 304,
+      "end": 306,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "माती",
+      "sentence": 3,
+      "start": 308,
+      "end": 311,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "यंत्र",
+      "sentence": 3,
+      "start": 326,
+      "end": 329,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "माती",
+      "sentence": 3,
+      "start": 345,
+      "end": 348,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "बातमीदाराच्या",
+      "sentence": 4,
+      "start": 393,
+      "end": 404,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "माहितीवरून",
+      "sentence": 4,
+      "start": 405,
+      "end": 413,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "गुन्हे",
+      "sentence": 4,
+      "start": 416,
+      "end": 420,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "शाखेने",
+      "sentence": 4,
+      "start": 422,
+      "end": 427,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "गायकांची",
+      "sentence": 5,
+      "start": 458,
+      "end": 465,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "नातू",
+      "sentence": 5,
+      "start": 467,
+      "end": 470,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "त्यांना",
+      "sentence": 5,
+      "start": 472,
+      "end": 477,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "मुलगी",
+      "sentence": 5,
+      "start": 486,
+      "end": 490,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "दिल्ली",
+      "sentence": 6,
+      "start": 506,
+      "end": 510,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "संबंधासाठी",
+      "sentence": 6,
+      "start": 519,
+      "end": 528,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "स्त्री",
+      "sentence": 6,
+      "start": 530,
+      "end": 533,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "पुरुष",
+      "sentence": 6,
+      "start": 537,
+      "end": 541,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "दोघांनाही",
+      "sentence": 6,
+      "start": 545,
+      "end": 553,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "त्यांना",
+      "sentence": 6,
+      "start": 568,
+      "end": 573,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "शिक्षेची",
+      "sentence": 6,
+      "start": 580,
+      "end": 586,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "तरतूद",
+      "sentence": 6,
+      "start": 588,
+      "end": 593,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "याचिकेला",
+      "sentence": 6,
+      "start": 601,
+      "end": 608,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "केंद्र",
+      "sentence": 6,
+      "start": 610,
+      "end": 614,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "सरकारने",
+      "sentence": 6,
+      "start": 616,
+      "end": 621,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "विरोध",
+      "sentence": 6,
+      "start": 623,
+      "end": 627,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      19,
+      21
+    ],
+    [
+      22,
+      24
+    ],
+    [
+      25,
+      27
+    ],
+    [
+      34,
+      35
+    ],
+    [
+      36,
+      38
+    ]
+  ]
+}

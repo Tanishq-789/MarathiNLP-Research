@@ -1,0 +1,177 @@
+{
+  "document_id": "document_256",
+  "sentences": [
+    "अधिक 100 आता व दोन महिन्यांनंतर 100 या स्वयंघोषित सूत्रावर सहमत झाले.",
+    "वाहतूक पोलिसांनी त्यांना चौकीत येण्यास सांगितले, मात्र त्यांनी ऐकण्यास नकार दिला.",
+    "चलो अयोध्या; उद्धव ठाकरे ७ मार्च रोजी घेणार 'श्रीराम दर्शन'",
+    "यंदा दोन दिवस चालणाऱया या लिलावात 12 प्रँचायझी संघांना प्रत्येकी 4.4 कोटी रुपयांपर्यंत बोली लावता येऊ शकते.",
+    "भरतीची उच्चतम पातळी.",
+    "बरोबर."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "सूत्रावर",
+      "sentence": 0,
+      "start": 43,
+      "end": 50,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "पोलिसांनी",
+      "sentence": 1,
+      "start": 67,
+      "end": 75,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "त्यांना",
+      "sentence": 1,
+      "start": 76,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "चौकीत",
+      "sentence": 1,
+      "start": 83,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "त्यांनी",
+      "sentence": 1,
+      "start": 107,
+      "end": 113,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "नकार",
+      "sentence": 1,
+      "start": 122,
+      "end": 126,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "अयोध्या",
+      "sentence": 2,
+      "start": 132,
+      "end": 138,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "उद्धव",
+      "sentence": 2,
+      "start": 141,
+      "end": 146,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "ठाकरे",
+      "sentence": 2,
+      "start": 147,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मार्च",
+      "sentence": 2,
+      "start": 156,
+      "end": 160,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "श्रीराम",
+      "sentence": 2,
+      "start": 170,
+      "end": 176,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "दर्शन",
+      "sentence": 2,
+      "start": 177,
+      "end": 182,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "लिलावात",
+      "sentence": 3,
+      "start": 200,
+      "end": 207,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "प्रँचायझी",
+      "sentence": 3,
+      "start": 213,
+      "end": 222,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "संघांना",
+      "sentence": 3,
+      "start": 223,
+      "end": 229,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "कोटी",
+      "sentence": 3,
+      "start": 243,
+      "end": 247,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "रुपयांपर्यंत",
+      "sentence": 3,
+      "start": 248,
+      "end": 260,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "भरतीची",
+      "sentence": 4,
+      "start": 270,
+      "end": 276,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "पातळी",
+      "sentence": 4,
+      "start": 285,
+      "end": 290,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1,
+      4,
+      6
+    ],
+    [
+      9,
+      10
+    ]
+  ]
+}

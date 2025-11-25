@@ -1,0 +1,221 @@
+{
+  "document_id": "document_290",
+  "sentences": [
+    "महत्वाच्या बातम्या",
+    "मिरजोळे गटातील गावांची नावे अशी ः मिरजोळे, शीळ, मधलीवाडी, पडवेवाडी, खेडशी, फणसवळे, कोंडवीवाडी, मधलीवाडी, मजगाव, दांडेआडोम, भावेआडोम, भोके, आंबेकरवाडी, पिरंदवणे, वाडाजून, सड्ये, केळ्ये.",
+    "औषध \"अल्ट्राकॅन\" हाड किंवा श्लेष्म पडदावरील ऑपरेशनमध्ये वापरला जातो, प्रामुख्याने दंतचिकित्सा मध्ये, जेव्हा अॅनेस्थेसियाच्या खाली दात काढून टाकणे किंवा त्यावर उपचार करणे अत्यंत आवश्यक असते प्रशासनाच्या कारणास्तव 1-2 मिनिटांनंतर त्याची क्रिया होते.",
+    "त्याचबरोबर अर्जदाराने अर्जाची प्रिंट, डी."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "बातम्या",
+      "sentence": 0,
+      "start": 9,
+      "end": 15,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "गावांची",
+      "sentence": 1,
+      "start": 29,
+      "end": 35,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "नावे",
+      "sentence": 1,
+      "start": 36,
+      "end": 40,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "कोंडवीवाडी",
+      "sentence": 1,
+      "start": 96,
+      "end": 105,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "मजगाव",
+      "sentence": 1,
+      "start": 117,
+      "end": 122,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "दांडेआडोम",
+      "sentence": 1,
+      "start": 124,
+      "end": 133,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "भावेआडोम",
+      "sentence": 1,
+      "start": 135,
+      "end": 143,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "आंबेकरवाडी",
+      "sentence": 1,
+      "start": 151,
+      "end": 160,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "वाडाजून",
+      "sentence": 1,
+      "start": 171,
+      "end": 177,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "सड्ये",
+      "sentence": 1,
+      "start": 179,
+      "end": 183,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "केळ्ये",
+      "sentence": 1,
+      "start": 185,
+      "end": 190,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "अल्ट्राकॅन",
+      "sentence": 2,
+      "start": 199,
+      "end": 208,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "श्लेष्म",
+      "sentence": 2,
+      "start": 219,
+      "end": 224,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "पडदा",
+      "sentence": 2,
+      "start": 226,
+      "end": 230,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "दंतचिकित्सा",
+      "sentence": 2,
+      "start": 255,
+      "end": 264,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "अॅनेस्थेसिया",
+      "sentence": 2,
+      "start": 274,
+      "end": 283,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "उपचार",
+      "sentence": 2,
+      "start": 310,
+      "end": 315,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "प्रशासन",
+      "sentence": 2,
+      "start": 334,
+      "end": 341,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "कारण",
+      "sentence": 2,
+      "start": 345,
+      "end": 349,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "मिनिट",
+      "sentence": 2,
+      "start": 359,
+      "end": 363,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "त्याची",
+      "sentence": 2,
+      "start": 367,
+      "end": 371,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "क्रिया",
+      "sentence": 2,
+      "start": 373,
+      "end": 377,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "अर्जदार",
+      "sentence": 3,
+      "start": 389,
+      "end": 395,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "अर्ज",
+      "sentence": 3,
+      "start": 398,
+      "end": 401,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "प्रिंट",
+      "sentence": 3,
+      "start": 404,
+      "end": 409,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      6,
+      11
+    ],
+    [
+      21,
+      22
+    ]
+  ]
+}

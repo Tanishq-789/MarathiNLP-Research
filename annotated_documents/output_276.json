@@ -1,0 +1,264 @@
+{
+  "document_id": "document_276",
+  "sentences": [
+    "प्रौढ मोठ्याने थोडे ऑफर वाचतो आणि त्याच वेळी शांतपणे टेबलवर एक पेन्सिल टॅप.",
+    "मुख्याध्यापिका प्रतिभा सेनगुप्ता यांनी आळंदी येथील जागृती अंध विद्यालयात तिच्या शिक्षणाची व्यवस्था करत तिचा पुढील प्रवास मार्गी लावला.",
+    "या रक्षण मनुष्यबळ एकूण तोटा होऊ शकते.",
+    "यामध्ये कचरा निर्मूलन, रस्ते आणि पदपथ, महापालिकेच्या मालमत्ता याबरोबरच काही महत्वाचे निर्देश दिले.",
+    "योग्य निवड करण्यासाठी, आपण प्रत्येक प्रकारच्या वैशिष्ट्ये समजून घेणे, तसेच आकार बद्दल अधिक जाणून घेण्यासाठी आवश्यक आहे.",
+    "उद्योगमंत्री या नात्याने या प्रकल्पातील भरतीमध्ये इतर कुणालाही लुडबूड करु देणार नाही."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "प्रौढ",
+      "sentence": 0,
+      "start": 0,
+      "end": 4,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "टेबल",
+      "sentence": 0,
+      "start": 50,
+      "end": 54,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "पेन्सिल",
+      "sentence": 0,
+      "start": 58,
+      "end": 64,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मुख्याध्यापिका",
+      "sentence": 1,
+      "start": 69,
+      "end": 81,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "प्रतिभा",
+      "sentence": 1,
+      "start": 82,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "सेनगुप्ता",
+      "sentence": 1,
+      "start": 89,
+      "end": 96,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "आळंदी",
+      "sentence": 1,
+      "start": 102,
+      "end": 107,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "जागृती",
+      "sentence": 1,
+      "start": 114,
+      "end": 119,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "विद्यालय",
+      "sentence": 1,
+      "start": 124,
+      "end": 131,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "तिच्या",
+      "sentence": 1,
+      "start": 133,
+      "end": 138,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "शिक्षण",
+      "sentence": 1,
+      "start": 139,
+      "end": 144,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "प्रवास",
+      "sentence": 1,
+      "start": 166,
+      "end": 171,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "रक्षण",
+      "sentence": 2,
+      "start": 179,
+      "end": 183,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "मनुष्यबळ",
+      "sentence": 2,
+      "start": 185,
+      "end": 192,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "तोटा",
+      "sentence": 2,
+      "start": 198,
+      "end": 202,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "कचरा",
+      "sentence": 3,
+      "start": 213,
+      "end": 217,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "निर्मूलन",
+      "sentence": 3,
+      "start": 218,
+      "end": 224,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "रस्ते",
+      "sentence": 3,
+      "start": 227,
+      "end": 231,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "पदपथ",
+      "sentence": 3,
+      "start": 235,
+      "end": 240,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "महापालिका",
+      "sentence": 3,
+      "start": 243,
+      "end": 250,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "मालमत्ता",
+      "sentence": 3,
+      "start": 251,
+      "end": 257,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "निर्देश",
+      "sentence": 3,
+      "start": 276,
+      "end": 281,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "आपण",
+      "sentence": 4,
+      "start": 305,
+      "end": 309,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "प्रकार",
+      "sentence": 4,
+      "start": 316,
+      "end": 320,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "वैशिष्ट्ये",
+      "sentence": 4,
+      "start": 321,
+      "end": 327,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "उद्योगमंत्री",
+      "sentence": 5,
+      "start": 375,
+      "end": 384,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "नाते",
+      "sentence": 5,
+      "start": 388,
+      "end": 391,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "प्रकल्प",
+      "sentence": 5,
+      "start": 396,
+      "end": 400,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "भरती",
+      "sentence": 5,
+      "start": 401,
+      "end": 405,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "कुणालाही",
+      "sentence": 5,
+      "start": 416,
+      "end": 422,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      5,
+      6,
+      7
+    ],
+    [
+      11,
+      13
+    ]
+  ]
+}

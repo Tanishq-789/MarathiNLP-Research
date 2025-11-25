@@ -1,0 +1,195 @@
+{
+  "document_id": "document_241",
+  "sentences": [
+    "1662 साली मोरेश्वर हणमंत देशमुख यांनी बांधलेल्या श्रीक्षेत्र तरसोद गणपती मंदिर या जागृत देवस्थानाची पंचक्रोशीत ख्याती आहे.",
+    "येथे, खूप, समस्या अनेक आहेत, आणि संस्था सर्व व्यवस्थापन मॉड्यूलर अभ्यासक्रम आणि फॉर्म तयार करण्यासाठी, शैक्षणिक योजना आणि कार्यक्रम अनुकूल करण्यासाठी कार्य करीत आहे.",
+    "विभागीय सहनिबंधकांकडे तक्रार पोहचल्यानंतर त्यांनीही भरती रद्द करण्याचे पत्र काढले होते.",
+    "तेथे पेय आणि स्नॅक्सच्या विस्तृत निवडीसह एक बार आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मोरेश्वर",
+      "sentence": 0,
+      "start": 10,
+      "end": 16,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "हणमंत",
+      "sentence": 0,
+      "start": 18,
+      "end": 23,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "देशमुख",
+      "sentence": 0,
+      "start": 25,
+      "end": 30,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "यांनी",
+      "sentence": 0,
+      "start": 32,
+      "end": 35,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "गणपती",
+      "sentence": 0,
+      "start": 60,
+      "end": 65,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "मंदिर",
+      "sentence": 0,
+      "start": 67,
+      "end": 71,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "देवस्थानाची",
+      "sentence": 0,
+      "start": 80,
+      "end": 90,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "ख्याती",
+      "sentence": 0,
+      "start": 103,
+      "end": 107,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "समस्या",
+      "sentence": 1,
+      "start": 119,
+      "end": 123,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "संस्था",
+      "sentence": 1,
+      "start": 135,
+      "end": 139,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "व्यवस्थापन",
+      "sentence": 1,
+      "start": 146,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "अभ्यासक्रम",
+      "sentence": 1,
+      "start": 161,
+      "end": 166,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "फॉर्म",
+      "sentence": 1,
+      "start": 171,
+      "end": 174,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "योजना",
+      "sentence": 1,
+      "start": 189,
+      "end": 192,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "कार्यक्रम",
+      "sentence": 1,
+      "start": 196,
+      "end": 200,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "कार्य",
+      "sentence": 1,
+      "start": 212,
+      "end": 214,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "सहनिबंधकांकडे",
+      "sentence": 2,
+      "start": 226,
+      "end": 237,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "तक्रार",
+      "sentence": 2,
+      "start": 239,
+      "end": 243,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "त्यांनीही",
+      "sentence": 2,
+      "start": 255,
+      "end": 260,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "भरती",
+      "sentence": 2,
+      "start": 261,
+      "end": 265,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "पत्र",
+      "sentence": 2,
+      "start": 274,
+      "end": 276,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      1,
+      2,
+      3,
+      4
+    ],
+    [
+      5,
+      6,
+      7,
+      8,
+      9,
+      12
+    ]
+  ]
+}

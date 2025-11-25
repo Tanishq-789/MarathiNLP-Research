@@ -1,0 +1,246 @@
+{
+  "document_id": "document_202",
+  "sentences": [
+    "देवरुख आगाराच्या गाडय़ांत बिघाड!",
+    "एकीकडे मोबाईल आणि मोबाईल कंपन्यांचे उदंड पीक आले असताना, त्याचा प्रत्यक्ष फायदा लोकांपर्यंत पुरेशा प्रमाणामध्ये पोहचू शकलेला नाही.",
+    "मुख्य गोष्ट - कल्पनाशक्ती कनेक्ट आणि सौंदर्य तयार करा.",
+    "बँक अधिकाऱ्यांवर काय आरोप आहेत?",
+    "रविंद्र आरळी,  चंद्रकांत गुड्डोडगी, अमृतानंद स्वामी, अजितकुमार पाटील,  श्रीपाद अष्टेकर,  शिवाजीराव ताड, उमेश सावंत,  सुनिल पवार, शंकर वगऱे,  रिपाईचे संजय कांबळे, आर."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "आगाराच्या",
+      "sentence": 0,
+      "start": 8,
+      "end": 16,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "गाडय़ांत",
+      "sentence": 0,
+      "start": 18,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "बिघाड",
+      "sentence": 0,
+      "start": 26,
+      "end": 31,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मोबाईल",
+      "sentence": 1,
+      "start": 40,
+      "end": 45,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "मोबाईल",
+      "sentence": 1,
+      "start": 50,
+      "end": 55,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "कंपन्यांचे",
+      "sentence": 1,
+      "start": 57,
+      "end": 64,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "त्याचा",
+      "sentence": 1,
+      "start": 89,
+      "end": 94,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "फायदा",
+      "sentence": 1,
+      "start": 101,
+      "end": 105,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "प्रमाणामध्ये",
+      "sentence": 1,
+      "start": 125,
+      "end": 134,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "गोष्ट",
+      "sentence": 2,
+      "start": 164,
+      "end": 167,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "कल्पनाशक्ती",
+      "sentence": 2,
+      "start": 172,
+      "end": 182,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "सौंदर्य",
+      "sentence": 2,
+      "start": 194,
+      "end": 199,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "अधिकाऱ्यांवर",
+      "sentence": 3,
+      "start": 220,
+      "end": 228,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "आरोप",
+      "sentence": 3,
+      "start": 234,
+      "end": 238,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "रविंद्र",
+      "sentence": 4,
+      "start": 247,
+      "end": 252,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "चंद्रकांत",
+      "sentence": 4,
+      "start": 262,
+      "end": 268,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "स्वामी",
+      "sentence": 4,
+      "start": 288,
+      "end": 292,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "अजितकुमार",
+      "sentence": 4,
+      "start": 294,
+      "end": 302,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "पाटील",
+      "sentence": 4,
+      "start": 304,
+      "end": 308,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "श्रीपाद",
+      "sentence": 4,
+      "start": 312,
+      "end": 317,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "अष्टेकर",
+      "sentence": 4,
+      "start": 319,
+      "end": 325,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "शिवाजीराव",
+      "sentence": 4,
+      "start": 329,
+      "end": 337,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "उमेश",
+      "sentence": 4,
+      "start": 343,
+      "end": 347,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "सावंत",
+      "sentence": 4,
+      "start": 349,
+      "end": 354,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "पवार",
+      "sentence": 4,
+      "start": 364,
+      "end": 368,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "शंकर",
+      "sentence": 4,
+      "start": 370,
+      "end": 374,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "रिपाईचे",
+      "sentence": 4,
+      "start": 384,
+      "end": 390,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "कांबळे",
+      "sentence": 4,
+      "start": 398,
+      "end": 403,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      4,
+      5
+    ],
+    [
+      7,
+      8
+    ]
+  ]
+}

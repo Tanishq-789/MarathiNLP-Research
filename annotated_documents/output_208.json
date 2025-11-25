@@ -1,0 +1,559 @@
+{
+  "document_id": "document_208",
+  "sentences": [
+    "तर्फे फोंडा तालुक्यातील मडकई, प्रियोळ, फोंडा व शिरोडा या चार मतदार संघातील प्रचाराला बुधवारी असंख्य कार्यकर्त्यांच्या उपस्थितीत मडकई मतदार संघातून सुरुवात झाली.",
+    "गोदावरीच्या पात्रात पडलेली ही ठिणगी आहे.",
+    "तेजस्वी चिन्ह खूप लांबून दृश्यमान आहे, आणि तो ग्राहकांना भुलविणे खात्री आहे.",
+    "नेहरूंचे अनेक निर्णय तरुणांना पटत नव्हते.",
+    "उद्या कोण गुलाल उधळणार हे कळेलच.",
+    "विशेषतः, या सर्जनशीलता विषय निर्मिती वर एक परिणाम होता.",
+    "त्यानंतर जयकुमार गोरे यांच्या घरी पण दुसरी बैठक झाली, त्यानंतर मुंबईत पण एक बैठक झाली त्यात शरद पवारांसोबत जायचे नाही असे स्पष्ट ठरले होते.",
+    "त्याच्या अचानक घराबाहेर जाण्याने सर्वांनाच धक्का बसला होता.",
+    "दरम्यानच्या काळात गावात कोणीही ग्रामस्थ फिरकत नाही.",
+    "म्हणून बिग बॉस यांनी पहिली फेरी बाद ठरवली आणि पुन्हा टास्कचे नियम समजावून सांगितले.",
+    "रिप्लेसमेंटचा अनुभव मी स्वतः घेतलेला नाही किंवा माझ्या आजवरच्या मालिकांमध्येही पाहिलेला नाही.",
+    "त्याला हरकत घेण्याचे कारण नाही पण, शिवशाही समजून घ्यायची असेल तर शिवाजीराजे आणि शिवचरित्र समजून घेतले पाहिजे.",
+    "मुंबई शहर आणि उपनगरात रात्रीपासून पावसाची रिपरिप सुरु आहे.",
+    "मालकाचं ऐकून काहीही करू लागलीय.",
+    "त्यामुळे त्यांच्या एकूणच कवितेत दिखाऊपणाचा जागर घातला जात नाही किंवा त्याला त्या शरण गेल्याची शक्मयताही दिसत नाही.",
+    ">>> पन मला वाटते तांदुळ शिजायला प्रॉबलेम येउ शकतो."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "फोंडा",
+      "sentence": 0,
+      "start": 6,
+      "end": 11,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "मडकई",
+      "sentence": 0,
+      "start": 19,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "प्रियोळ",
+      "sentence": 0,
+      "start": 26,
+      "end": 31,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "फोंडा",
+      "sentence": 0,
+      "start": 33,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "मतदार",
+      "sentence": 0,
+      "start": 53,
+      "end": 58,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "प्रचाराला",
+      "sentence": 0,
+      "start": 68,
+      "end": 76,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "उपस्थितीत",
+      "sentence": 0,
+      "start": 106,
+      "end": 115,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "मडकई",
+      "sentence": 0,
+      "start": 116,
+      "end": 121,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "मतदार",
+      "sentence": 0,
+      "start": 122,
+      "end": 127,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "ठिणगी",
+      "sentence": 1,
+      "start": 171,
+      "end": 176,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "चिन्ह",
+      "sentence": 2,
+      "start": 187,
+      "end": 191,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "तो",
+      "sentence": 2,
+      "start": 218,
+      "end": 219,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "ग्राहकांना",
+      "sentence": 2,
+      "start": 220,
+      "end": 227,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "खात्री",
+      "sentence": 2,
+      "start": 236,
+      "end": 241,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "नेहरूंचे",
+      "sentence": 3,
+      "start": 246,
+      "end": 253,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "निर्णय",
+      "sentence": 3,
+      "start": 260,
+      "end": 265,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "तरुणांना",
+      "sentence": 3,
+      "start": 266,
+      "end": 272,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "कोण",
+      "sentence": 4,
+      "start": 285,
+      "end": 288,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "गुलाल",
+      "sentence": 4,
+      "start": 289,
+      "end": 294,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "सर्जनशीलता",
+      "sentence": 5,
+      "start": 316,
+      "end": 325,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "विषय",
+      "sentence": 5,
+      "start": 326,
+      "end": 330,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "निर्मिती",
+      "sentence": 5,
+      "start": 331,
+      "end": 336,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "परिणाम",
+      "sentence": 5,
+      "start": 344,
+      "end": 349,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "जयकुमार",
+      "sentence": 6,
+      "start": 359,
+      "end": 366,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "गोरे",
+      "sentence": 6,
+      "start": 367,
+      "end": 370,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "बैठक",
+      "sentence": 6,
+      "start": 390,
+      "end": 395,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "मुंबईत",
+      "sentence": 6,
+      "start": 407,
+      "end": 412,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "बैठक",
+      "sentence": 6,
+      "start": 420,
+      "end": 425,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "पवारांसोबत",
+      "sentence": 6,
+      "start": 435,
+      "end": 444,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "त्याच्या",
+      "sentence": 7,
+      "start": 461,
+      "end": 466,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "सर्वांनाच",
+      "sentence": 7,
+      "start": 488,
+      "end": 494,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "धक्का",
+      "sentence": 7,
+      "start": 495,
+      "end": 499,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "काळात",
+      "sentence": 8,
+      "start": 513,
+      "end": 517,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "गावात",
+      "sentence": 8,
+      "start": 518,
+      "end": 523,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "कोणीही",
+      "sentence": 8,
+      "start": 524,
+      "end": 529,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "ग्रामस्थ",
+      "sentence": 8,
+      "start": 530,
+      "end": 535,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "यांनी",
+      "sentence": 9,
+      "start": 555,
+      "end": 559,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "फेरी",
+      "sentence": 9,
+      "start": 566,
+      "end": 569,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "टास्कचे",
+      "sentence": 9,
+      "start": 584,
+      "end": 589,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "नियम",
+      "sentence": 9,
+      "start": 590,
+      "end": 593,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "अनुभव",
+      "sentence": 10,
+      "start": 621,
+      "end": 626,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "मी",
+      "sentence": 10,
+      "start": 627,
+      "end": 628,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "स्वतः",
+      "sentence": 10,
+      "start": 629,
+      "end": 633,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "माझ्या",
+      "sentence": 10,
+      "start": 649,
+      "end": 653,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "मालिकांमध्येही",
+      "sentence": 10,
+      "start": 661,
+      "end": 671,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "त्याला",
+      "sentence": 11,
+      "start": 679,
+      "end": 683,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "हरकत",
+      "sentence": 11,
+      "start": 684,
+      "end": 688,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "कारण",
+      "sentence": 11,
+      "start": 696,
+      "end": 700,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "शिवशाही",
+      "sentence": 11,
+      "start": 706,
+      "end": 712,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "शिवाजीराजे",
+      "sentence": 11,
+      "start": 730,
+      "end": 738,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "शिवचरित्र",
+      "sentence": 11,
+      "start": 742,
+      "end": 750,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "मुंबई",
+      "sentence": 12,
+      "start": 759,
+      "end": 763,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "उपनगरात",
+      "sentence": 12,
+      "start": 773,
+      "end": 780,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "पावसाची",
+      "sentence": 12,
+      "start": 790,
+      "end": 796,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "रिपरिप",
+      "sentence": 12,
+      "start": 797,
+      "end": 802,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "त्यांच्या",
+      "sentence": 14,
+      "start": 826,
+      "end": 832,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "कवितेत",
+      "sentence": 14,
+      "start": 839,
+      "end": 844,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "दिखाऊपणाचा",
+      "sentence": 14,
+      "start": 845,
+      "end": 854,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "जागर",
+      "sentence": 14,
+      "start": 855,
+      "end": 859,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "त्याला",
+      "sentence": 14,
+      "start": 876,
+      "end": 880,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "त्या",
+      "sentence": 14,
+      "start": 881,
+      "end": 883,
+      "confidence": 1.0
+    },
+    {
+      "id": 61,
+      "text": "शक्मयताही",
+      "sentence": 14,
+      "start": 895,
+      "end": 902,
+      "confidence": 1.0
+    },
+    {
+      "id": 62,
+      "text": "मला",
+      "sentence": 15,
+      "start": 911,
+      "end": 913,
+      "confidence": 1.0
+    },
+    {
+      "id": 63,
+      "text": "तांदुळ",
+      "sentence": 15,
+      "start": 920,
+      "end": 925,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      1,
+      10
+    ],
+    [
+      17,
+      18
+    ],
+    [
+      37,
+      38
+    ],
+    [
+      50,
+      51,
+      52
+    ],
+    [
+      58,
+      59,
+      60
+    ]
+  ]
+}

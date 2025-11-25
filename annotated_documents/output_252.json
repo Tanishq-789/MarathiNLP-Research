@@ -1,0 +1,466 @@
+{
+  "document_id": "document_252",
+  "sentences": [
+    "शिवसेनेला रविवारी राज्यपालांनी सरकार स्थापनेसाठी निमंत्रित केले होते.",
+    "मुख्यमंत्री देवेंद्र फडणवीस यांनी जळगावमधील प्रचार सभेतून राष्ट्रवादी काँग्रेसचे अध्यक्ष शरद पवार यांच्या टीकेला जोरदार प्रत्युत्तर दिलंय.",
+    "त्यानेही प्रेम केलेच होते की?",
+    "२००७ साली माहिराने अली असकारीसोबत लग्न केले होते.",
+    "कुत्र्यांकडूनन मृत जनावरांचे लचके",
+    "दहावी किंवा बारावीनंतर अनेक होतकरु विद्यार्थ्यांना याचा फायदा होईल.",
+    "उत्तर महाराष्ट्र, विदर्भ आणि मराठवाड्याच्या बहुतांश भागांत पावसाचे वितरण योग्य राहिले नाही.",
+    "सर्व तत्त्व विशिष्ट नियमांच्या विसंगतीत आहेत.",
+    "ह्युस्टन विद्यापीठ",
+    "आठ ते दहा महिन्यांत येथील भूसंपादन करून, याच वर्षी वर्कऑर्डर व्हावी, असा आग्रहदेखील मुख्यमंत्र्यांनी धरला असल्याचे राव यांनी सांगितले.",
+    "अग्निशामक दलासह एनडीआरएफ आणि पोलिसांकडून या जवानांचा बचाव करण्यासाठी प्रयत्न करण्यात आले.",
+    "पती रविंद्र चौगुले यांनी 11 ऑगस्ट 2007 रोजी शीतल हिला गुंडांच्या तावडीत दिल्याचा आरोप करण्यात आला.",
+    "कर्नाटक हे भाजपसाठी खूप महत्त्वाचे राज्य आहे.",
+    "पण असा एखादा क्षण समोर आलाच, तर कितीजण तो प्रत्यक्षात जगतील हे सांगणं कठीण असतं."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "शिवसेनेला",
+      "sentence": 0,
+      "start": 0,
+      "end": 8,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "राज्यपालांनी",
+      "sentence": 0,
+      "start": 16,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "सरकार",
+      "sentence": 0,
+      "start": 27,
+      "end": 32,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मुख्यमंत्री",
+      "sentence": 1,
+      "start": 69,
+      "end": 77,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "देवेंद्र",
+      "sentence": 1,
+      "start": 78,
+      "end": 84,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "फडणवीस",
+      "sentence": 1,
+      "start": 85,
+      "end": 92,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "प्रचार",
+      "sentence": 1,
+      "start": 107,
+      "end": 112,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "सभेतून",
+      "sentence": 1,
+      "start": 113,
+      "end": 119,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "राष्ट्रवादी",
+      "sentence": 1,
+      "start": 120,
+      "end": 128,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "काँग्रेसचे",
+      "sentence": 1,
+      "start": 129,
+      "end": 136,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "पवार",
+      "sentence": 1,
+      "start": 148,
+      "end": 153,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "टीकेला",
+      "sentence": 1,
+      "start": 160,
+      "end": 165,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "प्रत्युत्तर",
+      "sentence": 1,
+      "start": 174,
+      "end": 181,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "त्यानेही",
+      "sentence": 2,
+      "start": 240,
+      "end": 246,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "माहिराने",
+      "sentence": 3,
+      "start": 278,
+      "end": 285,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "असकारीसोबत",
+      "sentence": 3,
+      "start": 290,
+      "end": 299,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "लग्न",
+      "sentence": 3,
+      "start": 300,
+      "end": 304,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "कुत्र्यांकडूनन",
+      "sentence": 4,
+      "start": 319,
+      "end": 328,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "जनावरांचे",
+      "sentence": 4,
+      "start": 333,
+      "end": 340,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "लचके",
+      "sentence": 4,
+      "start": 341,
+      "end": 346,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "विद्यार्थ्यांना",
+      "sentence": 5,
+      "start": 384,
+      "end": 394,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "फायदा",
+      "sentence": 5,
+      "start": 402,
+      "end": 407,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "महाराष्ट्र",
+      "sentence": 6,
+      "start": 427,
+      "end": 434,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "विदर्भ",
+      "sentence": 6,
+      "start": 436,
+      "end": 441,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "मराठवाड्याच्या",
+      "sentence": 6,
+      "start": 447,
+      "end": 458,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "भागांत",
+      "sentence": 6,
+      "start": 466,
+      "end": 471,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "पावसाचे",
+      "sentence": 6,
+      "start": 472,
+      "end": 478,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "वितरण",
+      "sentence": 6,
+      "start": 479,
+      "end": 484,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "तत्त्व",
+      "sentence": 7,
+      "start": 523,
+      "end": 527,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "नियमांच्या",
+      "sentence": 7,
+      "start": 536,
+      "end": 544,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "विसंगतीत",
+      "sentence": 7,
+      "start": 545,
+      "end": 553,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "ह्युस्टन",
+      "sentence": 8,
+      "start": 564,
+      "end": 570,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "विद्यापीठ",
+      "sentence": 8,
+      "start": 571,
+      "end": 578,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "भूसंपादन",
+      "sentence": 9,
+      "start": 607,
+      "end": 615,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "वर्षी",
+      "sentence": 9,
+      "start": 627,
+      "end": 631,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "वर्कऑर्डर",
+      "sentence": 9,
+      "start": 632,
+      "end": 640,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "आग्रहदेखील",
+      "sentence": 9,
+      "start": 651,
+      "end": 660,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "मुख्यमंत्र्यांनी",
+      "sentence": 9,
+      "start": 661,
+      "end": 672,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "दलासह",
+      "sentence": 10,
+      "start": 742,
+      "end": 747,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "एनडीआरएफ",
+      "sentence": 10,
+      "start": 748,
+      "end": 755,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "पोलिसांकडून",
+      "sentence": 10,
+      "start": 760,
+      "end": 769,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "जवानांचा",
+      "sentence": 10,
+      "start": 773,
+      "end": 780,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "बचाव",
+      "sentence": 10,
+      "start": 781,
+      "end": 785,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "प्रयत्न",
+      "sentence": 10,
+      "start": 797,
+      "end": 802,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "रविंद्र",
+      "sentence": 11,
+      "start": 828,
+      "end": 834,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "चौगुले",
+      "sentence": 11,
+      "start": 835,
+      "end": 841,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "तावडीत",
+      "sentence": 11,
+      "start": 883,
+      "end": 889,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "आरोप",
+      "sentence": 11,
+      "start": 898,
+      "end": 902,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "कर्नाटक",
+      "sentence": 12,
+      "start": 932,
+      "end": 938,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "भाजपसाठी",
+      "sentence": 12,
+      "start": 942,
+      "end": 949,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "राज्य",
+      "sentence": 12,
+      "start": 959,
+      "end": 962,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "क्षण",
+      "sentence": 13,
+      "start": 985,
+      "end": 988,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "तो",
+      "sentence": 13,
+      "start": 1011,
+      "end": 1013,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      4,
+      5,
+      44
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      11,
+      12,
+      13
+    ],
+    [
+      18,
+      19
+    ]
+  ]
+}

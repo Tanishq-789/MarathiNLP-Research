@@ -1,0 +1,494 @@
+{
+  "document_id": "document_282",
+  "sentences": [
+    "लष्करासारखे कपडे परिधान करू नका, पोलिसांचे नागरिकांना आवाहन",
+    "- शिबिरादरम्यान सुरक्षाव्यवस्था असणार आहे का?",
+    "सकाळी सात वाजताच समीर आणि राजश्री यांचे स्थलांतर पवार मावशींकडे केले जायचे.",
+    "सर्व निर्देश विकसित करण्यासाठी स्टेट्स.",
+    "प्रसाद अर्पण करून नंतर धुनी चे हि दर्शन घेतले.",
+    "यानंतर वाहतूक सुरू करण्यात आल्याने बसच्या वरील भाग दरीतून बाहेर काढण्यात आलेला नाही.",
+    "मात्र तुम्ही शेवटचं लिंक केलेलं खातं यामध्ये दाखवलं जाईल.",
+    "सर्वांचे सर्वच घटक कधीच पुर्ण होत नाहीत त्यामुळे जेवढा अभ्यास झालाय त्यावर विश्वास ठेवा.",
+    "महाराष्ट्र ,आंध्र प्रदेश, उत्तर प्रदेश, राजस्थान, ओडिशा आणि मेघालयातही याच्या शाखा आहेत.",
+    "विरोधी पक्षनेते धनंजय मुंडे यांनी दुष्काळ, मराठा आरक्षण आणि धनगर आरक्षणाबाबत स्थगन प्रस्ताव मांडला.",
+    "रक्त ऑक्सिजन एकाग्रता आणि आयसीसीनं यावर शिक्कामोर्तब Darsonval सक्षम च्या विल्हेवाट याशिवाय:",
+    "हिंगणघाट येथील पीडित प्राध्यापिकेचं निधन ही अतिशय दु:खद घटना आहे.",
+    "बाकी मुलांना जिल्हा रुग्णालयात, खासगी रुग्णालयात आणि मानस भवन मध्ये ठेवण्यात आले आहे.",
+    "किंग्ज  सर्कलजवळील  गौड सारस्वत ब्राह्मण सेवा  मंडळ (जीएसबी) हे सर्वात श्रीमंत मंडळापैकी एक आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "कपडे",
+      "sentence": 0,
+      "start": 11,
+      "end": 15,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "पोलिसांचे",
+      "sentence": 0,
+      "start": 30,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "नागरिकांना",
+      "sentence": 0,
+      "start": 39,
+      "end": 48,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "आवाहन",
+      "sentence": 0,
+      "start": 49,
+      "end": 54,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "शिबिरादरम्यान",
+      "sentence": 1,
+      "start": 58,
+      "end": 70,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "सुरक्षाव्यवस्था",
+      "sentence": 1,
+      "start": 71,
+      "end": 85,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "राजश्री",
+      "sentence": 2,
+      "start": 112,
+      "end": 118,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "स्थलांतर",
+      "sentence": 2,
+      "start": 124,
+      "end": 132,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "पवार",
+      "sentence": 2,
+      "start": 133,
+      "end": 137,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मावशींकडे",
+      "sentence": 2,
+      "start": 138,
+      "end": 146,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "निर्देश",
+      "sentence": 3,
+      "start": 179,
+      "end": 184,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "स्टेट्स",
+      "sentence": 3,
+      "start": 196,
+      "end": 201,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "प्रसाद",
+      "sentence": 4,
+      "start": 214,
+      "end": 219,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "दर्शन",
+      "sentence": 4,
+      "start": 240,
+      "end": 244,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "वाहतूक",
+      "sentence": 5,
+      "start": 267,
+      "end": 273,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "दरीतून",
+      "sentence": 5,
+      "start": 307,
+      "end": 312,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "तुम्ही",
+      "sentence": 6,
+      "start": 346,
+      "end": 351,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "खातं",
+      "sentence": 6,
+      "start": 368,
+      "end": 372,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "सर्वांचे",
+      "sentence": 7,
+      "start": 397,
+      "end": 403,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "अभ्यास",
+      "sentence": 7,
+      "start": 438,
+      "end": 443,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "त्यावर",
+      "sentence": 7,
+      "start": 451,
+      "end": 456,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "विश्वास",
+      "sentence": 7,
+      "start": 457,
+      "end": 463,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "महाराष्ट्र",
+      "sentence": 8,
+      "start": 479,
+      "end": 487,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "प्रदेश",
+      "sentence": 8,
+      "start": 493,
+      "end": 498,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "प्रदेश",
+      "sentence": 8,
+      "start": 507,
+      "end": 512,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "राजस्थान",
+      "sentence": 8,
+      "start": 514,
+      "end": 521,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "ओडिशा",
+      "sentence": 8,
+      "start": 523,
+      "end": 528,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "मेघालयातही",
+      "sentence": 8,
+      "start": 534,
+      "end": 543,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "पक्षनेते",
+      "sentence": 9,
+      "start": 569,
+      "end": 575,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "धनंजय",
+      "sentence": 9,
+      "start": 576,
+      "end": 581,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "मुंडे",
+      "sentence": 9,
+      "start": 582,
+      "end": 586,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "दुष्काळ",
+      "sentence": 9,
+      "start": 595,
+      "end": 600,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "मराठा",
+      "sentence": 9,
+      "start": 602,
+      "end": 607,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "आरक्षण",
+      "sentence": 9,
+      "start": 608,
+      "end": 613,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "धनगर",
+      "sentence": 9,
+      "start": 619,
+      "end": 624,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "आरक्षणाबाबत",
+      "sentence": 9,
+      "start": 625,
+      "end": 634,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "स्थगन",
+      "sentence": 9,
+      "start": 635,
+      "end": 640,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "प्रस्ताव",
+      "sentence": 9,
+      "start": 641,
+      "end": 647,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "रक्त",
+      "sentence": 10,
+      "start": 656,
+      "end": 659,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "ऑक्सिजन",
+      "sentence": 10,
+      "start": 660,
+      "end": 666,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "एकाग्रता",
+      "sentence": 10,
+      "start": 667,
+      "end": 674,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "आयसीसीनं",
+      "sentence": 10,
+      "start": 681,
+      "end": 688,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "विल्हेवाट",
+      "sentence": 10,
+      "start": 721,
+      "end": 728,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "हिंगणघाट",
+      "sentence": 11,
+      "start": 744,
+      "end": 752,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "निधन",
+      "sentence": 11,
+      "start": 775,
+      "end": 779,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "घटना",
+      "sentence": 11,
+      "start": 791,
+      "end": 795,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "मुलांना",
+      "sentence": 12,
+      "start": 814,
+      "end": 819,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "जिल्हा",
+      "sentence": 12,
+      "start": 820,
+      "end": 825,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "रुग्णालयात",
+      "sentence": 12,
+      "start": 826,
+      "end": 835,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "रुग्णालयात",
+      "sentence": 12,
+      "start": 846,
+      "end": 855,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "मानस",
+      "sentence": 12,
+      "start": 867,
+      "end": 871,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "ब्राह्मण",
+      "sentence": 13,
+      "start": 916,
+      "end": 921,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "सेवा",
+      "sentence": 13,
+      "start": 924,
+      "end": 927,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "मंडळ",
+      "sentence": 13,
+      "start": 930,
+      "end": 934,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "जीएसबी",
+      "sentence": 13,
+      "start": 937,
+      "end": 942,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "मंडळापैकी",
+      "sentence": 13,
+      "start": 955,
+      "end": 962,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      9,
+      10
+    ],
+    [
+      24,
+      25
+    ],
+    [
+      35,
+      36,
+      37
+    ],
+    [
+      45,
+      46,
+      47,
+      49
+    ],
+    [
+      54,
+      55
+    ]
+  ]
+}

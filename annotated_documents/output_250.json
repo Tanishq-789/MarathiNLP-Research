@@ -1,0 +1,147 @@
+{
+  "document_id": "document_250",
+  "sentences": [
+    "आता दिवसाला फक्त ५० हजार भाविक करणार वैष्णोदेवीचं दर्शन",
+    "पण केजरीवाल यांनी केवळ 10 मुद्दे असलेला जाहीरनामा प्रसिद्ध केला, त्याला जाहीरनामा नाव न देता गॅरंटी कार्ड असं नाव दिलं.",
+    "राज्याचे उपसचिव कैलाश गायकवाड यांनी राज्यपालांच्या आदेशानंतर पत्रक काढून यासंदर्भात माहिती दिली.",
+    "आमचे वार्ताहर अमित खोत यांनी दिलेल्या."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "भाविक",
+      "sentence": 0,
+      "start": 22,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "दर्शन",
+      "sentence": 0,
+      "start": 45,
+      "end": 49,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "केजरीवाल",
+      "sentence": 1,
+      "start": 55,
+      "end": 63,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "जाहीरनामा",
+      "sentence": 1,
+      "start": 79,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "त्याला",
+      "sentence": 1,
+      "start": 104,
+      "end": 108,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "गॅरंटी",
+      "sentence": 1,
+      "start": 128,
+      "end": 133,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "कार्ड",
+      "sentence": 1,
+      "start": 134,
+      "end": 137,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "उपसचिव",
+      "sentence": 2,
+      "start": 147,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "कैलाश",
+      "sentence": 2,
+      "start": 153,
+      "end": 158,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "गायकवाड",
+      "sentence": 2,
+      "start": 159,
+      "end": 166,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "राज्यपालांच्या",
+      "sentence": 2,
+      "start": 172,
+      "end": 182,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "पत्रक",
+      "sentence": 2,
+      "start": 191,
+      "end": 195,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "माहिती",
+      "sentence": 2,
+      "start": 209,
+      "end": 214,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "वार्ताहर",
+      "sentence": 3,
+      "start": 226,
+      "end": 232,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "अमित",
+      "sentence": 3,
+      "start": 233,
+      "end": 237,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      5
+    ],
+    [
+      4,
+      6,
+      7
+    ],
+    [
+      8,
+      9,
+      10
+    ]
+  ]
+}

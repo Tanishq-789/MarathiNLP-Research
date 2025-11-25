@@ -1,0 +1,128 @@
+{
+  "document_id": "document_298",
+  "sentences": [
+    "लेडी गागा आणि बप्पी लहरी वर्षाअखेरिस घेऊन येणार हिंग्लिश गाणं",
+    "अभयारण्यात मासेमारीच्या सापळ्यात अडकून अठरा पक्ष्यांनी तडफडत जलसमाधी घेतल्याची धक्कादायक घटना उघडकीस आली आहे.",
+    "ही दिश या रेस्टॉरंटच्या मेन्यूवर येताच रातोरात प्रसिद्धी पावली असून फूडगॉड नावाच्या एका व्यक्तिने ती तयार केल्याचे सांगितले जाते."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "गागा",
+      "sentence": 0,
+      "start": 5,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "लहरी",
+      "sentence": 0,
+      "start": 19,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "गाणं",
+      "sentence": 0,
+      "start": 49,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मासेमारी",
+      "sentence": 1,
+      "start": 67,
+      "end": 75,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "सापळ्यात",
+      "sentence": 1,
+      "start": 80,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "पक्षी",
+      "sentence": 1,
+      "start": 99,
+      "end": 103,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "जलसमाधी",
+      "sentence": 1,
+      "start": 118,
+      "end": 126,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "घटना",
+      "sentence": 1,
+      "start": 140,
+      "end": 144,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "रेस्टॉरंट",
+      "sentence": 2,
+      "start": 229,
+      "end": 237,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मेन्यू",
+      "sentence": 2,
+      "start": 243,
+      "end": 247,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "प्रसिद्धी",
+      "sentence": 2,
+      "start": 263,
+      "end": 271,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "फूडगॉड",
+      "sentence": 2,
+      "start": 284,
+      "end": 291,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "व्यक्ति",
+      "sentence": 2,
+      "start": 300,
+      "end": 304,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "ती",
+      "sentence": 2,
+      "start": 309,
+      "end": 311,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      10,
+      11
+    ]
+  ]
+}

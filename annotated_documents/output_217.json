@@ -1,0 +1,48 @@
+{
+  "document_id": "document_217",
+  "sentences": [
+    "“ मी लगेचंच तिथे पोचतोय!",
+    "काँग्रेसचे प्रवक्ता रणदीप."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मी",
+      "sentence": 0,
+      "start": 2,
+      "end": 4,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "काँग्रेसचे",
+      "sentence": 1,
+      "start": 25,
+      "end": 31,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "प्रवक्ता",
+      "sentence": 1,
+      "start": 32,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "रणदीप",
+      "sentence": 1,
+      "start": 39,
+      "end": 44,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      2,
+      3
+    ]
+  ]
+}

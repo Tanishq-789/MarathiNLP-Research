@@ -1,0 +1,177 @@
+{
+  "document_id": "document_226",
+  "sentences": [
+    "टार्गेटमुळे पीएमपी चालक-वाहक हैराण",
+    "त्यांना माहीत नव्हते की या लोकांनी आपापले परंपरागत कामधंदे चालू ठेवले तरच त्यांना सवलती मिळाव्यात, त्यांनी हे धंदे सोडावेत, त्यांची प्रगती व्हावी म्हणून नव्हे असा कोलदांडा साठ वर्षांनंतर घातला जाईल.",
+    "सकाळी साळिच्या लाह्यांचा चिवडा खावा नाश्त्याला.",
+    "आपण जे एकाग्रता मर्यादा ओलांडली 10% समाधान, तयार, भाग गंज होऊ शकते."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "टार्गेट",
+      "sentence": 0,
+      "start": 0,
+      "end": 5,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "पीएमपी",
+      "sentence": 0,
+      "start": 7,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "चालक-वाहक",
+      "sentence": 0,
+      "start": 11,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "त्यांना",
+      "sentence": 1,
+      "start": 22,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "लोकांनी",
+      "sentence": 1,
+      "start": 35,
+      "end": 40,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "कामधंदे",
+      "sentence": 1,
+      "start": 54,
+      "end": 60,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "त्यांना",
+      "sentence": 1,
+      "start": 88,
+      "end": 92,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "त्यांनी",
+      "sentence": 1,
+      "start": 104,
+      "end": 109,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "धंदे",
+      "sentence": 1,
+      "start": 112,
+      "end": 115,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "त्यांची",
+      "sentence": 1,
+      "start": 122,
+      "end": 127,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "प्रगती",
+      "sentence": 1,
+      "start": 129,
+      "end": 133,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "कोलदांडा",
+      "sentence": 1,
+      "start": 151,
+      "end": 158,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "वर्षां",
+      "sentence": 1,
+      "start": 165,
+      "end": 169,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "चिवडा",
+      "sentence": 2,
+      "start": 203,
+      "end": 207,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "नाश्त्या",
+      "sentence": 2,
+      "start": 214,
+      "end": 218,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "आपण",
+      "sentence": 3,
+      "start": 223,
+      "end": 226,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "एकाग्रता",
+      "sentence": 3,
+      "start": 228,
+      "end": 234,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "मर्यादा",
+      "sentence": 3,
+      "start": 236,
+      "end": 240,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "समाधान",
+      "sentence": 3,
+      "start": 254,
+      "end": 260,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      2,
+      3,
+      4,
+      6,
+      7,
+      9
+    ],
+    [
+      5,
+      8
+    ]
+  ]
+}

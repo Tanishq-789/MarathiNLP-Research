@@ -1,0 +1,735 @@
+{
+  "document_id": "document_230",
+  "sentences": [
+    "पाटील यांनी सभागृहात केली.",
+    "बर्याचदा, खरेदीदार विकत घेण्यासाठी हे साबण रासायनिक पदार्थ न एक नैसर्गिक उत्पादन आहे कल, पण आज तो एक दरात सर्व गरजा पूर्ण करते म्हणून, पण तरीही ती तयार करणे कठीण आहे.",
+    "काही वेळा कंपनीकडून टेलिफोनवर सॉफ्ट लाफ (हसणे) हा प्रकार लक्षपूर्वक बघितला जातो.",
+    "तर आभार अल्ताफ बागवान यांनी मानले.",
+    "2011 मध्ये, नवीन चित्रपट च्या प्रीमिअरच्या होते मार्टिना Skorseze, \"वेळ द्वारपालांनी\" म्हणून ओळखले जाते.",
+    "उत्सवात होणाऱ्या सर्व कार्यक्रमाचे नियोजनाबाबत आढावा बैठक तहसील तथा मंदिर ट्रस्टचे पदसिद्ध अध्यक्ष समोर समीर माने यांच्या उपस्थितीत संपन्न झाली.",
+    "त्याला या नोटिशीतून २९ जून रोजी दुपारी २ वाजता न्यायालयात हजर राहण्याचे आदेश देण्यात आले आहेत.",
+    "मकर:- तुमची पृथ्वी तत्वाची उदार राशी आहे.",
+    "” आता पोलीस अजूनच चेकाळला.",
+    "सनातन प्रभात > Location > आशिया > भारत > देहली > ४ सहस्र ३६९ कोटी रुपयांच्या अनियमिततेसाठी एन्.डी.टी.व्ही.ला अंमलबजावणी संचालनालयाकडून नोटीस",
+    "त्यामुळे राज्याच्या ग्रामविकास विभागाने आरक्षणची सोडतीचा कार्यक्रम पुढे ढकलला.",
+    "रूम सर्विसचा एक पोरगेलेसा अतिऊत्साही तरूण, हातात वाईन बॉटल घेवून डिलीवरीसाठी चालला असतांना 'आपण येतांना कॉर्क स्क्रू आणायला तर विसरलो नाही ना?",
+    "दिवंगत प्रधानमंत्री अटलबिहारी वाजपेयी यांच्या एनडीए सरकारच्या काळात उत्तर प्रदेशचे विभाजन करून नवीन हिंदी भाषिक राज्य निर्माण करण्यात आली आहेत.",
+    "या बालमनात केवढी घालमेल चालू असते, दंगामस्ती चालू असते हे विसरलंच जातं हळूहळू.",
+    "नायक चित्रपटामध्ये केलेली मुख्यमंत्र्याची भूमिका ही त्यांच्या करिअर मधील सर्वोत्तम भूमिकांपैकी एक होती.",
+    "दुसर्‍या फेरीच्या सामन्यात आपल्याच सहकारी लोपेझचा सरळ 2 सेटमध्ये 6-1, 6-3 असा आरामात पराभव केला.",
+    "प्रस्थापित, परंपरागत नेतृत्वाला धक्का देत मतदारांनी जवळजवळ त्यांना."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "पाटील",
+      "sentence": 0,
+      "start": 0,
+      "end": 5,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "यांनी",
+      "sentence": 0,
+      "start": 6,
+      "end": 10,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "सभागृहात",
+      "sentence": 0,
+      "start": 11,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "खरेदीदार",
+      "sentence": 1,
+      "start": 29,
+      "end": 36,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "साबण",
+      "sentence": 1,
+      "start": 46,
+      "end": 51,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "पदार्थ",
+      "sentence": 1,
+      "start": 55,
+      "end": 60,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "उत्पादन",
+      "sentence": 1,
+      "start": 67,
+      "end": 73,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "तो",
+      "sentence": 1,
+      "start": 89,
+      "end": 91,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "दरात",
+      "sentence": 1,
+      "start": 94,
+      "end": 98,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "गरजा",
+      "sentence": 1,
+      "start": 101,
+      "end": 105,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "ती",
+      "sentence": 1,
+      "start": 120,
+      "end": 122,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "कंपनीकडून",
+      "sentence": 2,
+      "start": 167,
+      "end": 175,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "टेलिफोनवर",
+      "sentence": 2,
+      "start": 176,
+      "end": 185,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "प्रकार",
+      "sentence": 2,
+      "start": 205,
+      "end": 210,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "आभार",
+      "sentence": 3,
+      "start": 214,
+      "end": 218,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "अल्ताफ",
+      "sentence": 3,
+      "start": 219,
+      "end": 224,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "बागवान",
+      "sentence": 3,
+      "start": 226,
+      "end": 232,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "यांनी",
+      "sentence": 3,
+      "start": 233,
+      "end": 237,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "चित्रपट",
+      "sentence": 4,
+      "start": 249,
+      "end": 254,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "Skorseze",
+      "sentence": 4,
+      "start": 291,
+      "end": 299,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "द्वारपालांनी",
+      "sentence": 4,
+      "start": 310,
+      "end": 319,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "उत्सवात",
+      "sentence": 5,
+      "start": 321,
+      "end": 327,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "कार्यक्रमाचे",
+      "sentence": 5,
+      "start": 335,
+      "end": 343,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "नियोजनाबाबत",
+      "sentence": 5,
+      "start": 345,
+      "end": 354,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "आढावा",
+      "sentence": 5,
+      "start": 356,
+      "end": 361,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "बैठक",
+      "sentence": 5,
+      "start": 363,
+      "end": 368,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "तहसील",
+      "sentence": 5,
+      "start": 371,
+      "end": 376,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "मंदिर",
+      "sentence": 5,
+      "start": 380,
+      "end": 384,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "ट्रस्टचे",
+      "sentence": 5,
+      "start": 387,
+      "end": 392,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "माने",
+      "sentence": 5,
+      "start": 414,
+      "end": 417,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "त्याला",
+      "sentence": 6,
+      "start": 428,
+      "end": 432,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "नोटिशीतून",
+      "sentence": 6,
+      "start": 435,
+      "end": 443,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "तुमची",
+      "sentence": 7,
+      "start": 495,
+      "end": 499,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "पृथ्वी",
+      "sentence": 7,
+      "start": 502,
+      "end": 506,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "तत्वाची",
+      "sentence": 7,
+      "start": 508,
+      "end": 513,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "राशी",
+      "sentence": 7,
+      "start": 517,
+      "end": 520,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "पोलीस",
+      "sentence": 8,
+      "start": 526,
+      "end": 530,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "प्रभात",
+      "sentence": 9,
+      "start": 542,
+      "end": 547,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "आशिया",
+      "sentence": 9,
+      "start": 563,
+      "end": 567,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "भारत",
+      "sentence": 9,
+      "start": 571,
+      "end": 575,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "कोटी",
+      "sentence": 9,
+      "start": 601,
+      "end": 604,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "एन्.डी.टी.व्ही.ला",
+      "sentence": 9,
+      "start": 633,
+      "end": 644,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "अंमलबजावणी",
+      "sentence": 9,
+      "start": 646,
+      "end": 655,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "संचालनालयाकडून",
+      "sentence": 9,
+      "start": 657,
+      "end": 669,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "नोटीस",
+      "sentence": 9,
+      "start": 670,
+      "end": 675,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "ग्रामविकास",
+      "sentence": 10,
+      "start": 693,
+      "end": 701,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "विभागाने",
+      "sentence": 10,
+      "start": 703,
+      "end": 709,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "आरक्षणची",
+      "sentence": 10,
+      "start": 712,
+      "end": 720,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "सोडतीचा",
+      "sentence": 10,
+      "start": 721,
+      "end": 728,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "कार्यक्रम",
+      "sentence": 10,
+      "start": 730,
+      "end": 736,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "तरूण",
+      "sentence": 11,
+      "start": 774,
+      "end": 778,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "वाईन",
+      "sentence": 11,
+      "start": 789,
+      "end": 793,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "डिलीवरीसाठी",
+      "sentence": 11,
+      "start": 806,
+      "end": 815,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "आपण",
+      "sentence": 11,
+      "start": 821,
+      "end": 825,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "कॉर्क",
+      "sentence": 11,
+      "start": 832,
+      "end": 836,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "स्क्रू",
+      "sentence": 11,
+      "start": 838,
+      "end": 841,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "प्रधानमंत्री",
+      "sentence": 12,
+      "start": 856,
+      "end": 865,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "अटलबिहारी",
+      "sentence": 12,
+      "start": 867,
+      "end": 875,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "वाजपेयी",
+      "sentence": 12,
+      "start": 877,
+      "end": 883,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "एनडीए",
+      "sentence": 12,
+      "start": 892,
+      "end": 896,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "काळात",
+      "sentence": 12,
+      "start": 909,
+      "end": 913,
+      "confidence": 1.0
+    },
+    {
+      "id": 61,
+      "text": "उत्तर",
+      "sentence": 12,
+      "start": 915,
+      "end": 919,
+      "confidence": 1.0
+    },
+    {
+      "id": 62,
+      "text": "प्रदेशचे",
+      "sentence": 12,
+      "start": 921,
+      "end": 926,
+      "confidence": 1.0
+    },
+    {
+      "id": 63,
+      "text": "विभाजन",
+      "sentence": 12,
+      "start": 929,
+      "end": 935,
+      "confidence": 1.0
+    },
+    {
+      "id": 64,
+      "text": "राज्य",
+      "sentence": 12,
+      "start": 944,
+      "end": 947,
+      "confidence": 1.0
+    },
+    {
+      "id": 65,
+      "text": "बालमनात",
+      "sentence": 13,
+      "start": 951,
+      "end": 958,
+      "confidence": 1.0
+    },
+    {
+      "id": 66,
+      "text": "घालमेल",
+      "sentence": 13,
+      "start": 961,
+      "end": 967,
+      "confidence": 1.0
+    },
+    {
+      "id": 67,
+      "text": "दंगामस्ती",
+      "sentence": 13,
+      "start": 975,
+      "end": 982,
+      "confidence": 1.0
+    },
+    {
+      "id": 68,
+      "text": "नायक",
+      "sentence": 14,
+      "start": 989,
+      "end": 992,
+      "confidence": 1.0
+    },
+    {
+      "id": 69,
+      "text": "चित्रपटामध्ये",
+      "sentence": 14,
+      "start": 995,
+      "end": 1004,
+      "confidence": 1.0
+    },
+    {
+      "id": 70,
+      "text": "मुख्यमंत्र्याची",
+      "sentence": 14,
+      "start": 1010,
+      "end": 1020,
+      "confidence": 1.0
+    },
+    {
+      "id": 71,
+      "text": "भूमिका",
+      "sentence": 14,
+      "start": 1022,
+      "end": 1027,
+      "confidence": 1.0
+    },
+    {
+      "id": 72,
+      "text": "त्यांच्या",
+      "sentence": 14,
+      "start": 1032,
+      "end": 1037,
+      "confidence": 1.0
+    },
+    {
+      "id": 73,
+      "text": "करिअर",
+      "sentence": 14,
+      "start": 1041,
+      "end": 1046,
+      "confidence": 1.0
+    },
+    {
+      "id": 74,
+      "text": "भूमिकांपैकी",
+      "sentence": 14,
+      "start": 1053,
+      "end": 1062,
+      "confidence": 1.0
+    },
+    {
+      "id": 75,
+      "text": "सामन्यात",
+      "sentence": 15,
+      "start": 1077,
+      "end": 1083,
+      "confidence": 1.0
+    },
+    {
+      "id": 76,
+      "text": "आपल्याच",
+      "sentence": 15,
+      "start": 1085,
+      "end": 1091,
+      "confidence": 1.0
+    },
+    {
+      "id": 77,
+      "text": "सहकारी",
+      "sentence": 15,
+      "start": 1094,
+      "end": 1099,
+      "confidence": 1.0
+    },
+    {
+      "id": 78,
+      "text": "पराभव",
+      "sentence": 15,
+      "start": 1131,
+      "end": 1136,
+      "confidence": 1.0
+    },
+    {
+      "id": 79,
+      "text": "नेतृत्वाला",
+      "sentence": 16,
+      "start": 1147,
+      "end": 1155,
+      "confidence": 1.0
+    },
+    {
+      "id": 80,
+      "text": "धक्का",
+      "sentence": 16,
+      "start": 1158,
+      "end": 1162,
+      "confidence": 1.0
+    },
+    {
+      "id": 81,
+      "text": "मतदारांनी",
+      "sentence": 16,
+      "start": 1166,
+      "end": 1173,
+      "confidence": 1.0
+    },
+    {
+      "id": 82,
+      "text": "त्यांना",
+      "sentence": 16,
+      "start": 1177,
+      "end": 1181,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ],
+    [
+      4,
+      5,
+      8
+    ],
+    [
+      14,
+      15
+    ],
+    [
+      18,
+      19,
+      20
+    ],
+    [
+      23,
+      24
+    ],
+    [
+      36,
+      37,
+      38
+    ],
+    [
+      44,
+      45
+    ],
+    [
+      63,
+      64
+    ],
+    [
+      70,
+      75
+    ],
+    [
+      78,
+      79,
+      80,
+      81
+    ]
+  ]
+}

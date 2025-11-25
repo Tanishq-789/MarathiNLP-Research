@@ -1,0 +1,106 @@
+{
+  "document_id": "document_211",
+  "sentences": [
+    "पूर्व जर्मनीतल्या सॅक्सनी टुरिझमचा एक मोठा अधिकारी वूल्फगँग गार्टनर हा माझा प्रवासातच झालेला चांगला मित्र आहे.",
+    "खेळपट्टयांसाठी लाखो लीटर पाणी वाया जात असल्याने आयपीएलचे सामने महाराष्ट्राबाहेर खेळवावेत, असे याचिकाकर्त्यांचे म्हणणे आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "टुरिझमचा",
+      "sentence": 0,
+      "start": 24,
+      "end": 31,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "अधिकारी",
+      "sentence": 0,
+      "start": 41,
+      "end": 47,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "वूल्फगँग",
+      "sentence": 0,
+      "start": 49,
+      "end": 56,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "गार्टनर",
+      "sentence": 0,
+      "start": 58,
+      "end": 64,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "माझा",
+      "sentence": 0,
+      "start": 69,
+      "end": 72,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "मित्र",
+      "sentence": 0,
+      "start": 99,
+      "end": 102,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "खेळपट्टयांसाठी",
+      "sentence": 1,
+      "start": 109,
+      "end": 122,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "पाणी",
+      "sentence": 1,
+      "start": 135,
+      "end": 138,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "आयपीएलचे",
+      "sentence": 1,
+      "start": 157,
+      "end": 164,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "सामने",
+      "sentence": 1,
+      "start": 166,
+      "end": 170,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "याचिकाकर्त्यांचे",
+      "sentence": 1,
+      "start": 202,
+      "end": 216,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      2,
+      3,
+      4,
+      5,
+      8
+    ]
+  ]
+}

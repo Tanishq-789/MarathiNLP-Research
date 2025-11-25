@@ -1,0 +1,194 @@
+{
+  "document_id": "document_260",
+  "sentences": [
+    "याच मालिकेतली ही प्रत्यक्ष अनुभवलेली घटना.",
+    "यात आता टीव्ही अभिनेता विवेक दहियाचे नाव आघाडीवर आहे.",
+    "देशाचा इतिहास व भुतकाळातील",
+    "गेल्या २४ तासांत गोव्यात तुरळक ठिकाणी अतिवृष्टी नोंदविण्यात आली आहे.",
+    "हैदराबादच्या राहणाऱ्या फरहाज हसन आणि मुसा वली सुलेमान पटेल यांचा उपचारादरम्यान शनिवारी मृत्यू झाला.",
+    "तो अति चव खराब करणे तो थोडा सौम्य आणि वाहणारे करा होईल.",
+    "यासाठी सुजितसिंग ठाकूर दिवस दिवस गल्लीबोळात फिरत होते."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "घटना",
+      "sentence": 0,
+      "start": 32,
+      "end": 35,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "अभिनेता",
+      "sentence": 1,
+      "start": 48,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "दहियाचे",
+      "sentence": 1,
+      "start": 61,
+      "end": 67,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "देशाचा",
+      "sentence": 2,
+      "start": 87,
+      "end": 92,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "इतिहास",
+      "sentence": 2,
+      "start": 94,
+      "end": 99,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "ठिकाणी",
+      "sentence": 3,
+      "start": 140,
+      "end": 144,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "अतिवृष्टी",
+      "sentence": 3,
+      "start": 145,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "हैदराबादच्या",
+      "sentence": 4,
+      "start": 182,
+      "end": 192,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "फरहाज",
+      "sentence": 4,
+      "start": 203,
+      "end": 207,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मुसा",
+      "sentence": 4,
+      "start": 217,
+      "end": 220,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "सुलेमान",
+      "sentence": 4,
+      "start": 224,
+      "end": 229,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "मृत्यू",
+      "sentence": 4,
+      "start": 259,
+      "end": 263,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "तो",
+      "sentence": 5,
+      "start": 277,
+      "end": 278,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "तो",
+      "sentence": 5,
+      "start": 296,
+      "end": 297,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "यासाठी",
+      "sentence": 6,
+      "start": 332,
+      "end": 337,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "सुजितसिंग",
+      "sentence": 6,
+      "start": 338,
+      "end": 346,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "ठाकूर",
+      "sentence": 6,
+      "start": 347,
+      "end": 351,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "दिवस",
+      "sentence": 6,
+      "start": 352,
+      "end": 356,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "दिवस",
+      "sentence": 6,
+      "start": 357,
+      "end": 361,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "गल्लीबोळात",
+      "sentence": 6,
+      "start": 362,
+      "end": 371,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  ]
+}

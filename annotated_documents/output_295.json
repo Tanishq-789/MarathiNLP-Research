@@ -1,0 +1,214 @@
+{
+  "document_id": "document_295",
+  "sentences": [
+    "प्लॅस्टर ऑफ पॅरिसच्या मूर्तींनाच खेडमध्ये मागणी",
+    "माझ्यावर विश्वास ठेवा, अचानक आपण असे म्हणू तर नाही स्वत: ची आदर फ्रान्सच्या हरकत नसते.",
+    "मदतीसाठी आरोग्यमित्र",
+    "मांस आदर्श तुकडा, चिकन त्वचा.",
+    "याशिवाय बी-बियाणांची खरेदीही सुरू केली आहे",
+    "सार्वजनिक बांधकाम खात्‍याचा एकही अधिकारी कधीही या ठिकाणी फिरकत नाही.",
+    "दिवाळीतील फटाक्‍यांमुळे अनेक पक्षी व प्राणी जखमी होतात.",
+    "कन्येसह 'मेघा रे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मूर्तींनाच",
+      "sentence": 0,
+      "start": 19,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "खेडमध्ये",
+      "sentence": 0,
+      "start": 27,
+      "end": 34,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "मागणी",
+      "sentence": 0,
+      "start": 35,
+      "end": 40,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "माझ्यावर",
+      "sentence": 1,
+      "start": 41,
+      "end": 48,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "विश्वास",
+      "sentence": 1,
+      "start": 49,
+      "end": 55,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "आपण",
+      "sentence": 1,
+      "start": 68,
+      "end": 71,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "स्वत",
+      "sentence": 1,
+      "start": 89,
+      "end": 93,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "हरकत",
+      "sentence": 1,
+      "start": 112,
+      "end": 116,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "मदतीसाठी",
+      "sentence": 2,
+      "start": 119,
+      "end": 127,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "आरोग्यमित्र",
+      "sentence": 2,
+      "start": 128,
+      "end": 137,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "मांस",
+      "sentence": 3,
+      "start": 138,
+      "end": 141,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "तुकडा",
+      "sentence": 3,
+      "start": 149,
+      "end": 153,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "चिकन",
+      "sentence": 3,
+      "start": 155,
+      "end": 159,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "त्वचा",
+      "sentence": 3,
+      "start": 160,
+      "end": 163,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "बी-बियाणांची",
+      "sentence": 4,
+      "start": 171,
+      "end": 182,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "खरेदीही",
+      "sentence": 4,
+      "start": 183,
+      "end": 189,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "खात्‍याचा",
+      "sentence": 5,
+      "start": 206,
+      "end": 213,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "अधिकारी",
+      "sentence": 5,
+      "start": 220,
+      "end": 226,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "ठिकाणी",
+      "sentence": 5,
+      "start": 238,
+      "end": 243,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "फटाक्‍यांमुळे",
+      "sentence": 6,
+      "start": 254,
+      "end": 264,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "पक्षी",
+      "sentence": 6,
+      "start": 270,
+      "end": 274,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "प्राणी",
+      "sentence": 6,
+      "start": 277,
+      "end": 281,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "कन्येसह",
+      "sentence": 7,
+      "start": 293,
+      "end": 299,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "मेघा",
+      "sentence": 7,
+      "start": 302,
+      "end": 306,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      5,
+      6
+    ]
+  ]
+}

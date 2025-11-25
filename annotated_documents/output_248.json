@@ -1,0 +1,282 @@
+{
+  "document_id": "document_248",
+  "sentences": [
+    "बास्केटबॉल अकादमी यांनी संयुक्‍तपणे ही स्पर्धा आयोजित केली आहे.",
+    "शिवछत्रपती क्रीडासंकुल, बालेवाडी येथे रंगणाऱ्या या स्पर्धेतील कामगिरीच्या आधारावर महाराष्ट्राचे संघ निवडण्यात येतील.",
+    "मतांचं विभाजन टाळण्यासाठी निर्णय?",
+    "फरसबंद परिसर उत्तम सजवलेला आहे.",
+    "ब्रिज बांधण्यासाठी लाखो रुपये खर्च केले असून, ते पाण्यात गेले का?",
+    "कंत्राटदाराकडून करून घ्यायच्या करारनाम्यात निर्धारित किमतीपेक्षा १३०० रुपयांचा मुद्रांक पेपर कमी वापरला आहे.",
+    "इतिहासाचार्य दत्तो वामन पोद्दारांनंतर तब्बल ३७ वर्षांनी अखिल भारतीय इतिहास परिषदेचे सामान्य सचिवपद भूषविण्याचा बहुमान मिळवणारे महाराष्ट्रीयन म्हणजे प्रा."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "बास्केटबॉल",
+      "sentence": 0,
+      "start": 0,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "अकादमी",
+      "sentence": 0,
+      "start": 11,
+      "end": 16,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "यांनी",
+      "sentence": 0,
+      "start": 18,
+      "end": 21,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "स्पर्धा",
+      "sentence": 0,
+      "start": 33,
+      "end": 37,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "शिवछत्रपती",
+      "sentence": 1,
+      "start": 45,
+      "end": 54,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "क्रीडासंकुल",
+      "sentence": 1,
+      "start": 56,
+      "end": 65,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "बालेवाडी",
+      "sentence": 1,
+      "start": 68,
+      "end": 74,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "महाराष्ट्राचे",
+      "sentence": 1,
+      "start": 119,
+      "end": 128,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "मतांचं",
+      "sentence": 2,
+      "start": 147,
+      "end": 152,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "विभाजन",
+      "sentence": 2,
+      "start": 154,
+      "end": 159,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "निर्णय",
+      "sentence": 2,
+      "start": 171,
+      "end": 175,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "परिसर",
+      "sentence": 3,
+      "start": 186,
+      "end": 190,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "ब्रिज",
+      "sentence": 4,
+      "start": 202,
+      "end": 205,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "रुपये",
+      "sentence": 4,
+      "start": 221,
+      "end": 224,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "ते",
+      "sentence": 4,
+      "start": 242,
+      "end": 243,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "पाण्यात",
+      "sentence": 4,
+      "start": 245,
+      "end": 250,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "कंत्राटदाराकडून",
+      "sentence": 5,
+      "start": 258,
+      "end": 270,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "करारनाम्यात",
+      "sentence": 5,
+      "start": 282,
+      "end": 290,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "किमतीपेक्षा",
+      "sentence": 5,
+      "start": 300,
+      "end": 308,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "मुद्रांक",
+      "sentence": 5,
+      "start": 326,
+      "end": 331,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "पेपर",
+      "sentence": 5,
+      "start": 333,
+      "end": 336,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "इतिहासाचार्य",
+      "sentence": 6,
+      "start": 350,
+      "end": 360,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "वामन",
+      "sentence": 6,
+      "start": 367,
+      "end": 370,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "पोद्दारांनंतर",
+      "sentence": 6,
+      "start": 372,
+      "end": 382,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "वर्षांनी",
+      "sentence": 6,
+      "start": 391,
+      "end": 396,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "इतिहास",
+      "sentence": 6,
+      "start": 412,
+      "end": 416,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "परिषदेचे",
+      "sentence": 6,
+      "start": 418,
+      "end": 425,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "सचिवपद",
+      "sentence": 6,
+      "start": 433,
+      "end": 438,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "बहुमान",
+      "sentence": 6,
+      "start": 449,
+      "end": 454,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "महाराष्ट्रीयन",
+      "sentence": 6,
+      "start": 466,
+      "end": 476,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "प्रा",
+      "sentence": 6,
+      "start": 485,
+      "end": 487,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      7
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      17,
+      18
+    ],
+    [
+      26,
+      27,
+      28,
+      29
+    ]
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "document_id": "document_274",
+  "sentences": [
+    "लष्करी त्रिकोण एक पत्र पाठविले का आज अस्पष्ट असू शकते.",
+    "त्यानंतर पुरावे नष्ट करण्यासाठी हाडे दुसरीकडे नेऊन फेकण्यात आली.",
+    "सर्व केल्यानंतर, उत्पादन चुकीची निवड परिस्थिती गंभीर संताप येऊ बर्न बंड करू शकता.",
+    "तर उत्तर प्रदेशचे मुख्यमंत्री योगी आदित्यनाथ यांनी दिल्लीत १५ सभांना संबोधित केले.",
+    "भाविकांसाठी फिरत्या शौचालयासाठी सोय करण्यात आली होती.",
+    "ते काम जव्हाड करत आहेत याचा मला फार अभिमान आहे.",
+    "ढगाळ वातावरण किडीला पोषक असते.",
+    "बड्डे लोग बड्डी बाते."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "त्रिकोण",
+      "sentence": 0,
+      "start": 7,
+      "end": 13,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "पत्र",
+      "sentence": 0,
+      "start": 16,
+      "end": 19,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "पुरावे",
+      "sentence": 1,
+      "start": 69,
+      "end": 74,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "हाडे",
+      "sentence": 1,
+      "start": 89,
+      "end": 93,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "उत्पादन",
+      "sentence": 2,
+      "start": 141,
+      "end": 147,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "परिस्थिती",
+      "sentence": 2,
+      "start": 158,
+      "end": 165,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "संताप",
+      "sentence": 2,
+      "start": 175,
+      "end": 180,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "बर्न",
+      "sentence": 2,
+      "start": 187,
+      "end": 191,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "प्रदेश",
+      "sentence": 3,
+      "start": 227,
+      "end": 232,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मुख्यमंत्री",
+      "sentence": 3,
+      "start": 233,
+      "end": 241,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "आदित्यनाथ",
+      "sentence": 3,
+      "start": 246,
+      "end": 255,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "सभांना",
+      "sentence": 3,
+      "start": 279,
+      "end": 284,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "भाविकांसाठी",
+      "sentence": 4,
+      "start": 302,
+      "end": 312,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "शौचालयासाठी",
+      "sentence": 4,
+      "start": 318,
+      "end": 329,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "ते",
+      "sentence": 5,
+      "start": 354,
+      "end": 356,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "जव्हाड",
+      "sentence": 5,
+      "start": 361,
+      "end": 366,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "मला",
+      "sentence": 5,
+      "start": 382,
+      "end": 385,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "अभिमान",
+      "sentence": 5,
+      "start": 393,
+      "end": 399,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "वातावरण",
+      "sentence": 6,
+      "start": 412,
+      "end": 418,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "किडीला",
+      "sentence": 6,
+      "start": 419,
+      "end": 425,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      12,
+      13
+    ]
+  ]
+}

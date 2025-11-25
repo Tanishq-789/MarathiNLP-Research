@@ -1,0 +1,660 @@
+{
+  "document_id": "document_262",
+  "sentences": [
+    "पाटील, विधानसभा क्षेत्र प्रमुख विकास पाटील, राजेंद्र पाटील, आबा देशमुख, हरीश पाटील, भरत बाविस्कर, किशोर चौधरी, रोहिणी पाटील, मंगला पाटील, संध्या महाजन, अॅड.",
+    "मुंबई, सोमवार – भांडुप तिहेरी हत्याकांडप्रकरणी काही संशयितांची चौकशी सुरु असल्याचे पोलिसांकडून सांगण्यात आले.",
+    "आजपर्यंतचा सर्वात बलवान आणि गुणी संघ कर्णधार विराटच्या हाताशी आहे.",
+    "रामकृष्ण कदम संपादित ‘संभाजी महाराज संस्कृत साहित्य’ पुस्तक प्रकाशन सोहळा, चित्रकार दिनेश काची यांचे ‘श्री सप्तकोटेश्वराची आराधना करताना छत्रपती शिवराय’ या तैलचित्राचे अनावरण आणि चित्रकार विश्वनाथ खिलारी यांच्या ‘छत्रपती संभाजी राजांचे अस्सल चित्र’ तैलचित्राचे अनावरण करण्यात येईल.",
+    "शेकडो तरुणांना प्रकल्प ३ आणि ४मध्ये नोकरीसाठी कॉल लेटर आले.",
+    "'या सिनेमातील माझी भूमिका खूप वेगळी आहे.",
+    "मी त्यांना धनंजयची ओळख करुन दिली.",
+    "या जागा वाढवण्यासंदर्भात राज्य सरकारने केंद्र सरकारकडे मागणी केली असल्याचे ते म्हणाले.",
+    "सिंधुदुर्गात आमच्या पक्षाचे 80 मतदार आहेत.",
+    "गर्भधारणा संप्रेरक दुसऱ्या सहामाहीत पुन्हा, पण अधिक हळूहळू वाढते आहे.",
+    "हे फेसबुकच्या नियमांविरोधात होतं का?",
+    "पायस - माझ्यात तर केकता आणि कंपनी आणि मराठी मालिका पाहण्याचीही सहनशीलता नाहीये; आणि सी."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "पाटील",
+      "sentence": 0,
+      "start": 0,
+      "end": 5,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "विकास",
+      "sentence": 0,
+      "start": 25,
+      "end": 29,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "पाटील",
+      "sentence": 0,
+      "start": 30,
+      "end": 35,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "राजेंद्र",
+      "sentence": 0,
+      "start": 37,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "पाटील",
+      "sentence": 0,
+      "start": 44,
+      "end": 49,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "देशमुख",
+      "sentence": 0,
+      "start": 55,
+      "end": 61,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "हरीश",
+      "sentence": 0,
+      "start": 63,
+      "end": 67,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "पाटील",
+      "sentence": 0,
+      "start": 68,
+      "end": 73,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "बाविस्कर",
+      "sentence": 0,
+      "start": 80,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "किशोर",
+      "sentence": 0,
+      "start": 89,
+      "end": 93,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "चौधरी",
+      "sentence": 0,
+      "start": 94,
+      "end": 99,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "रोहिणी",
+      "sentence": 0,
+      "start": 101,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "पाटील",
+      "sentence": 0,
+      "start": 107,
+      "end": 112,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "मंगला",
+      "sentence": 0,
+      "start": 114,
+      "end": 119,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "पाटील",
+      "sentence": 0,
+      "start": 120,
+      "end": 125,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "संध्या",
+      "sentence": 0,
+      "start": 127,
+      "end": 132,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "महाजन",
+      "sentence": 0,
+      "start": 133,
+      "end": 138,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "मुंबई",
+      "sentence": 1,
+      "start": 144,
+      "end": 148,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "सोमवार",
+      "sentence": 1,
+      "start": 150,
+      "end": 155,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "भांडुप",
+      "sentence": 1,
+      "start": 158,
+      "end": 163,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "हत्याकांडप्रकरणी",
+      "sentence": 1,
+      "start": 168,
+      "end": 183,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "संशयितांची",
+      "sentence": 1,
+      "start": 188,
+      "end": 197,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "चौकशी",
+      "sentence": 1,
+      "start": 198,
+      "end": 203,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "पोलिसांकडून",
+      "sentence": 1,
+      "start": 212,
+      "end": 222,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "कर्णधार",
+      "sentence": 2,
+      "start": 264,
+      "end": 270,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "विराटच्या",
+      "sentence": 2,
+      "start": 271,
+      "end": 278,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "रामकृष्ण",
+      "sentence": 3,
+      "start": 302,
+      "end": 308,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "संभाजी",
+      "sentence": 3,
+      "start": 323,
+      "end": 329,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "महाराज",
+      "sentence": 3,
+      "start": 330,
+      "end": 335,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "संस्कृत",
+      "sentence": 3,
+      "start": 336,
+      "end": 342,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "साहित्य",
+      "sentence": 3,
+      "start": 343,
+      "end": 347,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "पुस्तक",
+      "sentence": 3,
+      "start": 350,
+      "end": 355,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "प्रकाशन",
+      "sentence": 3,
+      "start": 356,
+      "end": 362,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "सोहळा",
+      "sentence": 3,
+      "start": 363,
+      "end": 367,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "चित्रकार",
+      "sentence": 3,
+      "start": 369,
+      "end": 375,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "दिनेश",
+      "sentence": 3,
+      "start": 376,
+      "end": 381,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "श्री",
+      "sentence": 3,
+      "start": 394,
+      "end": 396,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "सप्तकोटेश्वराची",
+      "sentence": 3,
+      "start": 397,
+      "end": 410,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "आराधना",
+      "sentence": 3,
+      "start": 411,
+      "end": 416,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "छत्रपती",
+      "sentence": 3,
+      "start": 425,
+      "end": 431,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "शिवराय",
+      "sentence": 3,
+      "start": 432,
+      "end": 436,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "तैलचित्राचे",
+      "sentence": 3,
+      "start": 439,
+      "end": 447,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "अनावरण",
+      "sentence": 3,
+      "start": 448,
+      "end": 453,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "चित्रकार",
+      "sentence": 3,
+      "start": 457,
+      "end": 463,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "विश्वनाथ",
+      "sentence": 3,
+      "start": 464,
+      "end": 470,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "खिलारी",
+      "sentence": 3,
+      "start": 471,
+      "end": 476,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "छत्रपती",
+      "sentence": 3,
+      "start": 485,
+      "end": 491,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "संभाजी",
+      "sentence": 3,
+      "start": 492,
+      "end": 498,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "राजांचे",
+      "sentence": 3,
+      "start": 499,
+      "end": 504,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "चित्र",
+      "sentence": 3,
+      "start": 511,
+      "end": 514,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "तैलचित्राचे",
+      "sentence": 3,
+      "start": 515,
+      "end": 523,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "अनावरण",
+      "sentence": 3,
+      "start": 524,
+      "end": 529,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "तरुणांना",
+      "sentence": 4,
+      "start": 579,
+      "end": 585,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "प्रकल्प",
+      "sentence": 4,
+      "start": 586,
+      "end": 591,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "नोकरीसाठी",
+      "sentence": 4,
+      "start": 602,
+      "end": 610,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "माझी",
+      "sentence": 5,
+      "start": 650,
+      "end": 653,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "भूमिका",
+      "sentence": 5,
+      "start": 655,
+      "end": 660,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "मी",
+      "sentence": 6,
+      "start": 677,
+      "end": 678,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "त्यांना",
+      "sentence": 6,
+      "start": 679,
+      "end": 683,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "जागा",
+      "sentence": 7,
+      "start": 714,
+      "end": 717,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "राज्य",
+      "sentence": 7,
+      "start": 731,
+      "end": 734,
+      "confidence": 1.0
+    },
+    {
+      "id": 61,
+      "text": "सरकारने",
+      "sentence": 7,
+      "start": 735,
+      "end": 741,
+      "confidence": 1.0
+    },
+    {
+      "id": 62,
+      "text": "केंद्र",
+      "sentence": 7,
+      "start": 742,
+      "end": 746,
+      "confidence": 1.0
+    },
+    {
+      "id": 63,
+      "text": "सरकारकडे",
+      "sentence": 7,
+      "start": 747,
+      "end": 753,
+      "confidence": 1.0
+    },
+    {
+      "id": 64,
+      "text": "मागणी",
+      "sentence": 7,
+      "start": 754,
+      "end": 758,
+      "confidence": 1.0
+    },
+    {
+      "id": 65,
+      "text": "ते",
+      "sentence": 7,
+      "start": 771,
+      "end": 772,
+      "confidence": 1.0
+    },
+    {
+      "id": 66,
+      "text": "सिंधुदुर्गात",
+      "sentence": 8,
+      "start": 788,
+      "end": 797,
+      "confidence": 1.0
+    },
+    {
+      "id": 67,
+      "text": "आमच्या",
+      "sentence": 8,
+      "start": 798,
+      "end": 803,
+      "confidence": 1.0
+    },
+    {
+      "id": 68,
+      "text": "पक्षाचे",
+      "sentence": 8,
+      "start": 804,
+      "end": 809,
+      "confidence": 1.0
+    },
+    {
+      "id": 69,
+      "text": "मतदार",
+      "sentence": 8,
+      "start": 813,
+      "end": 817,
+      "confidence": 1.0
+    },
+    {
+      "id": 70,
+      "text": "गर्भधारणा",
+      "sentence": 9,
+      "start": 827,
+      "end": 835,
+      "confidence": 1.0
+    },
+    {
+      "id": 71,
+      "text": "संप्रेरक",
+      "sentence": 9,
+      "start": 836,
+      "end": 842,
+      "confidence": 1.0
+    },
+    {
+      "id": 72,
+      "text": "नियमांविरोधात",
+      "sentence": 10,
+      "start": 908,
+      "end": 919,
+      "confidence": 1.0
+    },
+    {
+      "id": 73,
+      "text": "पायस",
+      "sentence": 11,
+      "start": 933,
+      "end": 937,
+      "confidence": 1.0
+    },
+    {
+      "id": 74,
+      "text": "केकटा",
+      "sentence": 11,
+      "start": 951,
+      "end": 956,
+      "confidence": 1.0
+    },
+    {
+      "id": 75,
+      "text": "कंपनी",
+      "sentence": 11,
+      "start": 960,
+      "end": 964,
+      "confidence": 1.0
+    },
+    {
+      "id": 76,
+      "text": "मालिका",
+      "sentence": 11,
+      "start": 971,
+      "end": 975,
+      "confidence": 1.0
+    },
+    {
+      "id": 77,
+      "text": "सहनशीलता",
+      "sentence": 11,
+      "start": 986,
+      "end": 994,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      35,
+      36,
+      55,
+      56,
+      57
+    ],
+    [
+      48,
+      49
+    ],
+    [
+      67,
+      69
+    ]
+  ]
+}

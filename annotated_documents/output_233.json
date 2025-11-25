@@ -1,0 +1,355 @@
+{
+  "document_id": "document_233",
+  "sentences": [
+    "बिहारमध्ये महिलांची सुरक्षा आता तृतीयपंथींच्या हातात",
+    "ते तयार पेय काढले पाहिजे.",
+    "जर आपण नकारात्मक विचारसरणीचे असू तर स्वत:त बदल घडवणं अत्यावश्‍यक आहे हे मान्य करूया.",
+    "असा बदल घडवता येओ हे मान्य करुया.",
+    "सुमारे साडेपाच कोटी रक्‍कम उभा केल्यावर महापालिका प्रशासनाला कर्मचार्‍यांचा पगार भागविता येणार आहे.",
+    "अर्थात यापायी त्याला अनेक अडचणींचा सामना करावा लागतो.",
+    "गारटकर म्हणाले की, माजी आमदार दिलीप मोहिते यांचे दंगली दरम्यानचे कोणते कृत्य आक्षेपार्ह वाटले याचा खुलासा करावा.",
+    "पुढील आठवड्यापासून कृष्णा खोरे सिंचन प्रकल्पातील कालव्यांना पाणी",
+    "तुमच्या प्रकल्पात शेड उभे करण्याचा कालावधी, त्यानंतर एक दिवसाचे पक्षी आणल्यानंतर त्यांची विक्री होऊन त्याचे पैसे मिळण्यापर्यंतचा कालावधी म्हणजे ‘हप्ता नाही’ हा कालावधी होय."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "बिहार",
+      "sentence": 0,
+      "start": 0,
+      "end": 4,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "महिला",
+      "sentence": 0,
+      "start": 9,
+      "end": 14,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "सुरक्षा",
+      "sentence": 0,
+      "start": 17,
+      "end": 23,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "तृतीयपंथी",
+      "sentence": 0,
+      "start": 30,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "ते",
+      "sentence": 1,
+      "start": 48,
+      "end": 50,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "आपण",
+      "sentence": 2,
+      "start": 77,
+      "end": 81,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "विचारसरणी",
+      "sentence": 2,
+      "start": 86,
+      "end": 95,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "स्वत",
+      "sentence": 2,
+      "start": 101,
+      "end": 105,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "कोटी",
+      "sentence": 4,
+      "start": 222,
+      "end": 226,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "रक्‍कम",
+      "sentence": 4,
+      "start": 227,
+      "end": 232,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "प्रशासन",
+      "sentence": 4,
+      "start": 252,
+      "end": 259,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "कर्मचारी",
+      "sentence": 4,
+      "start": 263,
+      "end": 271,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "पगार",
+      "sentence": 4,
+      "start": 276,
+      "end": 281,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "त्याला",
+      "sentence": 5,
+      "start": 321,
+      "end": 326,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "अडचण",
+      "sentence": 5,
+      "start": 329,
+      "end": 335,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "सामना",
+      "sentence": 5,
+      "start": 339,
+      "end": 344,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "गारटकर",
+      "sentence": 6,
+      "start": 360,
+      "end": 366,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "आमदार",
+      "sentence": 6,
+      "start": 375,
+      "end": 380,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "मोहिते",
+      "sentence": 6,
+      "start": 387,
+      "end": 393,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "दंगली",
+      "sentence": 6,
+      "start": 399,
+      "end": 404,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "कृत्य",
+      "sentence": 6,
+      "start": 409,
+      "end": 413,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "खुलासा",
+      "sentence": 6,
+      "start": 425,
+      "end": 431,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "आठवडा",
+      "sentence": 7,
+      "start": 463,
+      "end": 469,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "कृष्णा",
+      "sentence": 7,
+      "start": 472,
+      "end": 477,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "खोरे",
+      "sentence": 7,
+      "start": 478,
+      "end": 482,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "प्रकल्प",
+      "sentence": 7,
+      "start": 486,
+      "end": 492,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "कालवा",
+      "sentence": 7,
+      "start": 498,
+      "end": 504,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "पाणी",
+      "sentence": 7,
+      "start": 506,
+      "end": 510,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "तुम्ही",
+      "sentence": 8,
+      "start": 515,
+      "end": 520,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "प्रकल्प",
+      "sentence": 8,
+      "start": 522,
+      "end": 528,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "कालावधी",
+      "sentence": 8,
+      "start": 544,
+      "end": 551,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "पक्षी",
+      "sentence": 8,
+      "start": 563,
+      "end": 567,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "त्यांची",
+      "sentence": 8,
+      "start": 572,
+      "end": 578,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "विक्री",
+      "sentence": 8,
+      "start": 579,
+      "end": 584,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "त्याचे",
+      "sentence": 8,
+      "start": 585,
+      "end": 590,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "पैसे",
+      "sentence": 8,
+      "start": 591,
+      "end": 595,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "कालावधी",
+      "sentence": 8,
+      "start": 604,
+      "end": 611,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "हप्ता",
+      "sentence": 8,
+      "start": 616,
+      "end": 621,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "कालावधी",
+      "sentence": 8,
+      "start": 624,
+      "end": 631,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      7,
+      9
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      14,
+      18
+    ],
+    [
+      22,
+      23,
+      24
+    ],
+    [
+      29,
+      30
+    ],
+    [
+      31,
+      35
+    ]
+  ]
+}

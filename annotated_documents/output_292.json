@@ -1,0 +1,358 @@
+{
+  "document_id": "document_292",
+  "sentences": [
+    "कुमारस्वामी यांनी 23 मे 2018ला मुख्यमंत्रीपदाची शपथ घेतली होती.",
+    "रामप्रसाद वाव्‍हळ यांनी सूत्रसंचालन केले आणि डॉ.",
+    "दैवत सावंत यांनी आभार मानले.",
+    "त्यामुळे ज्ञानदांचं हे थिंकिंग 'वेबसाइट रुदन' ठरण्याची शक्यता आहे!",
+    "याचा व्हिडीओ सध्या सोशल मीडियावर व्हायरल होतोय.",
+    "यात किनवा या धान्याला अस्सल मोगलाई मसाल्यात पेश केलेय.",
+    "उदयनराजे म्हणाले, मी केलेली नौटकी दिसते.",
+    "या पोस्टमध्ये त्यांनी लग्नात वापरण्यात येणाऱ्या घोड्यांना किती त्रास होतो हे सांगितलं होतं.",
+    "छताच्या ढिगाऱयाखालीही काही नागरिक सापडले असून त्यांच्या बचावाचे प्रयत्न सुरू आहेत.",
+    "अंबानी बंधूनी दूरसंपर्क व्यवसायाच्या निमित्ताने प्रथमच एकत्र येऊन स्थापन केलेल्या संयुक्त उद्यमामुळे रिलायन्सच्या शेअर्सची मोठी खरेदी झाली."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "कुमारस्वामी",
+      "sentence": 0,
+      "start": 0,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "यांनी",
+      "sentence": 0,
+      "start": 11,
+      "end": 15,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "मुख्यमंत्रीपदाची",
+      "sentence": 0,
+      "start": 30,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "रामप्रसाद",
+      "sentence": 1,
+      "start": 59,
+      "end": 67,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "यांनी",
+      "sentence": 1,
+      "start": 75,
+      "end": 79,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "सूत्रसंचालन",
+      "sentence": 1,
+      "start": 80,
+      "end": 90,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "दैवत",
+      "sentence": 2,
+      "start": 104,
+      "end": 109,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "सावंत",
+      "sentence": 2,
+      "start": 110,
+      "end": 115,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "यांनी",
+      "sentence": 2,
+      "start": 116,
+      "end": 120,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "आभार",
+      "sentence": 2,
+      "start": 121,
+      "end": 125,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "थिंकिंग",
+      "sentence": 3,
+      "start": 144,
+      "end": 150,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "वेबसाइट",
+      "sentence": 3,
+      "start": 153,
+      "end": 160,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "शक्यता",
+      "sentence": 3,
+      "start": 171,
+      "end": 176,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "व्हिडीओ",
+      "sentence": 4,
+      "start": 186,
+      "end": 191,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "मीडियावर",
+      "sentence": 4,
+      "start": 203,
+      "end": 210,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "किनवा",
+      "sentence": 5,
+      "start": 224,
+      "end": 229,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "धान्याला",
+      "sentence": 5,
+      "start": 234,
+      "end": 241,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "मसाल्यात",
+      "sentence": 5,
+      "start": 251,
+      "end": 258,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "उदयनराजे",
+      "sentence": 6,
+      "start": 270,
+      "end": 278,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "मी",
+      "sentence": 6,
+      "start": 287,
+      "end": 288,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "नौटकी",
+      "sentence": 6,
+      "start": 295,
+      "end": 299,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "पोस्टमध्ये",
+      "sentence": 7,
+      "start": 309,
+      "end": 317,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "त्यांनी",
+      "sentence": 7,
+      "start": 318,
+      "end": 323,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "लग्नात",
+      "sentence": 7,
+      "start": 324,
+      "end": 329,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "घोड्यांना",
+      "sentence": 7,
+      "start": 345,
+      "end": 352,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "त्रास",
+      "sentence": 7,
+      "start": 358,
+      "end": 361,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "ढिगाऱयाखालीही",
+      "sentence": 8,
+      "start": 380,
+      "end": 393,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "नागरिक",
+      "sentence": 8,
+      "start": 400,
+      "end": 405,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "त्यांच्या",
+      "sentence": 8,
+      "start": 418,
+      "end": 424,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "बचावाचे",
+      "sentence": 8,
+      "start": 425,
+      "end": 431,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "प्रयत्न",
+      "sentence": 8,
+      "start": 432,
+      "end": 437,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "अंबानी",
+      "sentence": 9,
+      "start": 447,
+      "end": 452,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "बंधूनी",
+      "sentence": 9,
+      "start": 453,
+      "end": 459,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "दूरसंपर्क",
+      "sentence": 9,
+      "start": 460,
+      "end": 468,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "व्यवसायाच्या",
+      "sentence": 9,
+      "start": 469,
+      "end": 478,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "उद्यमामुळे",
+      "sentence": 9,
+      "start": 508,
+      "end": 516,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "शेअर्सची",
+      "sentence": 9,
+      "start": 528,
+      "end": 535,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "खरेदी",
+      "sentence": 9,
+      "start": 541,
+      "end": 546,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ],
+    [
+      4,
+      5,
+      6
+    ],
+    [
+      8,
+      9,
+      10,
+      11
+    ],
+    [
+      13,
+      14,
+      15,
+      16,
+      18
+    ],
+    [
+      19,
+      22
+    ],
+    [
+      26,
+      27,
+      30
+    ],
+    [
+      36,
+      37
+    ]
+  ]
+}

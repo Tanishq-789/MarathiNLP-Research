@@ -1,0 +1,41 @@
+{
+  "document_id": "document_204",
+  "sentences": [
+    "१५० हून अधिक ठिकाणी झाडे कोसळली; तीन जणांचा मृत्यू"
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "ठिकाणी",
+      "sentence": 0,
+      "start": 12,
+      "end": 17,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "झाडे",
+      "sentence": 0,
+      "start": 19,
+      "end": 22,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "जणांचा",
+      "sentence": 0,
+      "start": 34,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मृत्यू",
+      "sentence": 0,
+      "start": 41,
+      "end": 44,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

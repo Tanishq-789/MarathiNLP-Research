@@ -1,0 +1,405 @@
+{
+  "document_id": "document_253",
+  "sentences": [
+    "या दोन प्रसंगांतून ही दोन्ही उत्तरं मिळाली!",
+    "आपल्या देशातल्या लोकांचं आरोग्य आणि तरुणांचं भविष्य याच्याशी निगडित असलेल्या या क्षेत्रात सुधारणा केल्याच पाहिजेत, असं आम्ही ठरवलं.",
+    "पण या निवडणुकीसाठी विरोधकाचे अर्ज बाद करण्यासाठी जानकरांनी दबाव आणल्याची तक्रार काँग्रेसने निवडणूक आयोगाकडे केल्यानंतर ही निवडणूक स्थगित करण्याचे आदेशच राज्य निवडणूक आयोगाने दिले आहेत.",
+    "पाणीपुरवठा विभागाचाही प्रकार यापेक्षा वेगळा नाही.",
+    "अस्थमाचे रुग्ण असणा-या मोगल भालेराव यांना रोगमुक्त करण्यासाठी नरबळी देण्यात येणार होता असे आरोपींनी कबुल केल्याचे पोलिसांनी सांगितले.",
+    "राजकीय- सामाजिक कार्यात  तुमच्या शब्दाला मान मिळेल.",
+    "पत्रांक ५.",
+    "अशा कोर वायर तापमानात एक किलोमीटर एकूण लांबी सुमारे 20 अंश सेल्सिअस, प्रतिकार 148 ohms / किमी पेक्षा जास्त नाही.",
+    "अंदमानमध्ये सावरकरांना गोव्याचीही होती काळजी",
+    "तर अनेक जवान गंभीर जखमी झाले असून अनेक जवानांची मृत्यूशी."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "उत्तरं",
+      "sentence": 0,
+      "start": 30,
+      "end": 35,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "आपल्या",
+      "sentence": 1,
+      "start": 41,
+      "end": 47,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "लोकांचं",
+      "sentence": 1,
+      "start": 57,
+      "end": 63,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "आरोग्य",
+      "sentence": 1,
+      "start": 64,
+      "end": 69,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "तरुणांचं",
+      "sentence": 1,
+      "start": 74,
+      "end": 81,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "भविष्य",
+      "sentence": 1,
+      "start": 82,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "क्षेत्रात",
+      "sentence": 1,
+      "start": 115,
+      "end": 120,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "सुधारणा",
+      "sentence": 1,
+      "start": 121,
+      "end": 127,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "आम्ही",
+      "sentence": 1,
+      "start": 139,
+      "end": 143,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "निवडणुकीसाठी",
+      "sentence": 2,
+      "start": 198,
+      "end": 209,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "विरोधकाचे",
+      "sentence": 2,
+      "start": 210,
+      "end": 218,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "अर्ज",
+      "sentence": 2,
+      "start": 219,
+      "end": 222,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "जानकरांनी",
+      "sentence": 2,
+      "start": 237,
+      "end": 245,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "दबाव",
+      "sentence": 2,
+      "start": 246,
+      "end": 250,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "तक्रार",
+      "sentence": 2,
+      "start": 261,
+      "end": 266,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "काँग्रेसने",
+      "sentence": 2,
+      "start": 267,
+      "end": 275,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "आयोगाकडे",
+      "sentence": 2,
+      "start": 284,
+      "end": 291,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "आदेशच",
+      "sentence": 2,
+      "start": 325,
+      "end": 331,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "राज्य",
+      "sentence": 2,
+      "start": 332,
+      "end": 336,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "आयोगाने",
+      "sentence": 2,
+      "start": 345,
+      "end": 351,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "पाणीपुरवठा",
+      "sentence": 3,
+      "start": 390,
+      "end": 399,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "विभागाचाही",
+      "sentence": 3,
+      "start": 400,
+      "end": 408,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "प्रकार",
+      "sentence": 3,
+      "start": 409,
+      "end": 414,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "यापेक्षा",
+      "sentence": 3,
+      "start": 415,
+      "end": 421,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "अस्थमाचे",
+      "sentence": 4,
+      "start": 439,
+      "end": 446,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "रुग्ण",
+      "sentence": 4,
+      "start": 447,
+      "end": 450,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "मोगल",
+      "sentence": 4,
+      "start": 457,
+      "end": 461,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "भालेराव",
+      "sentence": 4,
+      "start": 462,
+      "end": 468,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "यांना",
+      "sentence": 4,
+      "start": 469,
+      "end": 473,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "नरबळी",
+      "sentence": 4,
+      "start": 486,
+      "end": 491,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "आरोपींनी",
+      "sentence": 4,
+      "start": 513,
+      "end": 519,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "पोलिसांनी",
+      "sentence": 4,
+      "start": 530,
+      "end": 537,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "कार्यात",
+      "sentence": 5,
+      "start": 597,
+      "end": 602,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "शब्दाला",
+      "sentence": 5,
+      "start": 612,
+      "end": 617,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "पत्रांक",
+      "sentence": 6,
+      "start": 629,
+      "end": 634,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "वायर",
+      "sentence": 7,
+      "start": 649,
+      "end": 652,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "तापमानात",
+      "sentence": 7,
+      "start": 653,
+      "end": 659,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "लांबी",
+      "sentence": 7,
+      "start": 677,
+      "end": 681,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "सेल्सिअस",
+      "sentence": 7,
+      "start": 693,
+      "end": 699,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "प्रतिकार",
+      "sentence": 7,
+      "start": 702,
+      "end": 708,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "ohms",
+      "sentence": 7,
+      "start": 714,
+      "end": 718,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "सावरकरांना",
+      "sentence": 8,
+      "start": 760,
+      "end": 768,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "गोव्याचीही",
+      "sentence": 8,
+      "start": 769,
+      "end": 777,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "काळजी",
+      "sentence": 8,
+      "start": 783,
+      "end": 788,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "जवान",
+      "sentence": 9,
+      "start": 798,
+      "end": 802,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "जवानांची",
+      "sentence": 9,
+      "start": 821,
+      "end": 827,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      2,
+      1
+    ],
+    [
+      20,
+      22,
+      25
+    ],
+    [
+      21,
+      26
+    ],
+    [
+      33,
+      34,
+      35
+    ]
+  ]
+}

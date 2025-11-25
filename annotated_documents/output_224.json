@@ -1,0 +1,335 @@
+{
+  "document_id": "document_224",
+  "sentences": [
+    "’ त्याच्या चेह-यावरचा आनंद बघून त्याची पत्नी अंतरी खदखदली.",
+    "खूप त्रासदायक आहे - तथापि, वैयक्तिक अनुभव, आम्हाला बहुतांश उपस्थित संपादन की जाणतोच.",
+    "आज येथील शाळा बंद केल्या गेल्या आहेत.",
+    "2013 मध्ये सर्वात हास्यास्पद मृत्यू",
+    "ज्या गावाची आपण बात करतोय ते दुसरे तिसरं कुठलं नसून टीव्ही सिरियलस मध्ये दिसणार गाव आहे .",
+    "- टाईम मशीन्स कॉन्ट्रॅक्टसाठी एमएसएल स्पेन ही कंपनी खरोखरच पात्र होती का ?",
+    "या दिले तज्ञ हे घटक लक्षणीय मार्जिन साठी एक कमी मर्यादा सल्ला देतो.",
+    "अनेकांनी यावर खवळून उठायला हवं होतं…",
+    "पण एक आठवडा मुक्काम किंमत 43 हजार आहे.",
+    "घासणे.",
+    "दोन अतिथी.",
+    "त्यांना येत मूत्रपिंड मूत्र सुटका थेंब आहे किंवा मूत्राशय राहिले काय, आणि नंतर उदरवेष्टन भोक माध्यमातून बाहेर येतो मध्ये trickles.",
+    "उलटे लटकले."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "त्याच्या",
+      "sentence": 0,
+      "start": 2,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "चेह-यावरचा",
+      "sentence": 0,
+      "start": 8,
+      "end": 18,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "आनंद",
+      "sentence": 0,
+      "start": 20,
+      "end": 24,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "त्याची",
+      "sentence": 0,
+      "start": 31,
+      "end": 35,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "पत्नी",
+      "sentence": 0,
+      "start": 36,
+      "end": 39,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "अंतरी",
+      "sentence": 0,
+      "start": 40,
+      "end": 44,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "अनुभव",
+      "sentence": 1,
+      "start": 77,
+      "end": 81,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "आम्हाला",
+      "sentence": 1,
+      "start": 83,
+      "end": 88,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "संपादन",
+      "sentence": 1,
+      "start": 98,
+      "end": 103,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "शाळा",
+      "sentence": 2,
+      "start": 136,
+      "end": 139,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "मृत्यू",
+      "sentence": 3,
+      "start": 181,
+      "end": 185,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "गावाची",
+      "sentence": 4,
+      "start": 190,
+      "end": 195,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "आपण",
+      "sentence": 4,
+      "start": 197,
+      "end": 200,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "ते",
+      "sentence": 4,
+      "start": 214,
+      "end": 215,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "टीव्ही",
+      "sentence": 4,
+      "start": 233,
+      "end": 236,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "मशीन्स",
+      "sentence": 5,
+      "start": 265,
+      "end": 270,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "कॉन्ट्रॅक्टसाठी",
+      "sentence": 5,
+      "start": 271,
+      "end": 283,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "एमएसएल",
+      "sentence": 5,
+      "start": 284,
+      "end": 288,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "स्पेन",
+      "sentence": 5,
+      "start": 289,
+      "end": 292,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "कंपनी",
+      "sentence": 5,
+      "start": 297,
+      "end": 301,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "तज्ञ",
+      "sentence": 6,
+      "start": 337,
+      "end": 339,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "मार्जिन",
+      "sentence": 6,
+      "start": 356,
+      "end": 361,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "मर्यादा",
+      "sentence": 6,
+      "start": 370,
+      "end": 373,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "सल्ला",
+      "sentence": 6,
+      "start": 374,
+      "end": 377,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "अनेकांनी",
+      "sentence": 7,
+      "start": 398,
+      "end": 404,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "आठवडा",
+      "sentence": 8,
+      "start": 434,
+      "end": 439,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "मुक्काम",
+      "sentence": 8,
+      "start": 440,
+      "end": 444,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "किंमत",
+      "sentence": 8,
+      "start": 445,
+      "end": 448,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "अतिथी",
+      "sentence": 10,
+      "start": 476,
+      "end": 479,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "त्यांना",
+      "sentence": 11,
+      "start": 482,
+      "end": 485,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "मूत्रपिंड",
+      "sentence": 11,
+      "start": 489,
+      "end": 494,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "मूत्र",
+      "sentence": 11,
+      "start": 495,
+      "end": 497,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "सुटका",
+      "sentence": 11,
+      "start": 498,
+      "end": 501,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "थेंब",
+      "sentence": 11,
+      "start": 502,
+      "end": 505,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "मूत्राशय",
+      "sentence": 11,
+      "start": 515,
+      "end": 520,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "काय",
+      "sentence": 11,
+      "start": 524,
+      "end": 526,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "उदरवेष्टन",
+      "sentence": 11,
+      "start": 537,
+      "end": 544,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      3
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      11,
+      14,
+      17
+    ],
+    [
+      35,
+      36
+    ]
+  ]
+}
