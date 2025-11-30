@@ -1,0 +1,162 @@
+{
+  "document_id": "document_490",
+  "sentences": [
+    ", वैभववाडी – 2,609 मि.",
+    "मात्र, त्यास त्यांना अपेक्षित प्रसिद्धी मिळाली नाही.",
+    "सर्वांनी मिळून स्वतंत्र पक्ष  स्थापन करता येईल का, यावर या बंडखोरांनी चर्चा चाचपणी सुरू केली आहे.",
+    "या सौंदर्य परिधान सह मुले आणि मुली बारीक बिल्ड घेऊ शकता की, आणि शक्यतो नोंद करावी  फिकट गुलाबी त्वचा  वर्ण.",
+    "अनुसूचित जाती, जमातींना लोकसंख्येच्या प्रमाणात जिल्हा परिषदांमध्ये जागा राखीव असतात."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "त्यांना",
+      "sentence": 1,
+      "start": 24,
+      "end": 28,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "प्रसिद्धी",
+      "sentence": 1,
+      "start": 35,
+      "end": 40,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "सर्वांनी",
+      "sentence": 2,
+      "start": 53,
+      "end": 58,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "पक्ष",
+      "sentence": 2,
+      "start": 68,
+      "end": 70,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "बंडखोरांनी",
+      "sentence": 2,
+      "start": 95,
+      "end": 102,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "चर्चा",
+      "sentence": 2,
+      "start": 103,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "चाचपणी",
+      "sentence": 2,
+      "start": 108,
+      "end": 113,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "सौंदर्य",
+      "sentence": 3,
+      "start": 127,
+      "end": 132,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "मुले",
+      "sentence": 3,
+      "start": 143,
+      "end": 145,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मुली",
+      "sentence": 3,
+      "start": 152,
+      "end": 155,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "बिल्ड",
+      "sentence": 3,
+      "start": 161,
+      "end": 164,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "नोंद",
+      "sentence": 3,
+      "start": 183,
+      "end": 185,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "त्वचा",
+      "sentence": 3,
+      "start": 200,
+      "end": 203,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "वर्ण",
+      "sentence": 3,
+      "start": 206,
+      "end": 208,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "जाती",
+      "sentence": 4,
+      "start": 219,
+      "end": 222,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "जमातींना",
+      "sentence": 4,
+      "start": 224,
+      "end": 229,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "प्रमाणात",
+      "sentence": 4,
+      "start": 240,
+      "end": 245,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "जागा",
+      "sentence": 4,
+      "start": 262,
+      "end": 265,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      4,
+      7
+    ]
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "document_id": "document_473",
+  "sentences": [
+    "गुरुवार, 21 मार्च 2019",
+    "यावेळी त्याच्या दरवाजावर तलवारीने वार केले व पळताना त्याच्या दिशेने फायर केला.",
+    "याजमुळें अगदीं काम बुडालें.",
+    "या नरसंहारानंतर ७जाने.",
+    "१९००मध्ये पोलिसांनी धरपकड सुरु केली, व पुढे ३फेब्रु.",
+    "१९००मध्ये बिरसांनी आपल्या ८० अनुयायांसमवेत स्वतःला पोलिसांच्या स्वाधीन केले.",
+    "या वेळेस तेथे उपस्थित आदिवासी बांधवांना बिरासांनी माधारी फिरण्यास व आपल्या अधिकारांसाठी लढण्याचा उपदेश केला.",
+    "सोललेली मानले पर्यायी हिरव्या केळी पाककला, कारण त्यांना उष्णता उपचार जास्त नंतर पेक्षा स्वच्छ करणे कठीण आहे.",
+    "अनेकदा विद्यार्थी प्रथम शब्द विश्लेषण करू करण्यास वचनबद्ध आहे, आणि नंतर नक्कल लेखन.",
+    "हा हृदयाला अतिशय हानिकारक असतो.",
+    "सफरचंद – रुपये 50 ते 80",
+    "प्रतीक्षा यादी मोठी आहे.",
+    "सरांनी माझ्या कामाची चौकशी केल्यावर माझ्या संशोधनाची ‘रामकहाणी’ त्यांना सांगितली.",
+    "तेव्हा शाहरुख नकार दिला.",
+    "महिलांच्या कर्नाटक विरुद्ध केरळ या तुल्यबळ संघांतील रोमांचक उपांत्य सामन्यात अलाहिदा डावातील वीणा."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "त्याच्या",
+      "sentence": 1,
+      "start": 29,
+      "end": 35,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "तलवारीने",
+      "sentence": 1,
+      "start": 45,
+      "end": 52,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "त्याच्या",
+      "sentence": 1,
+      "start": 71,
+      "end": 77,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "नरसंहारानंतर",
+      "sentence": 3,
+      "start": 123,
+      "end": 133,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "पोलिसांनी",
+      "sentence": 4,
+      "start": 148,
+      "end": 156,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "धरपकड",
+      "sentence": 4,
+      "start": 157,
+      "end": 162,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "बिरसांनी",
+      "sentence": 5,
+      "start": 189,
+      "end": 196,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "आपल्या",
+      "sentence": 5,
+      "start": 197,
+      "end": 203,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "स्वतःला",
+      "sentence": 5,
+      "start": 214,
+      "end": 220,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "वेळेस",
+      "sentence": 6,
+      "start": 258,
+      "end": 263,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "बांधवांना",
+      "sentence": 6,
+      "start": 282,
+      "end": 289,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "बिरासांनी",
+      "sentence": 6,
+      "start": 290,
+      "end": 297,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "माधारी",
+      "sentence": 6,
+      "start": 298,
+      "end": 304,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "आपल्या",
+      "sentence": 6,
+      "start": 313,
+      "end": 319,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "अधिकारांसाठी",
+      "sentence": 6,
+      "start": 320,
+      "end": 331,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "उपदेश",
+      "sentence": 6,
+      "start": 341,
+      "end": 346,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "केळी",
+      "sentence": 7,
+      "start": 385,
+      "end": 388,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "पाककला",
+      "sentence": 7,
+      "start": 389,
+      "end": 395,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "त्यांना",
+      "sentence": 7,
+      "start": 403,
+      "end": 408,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "उष्णता",
+      "sentence": 7,
+      "start": 409,
+      "end": 415,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "उपचार",
+      "sentence": 7,
+      "start": 416,
+      "end": 421,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "विद्यार्थी",
+      "sentence": 8,
+      "start": 469,
+      "end": 475,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "शब्द",
+      "sentence": 8,
+      "start": 480,
+      "end": 483,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "विश्लेषण",
+      "sentence": 8,
+      "start": 484,
+      "end": 490,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "हृदयाला",
+      "sentence": 9,
+      "start": 544,
+      "end": 550,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "सफरचंद",
+      "sentence": 10,
+      "start": 571,
+      "end": 577,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "रुपये",
+      "sentence": 10,
+      "start": 580,
+      "end": 584,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "प्रतीक्षा",
+      "sentence": 11,
+      "start": 594,
+      "end": 600,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "यादी",
+      "sentence": 11,
+      "start": 601,
+      "end": 604,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "सरांनी",
+      "sentence": 12,
+      "start": 614,
+      "end": 619,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "माझ्या",
+      "sentence": 12,
+      "start": 620,
+      "end": 625,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "कामाची",
+      "sentence": 12,
+      "start": 626,
+      "end": 631,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "चौकशी",
+      "sentence": 12,
+      "start": 632,
+      "end": 637,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "माझ्या",
+      "sentence": 12,
+      "start": 646,
+      "end": 651,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "संशोधनाची",
+      "sentence": 12,
+      "start": 652,
+      "end": 660,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "रामकहाणी",
+      "sentence": 12,
+      "start": 663,
+      "end": 670,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "त्यांना",
+      "sentence": 12,
+      "start": 674,
+      "end": 679,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "शाहरुख",
+      "sentence": 13,
+      "start": 694,
+      "end": 699,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "नकार",
+      "sentence": 13,
+      "start": 700,
+      "end": 704,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "कर्नाटक",
+      "sentence": 14,
+      "start": 718,
+      "end": 723,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "सामन्यात",
+      "sentence": 14,
+      "start": 764,
+      "end": 770,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "डावातील",
+      "sentence": 14,
+      "start": 778,
+      "end": 784,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "वीणा",
+      "sentence": 14,
+      "start": 785,
+      "end": 788,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      2
+    ],
+    [
+      7,
+      8,
+      9,
+      13,
+      15
+    ],
+    [
+      5,
+      10
+    ],
+    [
+      18,
+      20
+    ],
+    [
+      34,
+      37
+    ],
+    [
+      33,
+      40
+    ]
+  ]
+}

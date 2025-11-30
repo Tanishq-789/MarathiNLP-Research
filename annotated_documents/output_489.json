@@ -1,0 +1,25 @@
+{
+  "document_id": "document_489",
+  "sentences": [
+    "कोणतीही नमुना कलाकार \"तयार करा\"."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "नमुना",
+      "sentence": 0,
+      "start": 8,
+      "end": 12,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "कलाकार",
+      "sentence": 0,
+      "start": 14,
+      "end": 19,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

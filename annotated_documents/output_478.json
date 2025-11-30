@@ -1,0 +1,182 @@
+{
+  "document_id": "document_478",
+  "sentences": [
+    "निवटकर - मुंबई शहर जिल्हाधिकारी पदावर नियुक्ती",
+    "” सांगतो, सगळे सांगतो.",
+    "या बेकार मुलांची डोकी खराब करून, त्यांना देशाविरोधात कारवाया करण्याकरिता वापरले जाते.",
+    "एकदा का या रस्त्यावरील मिरवणुकीत पथकाचा आव्वाज घुमला, की पुढची काही वर्ष पथकाकडे गणेश मंडळांनी तारखांसाठी रांगा लावल्याच म्हणून समजा.",
+    "या आयटम चालवला जातो तेव्हा, तो एक थोडे वीण दुर्बल करणे आवश्यक आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "निवटकर",
+      "sentence": 0,
+      "start": 0,
+      "end": 6,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "मुंबई",
+      "sentence": 0,
+      "start": 10,
+      "end": 14,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "जिल्हाधिकारी",
+      "sentence": 0,
+      "start": 20,
+      "end": 30,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "पदावर",
+      "sentence": 0,
+      "start": 31,
+      "end": 36,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "नियुक्ती",
+      "sentence": 0,
+      "start": 37,
+      "end": 43,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "मुलांची",
+      "sentence": 2,
+      "start": 74,
+      "end": 80,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "त्यांना",
+      "sentence": 2,
+      "start": 98,
+      "end": 103,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "देशाविरोधात",
+      "sentence": 2,
+      "start": 104,
+      "end": 115,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "कारवाया",
+      "sentence": 2,
+      "start": 116,
+      "end": 122,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मिरवणुकीत",
+      "sentence": 3,
+      "start": 175,
+      "end": 183,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "पथकाचा",
+      "sentence": 3,
+      "start": 184,
+      "end": 190,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "आव्वाज",
+      "sentence": 3,
+      "start": 191,
+      "end": 197,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "वर्ष",
+      "sentence": 3,
+      "start": 214,
+      "end": 217,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "पथकाकडे",
+      "sentence": 3,
+      "start": 218,
+      "end": 225,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "गणेश",
+      "sentence": 3,
+      "start": 226,
+      "end": 230,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "मंडळांनी",
+      "sentence": 3,
+      "start": 231,
+      "end": 237,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "तारखांसाठी",
+      "sentence": 3,
+      "start": 238,
+      "end": 247,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "रांगा",
+      "sentence": 3,
+      "start": 248,
+      "end": 252,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "आयटम",
+      "sentence": 4,
+      "start": 299,
+      "end": 303,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "तो",
+      "sentence": 4,
+      "start": 317,
+      "end": 318,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      7,
+      9
+    ],
+    [
+      14,
+      17
+    ]
+  ]
+}

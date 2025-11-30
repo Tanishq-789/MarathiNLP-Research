@@ -1,0 +1,42 @@
+{
+  "document_id": "document_463",
+  "sentences": [
+    "पंतप्रधानांचा ताफा भलत्याच दिशेला, दोन पोलीस निलंबित",
+    "एका टॉक शो दरम्यान करीनाने  म्हटले की."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "पंतप्रधान",
+      "sentence": 0,
+      "start": 0,
+      "end": 7,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "ताफा",
+      "sentence": 0,
+      "start": 11,
+      "end": 14,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "पोलीस",
+      "sentence": 0,
+      "start": 36,
+      "end": 40,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "करीना",
+      "sentence": 1,
+      "start": 68,
+      "end": 72,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

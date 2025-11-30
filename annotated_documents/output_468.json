@@ -1,0 +1,429 @@
+{
+  "document_id": "document_468",
+  "sentences": [
+    "मार्च 17, 2019",
+    "सलग क्षेत्र लागवड करतेवेळी दोन रोपातील अंतर किमान ७ फूट तर दोन ओळीतील अंतर किमान १२ फूट ठेवले जाते.",
+    "रस्त्यावरचे हे खाद्यपदार्थ स्वस्त असतात पण त्यासाठी वापरला जाणारा कच्चा माल यात मोठय़ा प्रमाणात भेसळ आढळते.",
+    "तिथले प्रवक्ते एस.",
+    "सुरेशकुमार यांनी हा सर्वेक्षण अहवाल आत्ताच का मांडण्यात आला असा प्रश्न विचारला आहे.",
+    "गेल्या दोन महिन्यांपूर्वी मांजरगाव येथील तालमीतून मुलांना घेऊन कोकरे वस्तीकडे परतणार्‍या कैलास कोकरे या तरुणाला रस्त्याच्या कडेला बिबट्या पहुडला असल्याचे दिसले होते.",
+    "यावेळी दुचाकी थांबवून मोटारसायकलच्या प्रकाशझोतात त्याला पाहिले असता तो बिबट्या असल्याचे लक्षात येताच त्याची भीतीने गाळण उडाली होती.",
+    "त्यांनी तसेच वस्तीवर धाव घेऊन पोलिस व करमाळ्यातील वन विभागाला याची माहिती दिली होती.",
+    "यानंतर वन विभागाचे मोहोळ परिमंडळ अधिकारी जयश्री पवार, सोलापूर विभागाचे वनरक्षक सुरेश कुरले, वनपाल विठ्ठल खारतोडे यांनी घटनास्थळी धाव घेऊन बिबट्याच्या पायाचे ठसे व इतर खुणा पाहून त्याला पकडण्यासाठी तीन ठिकाणी पिंजरे लावले होते.",
+    ">>>>> १००% अनुमोदन."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "लागवड",
+      "sentence": 1,
+      "start": 26,
+      "end": 30,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "अंतर",
+      "sentence": 1,
+      "start": 49,
+      "end": 52,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "अंतर",
+      "sentence": 1,
+      "start": 79,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "खाद्यपदार्थ",
+      "sentence": 2,
+      "start": 107,
+      "end": 116,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "प्रमाणात",
+      "sentence": 2,
+      "start": 167,
+      "end": 172,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "भेसळ",
+      "sentence": 2,
+      "start": 173,
+      "end": 176,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "प्रवक्ते",
+      "sentence": 3,
+      "start": 188,
+      "end": 193,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "सुरेशकुमार",
+      "sentence": 4,
+      "start": 196,
+      "end": 204,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "यांनी",
+      "sentence": 4,
+      "start": 206,
+      "end": 210,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "अहवाल",
+      "sentence": 4,
+      "start": 220,
+      "end": 224,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "प्रश्न",
+      "sentence": 4,
+      "start": 242,
+      "end": 246,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "महिन्यांपूर्वी",
+      "sentence": 5,
+      "start": 261,
+      "end": 270,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "मांजरगाव",
+      "sentence": 5,
+      "start": 271,
+      "end": 278,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "तालमीतून",
+      "sentence": 5,
+      "start": 285,
+      "end": 292,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "मुलांना",
+      "sentence": 5,
+      "start": 295,
+      "end": 300,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "वस्तीकडे",
+      "sentence": 5,
+      "start": 310,
+      "end": 316,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "तरुणाला",
+      "sentence": 5,
+      "start": 340,
+      "end": 346,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "कडेला",
+      "sentence": 5,
+      "start": 355,
+      "end": 359,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "बिबट्या",
+      "sentence": 5,
+      "start": 361,
+      "end": 366,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "दुचाकी",
+      "sentence": 6,
+      "start": 391,
+      "end": 396,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "त्याला",
+      "sentence": 6,
+      "start": 425,
+      "end": 429,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "तो",
+      "sentence": 6,
+      "start": 438,
+      "end": 439,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "बिबट्या",
+      "sentence": 6,
+      "start": 440,
+      "end": 445,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "त्याची",
+      "sentence": 6,
+      "start": 464,
+      "end": 468,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "भीतीने",
+      "sentence": 6,
+      "start": 469,
+      "end": 474,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "गाळण",
+      "sentence": 6,
+      "start": 475,
+      "end": 479,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "त्यांनी",
+      "sentence": 7,
+      "start": 489,
+      "end": 494,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "वस्तीवर",
+      "sentence": 7,
+      "start": 500,
+      "end": 505,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "पोलिस",
+      "sentence": 7,
+      "start": 515,
+      "end": 519,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "विभागाला",
+      "sentence": 7,
+      "start": 535,
+      "end": 541,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "विभागाचे",
+      "sentence": 8,
+      "start": 563,
+      "end": 569,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "मोहोळ",
+      "sentence": 8,
+      "start": 570,
+      "end": 574,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "परिमंडळ",
+      "sentence": 8,
+      "start": 575,
+      "end": 581,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "अधिकारी",
+      "sentence": 8,
+      "start": 582,
+      "end": 587,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "जयश्री",
+      "sentence": 8,
+      "start": 588,
+      "end": 593,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "पवार",
+      "sentence": 8,
+      "start": 594,
+      "end": 598,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "सोलापूर",
+      "sentence": 8,
+      "start": 600,
+      "end": 605,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "विभागाचे",
+      "sentence": 8,
+      "start": 606,
+      "end": 612,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "वनरक्षक",
+      "sentence": 8,
+      "start": 613,
+      "end": 619,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "वनपाल",
+      "sentence": 8,
+      "start": 631,
+      "end": 636,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "विठ्ठल",
+      "sentence": 8,
+      "start": 637,
+      "end": 642,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "खारतोडे",
+      "sentence": 8,
+      "start": 643,
+      "end": 649,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "यांनी",
+      "sentence": 8,
+      "start": 650,
+      "end": 654,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "बिबट्याच्या",
+      "sentence": 8,
+      "start": 672,
+      "end": 680,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "पायाचे",
+      "sentence": 8,
+      "start": 681,
+      "end": 686,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "त्याला",
+      "sentence": 8,
+      "start": 707,
+      "end": 711,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "ठिकाणी",
+      "sentence": 8,
+      "start": 724,
+      "end": 728,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "पिंजरे",
+      "sentence": 8,
+      "start": 729,
+      "end": 733,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      14,
+      15,
+      16
+    ],
+    [
+      24,
+      42
+    ],
+    [
+      25,
+      26,
+      27,
+      38,
+      41
+    ],
+    [
+      30,
+      35,
+      36,
+      37
+    ],
+    [
+      45,
+      46
+    ]
+  ]
+}

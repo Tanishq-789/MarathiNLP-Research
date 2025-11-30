@@ -1,0 +1,59 @@
+{
+  "document_id": "document_472",
+  "sentences": [
+    "चंद्रचूड यांची मराठी पार्श्वभूमी आहे.",
+    "दुष्काळात तग धरण्याची ताकद ही मॅग्नोलियाची खासियत आहे.",
+    "त्यामुळे उमेदवारीच्या आशा."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "चंद्रचूड",
+      "sentence": 0,
+      "start": 0,
+      "end": 8,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "पार्श्वभूमी",
+      "sentence": 0,
+      "start": 17,
+      "end": 26,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "दुष्काळात",
+      "sentence": 1,
+      "start": 30,
+      "end": 38,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "ताकद",
+      "sentence": 1,
+      "start": 47,
+      "end": 51,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "मॅग्नोलियाची",
+      "sentence": 1,
+      "start": 55,
+      "end": 66,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "खासियत",
+      "sentence": 1,
+      "start": 66,
+      "end": 72,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

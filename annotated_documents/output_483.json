@@ -1,0 +1,91 @@
+{
+  "document_id": "document_483",
+  "sentences": [
+    "ओळीत रोपे अंतर कमी जास्त 10 सें.",
+    "त्यामुळे सध्या अभियांत्रिकी शाखेतील विद्यार्थ्यांनी सादर केलेल्या प्रकरणे निकाली काढण्याचे काम युद्ध पातळीवर सुरू आहे.",
+    "थोडे पुढे गोवा, कारवार इथे मात्र बाकी पद्धत तीच असते पण धणे हा एक घटक पदार्थ वाढतो."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "रोपे",
+      "sentence": 0,
+      "start": 6,
+      "end": 10,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "अंतर",
+      "sentence": 0,
+      "start": 11,
+      "end": 15,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "शाखेतील",
+      "sentence": 1,
+      "start": 53,
+      "end": 60,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "विद्यार्थ्यांनी",
+      "sentence": 1,
+      "start": 61,
+      "end": 71,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "प्रकरणे",
+      "sentence": 1,
+      "start": 90,
+      "end": 96,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "पातळीवर",
+      "sentence": 1,
+      "start": 132,
+      "end": 139,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "कारवार",
+      "sentence": 2,
+      "start": 175,
+      "end": 180,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "पद्धत",
+      "sentence": 2,
+      "start": 198,
+      "end": 203,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "तीच",
+      "sentence": 2,
+      "start": 204,
+      "end": 207,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "पदार्थ",
+      "sentence": 2,
+      "start": 234,
+      "end": 238,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}

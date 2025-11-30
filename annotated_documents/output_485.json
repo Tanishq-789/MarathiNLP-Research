@@ -1,0 +1,255 @@
+{
+  "document_id": "document_485",
+  "sentences": [
+    "कलम ३७० हटवणं कुणालाच जमलं नसतं : अमित शहा",
+    "हा फोटो तुझ्या मित्रांना पाठवणार आहे.",
+    "तर या भीषण आगीतून यासंदर्भात काही सीसीचीव्ही मिळतं का याचाही पोलीस तपास करत आहे.",
+    "मोडकळीस आलेला वाक्यांश: \"संपूर्ण काय आहे?",
+    "थोड्या विश्रांतीनंतर परतीच्या पावसाने मुंबई शहर, उपनगरांसह पुणे, कोल्हापूर भागाला जोरदार तडाखा दिला.",
+    "आम्ही एक पूर्णपणे भिन्न प्रजाती बद्दल बोलत आहात.",
+    "यामुळे राजकीय वर्तुळात चर्चांणा उधाण आलं आहे.",
+    "त्याला लंगडत लंगडतच मैदानातून बाहेर जावे लागले होते.",
+    "रेडबुलच्या हेडने या बेटाला २००३ मध्ये खरेदी केले होते.",
+    "गुरुकुल शिक्षण पद्धतीवर चिंतन होणे गरजेचे आहे."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "कुणालाच",
+      "sentence": 0,
+      "start": 17,
+      "end": 23,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "अमित",
+      "sentence": 0,
+      "start": 31,
+      "end": 34,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "फोटो",
+      "sentence": 1,
+      "start": 42,
+      "end": 45,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "मित्रांना",
+      "sentence": 1,
+      "start": 52,
+      "end": 58,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "आगीतून",
+      "sentence": 2,
+      "start": 71,
+      "end": 76,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "पोलीस",
+      "sentence": 2,
+      "start": 110,
+      "end": 114,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "तपास",
+      "sentence": 2,
+      "start": 115,
+      "end": 119,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "वाक्यांश",
+      "sentence": 3,
+      "start": 137,
+      "end": 142,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "काय",
+      "sentence": 3,
+      "start": 149,
+      "end": 151,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "विश्रांतीनंतर",
+      "sentence": 4,
+      "start": 161,
+      "end": 171,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "पावसाने",
+      "sentence": 4,
+      "start": 180,
+      "end": 186,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "मुंबई",
+      "sentence": 4,
+      "start": 187,
+      "end": 191,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "उपनगरांसह",
+      "sentence": 4,
+      "start": 198,
+      "end": 207,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "कोल्हापूर",
+      "sentence": 4,
+      "start": 214,
+      "end": 220,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "भागाला",
+      "sentence": 4,
+      "start": 221,
+      "end": 226,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "तडाखा",
+      "sentence": 4,
+      "start": 233,
+      "end": 238,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "आम्ही",
+      "sentence": 5,
+      "start": 246,
+      "end": 249,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "प्रजाती",
+      "sentence": 5,
+      "start": 266,
+      "end": 270,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "वर्तुळात",
+      "sentence": 6,
+      "start": 285,
+      "end": 291,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "चर्चांणा",
+      "sentence": 6,
+      "start": 292,
+      "end": 298,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "त्याला",
+      "sentence": 7,
+      "start": 310,
+      "end": 314,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "मैदानातून",
+      "sentence": 7,
+      "start": 326,
+      "end": 333,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "हेडने",
+      "sentence": 8,
+      "start": 354,
+      "end": 358,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "बेटाला",
+      "sentence": 8,
+      "start": 363,
+      "end": 367,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "गुरुकुल",
+      "sentence": 9,
+      "start": 386,
+      "end": 391,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "शिक्षण",
+      "sentence": 9,
+      "start": 393,
+      "end": 398,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "पद्धतीवर",
+      "sentence": 9,
+      "start": 399,
+      "end": 406,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "चिंतन",
+      "sentence": 9,
+      "start": 407,
+      "end": 412,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      4
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      9,
+      10
+    ]
+  ]
+}

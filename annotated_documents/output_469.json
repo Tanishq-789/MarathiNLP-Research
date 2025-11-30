@@ -1,0 +1,921 @@
+{
+  "document_id": "document_469",
+  "sentences": [
+    "ही मालिका पाहण्यापेक्षा यूट्यूबवर जाऊन पुन्हा साराभाई vs साराभाईचे भाग पहावेत म्हणते मी.",
+    "भाजपचे संकटमोचक असलेल्या गिरीश महाजन यांनी भाजपचा जळगाव लोकसभा मतदार संघाचा उमेदवार बदलावा अन्यथा राज्यात गिरिश महाजन यांची मोठी नाचक्की होईल असा इशारा भाजपचे सहयोगी आमदार अंमळनेरचे शिरीष चौधरी यांनी दिलाय.",
+    "मुख्य म्हणजे थोडाही विलंब चालत नाही अन्यथा प्रवाशांच्या रोषाला सामोरे जावे लागते.",
+    "समजा मी कोकणात  दर एक वा दोन वर्षानी आठ आठ दिवस घालवण्याचे ठरवले तर एक एक भाग असा बघायचा म्हंटले तर त्या त्या भागाविषयी सविस्तर लिहिता येईल का कुणाला?",
+    "धन्यवाद.",
+    "Submitted by हर्ट on 29 June, 2015 - 04:36",
+    "आणि सुंदर कार्ड समस्या.",
+    "टेट्रासाइक्लिन ऑयंटमेंट (1%) ट्यूब्समध्ये उपलब्ध आहे आणि हे पापणीच्या मागे ठेवण्यासाठी तयार केले आहे.",
+    "या डीपीवर नागरिकांच्या एकूण एक हजार 203 हरकती आणि सूचना आल्या होत्या.",
+    "स्थानिक समुदायापैकी विशेषतः ज्या तरुणांना आपण आपल्या कुटुंबाला पाठिंबा आणि सहाय्य देण्यासाठी असमर्थ आहोत असे वाटते.",
+    "डाळीचे वडे करण्यासाठी डाळी भिजत घालून वडे करतात.",
+    "दिपा शिपूरकर यांनी या मुलांसाठी असणाऱया विविध शासकीय योजनांची माहिती दिली.",
+    "पुण्याचा आंबेमोहोर तांदूळ",
+    "दुसरीकडे त्यांचे बंधू शेखर गोरे यांनी राष्ट्रवादीला सोडचिठ्ठी देत शिवसेनेत प्रवेश केला आणि शिवसेनेच्या एबी फॉर्मवर अर्ज भरला.",
+    "मनापासून तुम्ही जे काम करता ते कौतुकास्पद ठरते.",
+    "मित्राच्या रिकाम्या फ्लॅट्वर अथवा एखाद्या वाड्यातल्या एखाद्या खोलीत रात्रभर सगळे जमून सगळ्या संहितांच सँपल वाचन करणे.",
+    "कारण या मोसमात प्रत्येक संघाला २२ सामने खेळावे लागणार आहेत.",
+    "2014 मध्ये झालेल्या लोकसभा निवडणुकीत प्रमोद महाजन यांच्या दोस्तीसाठी पूनम महाजन यांच्या पाठीशी शिवसेना उभी राहिली.",
+    "या पदांसाठी अर्ज करण्याची शेवटची तारीख 8 डिसेंबर आहे.",
+    "आणि वाघाच्या जबड्यात भिगल्याची मान सापडण्या ऐवजी सित्याची मान सापडली.",
+    "नोटाबंदीच्या निर्णयाने तर त्यात भर घातली.",
+    "क्षयरोगावर रिसर्च करत असताना दुर्दैवाने त्यांनाही क्षयरोगाची लागण झाली आणि स्टेथोस्कोप शोधून काढल्यानंतर केवळ  दहाच वर्षांत त्यांचे निधन झाले.",
+    "मी: तुम्ही सध्या कुठे रहाता?"
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मालिका",
+      "sentence": 0,
+      "start": 3,
+      "end": 9,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "यूट्यूबवर",
+      "sentence": 0,
+      "start": 20,
+      "end": 28,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "मी",
+      "sentence": 0,
+      "start": 88,
+      "end": 90,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "भाजपचे",
+      "sentence": 1,
+      "start": 91,
+      "end": 97,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "संकटमोचक",
+      "sentence": 1,
+      "start": 98,
+      "end": 106,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "गिरीश",
+      "sentence": 1,
+      "start": 115,
+      "end": 120,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "महाजन",
+      "sentence": 1,
+      "start": 121,
+      "end": 126,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "त्यांनी",
+      "sentence": 1,
+      "start": 127,
+      "end": 132,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "जळगाव",
+      "sentence": 1,
+      "start": 141,
+      "end": 146,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मतदार",
+      "sentence": 1,
+      "start": 154,
+      "end": 159,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "राज्यात",
+      "sentence": 1,
+      "start": 194,
+      "end": 200,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "गिरिश",
+      "sentence": 1,
+      "start": 201,
+      "end": 206,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "महाजन",
+      "sentence": 1,
+      "start": 207,
+      "end": 212,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "यांची",
+      "sentence": 1,
+      "start": 213,
+      "end": 218,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "इशारा",
+      "sentence": 1,
+      "start": 239,
+      "end": 244,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "भाजपचे",
+      "sentence": 1,
+      "start": 245,
+      "end": 251,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "आमदार",
+      "sentence": 1,
+      "start": 259,
+      "end": 264,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "अंमळनेरचे",
+      "sentence": 1,
+      "start": 265,
+      "end": 274,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "शिरीष",
+      "sentence": 1,
+      "start": 275,
+      "end": 280,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "चौधरी",
+      "sentence": 1,
+      "start": 281,
+      "end": 286,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "त्यांनी",
+      "sentence": 1,
+      "start": 287,
+      "end": 292,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "विलंब",
+      "sentence": 2,
+      "start": 361,
+      "end": 366,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "रोषाला",
+      "sentence": 2,
+      "start": 395,
+      "end": 400,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "मी",
+      "sentence": 3,
+      "start": 427,
+      "end": 429,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "वर्षानी",
+      "sentence": 3,
+      "start": 449,
+      "end": 455,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "दिवस",
+      "sentence": 3,
+      "start": 463,
+      "end": 467,
+      "confidence": 1.0
+    },
+    {
+      "id": 26,
+      "text": "भागाविषयी",
+      "sentence": 3,
+      "start": 534,
+      "end": 542,
+      "confidence": 1.0
+    },
+    {
+      "id": 27,
+      "text": "कुणाला",
+      "sentence": 3,
+      "start": 569,
+      "end": 574,
+      "confidence": 1.0
+    },
+    {
+      "id": 28,
+      "text": "हर्ट",
+      "sentence": 5,
+      "start": 599,
+      "end": 602,
+      "confidence": 1.0
+    },
+    {
+      "id": 29,
+      "text": "कार्ड",
+      "sentence": 6,
+      "start": 638,
+      "end": 642,
+      "confidence": 1.0
+    },
+    {
+      "id": 30,
+      "text": "समस्या",
+      "sentence": 6,
+      "start": 643,
+      "end": 648,
+      "confidence": 1.0
+    },
+    {
+      "id": 31,
+      "text": "टेट्रासाइक्लिन",
+      "sentence": 7,
+      "start": 651,
+      "end": 664,
+      "confidence": 1.0
+    },
+    {
+      "id": 32,
+      "text": "ऑयंटमेंट",
+      "sentence": 7,
+      "start": 665,
+      "end": 673,
+      "confidence": 1.0
+    },
+    {
+      "id": 33,
+      "text": "ट्यूब्समध्ये",
+      "sentence": 7,
+      "start": 680,
+      "end": 690,
+      "confidence": 1.0
+    },
+    {
+      "id": 34,
+      "text": "डीपीवर",
+      "sentence": 8,
+      "start": 758,
+      "end": 763,
+      "confidence": 1.0
+    },
+    {
+      "id": 35,
+      "text": "हरकती",
+      "sentence": 8,
+      "start": 802,
+      "end": 807,
+      "confidence": 1.0
+    },
+    {
+      "id": 36,
+      "text": "सूचना",
+      "sentence": 8,
+      "start": 812,
+      "end": 816,
+      "confidence": 1.0
+    },
+    {
+      "id": 37,
+      "text": "समुदायापैकी",
+      "sentence": 9,
+      "start": 839,
+      "end": 849,
+      "confidence": 1.0
+    },
+    {
+      "id": 38,
+      "text": "तरुणांना",
+      "sentence": 9,
+      "start": 863,
+      "end": 870,
+      "confidence": 1.0
+    },
+    {
+      "id": 39,
+      "text": "आपण",
+      "sentence": 9,
+      "start": 871,
+      "end": 875,
+      "confidence": 1.0
+    },
+    {
+      "id": 40,
+      "text": "कुटुंबाला",
+      "sentence": 9,
+      "start": 881,
+      "end": 888,
+      "confidence": 1.0
+    },
+    {
+      "id": 41,
+      "text": "पाठिंबा",
+      "sentence": 9,
+      "start": 889,
+      "end": 895,
+      "confidence": 1.0
+    },
+    {
+      "id": 42,
+      "text": "सहाय्य",
+      "sentence": 9,
+      "start": 900,
+      "end": 905,
+      "confidence": 1.0
+    },
+    {
+      "id": 43,
+      "text": "डाळीचे",
+      "sentence": 10,
+      "start": 947,
+      "end": 952,
+      "confidence": 1.0
+    },
+    {
+      "id": 44,
+      "text": "डाळी",
+      "sentence": 10,
+      "start": 967,
+      "end": 970,
+      "confidence": 1.0
+    },
+    {
+      "id": 45,
+      "text": "दिपा",
+      "sentence": 11,
+      "start": 997,
+      "end": 1000,
+      "confidence": 1.0
+    },
+    {
+      "id": 46,
+      "text": "त्यांनी",
+      "sentence": 11,
+      "start": 1009,
+      "end": 1014,
+      "confidence": 1.0
+    },
+    {
+      "id": 47,
+      "text": "मुलांसाठी",
+      "sentence": 11,
+      "start": 1020,
+      "end": 1028,
+      "confidence": 1.0
+    },
+    {
+      "id": 48,
+      "text": "योजनांची",
+      "sentence": 11,
+      "start": 1054,
+      "end": 1061,
+      "confidence": 1.0
+    },
+    {
+      "id": 49,
+      "text": "माहिती",
+      "sentence": 11,
+      "start": 1062,
+      "end": 1067,
+      "confidence": 1.0
+    },
+    {
+      "id": 50,
+      "text": "पुण्याचा",
+      "sentence": 12,
+      "start": 1077,
+      "end": 1083,
+      "confidence": 1.0
+    },
+    {
+      "id": 51,
+      "text": "आंबेमोहोर",
+      "sentence": 12,
+      "start": 1084,
+      "end": 1092,
+      "confidence": 1.0
+    },
+    {
+      "id": 52,
+      "text": "तांदूळ",
+      "sentence": 12,
+      "start": 1093,
+      "end": 1097,
+      "confidence": 1.0
+    },
+    {
+      "id": 53,
+      "text": "त्यांचे",
+      "sentence": 13,
+      "start": 1106,
+      "end": 1111,
+      "confidence": 1.0
+    },
+    {
+      "id": 54,
+      "text": "बंधू",
+      "sentence": 13,
+      "start": 1112,
+      "end": 1115,
+      "confidence": 1.0
+    },
+    {
+      "id": 55,
+      "text": "शेखर",
+      "sentence": 13,
+      "start": 1116,
+      "end": 1120,
+      "confidence": 1.0
+    },
+    {
+      "id": 56,
+      "text": "गोरे",
+      "sentence": 13,
+      "start": 1121,
+      "end": 1124,
+      "confidence": 1.0
+    },
+    {
+      "id": 57,
+      "text": "त्यांनी",
+      "sentence": 13,
+      "start": 1125,
+      "end": 1130,
+      "confidence": 1.0
+    },
+    {
+      "id": 58,
+      "text": "राष्ट्रवादीला",
+      "sentence": 13,
+      "start": 1131,
+      "end": 1140,
+      "confidence": 1.0
+    },
+    {
+      "id": 59,
+      "text": "शिवसेनेत",
+      "sentence": 13,
+      "start": 1155,
+      "end": 1162,
+      "confidence": 1.0
+    },
+    {
+      "id": 60,
+      "text": "प्रवेश",
+      "sentence": 13,
+      "start": 1163,
+      "end": 1168,
+      "confidence": 1.0
+    },
+    {
+      "id": 61,
+      "text": "शिवसेनेच्या",
+      "sentence": 13,
+      "start": 1177,
+      "end": 1186,
+      "confidence": 1.0
+    },
+    {
+      "id": 62,
+      "text": "एबी",
+      "sentence": 13,
+      "start": 1187,
+      "end": 1189,
+      "confidence": 1.0
+    },
+    {
+      "id": 63,
+      "text": "फॉर्मवर",
+      "sentence": 13,
+      "start": 1190,
+      "end": 1196,
+      "confidence": 1.0
+    },
+    {
+      "id": 64,
+      "text": "अर्ज",
+      "sentence": 13,
+      "start": 1197,
+      "end": 1200,
+      "confidence": 1.0
+    },
+    {
+      "id": 65,
+      "text": "तुम्ही",
+      "sentence": 14,
+      "start": 1259,
+      "end": 1263,
+      "confidence": 1.0
+    },
+    {
+      "id": 66,
+      "text": "ते",
+      "sentence": 14,
+      "start": 1276,
+      "end": 1278,
+      "confidence": 1.0
+    },
+    {
+      "id": 67,
+      "text": "मित्राच्या",
+      "sentence": 15,
+      "start": 1295,
+      "end": 1302,
+      "confidence": 1.0
+    },
+    {
+      "id": 68,
+      "text": "फ्लॅट्वर",
+      "sentence": 15,
+      "start": 1309,
+      "end": 1315,
+      "confidence": 1.0
+    },
+    {
+      "id": 69,
+      "text": "वाड्यातल्या",
+      "sentence": 15,
+      "start": 1329,
+      "end": 1337,
+      "confidence": 1.0
+    },
+    {
+      "id": 70,
+      "text": "खोलीत",
+      "sentence": 15,
+      "start": 1349,
+      "end": 1353,
+      "confidence": 1.0
+    },
+    {
+      "id": 71,
+      "text": "सँपल",
+      "sentence": 15,
+      "start": 1383,
+      "end": 1388,
+      "confidence": 1.0
+    },
+    {
+      "id": 72,
+      "text": "वाचन",
+      "sentence": 15,
+      "start": 1389,
+      "end": 1393,
+      "confidence": 1.0
+    },
+    {
+      "id": 73,
+      "text": "मोसमात",
+      "sentence": 16,
+      "start": 1421,
+      "end": 1427,
+      "confidence": 1.0
+    },
+    {
+      "id": 74,
+      "text": "संघाला",
+      "sentence": 16,
+      "start": 1435,
+      "end": 1440,
+      "confidence": 1.0
+    },
+    {
+      "id": 75,
+      "text": "सामने",
+      "sentence": 16,
+      "start": 1446,
+      "end": 1450,
+      "confidence": 1.0
+    },
+    {
+      "id": 76,
+      "text": "प्रमोद",
+      "sentence": 17,
+      "start": 1516,
+      "end": 1521,
+      "confidence": 1.0
+    },
+    {
+      "id": 77,
+      "text": "महाजन",
+      "sentence": 17,
+      "start": 1522,
+      "end": 1527,
+      "confidence": 1.0
+    },
+    {
+      "id": 78,
+      "text": "दोस्तीसाठी",
+      "sentence": 17,
+      "start": 1537,
+      "end": 1545,
+      "confidence": 1.0
+    },
+    {
+      "id": 79,
+      "text": "पूनम",
+      "sentence": 17,
+      "start": 1546,
+      "end": 1550,
+      "confidence": 1.0
+    },
+    {
+      "id": 80,
+      "text": "महाजन",
+      "sentence": 17,
+      "start": 1551,
+      "end": 1556,
+      "confidence": 1.0
+    },
+    {
+      "id": 81,
+      "text": "शिवसेना",
+      "sentence": 17,
+      "start": 1573,
+      "end": 1579,
+      "confidence": 1.0
+    },
+    {
+      "id": 82,
+      "text": "पदांसाठी",
+      "sentence": 18,
+      "start": 1627,
+      "end": 1634,
+      "confidence": 1.0
+    },
+    {
+      "id": 83,
+      "text": "अर्ज",
+      "sentence": 18,
+      "start": 1635,
+      "end": 1638,
+      "confidence": 1.0
+    },
+    {
+      "id": 84,
+      "text": "तारीख",
+      "sentence": 18,
+      "start": 1656,
+      "end": 1660,
+      "confidence": 1.0
+    },
+    {
+      "id": 85,
+      "text": "डिसेंबर",
+      "sentence": 18,
+      "start": 1664,
+      "end": 1670,
+      "confidence": 1.0
+    },
+    {
+      "id": 86,
+      "text": "वाघाच्या",
+      "sentence": 19,
+      "start": 1686,
+      "end": 1692,
+      "confidence": 1.0
+    },
+    {
+      "id": 87,
+      "text": "जबड्यात",
+      "sentence": 19,
+      "start": 1693,
+      "end": 1699,
+      "confidence": 1.0
+    },
+    {
+      "id": 88,
+      "text": "भिगल्याची",
+      "sentence": 19,
+      "start": 1700,
+      "end": 1708,
+      "confidence": 1.0
+    },
+    {
+      "id": 89,
+      "text": "सित्याची",
+      "sentence": 19,
+      "start": 1730,
+      "end": 1736,
+      "confidence": 1.0
+    },
+    {
+      "id": 90,
+      "text": "नोटाबंदीच्या",
+      "sentence": 20,
+      "start": 1756,
+      "end": 1766,
+      "confidence": 1.0
+    },
+    {
+      "id": 91,
+      "text": "निर्णयाने",
+      "sentence": 20,
+      "start": 1767,
+      "end": 1774,
+      "confidence": 1.0
+    },
+    {
+      "id": 92,
+      "text": "क्षयरोगावर",
+      "sentence": 21,
+      "start": 1794,
+      "end": 1802,
+      "confidence": 1.0
+    },
+    {
+      "id": 93,
+      "text": "रिसर्च",
+      "sentence": 21,
+      "start": 1803,
+      "end": 1809,
+      "confidence": 1.0
+    },
+    {
+      "id": 94,
+      "text": "त्यांनाही",
+      "sentence": 21,
+      "start": 1826,
+      "end": 1833,
+      "confidence": 1.0
+    },
+    {
+      "id": 95,
+      "text": "क्षयरोगाची",
+      "sentence": 21,
+      "start": 1834,
+      "end": 1842,
+      "confidence": 1.0
+    },
+    {
+      "id": 96,
+      "text": "लागण",
+      "sentence": 21,
+      "start": 1843,
+      "end": 1847,
+      "confidence": 1.0
+    },
+    {
+      "id": 97,
+      "text": "स्टेथोस्कोप",
+      "sentence": 21,
+      "start": 1856,
+      "end": 1866,
+      "confidence": 1.0
+    },
+    {
+      "id": 98,
+      "text": "वर्षांत",
+      "sentence": 21,
+      "start": 1915,
+      "end": 1920,
+      "confidence": 1.0
+    },
+    {
+      "id": 99,
+      "text": "त्यांचे",
+      "sentence": 21,
+      "start": 1921,
+      "end": 1926,
+      "confidence": 1.0
+    },
+    {
+      "id": 100,
+      "text": "निधन",
+      "sentence": 21,
+      "start": 1927,
+      "end": 1931,
+      "confidence": 1.0
+    },
+    {
+      "id": 101,
+      "text": "मी",
+      "sentence": 22,
+      "start": 1950,
+      "end": 1952,
+      "confidence": 1.0
+    },
+    {
+      "id": 102,
+      "text": "तुम्ही",
+      "sentence": 22,
+      "start": 1954,
+      "end": 1958,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      7,
+      8,
+      9,
+      17,
+      18,
+      19
+    ],
+    [
+      5,
+      10,
+      22
+    ],
+    [
+      26,
+      27,
+      28
+    ],
+    [
+      4,
+      32
+    ],
+    [
+      36,
+      37
+    ],
+    [
+      44,
+      46
+    ],
+    [
+      54,
+      55
+    ],
+    [
+      59,
+      61
+    ],
+    [
+      60,
+      62
+    ],
+    [
+      63,
+      64,
+      65
+    ],
+    [
+      73,
+      74,
+      75,
+      76
+    ],
+    [
+      79,
+      81
+    ],
+    [
+      86,
+      87
+    ],
+    [
+      101,
+      102
+    ]
+  ]
+}

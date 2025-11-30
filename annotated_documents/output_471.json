@@ -1,0 +1,64 @@
+{
+  "document_id": "document_471",
+  "sentences": [
+    "कधी त्याच्या मुळ शहर सोडून होते.",
+    "पाच सदस्यीय घटनापीठामध्ये आगामी सरन्यायाधीश शरद अरविंद बोबडे आणि न्यायमूर्ती न्यायमूर्ती डी."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "त्याच्या",
+      "sentence": 0,
+      "start": 4,
+      "end": 10,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "घटनापीठामध्ये",
+      "sentence": 1,
+      "start": 41,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "सरन्यायाधीश",
+      "sentence": 1,
+      "start": 60,
+      "end": 70,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "अरविंद",
+      "sentence": 1,
+      "start": 77,
+      "end": 82,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "न्यायमूर्ती",
+      "sentence": 1,
+      "start": 93,
+      "end": 101,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "न्यायमूर्ती",
+      "sentence": 1,
+      "start": 105,
+      "end": 113,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      3,
+      4,
+      5
+    ]
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "document_id": "document_466",
+  "sentences": [
+    "मुंडे यांनी चोख बंदोबस्त ठेवला होता़",
+    "आपण उच्च परिणाम आणि यश साध्य करण्यासाठी संयम व हार्ड कामासाठी आवश्यक आहे.",
+    "पुढारीचे व्यवस्थापकीय संपादक डॉ. योगेश जाधव यांची नियुक्ती करण्यात आल्याचे महसूलमंत्री चंद्रकांत पाटील यांनी सांगितले.",
+    "जे प्रश्न सोडवता येतात ते सोडवून त्याच्या उत्तराला खूण करत पुढे जावे.",
+    "कालांतराने, रशियन माल परदेशी आयात आणि घरगुती उत्पादक पुनर्स्थित पाहिजे नंतर भारताबाहेरील मार्केट बाहेर जावे लागेल.",
+    "देवकीनं अर्धवट ग्लानीत बाळ छातीशी धरलं.",
+    "त्याचे उष्ण निश्र्वास सुखातिशयाच्या गुदगुल्या करीत तिच्या अंतरात आले.",
+    "(प्रभावित होऊन जायला उठतो) ठीक आहे तर मग."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "मुंडे",
+      "sentence": 0,
+      "start": 0,
+      "end": 4,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "यांनी",
+      "sentence": 0,
+      "start": 6,
+      "end": 10,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "आपण",
+      "sentence": 1,
+      "start": 36,
+      "end": 40,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "परिणाम",
+      "sentence": 1,
+      "start": 47,
+      "end": 52,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "संयम",
+      "sentence": 1,
+      "start": 83,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "पुढारी",
+      "sentence": 2,
+      "start": 119,
+      "end": 124,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "संपादक",
+      "sentence": 2,
+      "start": 134,
+      "end": 139,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "जाधव",
+      "sentence": 2,
+      "start": 162,
+      "end": 166,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "नियुक्ती",
+      "sentence": 2,
+      "start": 173,
+      "end": 179,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "महसूलमंत्री",
+      "sentence": 2,
+      "start": 201,
+      "end": 211,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "पाटील",
+      "sentence": 2,
+      "start": 220,
+      "end": 224,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "यांनी",
+      "sentence": 2,
+      "start": 226,
+      "end": 230,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "प्रश्न",
+      "sentence": 3,
+      "start": 242,
+      "end": 247,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "ते",
+      "sentence": 3,
+      "start": 259,
+      "end": 261,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "त्याच्या",
+      "sentence": 3,
+      "start": 268,
+      "end": 274,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "उत्तराला",
+      "sentence": 3,
+      "start": 275,
+      "end": 281,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "आयात",
+      "sentence": 4,
+      "start": 332,
+      "end": 336,
+      "confidence": 1.0
+    },
+    {
+      "id": 17,
+      "text": "उत्पादक",
+      "sentence": 4,
+      "start": 349,
+      "end": 354,
+      "confidence": 1.0
+    },
+    {
+      "id": 18,
+      "text": "मार्केट",
+      "sentence": 4,
+      "start": 398,
+      "end": 403,
+      "confidence": 1.0
+    },
+    {
+      "id": 19,
+      "text": "देवकीनं",
+      "sentence": 5,
+      "start": 445,
+      "end": 451,
+      "confidence": 1.0
+    },
+    {
+      "id": 20,
+      "text": "ग्लानीत",
+      "sentence": 5,
+      "start": 459,
+      "end": 465,
+      "confidence": 1.0
+    },
+    {
+      "id": 21,
+      "text": "छातीशी",
+      "sentence": 5,
+      "start": 471,
+      "end": 477,
+      "confidence": 1.0
+    },
+    {
+      "id": 22,
+      "text": "त्याचे",
+      "sentence": 6,
+      "start": 479,
+      "end": 484,
+      "confidence": 1.0
+    },
+    {
+      "id": 23,
+      "text": "निश्र्वास",
+      "sentence": 6,
+      "start": 491,
+      "end": 497,
+      "confidence": 1.0
+    },
+    {
+      "id": 24,
+      "text": "तिच्या",
+      "sentence": 6,
+      "start": 526,
+      "end": 531,
+      "confidence": 1.0
+    },
+    {
+      "id": 25,
+      "text": "अंतरात",
+      "sentence": 6,
+      "start": 532,
+      "end": 538,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": [
+    [
+      0,
+      1
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      11,
+      12,
+      13
+    ],
+    [
+      14,
+      15,
+      16
+    ]
+  ]
+}

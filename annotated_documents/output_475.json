@@ -1,0 +1,148 @@
+{
+  "document_id": "document_475",
+  "sentences": [
+    "एकेकाचे मन मोकळे करण्याचे मार्ग वेगवेगळे असतात.",
+    "युद्ध कम्युनिझमचा धोरण: लोकसंख्या प्रतिक्रिया विस्तृत",
+    "लोकसभेच्या पहिल्या टप्प्यात निवडणूक लढवीत असलेल्या भाजप-शिवसेना खासदारांची मालमत्ता सरासरी ३.२० कोटी रुपयांनी म्हणजे ६० टक्क्यांनी वाढली आहे.",
+    "किंबहुना असा बिभत्सपणा करणा-यांना तुकोबारायाच्या भाषेत सांगायचे तर, ‘एैशा नरा."
+  ],
+  "mentions": [
+    {
+      "id": 0,
+      "text": "एकेकाचे",
+      "sentence": 0,
+      "start": 0,
+      "end": 6,
+      "confidence": 1.0
+    },
+    {
+      "id": 1,
+      "text": "मार्ग",
+      "sentence": 0,
+      "start": 26,
+      "end": 29,
+      "confidence": 1.0
+    },
+    {
+      "id": 2,
+      "text": "युद्ध",
+      "sentence": 1,
+      "start": 51,
+      "end": 53,
+      "confidence": 1.0
+    },
+    {
+      "id": 3,
+      "text": "धोरण",
+      "sentence": 1,
+      "start": 66,
+      "end": 69,
+      "confidence": 1.0
+    },
+    {
+      "id": 4,
+      "text": "लोकसंख्या",
+      "sentence": 1,
+      "start": 72,
+      "end": 78,
+      "confidence": 1.0
+    },
+    {
+      "id": 5,
+      "text": "प्रतिक्रिया",
+      "sentence": 1,
+      "start": 80,
+      "end": 87,
+      "confidence": 1.0
+    },
+    {
+      "id": 6,
+      "text": "टप्प्यात",
+      "sentence": 2,
+      "start": 116,
+      "end": 121,
+      "confidence": 1.0
+    },
+    {
+      "id": 7,
+      "text": "भाजप-शिवसेना",
+      "sentence": 2,
+      "start": 148,
+      "end": 159,
+      "confidence": 1.0
+    },
+    {
+      "id": 8,
+      "text": "खासदारांची",
+      "sentence": 2,
+      "start": 161,
+      "end": 169,
+      "confidence": 1.0
+    },
+    {
+      "id": 9,
+      "text": "मालमत्ता",
+      "sentence": 2,
+      "start": 171,
+      "end": 177,
+      "confidence": 1.0
+    },
+    {
+      "id": 10,
+      "text": "कोटी",
+      "sentence": 2,
+      "start": 195,
+      "end": 198,
+      "confidence": 1.0
+    },
+    {
+      "id": 11,
+      "text": "रुपयांनी",
+      "sentence": 2,
+      "start": 200,
+      "end": 206,
+      "confidence": 1.0
+    },
+    {
+      "id": 12,
+      "text": "टक्क्यांनी",
+      "sentence": 2,
+      "start": 220,
+      "end": 226,
+      "confidence": 1.0
+    },
+    {
+      "id": 13,
+      "text": "बिभत्सपणा",
+      "sentence": 3,
+      "start": 262,
+      "end": 269,
+      "confidence": 1.0
+    },
+    {
+      "id": 14,
+      "text": "करणा-यांना",
+      "sentence": 3,
+      "start": 271,
+      "end": 279,
+      "confidence": 1.0
+    },
+    {
+      "id": 15,
+      "text": "तुकोबारायाच्या",
+      "sentence": 3,
+      "start": 281,
+      "end": 291,
+      "confidence": 1.0
+    },
+    {
+      "id": 16,
+      "text": "भाषेत",
+      "sentence": 3,
+      "start": 293,
+      "end": 297,
+      "confidence": 1.0
+    }
+  ],
+  "clusters": []
+}
