@@ -1,6 +1,6 @@
 # Marathi Coreference Resolution Gold-Standard Dataset
 
-This repository contains a manually curated **Gold-Standard Coreference Annotated Dataset** for the Marathi language.  
+This repository contains a manually curated **Gold-Standard Coreference Annotated Dataset** for the Marathi language.
 The dataset is designed to support research in **coreference resolution**, **hypergraph models**, **Marathi NLP**, and **low-resource language processing**.
 
 ---
@@ -14,33 +14,77 @@ Marathi is a morphologically rich, low-resource language with linguistic feature
 - **Flexible word order**
 - **Complex case suffixes**
 
-These properties make coreference resolution significantly more challenging compared to English.  
+These properties make coreference resolution significantly more challenging compared to English.
 This dataset provides **high-quality human annotations** to enable more accurate modeling.
 
 ---
 
-## 📂 Dataset Contents
+## 📢 Data Source & Acknowledgements
+
+We explicitly acknowledge and thank the **L3Cube-Pune** team for providing the underlying raw text used in this annotation project.
+
+- **Source Corpus:** [L3Cube-MahaCorpus (news)](https://github.com/l3cube-pune/MarathiNLP)
+- **Repository:** [L3Cube-Pune MarathiNLP](https://github.com/l3cube-pune/MarathiNLP)
+
+The raw news articles were sourced from their open-source repository, which acts as a foundational resource for Marathi NLP tasks. Our work builds upon this by adding the layer of semantic coreference annotations.
+
+---
+
+## 📊 Dataset Statistics
+
+The following statistics describe the scale and density of the annotated corpus:
+
+| Metric | Count |
+| :--- | :--- |
+| **Total Processed Documents** | **490** |
+| **Total Sampled Sentences** | **9,994** |
+| **Unique Tokens (Vocabulary)** | **5,053** |
+| **Annotated Coreference Pairs** | **12,963** |
+| **Average Sentence Length** | **29.83 words** |
+
+---
+
+## 🧪 Data Structure & Format
+
+The dataset is provided in **JSON (JavaScript Object Notation)** format, optimized for Hypergraph-based approaches.
+
+### JSON Schema Fields
+
+Each file in the dataset follows this structure:
+
+* **`document_id`**: Unique identifier for the document.
+* **`sentences`**: A list containing the raw text of the sentences.
+* **`mentions`**: A list of all identified entities (Nouns/Pronouns) with the following metadata:
+    * `id`: Unique mention ID.
+    * `text`: The surface word (e.g., "पंतप्रधान").
+    * `sentence_index`: Index of the sentence containing the mention.
+    * `start_char`, `end_char`: Character-level spans of the mention.
+* **`clusters`**: A list of coreference chains. Each chain is a list of `mention_ids` that refer to the same underlying entity.
+
+---
+
+## 📂 Repository Contents
 
 The repository includes:
 
-- `processed_documents/` — Raw Marathi text documents  
-- `annotated_documents/` — Gold-standard coreference annotations in JSON+CoNLL format  
-- `schema.md` — Annotation guidelines and tag definitions  
+- `processed_documents/` — Raw Marathi text documents (Sourced from L3Cube-MahaCorpus).
+- `annotated_documents/` — Gold-standard coreference annotations in JSON+CoNLL format.
+- `schema.md` — Annotation guidelines and tag definitions.
 
 ---
 
 ## 🎯 Annotation Guidelines
 
 Each document is manually annotated for:
-- **Named Entities**  
-- **Pronouns (explicit + pro-drop)**  
-- **Nominal mentions**  
-- **Hyperedges / clusters representing entity chains**  
+- **Named Entities**
+- **Pronouns (explicit + pro-drop)**
+- **Nominal mentions**
+- **Hyperedges / clusters representing entity chains**
 
 Annotations follow:
-- **Gender agreement rules**  
-- **Number consistency**  
-- **Semantic context checks**  
+- **Gender agreement rules**
+- **Number consistency**
+- **Semantic context checks**
 - **Cross-sentence reference tracking**
 
 A full description of the annotation scheme is provided in `schema.md`.
@@ -51,36 +95,17 @@ A full description of the annotation scheme is provided in `schema.md`.
 
 This dataset is suitable for:
 
-- Coreference resolution model training/testing  
-- Hypergraph-based NLP research  
-- Benchmarking for low-resource Indian languages  
-- Linguistic analysis  
+- Coreference resolution model training/testing
+- Hypergraph-based NLP research
+- Benchmarking for low-resource Indian languages
+- Linguistic analysis
 - Fine-tuning transformer models (e.g., IndicBERT, MahaBERT)
-
----
-
-## 🧪 Format
-
-Annotations are provided in:
-- **JSON format** (Hypergraph-friendly structure)  
-- **CoNLL-style format** (for traditional coreference models)
-
----
-
-## 📊 Dataset Statistics
-
-- Total Documents: **X**  
-- Total Mentions: **X**  
-- Coreference Chains: **X**  
-- Avg. Mentions per Doc: **X**
-
-*(Fill these once your stats are finalized)*
 
 ---
 
 ## 📜 License
 
-This dataset is released under the **CC BY-NC 4.0 License**  
+This dataset is released under the **CC BY-NC 4.0 License**
 (Non-commercial research usage permitted.)
 
 ---
@@ -95,9 +120,9 @@ If you wish to add more annotations or help expand this corpus, feel free to ope
 
 For questions, collaboration, or academic use cases:
 
-**Tanishq Shinde**  
-Department of Computer Engineering  
-Pune Institute of Computer Technology  
+**Tanishq Shinde**
+Department of Computer Engineering
+Pune Institute of Computer Technology
 
 ---
 
@@ -106,9 +131,5 @@ Pune Institute of Computer Technology
 If you use this dataset in academic work, please cite:
 
 Shinde, T., Jangle, M., Bagwan, M.
-"Coreference Resolution for Marathi Text Using Hypergraphs: A Hybrid Approach."
+"Coreference Resolution for Marathi Text Using Hypergraph Method"
 PICT, 2025.
-
----
-
-Thank you for using this resource and contributing to advancing NLP for low-resource Indian languages!  
